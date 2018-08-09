@@ -1451,6 +1451,28 @@ name_list = ["Abilene",
              "Yule",
              "Zula"]
 
+city_list = ['Bucharest',
+             "Arad",
+             "Baia Mare",
+             "Blaj",
+             "Bucharest",
+             "Cluj-Napoca",
+             "Craiova",
+             "Dej",
+             "Deva",
+             "Giurgiu",
+             "Hunedoara",
+             "Lugoj",
+             "Mangalia",
+             "Oradea",
+             "Reghin",
+             "Slatina",
+             "Slobozia",
+             "Timisoara",
+             "Tulcea",
+             "Turda",
+             "Vaslui"]
+
 
 apparance_list = ["attractive",
                   "bald",
