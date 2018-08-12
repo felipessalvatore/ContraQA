@@ -6,6 +6,12 @@ __pycache__/
 # data
 *.csv
 
+# models
+*.pkl
+
+# images
+*.png
+
 
 # C extensions
 *.so
