@@ -67,6 +67,7 @@ color_list = ["ashy",
               "white",
               "yellow"]
 
+
 condition_list = ["alive",
                   "better",
                   "careful",
@@ -92,6 +93,7 @@ condition_list = ["alive",
                   "vast",
                   "wrong"]
 
+
 positive_personality_list = ["aggressive",
                              "agreeable",
                              "ambitious",
@@ -116,6 +118,8 @@ positive_personality_list = ["aggressive",
                              "wonderful",
                              "zealous"]
 
+
+
 negative_personality_list = ["angry",
                              "bewildered",
                              "clumsy",
@@ -137,6 +141,8 @@ negative_personality_list = ["angry",
                              "thoughtless",
                              "uptight",
                              "worried"]
+
+all_attributes = apparance_list + color_list + condition_list + positive_personality_list + negative_personality_list
 
 male_names = ['James',
               'John',
