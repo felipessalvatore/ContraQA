@@ -1022,7 +1022,7 @@ verbs_third_person_past_CONTEXT = {"was":["a PRED person",
                                    "hurt":["me", "him", "her"],
                                    "kept":["PERSON's secret from me",
                                            "the game alive",
-                                          "kept saying this was crazy"],
+                                          "saying this was crazy"],
                                    "knew":["about us", "PERSON's secret"],
                                    "laid":["down",
                                            "laid his hands on her",
@@ -1081,7 +1081,7 @@ verbs_third_person_past_CONTEXT = {"was":["a PRED person",
                                            "a summer job",
                                            "the COLOR shirt out of the washer"],
                                    "taught":["middle school science",
-                                             "taught PERSON about songwriting",
+                                             "PERSON about songwriting",
                                              "math"],
                                    "told":["me everything",
                                            "me PERSON's secret",
@@ -1101,35 +1101,85 @@ verbs_third_person_past_CONTEXT = {"was":["a PRED person",
                                             "me about PERSON"]}
 
 
+verbs_third_person_past_infinitiv_neg = {"was":"wasn't",
+                                         "beat":"didn't beat",
+                                         "became":"didn't become",
+                                         "began":"didn't begin",
+                                         "bent":"didn't bend",
+                                         "bet": "didn't bet",
+                                         "blew":"didn't blow",
+                                         "broke" : "didn't break",
+                                         "brought" :"didn't bring",
+                                         "built" : "didn't build",
+                                         "burned" : "didn't burn", 
+                                         "bought" : "didn't buy",
+                                         "caught" : "didn't catch",
+                                         "chose" : "didn't choose",
+                                         "came" : "didn't come",
+                                         "cut" : "didn't cut",
+                                         "dug" : "didn't dig",
+                                         "did" : "didn't do",
+                                         "drew" : "didn't draw",
+                                         "dreamed" : "didn't dream",
+                                         "drove" : "didn't drive",
+                                         "drank" : "didn't drink",
+                                         "ate" : "didn't eat",
+                                         "fell": "didn't fall",
+                                         "felt" : "didn't feel",
+                                         "fought": "didn't fight",
+                                         "found" : "didn't find",
+                                         "flew" : "didn't fly",
+                                         "forgot": "didn't forget",
+                                         "forgave": "didn't forgive",
+                                         "froze": "didn't freeze",
+                                         "got": "didn't get",
+                                         "gave": "didn't give",
+                                         "went": "didn't go",
+                                         "grew": "didn't grow",
+                                         "hung": "didn't hang",
+                                         "heard": "didn't hear",
+                                         "had": "didn't have",
+                                         "hid": "didn't hide",
+                                         "hit": "didn't hit",
+                                         "held": "didn't hold",
+                                         "hurt": "didn't hurt",
+                                         "kept": "didn't keep",
+                                         "knew": "didn't know",
+                                         "laid": "didn't lay",
+                                         "led": "didn't lead",
+                                         "left": "didn't leave",
+                                         "lent": "didn't lend",
+                                         "let": "didn't let",
+                                         "lost": "didn't lose",
+                                         "made": "didn't make",
+                                         "met": "didn't meet",
+                                         "paid": "didn't pay",
+                                         "put": "didn't put",
+                                         "read": "didn't read",
+                                         "rode": "didn't ride",
+                                         "ran": "didn't ring",
+                                         "said": "didn't say",
+                                         "saw": "didn't see",
+                                         "sold": "didn't sell",
+                                         "sent": "didn't send",
+                                         "showed": "didn't show",
+                                         "shut": "didn't shut",
+                                         "sang": "didn't sing",
+                                         "sat": "didn't sit",
+                                         "slept": "didn't sleep",
+                                         "spoke": "didn't speak",
+                                         "spent": "didn't spend",
+                                         "stood": "didn't stand",
+                                         "swam": "didn't swim",
+                                         "took": "didn't take",
+                                         "taught": "didn't teach",
+                                         "told": "didn't tell",
+                                         "thought": "didn't think",
+                                         "threw": "didn't throw",
+                                         "understood": "didn't understand",
+                                         "woke": "didn't wake",
+                                         "wore": "didn't wear",
+                                         "won": "didn't win",
+                                         "wrote": "didn't write"}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                  }
