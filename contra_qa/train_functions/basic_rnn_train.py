@@ -36,7 +36,7 @@ TEXT, LABEL, train, valid, test = get_data(train_data_path,
 
 current_config = RNNConfig(vocab_size=len(TEXT.vocab),
                            output_dim=len(LABEL.vocab),
-                           epochs=3,
+                           epochs=2,
                            embedding_dim=100,
                            learning_rate=0.01,
                            momentum=0.2)
@@ -56,6 +56,10 @@ training_loop_text_classification(model,
 labels_legend = ['no', 'yes']
 test_bach = next(iter(current_data.test_iter))
 acc, pred, labels = model.evaluate_bach(test_bach)
+
+model.load_state_dict(torch.load('gru_v1.pkl'))
+_, pred, labels = model.evaluate_bach(test_bach)
+
 
 plot_confusion_matrix(truth=labels.numpy(),
                       predictions=pred.numpy(),
