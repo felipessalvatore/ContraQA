@@ -136,7 +136,8 @@ def training_loop_text_classification(model,
 
     for epoch in range(config.epochs):
 
-        print("epoch = ({}/{})".format(epoch + 1, config.epochs))
+        if verbose:
+            print("epoch = ({}/{})".format(epoch + 1, config.epochs))
         train_loss, train_acc = train_in_epoch(model,
                                                train_iter,
                                                optimizer,
