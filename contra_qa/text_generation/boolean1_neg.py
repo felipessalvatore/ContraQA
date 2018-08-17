@@ -25,7 +25,11 @@
 
 import numpy as np
 import pandas as pd
-from word_lists import name_list, positive_personality_list, condition_list
+try:
+    from word_lists import name_list, positive_personality_list, condition_list
+except ImportError:
+    from contra_qa.text_generation.word_lists import name_list, positive_personality_list, condition_list
+
 import os
 import itertools
 

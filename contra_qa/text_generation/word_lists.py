@@ -1220,4 +1220,3 @@ verbs_third_person_past_infinitiv_neg = {"was":"wasn't",
                                          "won": "didn't win",
                                          "wrote": "didn't write"}
 
-
