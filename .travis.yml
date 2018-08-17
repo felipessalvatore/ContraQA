@@ -6,6 +6,7 @@ python:
 install:
   - sudo apt-get update 
   - pip3 install numpy
+  - pip3 install pandas
   - pip3 install http://download.pytorch.org/whl/cpu/torch-0.3.1-cp35-cp35m-linux_x86_64.whl 
   - pip3 install torchtext
 script: 
