@@ -3,7 +3,8 @@ import torch.nn as nn
 import torch.optim as optim
 import numpy as np
 import matplotlib.pyplot as plt
-
+import pandas as pd
+from torchtext import data
 import os
 import inspect
 import sys
@@ -167,3 +168,58 @@ def training_loop_text_classification(model,
         plt.title('Train and valid mean loss')
         plt.grid(True)
         plt.savefig(plot_path)
+
+
+def get_data(train_path,
+             test_path,
+             data_folder,
+             tokenize='spacy',
+             max_vocab_size=25000,
+             train_valid_split=0.8):
+    """
+    Given two csvs this fuction returns
+
+    TEXT, LABEL, train, valid, test
+    """
+    train_data = pd.read_csv(train_path)
+
+    test_data = pd.read_csv(test_path)
+
+    train_data, test_data = pre_process_df(train_data, test_data)
+
+    train_data_path = os.path.join(data_folder,
+                                   "train_processed.csv")
+
+    test_data_path = os.path.join(data_folder,
+                                  "test_processed.csv")
+
+    train_data.to_csv(train_data_path, header=False, index=False)
+
+    test_data.to_csv(test_data_path, header=False, index=False)
+
+    if tokenize == 'spacy':
+        TEXT = data.Field(tokenize=tokenize)
+    else:
+        TEXT = data.Field()
+
+    LABEL = data.LabelField(tensor_type=torch.FloatTensor)
+
+    train = data.TabularDataset(path=train_data_path,
+                                format="csv",
+                                fields=[('text', TEXT),
+                                        ('label', LABEL)])
+
+    test = data.TabularDataset(path=test_data_path,
+                               format="csv",
+                               fields=[('text', TEXT),
+                                       ('label', LABEL)])
+
+    os.remove(train_data_path)
+    os.remove(test_data_path)
+
+    train, valid = train.split(train_valid_split)
+
+    TEXT.build_vocab(train, max_size=max_vocab_size)
+    LABEL.build_vocab(train)
+
+    return TEXT, LABEL, train, valid, test

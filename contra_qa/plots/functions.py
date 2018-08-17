@@ -177,6 +177,6 @@ def plot_confusion_matrix(truth,
     plt.tight_layout()
     plt.ylabel('True label', fontweight='bold')
     plt.xlabel('Predicted label', fontweight='bold')
-    plt.show()
+    # plt.show()
     if save:
         plt.savefig(path)
