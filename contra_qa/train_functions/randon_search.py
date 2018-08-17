@@ -217,10 +217,10 @@ def naive_grid_search(search_trials,
     test_acc = eval_RNN_on_test(train_data_path,
                                 test_data_path,
                                 model_path,
-                                epochs=current_dict["epochs"],
-                                embedding_dim=current_dict["embedding_dim"], # noqa
-                                learning_rate=current_dict["learning_rate"], # noqa
-                                momentum=current_dict["momentum"])
+                                epochs=best_params["epochs"],
+                                embedding_dim=best_params["embedding_dim"], # noqa
+                                learning_rate=best_params["learning_rate"], # noqa
+                                momentum=best_params["momentum"])
 
     return test_acc, best_params, model_path
 
