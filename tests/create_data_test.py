@@ -1,6 +1,7 @@
 import unittest
 import os
 import shutil
+import pandas as pd
 from contra_qa.text_generation.boolean1_neg import boolean1
 from contra_qa.text_generation.boolean2_S_and import boolean2
 from contra_qa.text_generation.boolean3_NP_and import boolean3
@@ -12,6 +13,7 @@ from contra_qa.text_generation.boolean8_NP_or import boolean8
 from contra_qa.text_generation.boolean9_VP_or import boolean9
 from contra_qa.text_generation.boolean10_AP_or import boolean10
 from contra_qa.text_generation.boolean_data_gen import create_all
+from contra_qa.text_processing.functions import simple_pre_process_text_df
 
 
 
@@ -110,3 +112,24 @@ class AddDataset(unittest.TestCase):
         self.assertTrue(cond_AND)
         self.assertTrue(cond_OR)
         self.assertTrue(cond_ALL)
+
+    def test_Atext_processing_functions(self):
+        before = ["Antonio, who is a butcher, saw the car crash, Antonio didn't saw the car crash", # noqa
+                  "Heidi, who is a hairdresser, bought a Macbook, Heidi, who is a tailor, didn't buy a Macbook", # noqa
+                  "Tonya, who is a carpenter, bought a cup of coffee, Tonya isn't a carpenter"] # noqa
+
+        after = ["antonio who is a butcher saw the car crash antonio didnt saw the car crash", # noqa
+                  "heidi who is a hairdresser bought a macbook heidi who is a tailor didnt buy a macbook", # noqa
+                  "tonya who is a carpenter bought a cup of coffee tonya isnt a carpenter"] # noqa
+
+        info_dict = {"text": before}
+
+        df = pd.DataFrame(info_dict)
+
+        simple_pre_process_text_df(df)
+
+        result = df["text"].values
+        cond = True
+        for w1, w2 in zip(result, after):
+            cond = cond and (w1 == w2)
+        self.assertTrue(cond)
