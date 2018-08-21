@@ -12,9 +12,9 @@ def GRUCellExposed(input_tensor, hidden, w_ih, w_hh, b_ih=None, b_hh=None):
     i_r, i_i, i_n = gi.chunk(3, 1)
     h_r, h_i, h_n = gh.chunk(3, 1)
 
-    resetgate = F.sigmoid(i_r + h_r)
-    updategate = F.sigmoid(i_i + h_i)
-    newgate = F.tanh(i_n + resetgate * h_n)
+    resetgate = torch.sigmoid(i_r + h_r)
+    updategate = torch.sigmoid(i_i + h_i)
+    newgate = torch.tanh(i_n + resetgate * h_n)
     hy = (updategate * newgate) + ((1 - updategate) * hidden)
 
     return hy, resetgate, updategate, newgate

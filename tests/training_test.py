@@ -10,6 +10,7 @@ from contra_qa.train_functions.LSTM import LSTM
 from contra_qa.train_functions.GRU import GRU
 from contra_qa.train_functions.DataHolder import DataHolder
 from contra_qa.plots.functions import plot_confusion_matrix
+from contra_qa.train_functions.random_search import train_model_on_params
 
 
 class TrainFunctionsTest(unittest.TestCase):
@@ -34,12 +35,12 @@ class TrainFunctionsTest(unittest.TestCase):
     @classmethod
     def setUp(cls):
         boolean1()
-        path_train = os.path.join("data",
-                                  "boolean1_train.csv")
-        path_test = os.path.join("data",
-                                 "boolean1_test.csv")
-        TEXT, LABEL, train, valid, test = get_data(path_train,
-                                                   path_test)
+        cls.path_train = os.path.join("data",
+                                      "boolean1_train.csv")
+        cls.path_test = os.path.join("data",
+                                     "boolean1_test.csv")
+        TEXT, LABEL, train, valid, test = get_data(cls.path_train,
+                                                   cls.path_test)
 
         cls.current_config = RNNConfig(vocab_size=len(TEXT.vocab),
                                        output_dim=len(LABEL.vocab),
@@ -123,3 +124,38 @@ class TrainFunctionsTest(unittest.TestCase):
                               path="testGRU.png",
                               classes=labels_legend)
         self.assertTrue(os.path.exists("testGRU.png"), msg=msg)
+
+    def test_random_function(self):
+
+        acc1 = train_model_on_params(RNN,
+                                     self.path_train,
+                                     self.path_test,
+                                     "testRNN.png",
+                                     5,
+                                     100,
+                                     100,
+                                     0.05,
+                                     0.1)
+
+        acc2 = train_model_on_params(GRU,
+                                     self.path_train,
+                                     self.path_test,
+                                     "testRNN.png",
+                                     5,
+                                     50,
+                                     50,
+                                     0.05,
+                                     0.1)
+
+        acc3 = train_model_on_params(LSTM,
+                                     self.path_train,
+                                     self.path_test,
+                                     "testRNN.png",
+                                     5,
+                                     23,
+                                     30,
+                                     0.05,
+                                     0.1)
+        acc = acc1 + acc2 + acc3
+        msg = "after training, valid_acc = {:.3f}".format(acc)
+        self.assertTrue(acc >= 0.6 * 3, msg=msg)
