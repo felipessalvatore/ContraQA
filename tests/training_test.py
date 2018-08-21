@@ -1,3 +1,4 @@
+import numpy as np
 import torch
 import unittest
 import os
@@ -11,6 +12,7 @@ from contra_qa.train_functions.GRU import GRU
 from contra_qa.train_functions.DataHolder import DataHolder
 from contra_qa.plots.functions import plot_confusion_matrix
 from contra_qa.train_functions.random_search import train_model_on_params
+from contra_qa.train_functions.random_search import random_search
 
 
 class TrainFunctionsTest(unittest.TestCase):
@@ -19,6 +21,8 @@ class TrainFunctionsTest(unittest.TestCase):
     def tearDown(cls):
         if os.path.exists("data"):
             shutil.rmtree("data")
+        if os.path.exists("tmp_pkl"):
+            shutil.rmtree("tmp_pkl")
         if os.path.exists("testRNN.pkl"):
             os.remove("testRNN.pkl")
         if os.path.exists("testRNN.png"):
@@ -125,7 +129,7 @@ class TrainFunctionsTest(unittest.TestCase):
                               classes=labels_legend)
         self.assertTrue(os.path.exists("testGRU.png"), msg=msg)
 
-    def test_random_function(self):
+    def test_random_param_train(self):
 
         acc1 = train_model_on_params(RNN,
                                      self.path_train,
@@ -159,3 +163,20 @@ class TrainFunctionsTest(unittest.TestCase):
         acc = acc1 + acc2 + acc3
         msg = "after training, valid_acc = {:.3f}".format(acc)
         self.assertTrue(acc >= 0.6 * 3, msg=msg)
+
+    def test_random_search(self):
+        all_acc, all_hyper_params, all_names = random_search(RNN,
+                                                             2,
+                                                             self.path_train,
+                                                             self.path_test,
+                                                             epoch_bounds=[1, 2], # noqa
+                                                             embedding_dim_bounds=[10, 500], # noqa
+                                                             rnn_dim_bounds=[10, 500], # noqa
+                                                             learning_rate_bounds=[0, 1], # noqa
+                                                             momentum_bounds=[0, 1], # noqa
+                                                             verbose=False, # noqa
+                                                             prefix="RNN_boolean1_") # noqa
+        cond = len(all_acc) == len(all_hyper_params) == len(all_names)
+        self.assertTrue(cond, msg="different output sizes")
+        self.assertTrue(np.max(all_acc) > 0.56,
+                        msg="acc list = {}".format(all_acc))
