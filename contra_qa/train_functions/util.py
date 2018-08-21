@@ -1,13 +1,15 @@
-import torch
-import torch.nn as nn
-import torch.optim as optim
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from torchtext import data
-import os
-import inspect
-import sys
+import matplotlib
+matplotlib.use('Agg')
+import torch # noqa
+import torch.nn as nn # noqa
+import torch.optim as optim # noqa
+import numpy as np # noqa
+import matplotlib.pyplot as plt # noqa
+import pandas as pd # noqa
+from torchtext import data # noqa
+import os # noqa
+import inspect # noqa
+import sys # noqa
 
 almost_current = os.path.abspath(inspect.getfile(inspect.currentframe()))
 currentdir = os.path.dirname(almost_current)
