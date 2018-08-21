@@ -165,7 +165,8 @@ def random_search(Model,
                   learning_rate_bounds=[0, 1],
                   momentum_bounds=[0, 1],
                   verbose=True,
-                  prefix=""):
+                  prefix="",
+                  acc_bound=1.0):
     """
     Train model in n trails on random params
 
@@ -188,6 +189,8 @@ def random_search(Model,
     :type learning_rate: float
     :param momentum: momentum param
     :type momentum: float
+    :param acc_bound: upper bound to control how many trails will be performed
+    :type acc_bound: float
 
 
     :return: list  of accuracy, list of hyperperams, list of pkl paths
@@ -196,50 +199,53 @@ def random_search(Model,
     all_acc = []
     all_hyper_params = []
     all_names = []
+    best_acc = 0
     for i in range(trials):
-        if verbose:
-            print("=== random search: ({}/{})\n".format(i + 1, trials))
-        epochs = get_random_discrete_param(epoch_bounds[0], epoch_bounds[1])
-        embedding_dim = get_random_discrete_param(embedding_dim_bounds[0],
-                                                  embedding_dim_bounds[1])
-        rnn_dim = get_random_discrete_param(rnn_dim_bounds[0],
-                                            rnn_dim_bounds[1])
-        learning_rate = get_random_cont_param(learning_rate_bounds[0],
-                                              learning_rate_bounds[1])
-        momentum = get_random_cont_param(momentum_bounds[0],
-                                         momentum_bounds[1])
-        hyper_dict = {"epochs": epochs,
-                      "embedding_dim": embedding_dim,
-                      "rnn_dim": rnn_dim,
-                      "learning_rate": learning_rate,
-                      "momentum": momentum}
+        if best_acc < acc_bound:
+            if verbose:
+                print("=== random search: ({}/{})\n".format(i + 1, trials))
+            epochs = get_random_discrete_param(epoch_bounds[0], epoch_bounds[1]) # noqa
+            embedding_dim = get_random_discrete_param(embedding_dim_bounds[0],
+                                                      embedding_dim_bounds[1])
+            rnn_dim = get_random_discrete_param(rnn_dim_bounds[0],
+                                                rnn_dim_bounds[1])
+            learning_rate = get_random_cont_param(learning_rate_bounds[0],
+                                                  learning_rate_bounds[1])
+            momentum = get_random_cont_param(momentum_bounds[0],
+                                             momentum_bounds[1])
+            hyper_dict = {"epochs": epochs,
+                          "embedding_dim": embedding_dim,
+                          "rnn_dim": rnn_dim,
+                          "learning_rate": learning_rate,
+                          "momentum": momentum}
 
-        if not os.path.exists("tmp_pkl"):
-            os.makedirs("tmp_pkl/")
+            if not os.path.exists("tmp_pkl"):
+                os.makedirs("tmp_pkl/")
 
-        name = "epochs_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}".format(hyper_dict["epochs"], # noqa
-                                                                                        hyper_dict["embedding_dim"], # noqa
-                                                                                        hyper_dict["rnn_dim"], # noqa
-                                                                                        hyper_dict["learning_rate"], # noqa
-                                                                                        hyper_dict["momentum"]) # noqa
-        name = name.replace(".", "p") + ".pkl"
-        name = os.path.join("tmp_pkl", prefix + name)
+            name = "epochs_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}".format(hyper_dict["epochs"], # noqa
+                                                                                            hyper_dict["embedding_dim"], # noqa
+                                                                                            hyper_dict["rnn_dim"], # noqa
+                                                                                            hyper_dict["learning_rate"], # noqa
+                                                                                            hyper_dict["momentum"]) # noqa
+            name = name.replace(".", "p") + ".pkl"
+            name = os.path.join("tmp_pkl", prefix + name)
 
-        acc = train_model_on_params(Model,
-                                    train_data_path,
-                                    test_data_path,
-                                    name,
-                                    epochs,
-                                    embedding_dim,
-                                    rnn_dim,
-                                    learning_rate,
-                                    momentum)
-        if verbose:
-            print("====== dict", hyper_dict)
-            print("====== acc", acc)
-        all_acc.append(acc)
-        all_hyper_params.append(hyper_dict)
-        all_names.append(name)
+            acc = train_model_on_params(Model,
+                                        train_data_path,
+                                        test_data_path,
+                                        name,
+                                        epochs,
+                                        embedding_dim,
+                                        rnn_dim,
+                                        learning_rate,
+                                        momentum)
+            if verbose:
+                print("====== dict", hyper_dict)
+                print("====== acc", acc)
+            all_acc.append(acc)
+            all_hyper_params.append(hyper_dict)
+            all_names.append(name)
+            best_acc = acc
 
     return all_acc, all_hyper_params, all_names
 
@@ -255,7 +261,8 @@ def naive_grid_search(Model,
                       learning_rate_bounds=[0, 1],
                       momentum_bounds=[0, 1],
                       verbose=True,
-                      prefix=""):
+                      prefix="",
+                      acc_bound=1.0):
     """
     Train model using random params, at each time in search_trials
     the hyper param search is reduce. At the end, the best model
@@ -280,6 +287,8 @@ def naive_grid_search(Model,
     :type learning_rate: float
     :param momentum: momentum param
     :type momentum: float
+    :param acc_bound: upper bound to control how many trails will be performed
+    :type acc_bound: float
 
 
     :return: test accuracy, hyperperams, pkl path
@@ -295,38 +304,40 @@ def naive_grid_search(Model,
     model_path = None
 
     for i in range(search_trials):
-        if verbose:
-            print("grid_search ({}/{})\n".format(i + 1, search_trials))
+        if best_acc < acc_bound:
+            if verbose:
+                print("grid_search ({}/{})\n".format(i + 1, search_trials))
 
-        all_acc, all_hyper_params, all_names = random_search(Model,
-                                                             random_trials,
-                                                             train_data_path,
-                                                             test_data_path,
-                                                             epoch_bounds,
-                                                             embedding_dim_bounds, # noqa
-                                                             rnn_dim_bounds,
-                                                             learning_rate_bounds, # noqa
-                                                             momentum_bounds,
-                                                             verbose=verbose,
-                                                             prefix=prefix)
-        best_i = np.argmax(all_acc)
-        current_acc = all_acc[best_i] # noqa
-        current_dict = all_hyper_params[best_i] # noqa
-        name = all_names[best_i]
-        if best_acc < current_acc:
-                epoch_bounds = [epoch_bounds[0],
-                                current_dict["epochs"] + 1]
-                embedding_dim_bounds = [embedding_dim_bounds[0],
-                                        current_dict["embedding_dim"] + 1]
-                rnn_dim_bounds = [rnn_dim_bounds[0],
-                                  current_dict["rnn_dim"] + 1]
-                learning_rate_bounds = [learning_rate_bounds[0],
-                                        current_dict["learning_rate"]]
-                momentum_bounds = [momentum_bounds[0],
-                                   current_dict["momentum"]]
-                best_acc = current_acc
-                best_params = current_dict
-                model_path = name
+            all_acc, all_hyper_params, all_names = random_search(Model,
+                                                                 random_trials,
+                                                                 train_data_path, # noqa
+                                                                 test_data_path, # noqa
+                                                                 epoch_bounds,
+                                                                 embedding_dim_bounds, # noqa
+                                                                 rnn_dim_bounds, # noqa
+                                                                 learning_rate_bounds, # noqa
+                                                                 momentum_bounds, # noqa
+                                                                 verbose=verbose, # noqa
+                                                                 prefix=prefix,
+                                                                 acc_bound=acc_bound) # noqa
+            best_i = np.argmax(all_acc)
+            current_acc = all_acc[best_i] # noqa
+            current_dict = all_hyper_params[best_i] # noqa
+            name = all_names[best_i]
+            if best_acc < current_acc:
+                    epoch_bounds = [epoch_bounds[0],
+                                    current_dict["epochs"] + 1]
+                    embedding_dim_bounds = [embedding_dim_bounds[0],
+                                            current_dict["embedding_dim"] + 1]
+                    rnn_dim_bounds = [rnn_dim_bounds[0],
+                                      current_dict["rnn_dim"] + 1]
+                    learning_rate_bounds = [learning_rate_bounds[0],
+                                            current_dict["learning_rate"]]
+                    momentum_bounds = [momentum_bounds[0],
+                                       current_dict["momentum"]]
+                    best_acc = current_acc
+                    best_params = current_dict
+                    model_path = name
 
     test_acc = eval_model_on_test(Model,
                                   train_data_path,

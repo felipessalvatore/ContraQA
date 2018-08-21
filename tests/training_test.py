@@ -1,5 +1,6 @@
 import numpy as np
 import torch
+import time
 import unittest
 import os
 import shutil
@@ -164,6 +165,56 @@ class TrainFunctionsTest(unittest.TestCase):
         acc = acc1 + acc2 + acc3
         msg = "after training, valid_acc = {:.3f}".format(acc)
         self.assertTrue(acc >= 0.6 * 3, msg=msg)
+
+    def test_random_param_train_bound(self):
+
+        all_acc, all_hyper_params, all_names = random_search(RNN,
+                                                             10,
+                                                             self.path_train,
+                                                             self.path_test,
+                                                             epoch_bounds=[1, 2], # noqa
+                                                             embedding_dim_bounds=[10, 500], # noqa
+                                                             rnn_dim_bounds=[10, 500], # noqa
+                                                             learning_rate_bounds=[0, 1], # noqa
+                                                             momentum_bounds=[0, 1], # noqa
+                                                             verbose=False, # noqa
+                                                             prefix="RNN_boolean1_", # noqa
+                                                             acc_bound=0.6) # noqa
+        print(all_acc, all_hyper_params, all_names)
+        cond = len(all_acc) == len(all_hyper_params) == len(all_names)
+        cond_bound = len(all_acc) < 10
+        self.assertTrue(cond, msg="different output sizes")
+        self.assertTrue(cond_bound,
+                        msg="not stoping, len(all_acc) = {}".format(len(all_acc))) # noqa
+
+    def test_grid_search_bound(self):
+
+        init = time.time()
+        _, _, _ = naive_grid_search(RNN,
+                                    1,
+                                    1,
+                                    self.path_train,
+                                    self.path_test,
+                                    epoch_bounds=[1, 2],
+                                    verbose=False,
+                                    prefix="RNN_boolean1_")
+        reference = time.time() - init
+
+        init = time.time()
+
+        test_accRNN, _, _ = naive_grid_search(RNN,
+                                              10,
+                                              10,
+                                              self.path_train,
+                                              self.path_test,
+                                              epoch_bounds=[1, 2],
+                                              verbose=False,
+                                              prefix="RNN_boolean1_",
+                                              acc_bound=0.5)
+        experiment = time.time() - init
+        msg = "taking too much time, ref ={:.3f}, exp ={:.3f}".format(reference, experiment)# noqa
+        cond = experiment <= 3 * reference
+        self.assertTrue(cond, msg=msg)
 
     def test_random_search(self):
         all_acc, all_hyper_params, all_names = random_search(RNN,
