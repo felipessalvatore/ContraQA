@@ -6,6 +6,8 @@ from contra_qa.text_generation.boolean1_neg import boolean1
 from contra_qa.train_functions.util import get_data, training_loop_text_classification # noqa
 from contra_qa.train_functions.RNNConfig import RNNConfig
 from contra_qa.train_functions.RNN import RNN
+from contra_qa.train_functions.LSTM import LSTM
+from contra_qa.train_functions.GRU import GRU
 from contra_qa.train_functions.DataHolder import DataHolder
 from contra_qa.plots.functions import plot_confusion_matrix
 
@@ -16,10 +18,18 @@ class TrainFunctionsTest(unittest.TestCase):
     def tearDown(cls):
         if os.path.exists("data"):
             shutil.rmtree("data")
-        if os.path.exists("test.pkl"):
-            os.remove("test.pkl")
-        if os.path.exists("test.png"):
-            os.remove("test.png")
+        if os.path.exists("testRNN.pkl"):
+            os.remove("testRNN.pkl")
+        if os.path.exists("testRNN.png"):
+            os.remove("testRNN.png")
+        if os.path.exists("testLSTM.pkl"):
+            os.remove("testLSTM.pkl")
+        if os.path.exists("testLSTM.png"):
+            os.remove("testLSTM.png")
+        if os.path.exists("testGRU.pkl"):
+            os.remove("testGRU.pkl")
+        if os.path.exists("testGRU.png"):
+            os.remove("testGRU.png")
 
     @classmethod
     def setUp(cls):
@@ -33,28 +43,27 @@ class TrainFunctionsTest(unittest.TestCase):
 
         cls.current_config = RNNConfig(vocab_size=len(TEXT.vocab),
                                        output_dim=len(LABEL.vocab),
-                                       epochs=3,
+                                       epochs=5,
                                        embedding_dim=100,
-                                       learning_rate=0.01,
-                                       momentum=0.2)
+                                       learning_rate=0.05,
+                                       momentum=0.1)
 
         cls.current_data = DataHolder(cls.current_config,
                                       train,
                                       valid,
                                       test)
 
-        model = RNN(cls.current_config)
+    def test_basic_training_RNN(self):
+        model = RNN(self.current_config)
 
         training_loop_text_classification(model,
-                                          cls.current_config,
-                                          cls.current_data,
-                                          "test.pkl",
+                                          self.current_config,
+                                          self.current_data,
+                                          "testRNN.pkl",
                                           verbose=False)
-
-    def test_basic_training_acc(self):
         model = RNN(self.current_config)
         valid_batch = next(iter(self.current_data.valid_iter))
-        model.load_state_dict(torch.load("test.pkl"))
+        model.load_state_dict(torch.load("testRNN.pkl"))
         acc, pred, labels = model.evaluate_bach(valid_batch)
         self.assertTrue(acc > 0.7,
                         "after training, valid_acc = {:.3f}".format(acc))
@@ -63,6 +72,54 @@ class TrainFunctionsTest(unittest.TestCase):
         plot_confusion_matrix(truth=labels.numpy(),
                               predictions=pred.numpy(),
                               save=True,
-                              path="test.png",
+                              path="testRNN.png",
                               classes=labels_legend)
-        self.assertTrue(os.path.exists("test.png"), msg=msg)
+        self.assertTrue(os.path.exists("testRNN.png"), msg=msg)
+
+    def test_basic_training_LSTM(self):
+        model = LSTM(self.current_config)
+        training_loop_text_classification(model,
+                                          self.current_config,
+                                          self.current_data,
+                                          "testLSTM.pkl",
+                                          verbose=False)
+        model = LSTM(self.current_config)
+        valid_batch = next(iter(self.current_data.valid_iter))
+        model.load_state_dict(torch.load("testLSTM.pkl"))
+        valid_batch = next(iter(self.current_data.valid_iter))
+        model.load_state_dict(torch.load("testLSTM.pkl"))
+        acc, pred, labels = model.evaluate_bach(valid_batch)
+        self.assertTrue(acc > 0.7,
+                        "after training, valid_acc = {:.3f}".format(acc))
+        msg = "problems with the confusion matrix plot"
+        labels_legend = ['no', 'yes']
+        plot_confusion_matrix(truth=labels.numpy(),
+                              predictions=pred.numpy(),
+                              save=True,
+                              path="testLSTM.png",
+                              classes=labels_legend)
+        self.assertTrue(os.path.exists("testLSTM.png"), msg=msg)
+
+    def test_basic_training_GRU(self):
+        model = GRU(self.current_config)
+        training_loop_text_classification(model,
+                                          self.current_config,
+                                          self.current_data,
+                                          "testGRU.pkl",
+                                          verbose=False)
+        model = GRU(self.current_config)
+        valid_batch = next(iter(self.current_data.valid_iter))
+        model.load_state_dict(torch.load("testGRU.pkl"))
+        valid_batch = next(iter(self.current_data.valid_iter))
+        model.load_state_dict(torch.load("testGRU.pkl"))
+        acc, pred, labels = model.evaluate_bach(valid_batch)
+        self.assertTrue(acc > 0.7,
+                        "after training, valid_acc = {:.3f}".format(acc))
+        msg = "problems with the confusion matrix plot"
+        labels_legend = ['no', 'yes']
+        plot_confusion_matrix(truth=labels.numpy(),
+                              predictions=pred.numpy(),
+                              save=True,
+                              path="testGRU.png",
+                              classes=labels_legend)
+        self.assertTrue(os.path.exists("testGRU.png"), msg=msg)
