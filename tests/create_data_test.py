@@ -16,7 +16,6 @@ from contra_qa.text_generation.boolean_data_gen import create_all
 from contra_qa.text_processing.functions import simple_pre_process_text_df
 
 
-
 class AddDataset(unittest.TestCase):
 
     @classmethod
@@ -113,7 +112,7 @@ class AddDataset(unittest.TestCase):
         self.assertTrue(cond_OR)
         self.assertTrue(cond_ALL)
 
-    def test_Atext_processing_functions(self):
+    def test_text_processing_functions(self):
         before = ["Antonio, who is a butcher, saw the car crash, Antonio didn't saw the car crash", # noqa
                   "Heidi, who is a hairdresser, bought a Macbook, Heidi, who is a tailor, didn't buy a Macbook", # noqa
                   "Tonya, who is a carpenter, bought a cup of coffee, Tonya isn't a carpenter"] # noqa
