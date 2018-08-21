@@ -180,7 +180,6 @@ class TrainFunctionsTest(unittest.TestCase):
                                                              verbose=False, # noqa
                                                              prefix="RNN_boolean1_", # noqa
                                                              acc_bound=0.6) # noqa
-        print(all_acc, all_hyper_params, all_names)
         cond = len(all_acc) == len(all_hyper_params) == len(all_names)
         cond_bound = len(all_acc) < 10
         self.assertTrue(cond, msg="different output sizes")
