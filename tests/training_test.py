@@ -13,6 +13,7 @@ from contra_qa.train_functions.DataHolder import DataHolder
 from contra_qa.plots.functions import plot_confusion_matrix
 from contra_qa.train_functions.random_search import train_model_on_params
 from contra_qa.train_functions.random_search import random_search
+from contra_qa.train_functions.random_search import naive_grid_search
 
 
 class TrainFunctionsTest(unittest.TestCase):
@@ -180,3 +181,36 @@ class TrainFunctionsTest(unittest.TestCase):
         self.assertTrue(cond, msg="different output sizes")
         self.assertTrue(np.max(all_acc) > 0.56,
                         msg="acc list = {}".format(all_acc))
+
+    def test_naive_grid_search(self):
+        test_accRNN, _, _ = naive_grid_search(RNN,
+                                              2,
+                                              2,
+                                              self.path_train,
+                                              self.path_test,
+                                              epoch_bounds=[1, 2],
+                                              verbose=False,
+                                              prefix="RNN_boolean1_")
+        test_accGRU, _, _ = naive_grid_search(GRU,
+                                              2,
+                                              2,
+                                              self.path_train,
+                                              self.path_test,
+                                              epoch_bounds=[1, 2],
+                                              verbose=False,
+                                              prefix="GRU_boolean1_")
+
+        test_accLSTM, _, _ = naive_grid_search(LSTM,
+                                               2,
+                                               2,
+                                               self.path_train,
+                                               self.path_test,
+                                               epoch_bounds=[1, 2],
+                                               verbose=False,
+                                               prefix="LSTM_boolean1_")
+        acc = test_accRNN + test_accGRU + test_accLSTM
+        msg = "after training, valid_acc = {:.3f}, {:.3f}, {:.3f}".format(test_accRNN, # noqa
+                                                                          test_accGRU, # noqa
+                                                                          test_accLSTM) # noqa
+        self.assertTrue(acc >= 0.6 * 3, msg=msg)
+
