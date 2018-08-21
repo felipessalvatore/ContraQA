@@ -130,7 +130,7 @@ def main():
     parser.add_argument("-rt",
                     "--random_trails",
                     type=int,
-                    default=10,
+                    default=5,
                     help="number of times to call the random seach funtion(default=5)") # noqa
     parser.add_argument("-ab",
                     "--acc_bound",
