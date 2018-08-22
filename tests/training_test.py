@@ -263,4 +263,3 @@ class TrainFunctionsTest(unittest.TestCase):
                                                                           test_accGRU, # noqa
                                                                           test_accLSTM) # noqa
         self.assertTrue(acc >= 0.6 * 3, msg=msg)
-

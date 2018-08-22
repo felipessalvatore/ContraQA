@@ -150,7 +150,7 @@ def main():
 
     args = parser.parse_args()
     models_and_names = {"RNN": RNN, "GRU": GRU, "LSTM": LSTM}
-    msg = "not valid mode"
+    msg = "not a valid mode"
     user_model = args.model.upper()
     assert user_model in models_and_names
     Model = models_and_names[user_model]
