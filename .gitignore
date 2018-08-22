@@ -9,6 +9,9 @@ __pycache__/
 # models
 *.pkl
 
+# tex files
+*.tex
+
 # results
 /results
 
