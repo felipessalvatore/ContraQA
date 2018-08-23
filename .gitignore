@@ -5,6 +5,7 @@ __pycache__/
 
 # data
 *.csv
+/dialog_data
 
 # models
 *.pkl
