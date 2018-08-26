@@ -56,6 +56,21 @@ all_test_data = ["boolean1_test.csv",
                  "boolean_test.csv"]
 
 
+all_valid_path = ["boolean1_valid",
+                  "boolean2_valid",
+                  "boolean3_valid",
+                  "boolean4_valid",
+                  "boolean5_valid",
+                  "boolean6_valid",
+                  "boolean7_valid",
+                  "boolean8_valid",
+                  "boolean9_valid",
+                  "boolean10_valid",
+                  "boolean_AND_valid",
+                  "boolean_OR_valid",
+                  "boolean_valid"]
+
+
 def main():
     if not os.path.exists("dialog_data"):
         os.makedirs("dialog_data")
@@ -64,23 +79,33 @@ def main():
         print("Generating data \n")
         create_all()
 
-    for tra, te in zip(all_train_data, all_test_data):
+    for tra, te, val in zip(all_train_data, all_test_data, all_valid_path):
 
         train_data_path = os.path.join("data", tra)
         test_data_path = os.path.join("data", te)
         out_path_train = os.path.join("dialog_data", tra)[:-3] + "txt"
         out_path_test = os.path.join("dialog_data", te)[:-3] + "txt"
+        out_path_valid = os.path.join("dialog_data", val) + ".txt"
 
-        dftrain = pd.read_csv(train_data_path)
+        df_train = pd.read_csv(train_data_path)
+        df_train = df_train.sample(frac=1).reset_index(drop=True)
+
+        dftrain = df_train.iloc[:8000]
+        dfvalid = df_train.iloc[8000:]
+
         dftest = pd.read_csv(test_data_path)
 
         simple_pre_process_text_df(dftrain, "sentence1")
         simple_pre_process_text_df(dftrain, "sentence2")
         dftrain["label"] = dftrain["label"].apply(lambda x: "yes" if x==1 else "no") # noqa
+        simple_pre_process_text_df(dfvalid, "sentence1")
+        simple_pre_process_text_df(dfvalid, "sentence2")
+        dfvalid["label"] = dfvalid["label"].apply(lambda x: "yes" if x==1 else "no") # noqa
         simple_pre_process_text_df(dftest, "sentence1")
         simple_pre_process_text_df(dftest, "sentence2")
         dftest["label"] = dftest["label"].apply(lambda x: "yes" if x==1 else "no") # noqa
         csv_to_FBdialog(dftrain, out_path_train)
+        csv_to_FBdialog(dfvalid, out_path_valid)
         csv_to_FBdialog(dftest, out_path_test)
 
 
