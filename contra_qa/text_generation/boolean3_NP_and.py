@@ -60,7 +60,7 @@ def boolean3():
 
     template1 = itertools.product(name_list, city_list)
     template1 = list(template1)
-    upper_bound = 11000/8
+    upper_bound = 11000 / 8
 
     # ### Generating all types of sentences
 
@@ -70,6 +70,7 @@ def boolean3():
 
     np.random.shuffle(template1)
     all_sentences_1 = []
+
     for i in range(int(upper_bound)):
         person, place1 = template1[i]
         place2 = place1
@@ -79,13 +80,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} has traveled to {} and {},{} didn't travel to {}".format(
                 person, place1, place2, person, place1)
+            and_A = "{} has traveled to {}".format(person, place1)
+            and_B = "{} has traveled to {}".format(person, place2)
         elif i % 3 == 1:
             sentence = "{} went to {} and {},{} didn't go to {}".format(
                 person, place1, place2, person, place1)
+            and_A = "{} went to {}".format(person, place1)
+            and_B = "{} went to {}".format(person, place2)
         else:
             sentence = "{} has visited {} and {},{} didn't visit {}".format(
                 person, place1, place2, person, place1)
-        all_sentences_1.append(sentence)
+            and_A = "{} has visited {}".format(person, place1)
+            and_B = "{} has visited {}".format(person, place2)
+        all_sentences_1.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_1 = [sentence.split(",") + [1]
                        for sentence in all_sentences_1]
@@ -105,13 +112,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} has traveled to {} and {},{} didn't travel to {}".format(
                 person, place1, place2, person, place2)
+            and_A = "{} has traveled to {}".format(person, place1)
+            and_B = "{} has traveled to {}".format(person, place2)
         elif i % 3 == 1:
             sentence = "{} went to {} and {},{} didn't go to {}".format(
                 person, place1, place2, person, place2)
+            and_A = "{} went to {}".format(person, place1)
+            and_B = "{} went to {}".format(person, place2)
         else:
             sentence = "{} has visited {} and {},{} didn't visit {}".format(
                 person, place1, place2, person, place2)
-        all_sentences_2.append(sentence)
+            and_A = "{} has visited {}".format(person, place1)
+            and_B = "{} has visited {}".format(person, place2)
+        all_sentences_2.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_2 = [sentence.split(",") + [1]
                        for sentence in all_sentences_2]
@@ -137,13 +150,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} has traveled to {} and {},{} didn't travel to {}".format(
                 person, place1, place2, person, place3)
+            and_A = "{} has traveled to {}".format(person, place1)
+            and_B = "{} has traveled to {}".format(person, place2)
         elif i % 3 == 1:
             sentence = "{} went to {} and {},{} didn't go to {}".format(
                 person, place1, place2, person, place3)
+            and_A = "{} went to {}".format(person, place1)
+            and_B = "{} went to {}".format(person, place2)
         else:
             sentence = "{} has visited {} and {},{} didn't visit {}".format(
                 person, place1, place2, person, place3)
-        all_sentences_3.append(sentence)
+            and_A = "{} has visited {}".format(person, place1)
+            and_B = "{} has visited {}".format(person, place2)
+        all_sentences_3.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_3 = [sentence.split(",") + [0]
                        for sentence in all_sentences_3]
@@ -168,13 +187,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} has traveled to {} and {},{} didn't travel to {}".format(
                 person1, place1, place2, person2, place3)
+            and_A = "{} has traveled to {}".format(person1, place1)
+            and_B = "{} has traveled to {}".format(person1, place2)
         elif i % 3 == 1:
             sentence = "{} went to {} and {},{} didn't go to {}".format(
                 person1, place1, place2, person2, place3)
+            and_A = "{} went to {}".format(person1, place1)
+            and_B = "{} went to {}".format(person1, place2)
         else:
             sentence = "{} has visited {} and {},{} didn't visit {}".format(
                 person1, place1, place2, person2, place3)
-        all_sentences_4.append(sentence)
+            and_A = "{} has visited {}".format(person1, place1)
+            and_B = "{} has visited {}".format(person1, place2)
+        all_sentences_4.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_4 = [sentence.split(",") + [0]
                        for sentence in all_sentences_4]
@@ -197,13 +222,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} and {} have traveled to {},{} didn't travel to {}".format(
                 person1, person2, place, person1, place)
+            and_A = "{} has traveled to {}".format(person1, place)
+            and_B = "{} has traveled to {}".format(person2, place)
         elif i % 3 == 1:
             sentence = "{} and {} went to {},{} didn't go to {}".format(
                 person1, person2, place, person1, place)
+            and_A = "{} went to {}".format(person1, place)
+            and_B = "{} went to {}".format(person2, place)
         else:
             sentence = "{} and {} have visited {},{} didn't visit {}".format(
                 person1, person2, place, person1, place)
-        all_sentences_5.append(sentence)
+            and_A = "{} has visited {}".format(person1, place)
+            and_B = "{} has visited {}".format(person2, place)
+        all_sentences_5.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_5 = [sentence.split(",") + [1]
                        for sentence in all_sentences_5]
@@ -223,13 +254,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} and {} have traveled to {},{} didn't travel to {}".format(
                 person1, person2, place, person2, place)
+            and_A = "{} has traveled to {}".format(person1, place)
+            and_B = "{} has traveled to {}".format(person2, place)
         elif i % 3 == 1:
             sentence = "{} and {} went to {},{} didn't go to {}".format(
                 person1, person2, place, person2, place)
+            and_A = "{} went to {}".format(person1, place)
+            and_B = "{} went to {}".format(person2, place)
         else:
             sentence = "{} and {} have visited {},{} didn't visit {}".format(
                 person1, person2, place, person2, place)
-        all_sentences_6.append(sentence)
+            and_A = "{} has visited {}".format(person1, place)
+            and_B = "{} has visited {}".format(person2, place)
+        all_sentences_6.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_6 = [sentence.split(",") + [1]
                        for sentence in all_sentences_6]
@@ -254,13 +291,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} and {} have traveled to {},{} didn't travel to {}".format(
                 person1, person2, place1, person3, place2)
+            and_A = "{} has traveled to {}".format(person1, place1)
+            and_B = "{} has traveled to {}".format(person2, place1)
         elif i % 3 == 1:
             sentence = "{} and {} went to {},{} didn't go to {}".format(
                 person1, person2, place1, person3, place2)
+            and_A = "{} went to {}".format(person1, place1)
+            and_B = "{} went to {}".format(person2, place1)
         else:
             sentence = "{} and {} have visited {},{} didn't visit {}".format(
                 person1, person2, place1, person3, place2)
-        all_sentences_7.append(sentence)
+            and_A = "{} has visited {}".format(person1, place1)
+            and_B = "{} has visited {}".format(person2, place1)
+        all_sentences_7.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_7 = [sentence.split(",") + [0]
                        for sentence in all_sentences_7]
@@ -284,13 +327,19 @@ def boolean3():
         if i % 3 == 0:
             sentence = "{} and {} have traveled to {},{} didn't travel to {}".format(
                 person1, person2, place1, person3, place1)
+            and_A = "{} has traveled to {}".format(person1, place1)
+            and_B = "{} has traveled to {}".format(person2, place1)
         elif i % 3 == 1:
             sentence = "{} and {} went to {},{} didn't go to {}".format(
                 person1, person2, place1, person3, place1)
+            and_A = "{} went to {}".format(person1, place1)
+            and_B = "{} went to {}".format(person2, place1)
         else:
             sentence = "{} and {} have visited {},{} didn't visit {}".format(
                 person1, person2, place1, person3, place1)
-        all_sentences_8.append(sentence)
+            and_A = "{} has visited {}".format(person1, place1)
+            and_B = "{} has visited {}".format(person2, place1)
+        all_sentences_8.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_8 = [sentence.split(",") + [0]
                        for sentence in all_sentences_8]
@@ -320,14 +369,18 @@ def boolean3():
 
     sentence_1 = [triple[0] for triple in all_sentences]
     sentence_2 = [triple[1] for triple in all_sentences]
-    label = [triple[2] for triple in all_sentences]
+    and_A = [triple[2] for triple in all_sentences]
+    and_B = [triple[3] for triple in all_sentences]
+    label = [triple[4] for triple in all_sentences]
 
     df_dict = {"sentence1": sentence_1,
                "sentence2": sentence_2,
+               "and_A": and_A,
+               "and_B": and_B,
                "label": label}
 
     df = pd.DataFrame(df_dict)
-    df = df[["sentence1", "sentence2", "label"]]
+    df = df[["sentence1", "sentence2", "and_A", "and_B", "label"]]
     df = df.sample(frac=1).reset_index(drop=True)
 
     df_train = df.iloc[:10000]

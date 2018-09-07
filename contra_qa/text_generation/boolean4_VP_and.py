@@ -90,7 +90,9 @@ def boolean4():
             complement3 = complement2
         sentence = "{} {} {} and {} {},{} {} {}".format(
             person, verb1, complement1, verb2, complement2, person, verb3, complement3)
-        all_sentences_1.append(sentence)
+        and_A = "{} {} {}".format(person, verb1, complement1)
+        and_B = "{} {} {}".format(person, verb2, complement2)
+        all_sentences_1.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_1 = [sentence.split(",") + [1]
                        for sentence in all_sentences_1]
@@ -147,7 +149,9 @@ def boolean4():
             complement3 = complement2
         sentence = "{} {} {} and {} {},{} {} {}".format(
             person, verb1, complement1, verb2, complement2, new_person, verb3, complement3)
-        all_sentences_2.append(sentence)
+        and_A = "{} {} {}".format(person, verb1, complement1)
+        and_B = "{} {} {}".format(person, verb2, complement2)
+        all_sentences_2.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_2 = [sentence.split(",") + [0]
                        for sentence in all_sentences_2]
@@ -165,14 +169,18 @@ def boolean4():
 
     sentence_1 = [triple[0] for triple in all_sentences]
     sentence_2 = [triple[1] for triple in all_sentences]
-    label = [triple[2] for triple in all_sentences]
+    and_A = [triple[2] for triple in all_sentences]
+    and_B = [triple[3] for triple in all_sentences]
+    label = [triple[4] for triple in all_sentences]
 
     df_dict = {"sentence1": sentence_1,
                "sentence2": sentence_2,
+               "and_A": and_A,
+               "and_B": and_B,
                "label": label}
 
     df = pd.DataFrame(df_dict)
-    df = df[["sentence1", "sentence2", "label"]]
+    df = df[["sentence1", "sentence2", "and_A", "and_B", "label"]]
     df = df.sample(frac=1).reset_index(drop=True)
 
     df_train = df.iloc[:10000]
