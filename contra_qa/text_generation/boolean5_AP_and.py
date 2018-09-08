@@ -62,7 +62,12 @@ def boolean5():
                                                                                                     person,
                                                                                                     preposition3,
                                                                                                     pred3)
-        all_sentences_1.append(sentence)
+        and_A = "{} created {} {} work of art".format(
+            person, preposition1, pred1)
+        and_B = "{} created {} {} work of art".format(
+            person, preposition2, pred2)
+
+        all_sentences_1.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_1 = [sentence.split(",") + [1]
                        for sentence in all_sentences_1]
@@ -108,7 +113,11 @@ def boolean5():
                                                                                                     other,
                                                                                                     new_preposition,
                                                                                                     new_pred)
-        all_sentences_2.append(sentence)
+        and_A = "{} created {} {} work of art".format(
+            person, preposition1, pred1)
+        and_B = "{} created {} {} work of art".format(
+            person, preposition2, pred2)
+        all_sentences_2.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_2 = [sentence.split(",") + [0]
                        for sentence in all_sentences_2]
@@ -125,14 +134,18 @@ def boolean5():
 
     sentence_1 = [triple[0] for triple in all_sentences]
     sentence_2 = [triple[1] for triple in all_sentences]
-    label = [triple[2] for triple in all_sentences]
+    and_A = [triple[2] for triple in all_sentences]
+    and_B = [triple[3] for triple in all_sentences]
+    label = [triple[4] for triple in all_sentences]
 
     df_dict = {"sentence1": sentence_1,
                "sentence2": sentence_2,
+               "and_A": and_A,
+               "and_B": and_B,
                "label": label}
 
     df = pd.DataFrame(df_dict)
-    df = df[["sentence1", "sentence2", "label"]]
+    df = df[["sentence1", "sentence2", "and_A", "and_B", "label"]]
     df = df.sample(frac=1).reset_index(drop=True)
 
     df_train = df.iloc[:10000]

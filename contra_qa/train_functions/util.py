@@ -47,6 +47,31 @@ def pre_process_df(train_data, test_data):
     return train_data, test_data
 
 
+def pre_process_df_and(train_data, test_data):
+    """
+    Transform the dataframes train_data and
+    test_data using the simple_pre_process_text_df
+    fuction
+
+
+    :param train_data: train dataset
+    :type train_data: pd.DataFrame
+    :param test_data: test dataset
+    :type test_data: pd.DataFrame
+    :return: transformed train dataset, transformed test dataset
+    :rtype: pd.DataFrame, pd.DataFrame
+    """
+    train_data["text"] = train_data["sentence1"] + ", " + train_data["sentence2"] # noqa
+    test_data["text"] = test_data["sentence1"] + ", " + test_data["sentence2"]
+    train_data.drop(["sentence1", "sentence2"], axis=1, inplace=True)
+    test_data.drop(["sentence1", "sentence2"], axis=1, inplace=True)
+    train_data = train_data[["text", "label"]]
+    test_data = test_data[["text", "label"]]
+    simple_pre_process_text_df(train_data)
+    simple_pre_process_text_df(test_data)
+    return train_data, test_data
+
+
 def train_in_epoch(model, iterator, optimizer, criterion, negative=False):
     """
     Train the model using all the data from the iterator
