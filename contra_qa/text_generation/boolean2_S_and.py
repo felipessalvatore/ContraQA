@@ -37,8 +37,11 @@ def boolean2():
         while caar == car and cdrr == cdr:
             new_i = np.random.choice(len(template1))
             caar, cdrr = template1[new_i]
-        all_sentences_1.append("{} is {} and {} is {}, {} is not {}".format(
-            car, cdr, caar, cdrr, car, cdr))
+            sentence = "{} is {} and {} is {}, {} is not {}".format(
+                car, cdr, caar, cdrr, car, cdr)
+            and_A = "{} is {}".format(car, cdr)
+            and_B = "{} is {}".format(caar, cdrr)
+        all_sentences_1.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_1 = [sentence.split(",") + [1]
                        for sentence in all_sentences_1]
@@ -51,8 +54,11 @@ def boolean2():
         while caar == car and cdrr == cdr:
             new_i = np.random.choice(len(template2))
             caar, cdrr = template2[new_i]
-        all_sentences_2.append("{} is {} and {} is {}, {} is not {}".format(
-            car, cdr, caar, cdrr, caar, cdrr))
+            sentence = "{} is {} and {} is {}, {} is not {}".format(
+                car, cdr, caar, cdrr, caar, cdrr)
+            and_A = "{} is {}".format(car, cdr)
+            and_B = "{} is {}".format(caar, cdrr)
+            all_sentences_2.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_2 = [sentence.split(",") + [1]
                        for sentence in all_sentences_2]
@@ -74,7 +80,9 @@ def boolean2():
             my_not = "is not"
         sentence = "{} is {} and {} is {}, {} {} {}".format(
             car, cdr, caar, cdrr, caaar, my_not, cdrrr)
-        all_sentences_3.append(sentence)
+        and_A = "{} is {}".format(car, cdr)
+        and_B = "{} is {}".format(caar, cdrr)
+        all_sentences_3.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_3 = [sentence.split(",") + [0]
                        for sentence in all_sentences_3]
@@ -94,7 +102,9 @@ def boolean2():
             caaar, cdrrr = caar, cdr
         sentence = "{} is {} and {} is {}, {} is not {}".format(
             car, cdr, caar, cdrr, caaar, cdrrr)
-        all_sentences_4.append(sentence)
+        and_A = "{} is {}".format(car, cdr)
+        and_B = "{} is {}".format(caar, cdrr)
+        all_sentences_4.append(sentence + "," + and_A + "," + and_B)
 
     all_sentences_4 = [sentence.split(",") + [0]
                        for sentence in all_sentences_4]
@@ -115,14 +125,18 @@ def boolean2():
 
     sentence_1 = [triple[0] for triple in all_sentences]
     sentence_2 = [triple[1] for triple in all_sentences]
-    label = [triple[2] for triple in all_sentences]
+    and_A = [triple[2] for triple in all_sentences]
+    and_B = [triple[3] for triple in all_sentences]
+    label = [triple[4] for triple in all_sentences]
 
     df_dict = {"sentence1": sentence_1,
                "sentence2": sentence_2,
+               "and_A": and_A,
+               "and_B": and_B,
                "label": label}
 
     df = pd.DataFrame(df_dict)
-    df = df[["sentence1", "sentence2", "label"]]
+    df = df[["sentence1", "sentence2", "and_A", "and_B", "label"]]
     df = df.sample(frac=1).reset_index(drop=True)
 
     df_train = df.iloc[:10000]
