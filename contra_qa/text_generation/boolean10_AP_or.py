@@ -55,7 +55,10 @@ def boolean10():
                                                                                           person,
                                                                                           pred1,
                                                                                           pred2)
-        all_sentences_1.append(sentence)
+        or_A = "{}'s painting is {}".format(person, pred1)
+        or_B = "{}'s painting is {}".format(person, pred2)
+
+        all_sentences_1.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_1 = [sentence.split(",") + [1]
                        for sentence in all_sentences_1]
@@ -74,7 +77,10 @@ def boolean10():
                                                                                                          pred1,
                                                                                                          person,
                                                                                                          pred2)
-        all_sentences_2.append(sentence)
+        or_A = "{}'s painting is {}".format(person, pred1)
+        or_B = "{}'s painting is {}".format(person, pred2)
+
+        all_sentences_2.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_2 = [sentence.split(",") + [1]
                        for sentence in all_sentences_2]
@@ -96,7 +102,10 @@ def boolean10():
                                                                               pred2,
                                                                               person,
                                                                               pred_p)
-        all_sentences_3.append(sentence)
+        or_A = "{}'s painting is {}".format(person, pred1)
+        or_B = "{}'s painting is {}".format(person, pred2)
+
+        all_sentences_3.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_3 = [sentence.split(",") + [0]
                        for sentence in all_sentences_3]
@@ -131,7 +140,10 @@ def boolean10():
                                                                                           person_p,
                                                                                           pred_p_1,
                                                                                           pred_p_2)
-        all_sentences_4.append(sentence)
+        or_A = "{}'s painting is {}".format(person, pred1)
+        or_B = "{}'s painting is {}".format(person, pred2)
+
+        all_sentences_4.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_4 = [sentence.split(",") + [0]
                        for sentence in all_sentences_4]
@@ -153,16 +165,19 @@ def boolean10():
 
     sentence_1 = [triple[0] for triple in all_sentences]
     sentence_2 = [triple[1] for triple in all_sentences]
-    label = [triple[2] for triple in all_sentences]
+    or_A = [triple[2] for triple in all_sentences]
+    or_B = [triple[3] for triple in all_sentences]
+    label = [triple[4] for triple in all_sentences]
 
     df_dict = {"sentence1": sentence_1,
                "sentence2": sentence_2,
+               "or_A": or_A,
+               "or_B": or_B,
                "label": label}
 
     df = pd.DataFrame(df_dict)
-    df = df[["sentence1", "sentence2", "label"]]
+    df = df[["sentence1", "sentence2", "or_A", "or_B", "label"]]
     df = df.sample(frac=1).reset_index(drop=True)
-
     df_train = df.iloc[:10000]
     df_test = df.iloc[10000:]
 
