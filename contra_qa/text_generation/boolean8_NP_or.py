@@ -86,13 +86,20 @@ def boolean8():
         if i % 3 == 0:
             sentence = "{} traveled to {} or {},{} traveled to neither {} nor {}".format(
                 person, city1, city2, person, city1, city2)
+            or_A = "{} has traveled to {}".format(person, city1)
+            or_B = "{} has traveled to {}".format(person, city2)
+
         elif i % 3 == 1:
             sentence = "{} went to {} or {},{} went to neither {} nor {}".format(
                 person, city1, city2, person, city1, city2)
+            or_A = "{} went to {}".format(person, city1)
+            or_B = "{} went to {}".format(person, city2)
         else:
             sentence = "{} has visited {} or {},{} visited neither {} nor {}".format(
                 person, city1, city2, person, city1, city2)
-        all_sentences_1.append(sentence)
+            or_A = "{} has visited {}".format(person, city1)
+            or_B = "{} has visited {}".format(person, city2)
+            all_sentences_1.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_1 = [sentence.split(",") + [1]
                        for sentence in all_sentences_1]
@@ -114,6 +121,9 @@ def boolean8():
                                                                                                           city1,
                                                                                                           person,
                                                                                                           city2)
+            or_A = "{} has traveled to {}".format(person, city1)
+            or_B = "{} has traveled to {}".format(person, city2)
+
         elif i % 3 == 1:
             sentence = "{} went to {} or {},{} didn't go to {} and {} didn't go to {}".format(person,
                                                                                               city1,
@@ -122,6 +132,8 @@ def boolean8():
                                                                                               city1,
                                                                                               person,
                                                                                               city2)
+            or_A = "{} went to {}".format(person, city1)
+            or_B = "{} went to {}".format(person, city2)
         else:
             sentence = "{} has visited {} or {},{} didn't visit {} and {} didn't visit {}".format(person,
                                                                                                   city1,
@@ -130,8 +142,10 @@ def boolean8():
                                                                                                   city1,
                                                                                                   person,
                                                                                                   city2)
+            or_A = "{} has visited {}".format(person, city1)
+            or_B = "{} has visited {}".format(person, city2)
 
-        all_sentences_2.append(sentence)
+        all_sentences_2.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_2 = [sentence.split(",") + [1]
                        for sentence in all_sentences_2]
@@ -168,6 +182,8 @@ def boolean8():
                                                                                          person_p,
                                                                                          city_p_1,
                                                                                          city_p_2)
+            or_A = "{} has traveled to {}".format(person, city1)
+            or_B = "{} has traveled to {}".format(person, city2)
         elif i % 3 == 1:
             sentence = "{} went to {} or {},{} went to neither {} nor {}".format(person,
                                                                                  city1,
@@ -175,6 +191,8 @@ def boolean8():
                                                                                  person_p,
                                                                                  city_p_1,
                                                                                  city_p_2)
+            or_A = "{} went to {}".format(person, city1)
+            or_B = "{} went to {}".format(person, city2)
         else:
             sentence = "{} has visited {} or {},{} visited neither {} nor {}".format(person,
                                                                                      city1,
@@ -182,8 +200,10 @@ def boolean8():
                                                                                      person_p,
                                                                                      city_p_1,
                                                                                      city_p_2)
+            or_A = "{} has visited {}".format(person, city1)
+            or_B = "{} has visited {}".format(person, city2)
 
-        all_sentences_3.append(sentence)
+        all_sentences_3.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_3 = [sentence.split(",") + [0]
                        for sentence in all_sentences_3]
@@ -195,7 +215,6 @@ def boolean8():
     all_sentences_4 = []
     for i in range(int(upper_bound)):
         person = get_new_item([], name_list)
-        city1 = get_new_item([], city_list)
         city2 = get_new_item([city1], city_list)
 
         if i % 2 == 0:
@@ -209,20 +228,27 @@ def boolean8():
                                                                                city2,
                                                                                person,
                                                                                city3)
+            or_A = "{} has traveled to {}".format(person, city1)
+            or_B = "{} has traveled to {}".format(person, city2)
         elif i % 3 == 1:
             sentence = "{} went to {} or {},{} didn't go to {}".format(person,
                                                                        city1,
                                                                        city2,
                                                                        person,
                                                                        city3)
+            or_A = "{} went to {}".format(person, city1)
+            or_B = "{} went to {}".format(person, city2)
+
         else:
             sentence = "{} has visited {} or {},{} didn't visit {}".format(person,
                                                                            city1,
                                                                            city2,
                                                                            person,
                                                                            city3)
+            or_A = "{} has visited {}".format(person, city1)
+            or_B = "{} has visited {}".format(person, city2)
 
-        all_sentences_4.append(sentence)
+        all_sentences_4.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_4 = [sentence.split(",") + [0]
                        for sentence in all_sentences_4]
@@ -242,11 +268,15 @@ def boolean8():
                                                                                                                                     team2,
                                                                                                                                     team1,
                                                                                                                                     team2)
+            or_A = "{} got to the quarter finals last year".format(team1)
+            or_B = "{} got to the quarter finals last year".format(team2)
         elif i % 3 == 1:
             sentence = "{} or {} won the last world cup, neither {} nor {} won the last world cup".format(team1,
                                                                                                           team2,
                                                                                                           team1,
                                                                                                           team2)
+            or_A = "{} won the last world cup".format(team1)
+            or_B = "{} won the last world cup".format(team2)
         else:
             sentence = "{} or {} are in the geopolitical position of {}, neither {} nor {} are in the geopolitical position of {}".format(team1,
                                                                                                                                           team2,
@@ -254,8 +284,12 @@ def boolean8():
                                                                                                                                           team1,
                                                                                                                                           team2,
                                                                                                                                           team3)
+            or_A = "{} is in the geopolitical position of {}".format(
+                team1, team3)
+            or_B = "{} is in the geopolitical position of {}".format(
+                team2, team3)
 
-        all_sentences_5.append(sentence)
+        all_sentences_5.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_5 = [sentence.split(",") + [1]
                        for sentence in all_sentences_5]
@@ -275,11 +309,15 @@ def boolean8():
                                                                                                                                                                              team2,
                                                                                                                                                                              team1,
                                                                                                                                                                              team2)
+            or_A = "{} got to the quarter finals last year".format(team1)
+            or_B = "{} got to the quarter finals last year".format(team2)
         elif i % 3 == 1:
             sentence = "{} or {} won the last world cup,{} didn't win the last world cup and {} didn't win the last world cup".format(team1,
                                                                                                                                       team2,
                                                                                                                                       team1,
                                                                                                                                       team2)
+            or_A = "{} won the last world cup".format(team1)
+            or_B = "{} won the last world cup".format(team2)
         else:
             sentence = "{} or {} are in the geopolitical position of {},{} isn't in the geopolitical position of {} and {} isn't in the geopolitical position of {}".format(team1,
                                                                                                                                                                             team2,
@@ -288,8 +326,12 @@ def boolean8():
                                                                                                                                                                             team3,
                                                                                                                                                                             team2,
                                                                                                                                                                             team3)
+            or_A = "{} is in the geopolitical position of {}".format(
+                team1, team3)
+            or_B = "{} is in the geopolitical position of {}".format(
+                team2, team3)
 
-        all_sentences_6.append(sentence)
+        all_sentences_6.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_6 = [sentence.split(",") + [1]
                        for sentence in all_sentences_6]
@@ -318,11 +360,15 @@ def boolean8():
                                                                                                                                     team2,
                                                                                                                                     team_p_1,
                                                                                                                                     team_p_2)
+            or_A = "{} got to the quarter finals last year".format(team1)
+            or_B = "{} got to the quarter finals last year".format(team2)
         elif i % 3 == 1:
             sentence = "{} or {} won the last world cup, neither {} nor {} won the last world cup".format(team1,
                                                                                                           team2,
                                                                                                           team_p_1,
                                                                                                           team_p_2)
+            or_A = "{} won the last world cup".format(team1)
+            or_B = "{} won the last world cup".format(team2)
         else:
             sentence = "{} or {} are in the geopolitical position of {}, neither {} nor {} are in the geopolitical position of {}".format(team1,
                                                                                                                                           team2,
@@ -330,8 +376,12 @@ def boolean8():
                                                                                                                                           team_p_1,
                                                                                                                                           team_p_2,
                                                                                                                                           team3)
+            or_A = "{} is in the geopolitical position of {}".format(
+                team1, team3)
+            or_B = "{} is in the geopolitical position of {}".format(
+                team2, team3)
 
-        all_sentences_7.append(sentence)
+        all_sentences_7.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_7 = [sentence.split(",") + [0]
                        for sentence in all_sentences_7]
@@ -351,18 +401,27 @@ def boolean8():
             sentence = "{} or {} got to the quarter finals last year,{} didn't get to the quarter finals last year".format(team1,
                                                                                                                            team2,
                                                                                                                            team_p)
+            or_A = "{} got to the quarter finals last year".format(team1)
+            or_B = "{} got to the quarter finals last year".format(team2)
+
         elif i % 3 == 1:
             sentence = "{} or {} won the last world cup,{} didn't win the last world cup".format(team1,
                                                                                                  team2,
                                                                                                  team_p)
+            or_A = "{} won the last world cup".format(team1)
+            or_B = "{} won the last world cup".format(team2)
         else:
             sentence = "{} or {} are in the geopolitical position of {},{} isn't in the geopolitical position of {}".format(team1,
                                                                                                                             team2,
                                                                                                                             team3,
                                                                                                                             team_p,
                                                                                                                             team3)
+            or_A = "{} is in the geopolitical position of {}".format(
+                team1, team3)
+            or_B = "{} is in the geopolitical position of {}".format(
+                team2, team3)
 
-        all_sentences_8.append(sentence)
+        all_sentences_8.append(sentence + "," + or_A + "," + or_B)
 
     all_sentences_8 = [sentence.split(",") + [0]
                        for sentence in all_sentences_8]
@@ -394,14 +453,18 @@ def boolean8():
 
     sentence_1 = [triple[0] for triple in all_sentences]
     sentence_2 = [triple[1] for triple in all_sentences]
-    label = [triple[2] for triple in all_sentences]
+    or_A = [triple[2] for triple in all_sentences]
+    or_B = [triple[3] for triple in all_sentences]
+    label = [triple[4] for triple in all_sentences]
 
     df_dict = {"sentence1": sentence_1,
                "sentence2": sentence_2,
+               "or_A": or_A,
+               "or_B": or_B,
                "label": label}
 
     df = pd.DataFrame(df_dict)
-    df = df[["sentence1", "sentence2", "label"]]
+    df = df[["sentence1", "sentence2", "or_A", "or_B", "label"]]
     df = df.sample(frac=1).reset_index(drop=True)
 
     df_train = df.iloc[:10000]
