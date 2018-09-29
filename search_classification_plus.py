@@ -7,17 +7,26 @@ from contra_qa.train_functions.GRU import GRU
 from contra_qa.train_functions.random_search import naive_grid_search
 
 
-all_prefixes = ["boolean3_plus",
-                "boolean4_plus",
-                "boolean5_plus"]
+all_prefixes = ["boolean3_plus_",
+                "boolean4_plus_",
+                "boolean5_plus_",
+                "boolean3_control_",
+                "boolean4_control_",
+                "boolean5_control_"]
 
 all_train_data = ["boolean3_plus_train.csv",
                   "boolean4_plus_train.csv",
-                  "boolean5_plus_train.csv"]
+                  "boolean5_plus_train.csv",
+                  "boolean3_control_train.csv",
+                  "boolean4_control_train.csv",
+                  "boolean5_control_train.csv"]
 
 all_test_data = ["boolean3_plus_test.csv",
                  "boolean4_plus_test.csv",
-                 "boolean5_plus_test.csv"]
+                 "boolean5_plus_test.csv",
+                 "boolean3_control_test.csv",
+                 "boolean4_control_test.csv",
+                 "boolean5_control_test.csv"]
 
 
 def search(all_prefixes,
