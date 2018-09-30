@@ -7,26 +7,48 @@ from contra_qa.train_functions.GRU import GRU
 from contra_qa.train_functions.random_search import naive_grid_search
 
 
-all_prefixes = ["boolean3_plus_",
-                "boolean4_plus_",
-                "boolean5_plus_",
-                "boolean3_control_",
-                "boolean4_control_",
-                "boolean5_control_"]
+# all_prefixes = ["boolean3_plus_",
+#                 "boolean4_plus_",
+#                 "boolean5_plus_",
+#                 "boolean3_control_",
+#                 "boolean4_control_",
+#                 "boolean5_control_",
+#                 "boolean8_control_",
+#                 "boolean9_control_",
+#                 "boolean10_control_"]
 
-all_train_data = ["boolean3_plus_train.csv",
-                  "boolean4_plus_train.csv",
-                  "boolean5_plus_train.csv",
-                  "boolean3_control_train.csv",
-                  "boolean4_control_train.csv",
-                  "boolean5_control_train.csv"]
+# all_train_data = ["boolean3_plus_train.csv",
+#                   "boolean4_plus_train.csv",
+#                   "boolean5_plus_train.csv",
+#                   "boolean3_control_train.csv",
+#                   "boolean4_control_train.csv",
+#                   "boolean5_control_train.csv",
+#                   "boolean8_control_train.csv",
+#                   "boolean9_control_train.csv",
+#                   "boolean10_control_train.csv"]
 
-all_test_data = ["boolean3_plus_test.csv",
-                 "boolean4_plus_test.csv",
-                 "boolean5_plus_test.csv",
-                 "boolean3_control_test.csv",
-                 "boolean4_control_test.csv",
-                 "boolean5_control_test.csv"]
+# all_test_data = ["boolean3_plus_test.csv",
+#                  "boolean4_plus_test.csv",
+#                  "boolean5_plus_test.csv",
+#                  "boolean3_control_test.csv",
+#                  "boolean4_control_test.csv",
+#                  "boolean5_control_test.csv",
+#                  "boolean8_control_test.csv",
+#                  "boolean9_control_test.csv",
+#                  "boolean10_control_test.csv"]
+
+
+all_prefixes = ["boolean8_control_",
+                "boolean9_control_",
+                "boolean10_control_"]
+
+all_train_data = ["boolean8_control_train.csv",
+                  "boolean9_control_train.csv",
+                  "boolean10_control_train.csv"]
+
+all_test_data = ["boolean8_control_test.csv",
+                 "boolean9_control_test.csv",
+                 "boolean10_control_test.csv"]
 
 
 def search(all_prefixes,
@@ -39,7 +61,7 @@ def search(all_prefixes,
            acc_bound):
     if not os.path.exists("data"):
         print("Generating data \n")
-        # create_all()
+        create_all()
     if not os.path.exists("results"):
         os.makedirs("results")
 
@@ -85,7 +107,11 @@ def main():
             Tasks = 
                     3) boolean3: NP conjoined by and PLUS\n
                     4) boolean4: VP conjoined by and PLUS\n
-                    5) boolean5: AP conjoined by and PLUS\n"""
+                    5) boolean5: AP conjoined by and PLUS\n
+                    8) boolean3: NP conjoined by or PLUS\n
+                    9) boolean4: VP conjoined by or PLUS\n
+                    10) boolean5: AP conjoined by or PLUS\n
+                    """
     parser = argparse.ArgumentParser(description=msg)
     parser.add_argument("-m",
                     "--model",
