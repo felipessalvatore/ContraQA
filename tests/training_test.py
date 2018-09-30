@@ -133,48 +133,52 @@ class TrainFunctionsTest(unittest.TestCase):
 
     def test_random_param_train(self):
 
-        acc1 = train_model_on_params(RNN,
-                                     self.path_train,
-                                     self.path_test,
-                                     "testRNN.png",
-                                     5,
-                                     100,
-                                     100,
-                                     0.05,
-                                     0.1)
+        acc1 = train_model_on_params(Model=RNN,
+                                     train_data_path=self.path_train,
+                                     test_data_path=self.path_test,
+                                     pkl_path="testRNN.png",
+                                     epochs=5,
+                                     embedding_dim=100,
+                                     layers=1,
+                                     rnn_dim=100,
+                                     learning_rate=0.05,
+                                     momentum=0.1)
 
-        acc2 = train_model_on_params(GRU,
-                                     self.path_train,
-                                     self.path_test,
-                                     "testRNN.png",
-                                     5,
-                                     50,
-                                     50,
-                                     0.05,
-                                     0.1)
+        acc2 = train_model_on_params(Model=GRU,
+                                     train_data_path=self.path_train,
+                                     test_data_path=self.path_test,
+                                     pkl_path="testRNN.png",
+                                     epochs=5,
+                                     embedding_dim=50,
+                                     layers=1,
+                                     rnn_dim=50,
+                                     learning_rate=0.05,
+                                     momentum=0.1)
 
-        acc3 = train_model_on_params(LSTM,
-                                     self.path_train,
-                                     self.path_test,
-                                     "testRNN.png",
-                                     5,
-                                     23,
-                                     30,
-                                     0.05,
-                                     0.1)
+        acc3 = train_model_on_params(Model=LSTM,
+                                     train_data_path=self.path_train,
+                                     test_data_path=self.path_test,
+                                     pkl_path="testRNN.png",
+                                     epochs=5,
+                                     embedding_dim=23,
+                                     rnn_dim=30,
+                                     layers=1,
+                                     learning_rate=0.05,
+                                     momentum=0.1)
         acc = acc1 + acc2 + acc3
         msg = "after training, valid_acc = {:.3f}".format(acc)
         self.assertTrue(acc >= 0.6 * 3, msg=msg)
 
     def test_random_param_train_bound(self):
 
-        all_acc, all_hyper_params, all_names = random_search(RNN,
-                                                             10,
-                                                             self.path_train,
-                                                             self.path_test,
+        all_acc, all_hyper_params, all_names = random_search(Model=RNN,
+                                                             trials=10,
+                                                             train_data_path=self.path_train, # noqa
+                                                             test_data_path=self.path_test, # noqa
                                                              epoch_bounds=[1, 2], # noqa
                                                              embedding_dim_bounds=[10, 500], # noqa
                                                              rnn_dim_bounds=[10, 500], # noqa
+                                                             layers_bounds=[1, 2], # noqa
                                                              learning_rate_bounds=[0, 1], # noqa
                                                              momentum_bounds=[0, 1], # noqa
                                                              verbose=False, # noqa
@@ -189,24 +193,26 @@ class TrainFunctionsTest(unittest.TestCase):
     def test_grid_search_bound(self):
 
         init = time.time()
-        _, _, _ = naive_grid_search(RNN,
-                                    1,
-                                    1,
-                                    self.path_train,
-                                    self.path_test,
+        _, _, _ = naive_grid_search(Model=RNN,
+                                    search_trials=1,
+                                    random_trials=1,
+                                    train_data_path=self.path_train,
+                                    test_data_path=self.path_test,
                                     epoch_bounds=[1, 2],
+                                    layers_bounds=[1, 2],
                                     verbose=False,
                                     prefix="RNN_boolean1_")
         reference = time.time() - init
 
         init = time.time()
 
-        test_accRNN, _, _ = naive_grid_search(RNN,
-                                              10,
-                                              10,
-                                              self.path_train,
-                                              self.path_test,
+        test_accRNN, _, _ = naive_grid_search(Model=RNN,
+                                              search_trials=10,
+                                              random_trials=10,
+                                              train_data_path=self.path_train,
+                                              test_data_path=self.path_test,
                                               epoch_bounds=[1, 2],
+                                              layers_bounds=[1, 2],
                                               verbose=False,
                                               prefix="RNN_boolean1_",
                                               acc_bound=0.5)
@@ -216,14 +222,15 @@ class TrainFunctionsTest(unittest.TestCase):
         self.assertTrue(cond, msg=msg)
 
     def test_random_search(self):
-        all_acc, all_hyper_params, all_names = random_search(RNN,
-                                                             2,
-                                                             self.path_train,
-                                                             self.path_test,
+        all_acc, all_hyper_params, all_names = random_search(Model=RNN,
+                                                             trials=2,
+                                                             train_data_path=self.path_train,
+                                                             test_data_path=self.path_test,
                                                              epoch_bounds=[1, 2], # noqa
                                                              embedding_dim_bounds=[10, 500], # noqa
                                                              rnn_dim_bounds=[10, 500], # noqa
                                                              learning_rate_bounds=[0, 1], # noqa
+                                                             layers_bounds=[1, 2], # noqa
                                                              momentum_bounds=[0, 1], # noqa
                                                              verbose=False, # noqa
                                                              prefix="RNN_boolean1_") # noqa
@@ -233,29 +240,32 @@ class TrainFunctionsTest(unittest.TestCase):
                         msg="acc list = {}".format(all_acc))
 
     def test_naive_grid_search(self):
-        test_accRNN, _, _ = naive_grid_search(RNN,
-                                              2,
-                                              2,
-                                              self.path_train,
-                                              self.path_test,
+        test_accRNN, _, _ = naive_grid_search(Model=RNN,
+                                              search_trials=2,
+                                              random_trials=2,
+                                              train_data_path=self.path_train,
+                                              test_data_path=self.path_test,
                                               epoch_bounds=[1, 2],
+                                              layers_bounds=[1, 2],
                                               verbose=False,
                                               prefix="RNN_boolean1_")
-        test_accGRU, _, _ = naive_grid_search(GRU,
-                                              2,
-                                              2,
-                                              self.path_train,
-                                              self.path_test,
+        test_accGRU, _, _ = naive_grid_search(Model=GRU,
+                                              search_trials=2,
+                                              random_trials=2,
+                                              train_data_path=self.path_train,
+                                              test_data_path=self.path_test,
                                               epoch_bounds=[1, 2],
+                                              layers_bounds=[1, 2],
                                               verbose=False,
                                               prefix="GRU_boolean1_")
 
-        test_accLSTM, _, _ = naive_grid_search(LSTM,
-                                               2,
-                                               2,
-                                               self.path_train,
-                                               self.path_test,
+        test_accLSTM, _, _ = naive_grid_search(Model=LSTM,
+                                               search_trials=2,
+                                               random_trials=2,
+                                               train_data_path=self.path_train,
+                                               test_data_path=self.path_test,
                                                epoch_bounds=[1, 2],
+                                               layers_bounds=[1, 2],
                                                verbose=False,
                                                prefix="LSTM_boolean1_")
         acc = test_accRNN + test_accGRU + test_accLSTM
