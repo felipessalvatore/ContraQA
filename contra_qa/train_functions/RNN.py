@@ -7,7 +7,7 @@ class RNN(nn.Module):
         super().__init__()
 
         self.embedding = nn.Embedding(config.vocab_size, config.embedding_dim)
-        self.rnn = nn.RNN(config.embedding_dim, config.rnn_dim)
+        self.rnn = nn.LSTM(config.embedding_dim, config.rnn_dim, config.layers)
         self.fc = nn.Linear(config.rnn_dim, config.output_dim)
 
     def forward(self, x):
@@ -21,12 +21,12 @@ class RNN(nn.Module):
         embedded = self.embedding(x)
         output, hidden = self.rnn(embedded)
         # output = [sent len, batch size, hid dim]
-        # hidden = [1, batch size, hid dim]
+        # hidden = [config.layers, batch size, hid dim]
 
         self.output = output
 
-        hidden = hidden.squeeze(0)
-        out = self.fc(hidden)
+        out = output[-1]
+        out = self.fc(out)
         return out
 
     def predict(self, x):
