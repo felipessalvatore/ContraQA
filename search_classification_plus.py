@@ -57,15 +57,15 @@ from contra_qa.train_functions.util import timeSince
 # all_test_data = ["boolean1_test.csv"]
 
 
-# all_prefixes = ["boolean3_control_",
-#                 "boolean4_control_",
-#                 "boolean5_control_",
-#                 "boolean8_control_",
-#                 "boolean9_control_",
-#                 "boolean10_control_",
-#                 "boolean_AND_control_",
-#                 "boolean_OR_control_",
-#                 "boolean_control_"]
+ all_prefixes = ["boolean3_control_",
+                 "boolean4_control_",
+                 "boolean5_control_",
+                 "boolean8_control_",
+                 "boolean9_control_",
+                 "boolean10_control_",
+                 "boolean_AND_control_",
+                 "boolean_OR_control_",
+                 "boolean_control_"]
 
 all_train_data = ["boolean3_control_train.csv",
                   "boolean4_control_train.csv",
