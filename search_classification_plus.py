@@ -57,15 +57,15 @@ from contra_qa.train_functions.util import timeSince
 # all_test_data = ["boolean1_test.csv"]
 
 
-all_prefixes = ["boolean3_control_",
-                "boolean4_control_",
-                "boolean5_control_",
-                "boolean8_control_",
-                "boolean9_control_",
-                "boolean10_control_",
-                "boolean_AND_control_",
-                "boolean_OR_control_",
-                "boolean_control_"]
+# all_prefixes = ["boolean3_control_",
+#                 "boolean4_control_",
+#                 "boolean5_control_",
+#                 "boolean8_control_",
+#                 "boolean9_control_",
+#                 "boolean10_control_",
+#                 "boolean_AND_control_",
+#                 "boolean_OR_control_",
+#                 "boolean_control_"]
 
 all_train_data = ["boolean3_control_train.csv",
                   "boolean4_control_train.csv",
@@ -97,7 +97,8 @@ def search(all_prefixes,
            random_trails,
            acc_bound,
            load_emb,
-           bidirectional):
+           bidirectional,
+           freeze_emb):
     if not os.path.exists("data"):
         print("Generating data \n")
         create_all()
@@ -124,7 +125,8 @@ def search(all_prefixes,
                                                             prefix=prefix,
                                                             acc_bound=acc_bound,  # noqa
                                                             load_emb=load_emb,
-                                                            bidirectional=bidirectional)  # noqa
+                                                            bidirectional=bidirectional, # noqa
+                                                            freeze_emb=freeze_emb)  # noqa
             path = os.path.join("results", prefix + "_results.txt")  # noqa
             best_pkls.append(name)
             with open(path, "w") as file:
@@ -211,6 +213,11 @@ def main():
                         action="store_true",
                         default=False,
                         help="Use bidirectional rnn (default=False)")
+    parser.add_argument("-f",
+                        "--freeze_emb",
+                        action="store_true",
+                        default=False,
+                        help="freeze embedding layer (default=False)")
     args = parser.parse_args()
     models_and_names = {"RNN": RNN, "GRU": GRU, "LSTM": LSTM}
     embedding_and_names = {"None": None,
@@ -242,6 +249,7 @@ def main():
     all_prefixes_cut = all_prefixes[start: end]
     all_train_data_cut = all_train_data[start: end]
     all_test_data_cut = all_test_data[start: end]
+    freeze = args.freeze_emb
 
     start = time.time()
 
@@ -254,7 +262,8 @@ def main():
            random_trails,
            acc_bound,
            load_emb,
-           bidirectional)
+           bidirectional,
+           freeze)
 
     n_exp = len(all_prefixes_cut) * search_trails * random_trails
 

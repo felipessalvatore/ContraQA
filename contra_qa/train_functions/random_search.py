@@ -31,7 +31,8 @@ def train_model_on_params(Model,
                           learning_rate,
                           momentum,
                           load_emb=None,
-                          bidirectional=False):
+                          bidirectional=False,
+                          freeze_emb=False):
     """
     Train model on param
 
@@ -79,6 +80,10 @@ def train_model_on_params(Model,
 
     if load_emb is not None:
         model.embedding.weight.data.copy_(TEXT.vocab.vectors)
+
+    if freeze_emb:
+        for param in model.embedding.parameters():
+            param.requires_grad = False
 
     current_data = DataHolder(current_config,
                               train,
@@ -190,7 +195,8 @@ def random_search(Model,
                   prefix="",
                   acc_bound=1.0,
                   load_emb=None,
-                  bidirectional=False):
+                  bidirectional=False,
+                  freeze_emb=False):
     """
     Train model in n trails on random params
 
@@ -253,19 +259,21 @@ def random_search(Model,
                           "learning_rate": learning_rate,
                           "momentum": momentum,
                           "load_emb": load_emb,
-                          "bidirectional": bidirectional}
+                          "bidirectional": bidirectional,
+                          "freeze_emb": freeze_emb}
 
             if not os.path.exists("tmp_pkl"):
                 os.makedirs("tmp_pkl/")
 
-            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}_bi_{}".format(hyper_dict["load_emb"], # noqa
-                                                                                                                              hyper_dict["epochs"],  # noqa
-                                                                                                                              hyper_dict["layers"],  # noqa
-                                                                                                                              hyper_dict["embedding_dim"],  # noqa
-                                                                                                                              hyper_dict["rnn_dim"],  # noqa
-                                                                                                                              hyper_dict["learning_rate"],  # noqa
-                                                                                                                              hyper_dict["momentum"],  # noqa
-                                                                                                                              hyper_dict["bidirectional"])  # noqa
+            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}_bi_{}_freeze_emb_{}".format(hyper_dict["load_emb"],  # noqa
+                                                                                                                                                 hyper_dict["epochs"],  # noqa
+                                                                                                                                                 hyper_dict["layers"],  # noqa
+                                                                                                                                                 hyper_dict["embedding_dim"],  # noqa
+                                                                                                                                                 hyper_dict["rnn_dim"],  # noqa
+                                                                                                                                                 hyper_dict["learning_rate"],  # noqa
+                                                                                                                                                 hyper_dict["momentum"],  # noqa
+                                                                                                                                                 hyper_dict["bidirectional"], # noqa
+                                                                                                                                                 hyper_dict["freeze_emb"])  # noqa
             name = name.replace(".", "p") + ".pkl"
             name = os.path.join("tmp_pkl", prefix + name)
 
@@ -280,7 +288,8 @@ def random_search(Model,
                                         learning_rate=learning_rate,
                                         momentum=momentum,
                                         load_emb=load_emb,
-                                        bidirectional=bidirectional)
+                                        bidirectional=bidirectional,
+                                        freeze_emb=freeze_emb)
             if verbose:
                 print("====== dict", hyper_dict)
                 print("====== acc", acc)
@@ -307,7 +316,8 @@ def naive_grid_search(Model,
                       prefix="",
                       acc_bound=1.0,
                       load_emb=None,
-                      bidirectional=False):
+                      bidirectional=False,
+                      freeze_emb=False):
     """
     Train model using random params, at each time in search_trials
     the hyper param search is reduce. At the end, the best model
@@ -354,7 +364,7 @@ def naive_grid_search(Model,
             if verbose:
                 print("grid_search ({}/{})\n".format(i + 1, search_trials))
 
-            all_acc, all_hyper_params, all_names = random_search(Model=Model, # noqa
+            all_acc, all_hyper_params, all_names = random_search(Model=Model,  # noqa
                                                                  trials=random_trials,  # noqa
                                                                  train_data_path=train_data_path,  # noqa
                                                                  test_data_path=test_data_path,  # noqa
@@ -368,7 +378,8 @@ def naive_grid_search(Model,
                                                                  prefix=prefix,  # noqa
                                                                  acc_bound=acc_bound,  # noqa
                                                                  load_emb=load_emb,  # noqa
-                                                                 bidirectional=bidirectional)  # noqa
+                                                                 bidirectional=bidirectional,  # noqa
+                                                                 freeze_emb=freeze_emb)  # noqa
 
             best_i = np.argmax(all_acc)
             current_acc = all_acc[best_i]  # noqa
