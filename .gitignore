@@ -10,6 +10,10 @@ __pycache__/
 # models
 *.pkl
 
+# embeddings
+.vector_cache/
+
+
 # tex files
 *.tex
 

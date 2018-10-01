@@ -38,17 +38,39 @@ from contra_qa.train_functions.random_search import naive_grid_search
 #                  "boolean10_control_test.csv"]
 
 
-all_prefixes = ["boolean8_control_",
+all_prefixes = ["boolean3_control_",
+                "boolean4_control_",
+                "boolean5_control_",
+                "boolean8_control_",
                 "boolean9_control_",
                 "boolean10_control_"]
 
-all_train_data = ["boolean8_control_train.csv",
+all_train_data = ["boolean3_control_train.csv",
+                  "boolean4_control_train.csv",
+                  "boolean5_control_train.csv",
+                  "boolean8_control_train.csv",
                   "boolean9_control_train.csv",
                   "boolean10_control_train.csv"]
 
-all_test_data = ["boolean8_control_test.csv",
+all_test_data = ["boolean3_control_test.csv",
+                 "boolean4_control_test.csv",
+                 "boolean5_control_test.csv",
+                 "boolean8_control_test.csv",
                  "boolean9_control_test.csv",
                  "boolean10_control_test.csv"]
+
+
+# all_prefixes = ["boolean8_control_",
+#                 "boolean9_control_",
+#                 "boolean10_control_"]
+
+# all_train_data = ["boolean8_control_train.csv",
+#                   "boolean9_control_train.csv",
+#                   "boolean10_control_train.csv"]
+
+# all_test_data = ["boolean8_control_test.csv",
+#                  "boolean9_control_test.csv",
+#                  "boolean10_control_test.csv"]
 
 
 def search(all_prefixes,
@@ -58,7 +80,8 @@ def search(all_prefixes,
            model_name,
            search_trails,
            random_trails,
-           acc_bound):
+           acc_bound,
+           load_emb):
     if not os.path.exists("data"):
         print("Generating data \n")
         create_all()
@@ -83,7 +106,8 @@ def search(all_prefixes,
                                                             train_data_path,
                                                             test_data_path,
                                                             prefix=prefix,
-                                                            acc_bound=acc_bound) # noqa
+                                                            acc_bound=acc_bound, # noqa
+                                                            load_emb=load_emb) # noqa
             path = os.path.join("results", prefix + "_results.txt") # noqa
             best_pkls.append(name)
             with open(path, "w") as file:
@@ -104,13 +128,30 @@ def main():
 
             Models = RNN, GRU, LSTM\n
 
-            Tasks = 
+            Tasks =
                     3) boolean3: NP conjoined by and PLUS\n
                     4) boolean4: VP conjoined by and PLUS\n
                     5) boolean5: AP conjoined by and PLUS\n
                     8) boolean3: NP conjoined by or PLUS\n
                     9) boolean4: VP conjoined by or PLUS\n
                     10) boolean5: AP conjoined by or PLUS\n
+
+            List of pre trained word embeddings
+
+                     None : None
+                     charngram :  charngram.100d
+                     fasttextEn :  fasttext.en.300d
+                     fasttextSimple :  fasttext.simple.300d
+                     glove42 :  glove.42B.300d
+                     glove84 :  glove.840B.300d
+                     gloveTwitter25 :  glove.twitter.27B.25d
+                     gloveTwitter50 :  glove.twitter.27B.50d
+                     gloveTwitter100 :  glove.twitter.27B.100d
+                     gloveTwitter200 :  glove.twitter.27B.200d
+                     glove6b_80 :  glove.6B.50d
+                     glove6b_100 :  glove.6B.100d
+                     glove6b_200 :  glove.6B.200d
+                     glove6b_300 :  glove.6B.300d
                     """
     parser = argparse.ArgumentParser(description=msg)
     parser.add_argument("-m",
@@ -143,13 +184,33 @@ def main():
                     type=int,
                     default=13,
                     help="position of the last task to be searched -- max=3 (default=13)") # noqa
+    parser.add_argument("-em",
+                    "--embedding",
+                    type=str,
+                    default="None",
+                    help="pre trained word embedding (default=None)") # noqa
 
     args = parser.parse_args()
     models_and_names = {"RNN": RNN, "GRU": GRU, "LSTM": LSTM}
+    embedding_and_names = {"None": None,
+                           "charngram": "charngram.100d",
+                           "fasttextEn": "fasttext.en.300d",
+                           "fasttextSimple": "fasttext.simple.300d",
+                           "glove42": "glove.42B.300d",
+                           "glove84": "glove.840B.300d",
+                           "gloveTwitter25": "glove.twitter.27B.25d",
+                           "gloveTwitter50": "glove.twitter.27B.50d",
+                           "gloveTwitter100": "glove.twitter.27B.100d",
+                           "gloveTwitter200": "glove.twitter.27B.200d",
+                           "glove6b_80": "glove.6B.50d",
+                           "glove6b_100": "glove.6B.100d",
+                           "glove6b_200": "glove.6B.200d",
+                           "glove6b_300": "glove.6B.300d"}
     msg = "not a valid mode"
     user_model = args.model.upper()
     assert user_model in models_and_names
     Model = models_and_names[user_model]
+    load_emb = embedding_and_names[args.embedding]
     model_name = user_model + "_"
     search_trails = args.search_trails
     random_trails = args.random_trails
@@ -166,7 +227,8 @@ def main():
            model_name,
            search_trails,
            random_trails,
-           acc_bound)
+           acc_bound,
+           load_emb)
 
 
 if __name__ == '__main__':

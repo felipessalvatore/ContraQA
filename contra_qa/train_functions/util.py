@@ -1,15 +1,15 @@
 import matplotlib
 matplotlib.use('Agg')
-import torch # noqa
-import torch.nn as nn # noqa
-import torch.optim as optim # noqa
-import numpy as np # noqa
-import matplotlib.pyplot as plt # noqa
-import pandas as pd # noqa
-from torchtext import data # noqa
-import os # noqa
-import inspect # noqa
-import sys # noqa
+import torch  # noqa
+import torch.nn as nn  # noqa
+import torch.optim as optim  # noqa
+import numpy as np  # noqa
+import matplotlib.pyplot as plt  # noqa
+import pandas as pd  # noqa
+from torchtext import data  # noqa
+import os  # noqa
+import inspect  # noqa
+import sys  # noqa
 
 almost_current = os.path.abspath(inspect.getfile(inspect.currentframe()))
 currentdir = os.path.dirname(almost_current)
@@ -17,9 +17,9 @@ parentdir = os.path.dirname(currentdir)
 sys.path.insert(0, parentdir)
 
 try:
-    from text_processing.functions import simple_pre_process_text_df # noqa
+    from text_processing.functions import simple_pre_process_text_df  # noqa
 except ImportError:
-    from contra_qa.text_processing.functions import simple_pre_process_text_df # noqa
+    from contra_qa.text_processing.functions import simple_pre_process_text_df  # noqa
 
 
 def pre_process_df(train_data, test_data):
@@ -36,7 +36,7 @@ def pre_process_df(train_data, test_data):
     :return: transformed train dataset, transformed test dataset
     :rtype: pd.DataFrame, pd.DataFrame
     """
-    train_data["text"] = train_data["sentence1"] + ", " + train_data["sentence2"] # noqa
+    train_data["text"] = train_data["sentence1"] + ", " + train_data["sentence2"]  # noqa
     test_data["text"] = test_data["sentence1"] + ", " + test_data["sentence2"]
     train_data.drop(["sentence1", "sentence2"], axis=1, inplace=True)
     test_data.drop(["sentence1", "sentence2"], axis=1, inplace=True)
@@ -61,7 +61,7 @@ def pre_process_df_and(train_data, test_data):
     :return: transformed train dataset, transformed test dataset
     :rtype: pd.DataFrame, pd.DataFrame
     """
-    train_data["text"] = train_data["sentence1"] + ", " + train_data["sentence2"] # noqa
+    train_data["text"] = train_data["sentence1"] + ", " + train_data["sentence2"]  # noqa
     test_data["text"] = test_data["sentence1"] + ", " + test_data["sentence2"]
     train_data.drop(["sentence1", "sentence2"], axis=1, inplace=True)
     test_data.drop(["sentence1", "sentence2"], axis=1, inplace=True)
@@ -274,3 +274,31 @@ def get_data(train_path,
     LABEL.build_vocab(train)
 
     return TEXT, LABEL, train, valid, test
+
+
+emb_list = ["charngram.100d", "fasttext.en.300d",
+            "fasttext.simple.300d",
+            "glove.42B.300d",
+            "glove.840B.300d",
+            "glove.twitter.27B.25d",
+            "glove.twitter.27B.50d",
+            "glove.twitter.27B.100d",
+            "glove.twitter.27B.200d",
+            "glove.6B.50d",
+            "glove.6B.100d",
+            "glove.6B.200d",
+            "glove.6B.300d"]
+
+emb2size = {"charngram.100d": 100,
+            "fasttext.en.300d": 300,
+            "fasttext.simple.300d": 300,
+            "glove.42B.300d": 300,
+            "glove.840B.300d": 300,
+            "glove.twitter.27B.25d": 25,
+            "glove.twitter.27B.50d": 50,
+            "glove.twitter.27B.100d": 100,
+            "glove.twitter.27B.200d": 200,
+            "glove.6B.50d": 50,
+            "glove.6B.100d": 100,
+            "glove.6B.200d": 200,
+            "glove.6B.300d": 300}

@@ -3,9 +3,9 @@ import torch
 import numpy as np
 
 try:
-    from util import training_loop_text_classification, get_data  # noqa
+    from util import training_loop_text_classification, get_data, emb2size  # noqa
 except ImportError:
-    from contra_qa.train_functions.util import training_loop_text_classification, get_data  # noqa
+    from contra_qa.train_functions.util import training_loop_text_classification, get_data, emb2size  # noqa
 
 
 try:
@@ -29,7 +29,8 @@ def train_model_on_params(Model,
                           layers,
                           rnn_dim,
                           learning_rate,
-                          momentum):
+                          momentum,
+                          load_emb=None):
     """
     Train model on param
 
@@ -60,6 +61,10 @@ def train_model_on_params(Model,
     TEXT, LABEL, train, valid, test = get_data(train_data_path,
                                                test_data_path)
 
+    if load_emb is not None:
+        TEXT.vocab.load_vectors(load_emb)
+        embedding_dim = emb2size[load_emb]
+
     current_config = RNNConfig(vocab_size=len(TEXT.vocab),
                                output_dim=len(LABEL.vocab),
                                epochs=epochs,
@@ -69,6 +74,9 @@ def train_model_on_params(Model,
                                learning_rate=learning_rate,
                                momentum=momentum)
     model = Model(current_config)
+
+    if load_emb is not None:
+        model.embedding.weight.data.copy_(TEXT.vocab.vectors)
 
     current_data = DataHolder(current_config,
                               train,
@@ -159,6 +167,11 @@ def get_random_cont_param(lower_bound=0, upper_bound=1):
     return np.random.uniform(lower_bound, upper_bound)
 
 
+def get_random_from_list(list_):
+
+    return np.random.choice(list_)
+
+
 def random_search(Model,
                   trials,
                   train_data_path,
@@ -171,7 +184,8 @@ def random_search(Model,
                   momentum_bounds=[0, 1],
                   verbose=True,
                   prefix="",
-                  acc_bound=1.0):
+                  acc_bound=1.0,
+                  load_emb=None):
     """
     Train model in n trails on random params
 
@@ -201,6 +215,7 @@ def random_search(Model,
     :return: list  of accuracy, list of hyperperams, list of pkl paths
     :rtype: [float], [dict], [str]
     """
+
     all_acc = []
     all_hyper_params = []
     all_names = []
@@ -222,22 +237,28 @@ def random_search(Model,
                                                   learning_rate_bounds[1])
             momentum = get_random_cont_param(momentum_bounds[0],
                                              momentum_bounds[1])
+
+            if load_emb is not None:
+                embedding_dim = emb2size[load_emb]
+
             hyper_dict = {"epochs": epochs,
                           "embedding_dim": embedding_dim,
                           "rnn_dim": rnn_dim,
                           "layers": layers,
                           "learning_rate": learning_rate,
-                          "momentum": momentum}
+                          "momentum": momentum,
+                          "load_emb": load_emb}
 
             if not os.path.exists("tmp_pkl"):
                 os.makedirs("tmp_pkl/")
 
-            name = "epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}".format(hyper_dict["epochs"],  # noqa
-                                                                                            hyper_dict["layers"],  # noqa
-                                                                                            hyper_dict["embedding_dim"],  # noqa
-                                                                                            hyper_dict["rnn_dim"],  # noqa
-                                                                                            hyper_dict["learning_rate"],  # noqa
-                                                                                            hyper_dict["momentum"])  # noqa
+            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}".format(hyper_dict["load_emb"], # noqa
+                                                                                                                              hyper_dict["epochs"],  # noqa
+                                                                                                                              hyper_dict["layers"],  # noqa
+                                                                                                                              hyper_dict["embedding_dim"],  # noqa
+                                                                                                                              hyper_dict["rnn_dim"],  # noqa
+                                                                                                                              hyper_dict["learning_rate"],  # noqa
+                                                                                                                              hyper_dict["momentum"])  # noqa
             name = name.replace(".", "p") + ".pkl"
             name = os.path.join("tmp_pkl", prefix + name)
 
@@ -250,7 +271,8 @@ def random_search(Model,
                                         layers=layers,
                                         rnn_dim=rnn_dim,
                                         learning_rate=learning_rate,
-                                        momentum=momentum)
+                                        momentum=momentum,
+                                        load_emb=load_emb)
             if verbose:
                 print("====== dict", hyper_dict)
                 print("====== acc", acc)
@@ -275,7 +297,8 @@ def naive_grid_search(Model,
                       momentum_bounds=[0, 1],
                       verbose=True,
                       prefix="",
-                      acc_bound=1.0):
+                      acc_bound=1.0,
+                      load_emb=None):
     """
     Train model using random params, at each time in search_trials
     the hyper param search is reduce. At the end, the best model
@@ -334,7 +357,8 @@ def naive_grid_search(Model,
                                                                  momentum_bounds=momentum_bounds,  # noqa
                                                                  verbose=verbose,  # noqa
                                                                  prefix=prefix,
-                                                                 acc_bound=acc_bound)  # noqa
+                                                                 acc_bound=acc_bound,
+                                                                 load_emb=load_emb)  # noqa
 
             best_i = np.argmax(all_acc)
             current_acc = all_acc[best_i]  # noqa
