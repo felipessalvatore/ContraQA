@@ -30,7 +30,8 @@ def train_model_on_params(Model,
                           rnn_dim,
                           learning_rate,
                           momentum,
-                          load_emb=None):
+                          load_emb=None,
+                          bidirectional=False):
     """
     Train model on param
 
@@ -72,7 +73,8 @@ def train_model_on_params(Model,
                                rnn_dim=rnn_dim,
                                embedding_dim=embedding_dim,
                                learning_rate=learning_rate,
-                               momentum=momentum)
+                               momentum=momentum,
+                               bidirectional=bidirectional)
     model = Model(current_config)
 
     if load_emb is not None:
@@ -104,7 +106,8 @@ def eval_model_on_test(Model,
                        rnn_dim,
                        layers,
                        learning_rate,
-                       momentum):
+                       momentum,
+                       bidirectional):
     """
     Eval model on param
 
@@ -142,7 +145,8 @@ def eval_model_on_test(Model,
                                embedding_dim=embedding_dim,
                                layers=layers,
                                learning_rate=learning_rate,
-                               momentum=momentum)
+                               momentum=momentum,
+                               bidirectional=bidirectional)
 
     current_data = DataHolder(current_config,
                               train,
@@ -185,7 +189,8 @@ def random_search(Model,
                   verbose=True,
                   prefix="",
                   acc_bound=1.0,
-                  load_emb=None):
+                  load_emb=None,
+                  bidirectional=False):
     """
     Train model in n trails on random params
 
@@ -247,18 +252,20 @@ def random_search(Model,
                           "layers": layers,
                           "learning_rate": learning_rate,
                           "momentum": momentum,
-                          "load_emb": load_emb}
+                          "load_emb": load_emb,
+                          "bidirectional": bidirectional}
 
             if not os.path.exists("tmp_pkl"):
                 os.makedirs("tmp_pkl/")
 
-            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}".format(hyper_dict["load_emb"], # noqa
+            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}_bi_{}".format(hyper_dict["load_emb"], # noqa
                                                                                                                               hyper_dict["epochs"],  # noqa
                                                                                                                               hyper_dict["layers"],  # noqa
                                                                                                                               hyper_dict["embedding_dim"],  # noqa
                                                                                                                               hyper_dict["rnn_dim"],  # noqa
                                                                                                                               hyper_dict["learning_rate"],  # noqa
-                                                                                                                              hyper_dict["momentum"])  # noqa
+                                                                                                                              hyper_dict["momentum"],  # noqa
+                                                                                                                              hyper_dict["bidirectional"])  # noqa
             name = name.replace(".", "p") + ".pkl"
             name = os.path.join("tmp_pkl", prefix + name)
 
@@ -272,7 +279,8 @@ def random_search(Model,
                                         rnn_dim=rnn_dim,
                                         learning_rate=learning_rate,
                                         momentum=momentum,
-                                        load_emb=load_emb)
+                                        load_emb=load_emb,
+                                        bidirectional=bidirectional)
             if verbose:
                 print("====== dict", hyper_dict)
                 print("====== acc", acc)
@@ -298,7 +306,8 @@ def naive_grid_search(Model,
                       verbose=True,
                       prefix="",
                       acc_bound=1.0,
-                      load_emb=None):
+                      load_emb=None,
+                      bidirectional=False):
     """
     Train model using random params, at each time in search_trials
     the hyper param search is reduce. At the end, the best model
@@ -356,9 +365,10 @@ def naive_grid_search(Model,
                                                                  learning_rate_bounds=learning_rate_bounds,  # noqa
                                                                  momentum_bounds=momentum_bounds,  # noqa
                                                                  verbose=verbose,  # noqa
-                                                                 prefix=prefix,
-                                                                 acc_bound=acc_bound,
-                                                                 load_emb=load_emb)  # noqa
+                                                                 prefix=prefix,  # noqa
+                                                                 acc_bound=acc_bound,  # noqa
+                                                                 load_emb=load_emb,  # noqa
+                                                                 bidirectional=bidirectional)  # noqa
 
             best_i = np.argmax(all_acc)
             current_acc = all_acc[best_i]  # noqa
@@ -396,6 +406,7 @@ def naive_grid_search(Model,
                                   layers=best_params["layers"],
                                   rnn_dim=best_params["rnn_dim"],  # noqa
                                   learning_rate=best_params["learning_rate"],  # noqa
-                                  momentum=best_params["momentum"])
+                                  momentum=best_params["momentum"],
+                                  bidirectional=best_params["bidirectional"])
 
     return test_acc, best_params, model_path

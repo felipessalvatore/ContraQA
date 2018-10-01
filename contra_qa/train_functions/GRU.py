@@ -7,7 +7,10 @@ class GRU(nn.Module):
         super().__init__()
 
         self.embedding = nn.Embedding(config.vocab_size, config.embedding_dim)
-        self.rnn = nn.GRU(config.embedding_dim, config.rnn_dim, config.layers)
+        self.rnn = nn.GRU(config.embedding_dim,
+                          config.rnn_dim,
+                          config.layers,
+                          bidirectional=config.bidirectional)
         self.fc = nn.Linear(config.rnn_dim, config.output_dim)
 
     def forward(self, x):
@@ -25,7 +28,7 @@ class GRU(nn.Module):
 
         self.output = output
 
-        out = output[-1]
+        out = hidden[-1]
         out = self.fc(out)
         return out
 

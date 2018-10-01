@@ -29,7 +29,8 @@ class RNNConfig(object):
                  layers=1,
                  epochs=8,
                  learning_rate=0.01,
-                 momentum=0.2):
+                 momentum=0.2,
+                 bidirectional=False):
         self.vocab_size = vocab_size
         self.batch_size = batch_size
         self.embedding_dim = embedding_dim
@@ -39,6 +40,7 @@ class RNNConfig(object):
         self.epochs = epochs
         self.learning_rate = learning_rate
         self.momentum = momentum
+        self.bidirectional = bidirectional
 
     def __str__(self):
         """
@@ -55,4 +57,5 @@ class RNNConfig(object):
         status += "epochs = {}\n".format(self.epochs)
         status += "learning_rate = {}\n".format(self.learning_rate)
         status += "momentum = {}\n".format(self.momentum)
+        status += "bidirectional = {}\n".format(self.bidirectional)
         return status

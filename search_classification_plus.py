@@ -37,40 +37,48 @@ from contra_qa.train_functions.random_search import naive_grid_search
 #                  "boolean9_control_test.csv",
 #                  "boolean10_control_test.csv"]
 
+# all_prefixes = ["boolean_control_"]
+# all_train_data = ["boolean_control_train.csv"]
+# all_test_data = ["boolean_control_test.csv"]
+
+# all_prefixes = ["boolean_AND_control_"]
+# all_train_data = ["boolean_AND_control_train.csv"]
+# all_test_data = ["boolean_AND_control_test.csv"]
+
+
+# all_prefixes = ["boolean_OR_control_"]
+# all_train_data = ["boolean_OR_control_train.csv"]
+# all_test_data = ["boolean_OR_control_test.csv"]
 
 all_prefixes = ["boolean3_control_",
                 "boolean4_control_",
                 "boolean5_control_",
                 "boolean8_control_",
                 "boolean9_control_",
-                "boolean10_control_"]
+                "boolean10_control_",
+                "boolean_AND_control_",
+                "boolean_OR_control_",
+                "boolean_control_"]
 
 all_train_data = ["boolean3_control_train.csv",
                   "boolean4_control_train.csv",
                   "boolean5_control_train.csv",
                   "boolean8_control_train.csv",
                   "boolean9_control_train.csv",
-                  "boolean10_control_train.csv"]
+                  "boolean10_control_train.csv",
+                  "boolean_AND_control_train.csv",
+                  "boolean_OR_control_train.csv",
+                  "boolean_control_train.csv"]
 
 all_test_data = ["boolean3_control_test.csv",
                  "boolean4_control_test.csv",
                  "boolean5_control_test.csv",
                  "boolean8_control_test.csv",
                  "boolean9_control_test.csv",
-                 "boolean10_control_test.csv"]
-
-
-# all_prefixes = ["boolean8_control_",
-#                 "boolean9_control_",
-#                 "boolean10_control_"]
-
-# all_train_data = ["boolean8_control_train.csv",
-#                   "boolean9_control_train.csv",
-#                   "boolean10_control_train.csv"]
-
-# all_test_data = ["boolean8_control_test.csv",
-#                  "boolean9_control_test.csv",
-#                  "boolean10_control_test.csv"]
+                 "boolean10_control_test.csv",
+                 "boolean_AND_control_test.csv",
+                 "boolean_OR_control_test.csv",
+                 "boolean_control_test.csv"]
 
 
 def search(all_prefixes,
@@ -81,7 +89,8 @@ def search(all_prefixes,
            search_trails,
            random_trails,
            acc_bound,
-           load_emb):
+           load_emb,
+           bidirectional):
     if not os.path.exists("data"):
         print("Generating data \n")
         create_all()
@@ -107,7 +116,8 @@ def search(all_prefixes,
                                                             test_data_path,
                                                             prefix=prefix,
                                                             acc_bound=acc_bound, # noqa
-                                                            load_emb=load_emb) # noqa
+                                                            load_emb=load_emb,
+                                                            bidirectional=bidirectional) # noqa
             path = os.path.join("results", prefix + "_results.txt") # noqa
             best_pkls.append(name)
             with open(path, "w") as file:
@@ -172,8 +182,8 @@ def main():
     parser.add_argument("-ab",
                     "--acc_bound",
                     type=float,
-                    default=0.9,
-                    help=" upper bound for the accuracy of each task (default=0.9)") # noqa
+                    default=1.0,
+                    help=" upper bound for the accuracy of each task (default=1.0)") # noqa
     parser.add_argument("-s",
                     "--start",
                     type=int,
@@ -189,7 +199,11 @@ def main():
                     type=str,
                     default="None",
                     help="pre trained word embedding (default=None)") # noqa
-
+    parser.add_argument("-bi",
+                        "--bidirectional",
+                        action="store_true",
+                        default=False,
+                        help="Use bidirectional rnn (default=False)")
     args = parser.parse_args()
     models_and_names = {"RNN": RNN, "GRU": GRU, "LSTM": LSTM}
     embedding_and_names = {"None": None,
@@ -217,6 +231,7 @@ def main():
     acc_bound = args.acc_bound
     start = args.start - 1
     end = args.end
+    bidirectional = args.bidirectional
     all_prefixes_cut = all_prefixes[start: end]
     all_train_data_cut = all_train_data[start: end]
     all_test_data_cut = all_test_data[start: end]
@@ -228,7 +243,8 @@ def main():
            search_trails,
            random_trails,
            acc_bound,
-           load_emb)
+           load_emb,
+           bidirectional)
 
 
 if __name__ == '__main__':
