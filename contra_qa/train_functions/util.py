@@ -10,6 +10,9 @@ from torchtext import data  # noqa
 import os  # noqa
 import inspect  # noqa
 import sys  # noqa
+import time  # noqa
+import math  # noqa
+
 
 almost_current = os.path.abspath(inspect.getfile(inspect.currentframe()))
 currentdir = os.path.dirname(almost_current)
@@ -302,3 +305,15 @@ emb2size = {"charngram.100d": 100,
             "glove.6B.100d": 100,
             "glove.6B.200d": 200,
             "glove.6B.300d": 300}
+
+
+def asMinutes(s):
+    m = math.floor(s / 60)
+    s -= m * 60
+    return '%dm %ds' % (m, s)
+
+
+def timeSince(since):
+    now = time.time()
+    s = now - since
+    return '%s' % asMinutes(s)

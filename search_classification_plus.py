@@ -1,10 +1,12 @@
 import os
 import argparse
+import time
 from contra_qa.text_generation.boolean_data_gen import create_all
 from contra_qa.train_functions.RNN import RNN
 from contra_qa.train_functions.LSTM import LSTM
 from contra_qa.train_functions.GRU import GRU
 from contra_qa.train_functions.random_search import naive_grid_search
+from contra_qa.train_functions.util import timeSince
 
 
 # all_prefixes = ["boolean3_plus_",
@@ -49,6 +51,11 @@ from contra_qa.train_functions.random_search import naive_grid_search
 # all_prefixes = ["boolean_OR_control_"]
 # all_train_data = ["boolean_OR_control_train.csv"]
 # all_test_data = ["boolean_OR_control_test.csv"]
+
+# all_prefixes = ["boolean1_"]
+# all_train_data = ["boolean1_train.csv"]
+# all_test_data = ["boolean1_test.csv"]
+
 
 all_prefixes = ["boolean3_control_",
                 "boolean4_control_",
@@ -115,10 +122,10 @@ def search(all_prefixes,
                                                             train_data_path,
                                                             test_data_path,
                                                             prefix=prefix,
-                                                            acc_bound=acc_bound, # noqa
+                                                            acc_bound=acc_bound,  # noqa
                                                             load_emb=load_emb,
-                                                            bidirectional=bidirectional) # noqa
-            path = os.path.join("results", prefix + "_results.txt") # noqa
+                                                            bidirectional=bidirectional)  # noqa
+            path = os.path.join("results", prefix + "_results.txt")  # noqa
             best_pkls.append(name)
             with open(path, "w") as file:
                 file.write("results on {}\n".format(test))
@@ -168,37 +175,37 @@ def main():
                     "--model",
                     type=str,
                     default="RNN",
-                    help="model type: 'RNN', 'GRU', 'LSTM' (default=RNN)") # noqa
+                    help="model type: 'RNN', 'GRU', 'LSTM' (default=RNN)")  # noqa
     parser.add_argument("-st",
                     "--search_trails",
                     type=int,
                     default=10,
-                    help="number of times to call the grid seach funtion(default=10)") # noqa
+                    help="number of times to call the grid seach funtion(default=10)")  # noqa
     parser.add_argument("-rt",
                     "--random_trails",
                     type=int,
                     default=5,
-                    help="number of times to call the random seach funtion(default=5)") # noqa
+                    help="number of times to call the random seach funtion(default=5)")  # noqa
     parser.add_argument("-ab",
                     "--acc_bound",
                     type=float,
                     default=1.0,
-                    help=" upper bound for the accuracy of each task (default=1.0)") # noqa
+                    help=" upper bound for the accuracy of each task (default=1.0)")  # noqa
     parser.add_argument("-s",
                     "--start",
                     type=int,
                     default=1,
-                    help="position of the first task to be searched -- min=1 (default=1)") # noqa
+                    help="position of the first task to be searched -- min=1 (default=1)")  # noqa
     parser.add_argument("-e",
                     "--end",
                     type=int,
                     default=13,
-                    help="position of the last task to be searched -- max=3 (default=13)") # noqa
+                    help="position of the last task to be searched -- max=3 (default=13)")  # noqa
     parser.add_argument("-em",
                     "--embedding",
                     type=str,
                     default="None",
-                    help="pre trained word embedding (default=None)") # noqa
+                    help="pre trained word embedding (default=None)")  # noqa
     parser.add_argument("-bi",
                         "--bidirectional",
                         action="store_true",
@@ -235,6 +242,9 @@ def main():
     all_prefixes_cut = all_prefixes[start: end]
     all_train_data_cut = all_train_data[start: end]
     all_test_data_cut = all_test_data[start: end]
+
+    start = time.time()
+
     search(all_prefixes_cut,
            all_train_data_cut,
            all_test_data_cut,
@@ -245,6 +255,10 @@ def main():
            acc_bound,
            load_emb,
            bidirectional)
+
+    n_exp = len(all_prefixes_cut) * search_trails * random_trails
+
+    print("time after <= {} experiments: {}".format(n_exp, timeSince(start)))
 
 
 if __name__ == '__main__':
