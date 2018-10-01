@@ -57,15 +57,15 @@ from contra_qa.train_functions.util import timeSince
 # all_test_data = ["boolean1_test.csv"]
 
 
- all_prefixes = ["boolean3_control_",
-                 "boolean4_control_",
-                 "boolean5_control_",
-                 "boolean8_control_",
-                 "boolean9_control_",
-                 "boolean10_control_",
-                 "boolean_AND_control_",
-                 "boolean_OR_control_",
-                 "boolean_control_"]
+all_prefixes = ["boolean3_control_",
+                "boolean4_control_",
+                "boolean5_control_",
+                "boolean8_control_",
+                "boolean9_control_",
+                "boolean10_control_",
+                "boolean_AND_control_",
+                "boolean_OR_control_",
+                "boolean_control_"]
 
 all_train_data = ["boolean3_control_train.csv",
                   "boolean4_control_train.csv",
@@ -109,31 +109,31 @@ def search(all_prefixes,
     best_pkls = []
 
     for i, (prefix, train, test) in enumerate(zip(all_prefixes,
-                                              all_train_data,
-                                              all_test_data)):
-            print(prefix, "\n")
-            train_data_path = os.path.join("data", train)
-            test_data_path = os.path.join("data", test)
-            print(train_data_path)
-            print(test_data_path)
+                                                  all_train_data,
+                                                  all_test_data)):
+        print(prefix, "\n")
+        train_data_path = os.path.join("data", train)
+        test_data_path = os.path.join("data", test)
+        print(train_data_path)
+        print(test_data_path)
 
-            best_acc, best_params, name = naive_grid_search(Model,
-                                                            search_trails,
-                                                            random_trails,
-                                                            train_data_path,
-                                                            test_data_path,
-                                                            prefix=prefix,
-                                                            acc_bound=acc_bound,  # noqa
-                                                            load_emb=load_emb,
-                                                            bidirectional=bidirectional, # noqa
-                                                            freeze_emb=freeze_emb)  # noqa
-            path = os.path.join("results", prefix + "_results.txt")  # noqa
-            best_pkls.append(name)
-            with open(path, "w") as file:
-                file.write("results on {}\n".format(test))
-                file.write("acc =  {:.3f}\n".format(best_acc))
-                file.write("best_params =  {}\n".format(best_params))
-                file.write("model path =  {}\n".format(name))
+        best_acc, best_params, name = naive_grid_search(Model,
+                                                        search_trails,
+                                                        random_trails,
+                                                        train_data_path,
+                                                        test_data_path,
+                                                        prefix=prefix,
+                                                        acc_bound=acc_bound,  # noqa
+                                                        load_emb=load_emb,
+                                                        bidirectional=bidirectional,  # noqa
+                                                        freeze_emb=freeze_emb)  # noqa
+        path = os.path.join("results", prefix + "_results.txt")  # noqa
+        best_pkls.append(name)
+        with open(path, "w") as file:
+            file.write("results on {}\n".format(test))
+            file.write("acc =  {:.3f}\n".format(best_acc))
+            file.write("best_params =  {}\n".format(best_params))
+            file.write("model path =  {}\n".format(name))
 
     if os.path.exists("tmp_pkl"):
         for file in os.listdir("tmp_pkl"):
