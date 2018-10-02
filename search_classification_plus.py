@@ -87,6 +87,10 @@ all_test_data = ["boolean3_control_test.csv",
                  "boolean_OR_control_test.csv",
                  "boolean_control_test.csv"]
 
+# all_prefixes = ["boolean4_control_"]
+# all_train_data = ["boolean4_control_train.csv"]
+# all_test_data = ["boolean4_control_test.csv"]
+
 
 def search(all_prefixes,
            all_train_data,
@@ -98,7 +102,8 @@ def search(all_prefixes,
            acc_bound,
            load_emb,
            bidirectional,
-           freeze_emb):
+           freeze_emb,
+           opt):
     if not os.path.exists("data"):
         print("Generating data \n")
         create_all()
@@ -126,7 +131,8 @@ def search(all_prefixes,
                                                         acc_bound=acc_bound,  # noqa
                                                         load_emb=load_emb,
                                                         bidirectional=bidirectional,  # noqa
-                                                        freeze_emb=freeze_emb)  # noqa
+                                                        freeze_emb=freeze_emb,
+                                                        opt=opt)  # noqa
         path = os.path.join("results", prefix + "_results.txt")  # noqa
         best_pkls.append(name)
         with open(path, "w") as file:
@@ -218,6 +224,11 @@ def main():
                         action="store_true",
                         default=False,
                         help="freeze embedding layer (default=False)")
+    parser.add_argument("-o",
+                    "--optmizer",
+                    type=str,
+                    default="sgd",
+                    help="torch optmizer: 'sgd', 'adam', 'adagrad' 'rmsprop' (default=sgd)")  # noqa
     args = parser.parse_args()
     models_and_names = {"RNN": RNN, "GRU": GRU, "LSTM": LSTM}
     embedding_and_names = {"None": None,
@@ -234,9 +245,14 @@ def main():
                            "glove6b_100": "glove.6B.100d",
                            "glove6b_200": "glove.6B.200d",
                            "glove6b_300": "glove.6B.300d"}
-    msg = "not a valid mode"
+    msg = "not a valid model"
     user_model = args.model.upper()
-    assert user_model in models_and_names
+    assert user_model in models_and_names, msg
+    opt = args.optmizer.lower().strip()
+    msg = "not a valid opt"
+    all_opts = ['sgd', 'adam', 'adagrad', 'rmsprop']
+    assert opt in all_opts, msg
+
     Model = models_and_names[user_model]
     load_emb = embedding_and_names[args.embedding]
     model_name = user_model + "_"
@@ -250,6 +266,7 @@ def main():
     all_train_data_cut = all_train_data[start: end]
     all_test_data_cut = all_test_data[start: end]
     freeze = args.freeze_emb
+    opt = args.optmizer
 
     start = time.time()
 
@@ -263,7 +280,8 @@ def main():
            acc_bound,
            load_emb,
            bidirectional,
-           freeze)
+           freeze,
+           opt)
 
     n_exp = len(all_prefixes_cut) * search_trails * random_trails
 

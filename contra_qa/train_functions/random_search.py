@@ -32,7 +32,8 @@ def train_model_on_params(Model,
                           momentum,
                           load_emb=None,
                           bidirectional=False,
-                          freeze_emb=False):
+                          freeze_emb=False,
+                          opt="sgd"):
     """
     Train model on param
 
@@ -75,7 +76,8 @@ def train_model_on_params(Model,
                                embedding_dim=embedding_dim,
                                learning_rate=learning_rate,
                                momentum=momentum,
-                               bidirectional=bidirectional)
+                               bidirectional=bidirectional,
+                               opt=opt)
     model = Model(current_config)
 
     if load_emb is not None:
@@ -196,7 +198,8 @@ def random_search(Model,
                   acc_bound=1.0,
                   load_emb=None,
                   bidirectional=False,
-                  freeze_emb=False):
+                  freeze_emb=False,
+                  opt="sgd"):
     """
     Train model in n trails on random params
 
@@ -260,12 +263,13 @@ def random_search(Model,
                           "momentum": momentum,
                           "load_emb": load_emb,
                           "bidirectional": bidirectional,
-                          "freeze_emb": freeze_emb}
+                          "freeze_emb": freeze_emb,
+                          "opt": opt}
 
             if not os.path.exists("tmp_pkl"):
                 os.makedirs("tmp_pkl/")
 
-            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}_bi_{}_freeze_emb_{}".format(hyper_dict["load_emb"],  # noqa
+            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}_bi_{}_freeze_emb_{}_opt_{}".format(hyper_dict["load_emb"],  # noqa
                                                                                                                                                  hyper_dict["epochs"],  # noqa
                                                                                                                                                  hyper_dict["layers"],  # noqa
                                                                                                                                                  hyper_dict["embedding_dim"],  # noqa
@@ -273,7 +277,8 @@ def random_search(Model,
                                                                                                                                                  hyper_dict["learning_rate"],  # noqa
                                                                                                                                                  hyper_dict["momentum"],  # noqa
                                                                                                                                                  hyper_dict["bidirectional"], # noqa
-                                                                                                                                                 hyper_dict["freeze_emb"])  # noqa
+                                                                                                                                                 hyper_dict["freeze_emb"], # noqa
+                                                                                                                                                 hyper_dict["opt"])  # noqa
             name = name.replace(".", "p") + ".pkl"
             name = os.path.join("tmp_pkl", prefix + name)
 
@@ -289,7 +294,8 @@ def random_search(Model,
                                         momentum=momentum,
                                         load_emb=load_emb,
                                         bidirectional=bidirectional,
-                                        freeze_emb=freeze_emb)
+                                        freeze_emb=freeze_emb,
+                                        opt=opt)
             if verbose:
                 print("====== dict", hyper_dict)
                 print("====== acc", acc)
@@ -317,7 +323,8 @@ def naive_grid_search(Model,
                       acc_bound=1.0,
                       load_emb=None,
                       bidirectional=False,
-                      freeze_emb=False):
+                      freeze_emb=False,
+                      opt="sgd"):
     """
     Train model using random params, at each time in search_trials
     the hyper param search is reduce. At the end, the best model
@@ -379,7 +386,8 @@ def naive_grid_search(Model,
                                                                  acc_bound=acc_bound,  # noqa
                                                                  load_emb=load_emb,  # noqa
                                                                  bidirectional=bidirectional,  # noqa
-                                                                 freeze_emb=freeze_emb)  # noqa
+                                                                 freeze_emb=freeze_emb, # noqa
+                                                                 opt=opt)  # noqa
 
             best_i = np.argmax(all_acc)
             current_acc = all_acc[best_i]  # noqa

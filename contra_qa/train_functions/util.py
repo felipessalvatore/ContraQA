@@ -166,10 +166,21 @@ def training_loop_text_classification(model,
     :param verbose: param to control print
     :type verbose: bool
     """
-    optimizer = optim.SGD(model.parameters(),
-                          lr=config.learning_rate,
-                          momentum=config.momentum)
+    if config.opt == "adam":
+        optimizer = optim.Adam(model.parameters(),
+                               lr=config.learning_rate)
 
+    elif config.opt == "adagrad":
+        optimizer = optim.Adagrad(model.parameters(),
+                                  lr=config.learning_rate)
+
+    elif config.opt == "rmsprop":
+        optimizer = optim.RMSprop(model.parameters(),
+                                  lr=config.learning_rate)
+    else:
+        optimizer = optim.SGD(model.parameters(),
+                              lr=config.learning_rate,
+                              momentum=config.momentum)
     criterion = nn.CrossEntropyLoss()
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = model.to(device)
