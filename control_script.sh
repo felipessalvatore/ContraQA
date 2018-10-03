@@ -1,3 +1,5 @@
+# expected time 4.52 days, 7.75 hours per search
+
 python3 -u search_classification_plus.py -m gru -f
 mv results random_results
 mv tmp_pkl random_tmp_pkl

@@ -39,9 +39,9 @@ from contra_qa.train_functions.util import timeSince
 #                  "boolean9_control_test.csv",
 #                  "boolean10_control_test.csv"]
 
-# all_prefixes = ["boolean_control_"]
-# all_train_data = ["boolean_control_train.csv"]
-# all_test_data = ["boolean_control_test.csv"]
+all_prefixes = ["boolean_control_"]
+all_train_data = ["boolean_control_train.csv"]
+all_test_data = ["boolean_control_test.csv"]
 
 # all_prefixes = ["boolean_AND_control_"]
 # all_train_data = ["boolean_AND_control_train.csv"]
@@ -56,36 +56,34 @@ from contra_qa.train_functions.util import timeSince
 # all_train_data = ["boolean1_train.csv"]
 # all_test_data = ["boolean1_test.csv"]
 
+#                 "boolean4_control_",
+#                 "boolean5_control_",
+#                 "boolean8_control_",
+#                 "boolean9_control_",
+#                 "boolean10_control_",
+#                 "boolean_AND_control_",
+#                 "boolean_OR_control_",
+#                 "boolean_control_"]
 
-all_prefixes = ["boolean3_control_",
-                "boolean4_control_",
-                "boolean5_control_",
-                "boolean8_control_",
-                "boolean9_control_",
-                "boolean10_control_",
-                "boolean_AND_control_",
-                "boolean_OR_control_",
-                "boolean_control_"]
+# all_train_data= ["boolean3_control_train.csv",
+#                   "boolean4_control_train.csv",
+#                   "boolean5_control_train.csv",
+#                   "boolean8_control_train.csv",
+#                   "boolean9_control_train.csv",
+#                   "boolean10_control_train.csv",
+#                   "boolean_AND_control_train.csv",
+#                   "boolean_OR_control_train.csv",
+#                   "boolean_control_train.csv"]
 
-all_train_data = ["boolean3_control_train.csv",
-                  "boolean4_control_train.csv",
-                  "boolean5_control_train.csv",
-                  "boolean8_control_train.csv",
-                  "boolean9_control_train.csv",
-                  "boolean10_control_train.csv",
-                  "boolean_AND_control_train.csv",
-                  "boolean_OR_control_train.csv",
-                  "boolean_control_train.csv"]
-
-all_test_data = ["boolean3_control_test.csv",
-                 "boolean4_control_test.csv",
-                 "boolean5_control_test.csv",
-                 "boolean8_control_test.csv",
-                 "boolean9_control_test.csv",
-                 "boolean10_control_test.csv",
-                 "boolean_AND_control_test.csv",
-                 "boolean_OR_control_test.csv",
-                 "boolean_control_test.csv"]
+# all_test_data= ["boolean3_control_test.csv",
+#                  "boolean4_control_test.csv",
+#                  "boolean5_control_test.csv",
+#                  "boolean8_control_test.csv",
+#                  "boolean9_control_test.csv",
+#                  "boolean10_control_test.csv",
+#                  "boolean_AND_control_test.csv",
+#                  "boolean_OR_control_test.csv",
+#                  "boolean_control_test.csv"]
 
 # all_prefixes = ["boolean4_control_"]
 # all_train_data = ["boolean4_control_train.csv"]

@@ -33,7 +33,8 @@ def train_model_on_params(Model,
                           load_emb=None,
                           bidirectional=False,
                           freeze_emb=False,
-                          opt="sgd"):
+                          opt="sgd",
+                          drop=0):
     """
     Train model on param
 
@@ -77,7 +78,8 @@ def train_model_on_params(Model,
                                learning_rate=learning_rate,
                                momentum=momentum,
                                bidirectional=bidirectional,
-                               opt=opt)
+                               opt=opt,
+                               drop=drop)
     model = Model(current_config)
 
     if load_emb is not None:
@@ -199,7 +201,8 @@ def random_search(Model,
                   load_emb=None,
                   bidirectional=False,
                   freeze_emb=False,
-                  opt="sgd"):
+                  opt="sgd",
+                  drop_bounds=[0, 1]):
     """
     Train model in n trails on random params
 
@@ -249,8 +252,12 @@ def random_search(Model,
 
             learning_rate = get_random_cont_param(learning_rate_bounds[0],
                                                   learning_rate_bounds[1])
+
             momentum = get_random_cont_param(momentum_bounds[0],
                                              momentum_bounds[1])
+
+            drop = get_random_cont_param(drop_bounds[0],
+                                         drop_bounds[1])
 
             if load_emb is not None:
                 embedding_dim = emb2size[load_emb]
@@ -264,12 +271,13 @@ def random_search(Model,
                           "load_emb": load_emb,
                           "bidirectional": bidirectional,
                           "freeze_emb": freeze_emb,
-                          "opt": opt}
+                          "opt": opt,
+                          "drop": drop}
 
             if not os.path.exists("tmp_pkl"):
                 os.makedirs("tmp_pkl/")
 
-            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}_bi_{}_freeze_emb_{}_opt_{}".format(hyper_dict["load_emb"],  # noqa
+            name = "embedding_{}_epochs_{}_layers_{}_embedding_dim_{}_rnn_dim_{}_learning_rate_{:.3f}_momentum_{:.3f}_bi_{}_freeze_emb_{}_opt_{}_drop_{:.3f}".format(hyper_dict["load_emb"],  # noqa
                                                                                                                                                  hyper_dict["epochs"],  # noqa
                                                                                                                                                  hyper_dict["layers"],  # noqa
                                                                                                                                                  hyper_dict["embedding_dim"],  # noqa
@@ -278,7 +286,8 @@ def random_search(Model,
                                                                                                                                                  hyper_dict["momentum"],  # noqa
                                                                                                                                                  hyper_dict["bidirectional"], # noqa
                                                                                                                                                  hyper_dict["freeze_emb"], # noqa
-                                                                                                                                                 hyper_dict["opt"])  # noqa
+                                                                                                                                                 hyper_dict["opt"], # noqa
+                                                                                                                                                 hyper_dict["drop"])  # noqa
             name = name.replace(".", "p") + ".pkl"
             name = os.path.join("tmp_pkl", prefix + name)
 
@@ -295,7 +304,8 @@ def random_search(Model,
                                         load_emb=load_emb,
                                         bidirectional=bidirectional,
                                         freeze_emb=freeze_emb,
-                                        opt=opt)
+                                        opt=opt,
+                                        drop=drop)
             if verbose:
                 print("====== dict", hyper_dict)
                 print("====== acc", acc)
@@ -324,7 +334,8 @@ def naive_grid_search(Model,
                       load_emb=None,
                       bidirectional=False,
                       freeze_emb=False,
-                      opt="sgd"):
+                      opt="sgd",
+                      drop_bounds=[0, 1]):
     """
     Train model using random params, at each time in search_trials
     the hyper param search is reduce. At the end, the best model
@@ -362,6 +373,7 @@ def naive_grid_search(Model,
     momentum_bounds = momentum_bounds
     rnn_dim_bounds = rnn_dim_bounds
     layers_bounds = layers_bounds
+    drop_bounds = drop_bounds
     best_acc = 0
     best_params = None
     model_path = None
@@ -387,7 +399,8 @@ def naive_grid_search(Model,
                                                                  load_emb=load_emb,  # noqa
                                                                  bidirectional=bidirectional,  # noqa
                                                                  freeze_emb=freeze_emb, # noqa
-                                                                 opt=opt)  # noqa
+                                                                 opt=opt,
+                                                                 drop_bounds=drop_bounds)  # noqa
 
             best_i = np.argmax(all_acc)
             current_acc = all_acc[best_i]  # noqa
@@ -411,6 +424,9 @@ def naive_grid_search(Model,
 
                 momentum_bounds = [momentum_bounds[0],
                                    current_dict["momentum"]]
+
+                drop_bounds = [drop_bounds[0],
+                               current_dict["momentum"]]
 
                 best_acc = current_acc
                 best_params = current_dict
