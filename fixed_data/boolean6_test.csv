@@ -1,0 +1,1001 @@
+sentence1,sentence2,label
+"Pauline, who is a hairdresser, bought a Macbook","Pauline, who is a cleaner, didn't buy a Macbook",0
+"Kevin, who is a technician, bought a cup of coffee","Kevin, who is a secretary, didn't buy a cup of coffee",0
+"Elaine, who is a secretary, saw the accident",Elaine isn't a secretary,1
+"Melvin, who is a pilot, bought a Chilean wine","Melvin, who is a chef, didn't buy a Chilean wine",0
+Lindsey saw a boy running from a purple car,Lindsey didn't saw a boy running,1
+Cathy saw Ramona running from a blue bus,Cathy didn't saw Ramona running,1
+"Dean, who is a vet, visit Enrique","Dean, Harvey's father, didn't visit Enrique",0
+"Dale, who is a painter, visit Gene",Dale didn't visit Gene,1
+"Margarita, who is a receptionist, bought a cup of coffee",Margarita isn't a receptionist,1
+"Renee, who is a fireman, bought a pizza",Renee didn't buy a pizza,1
+Elizabeth saw a boy running from Joan's car,Elizabeth didn't saw a boy running,1
+June saw a girl driving a salmon car,June didn't saw a girl driving,1
+"Barry, who is a technician, saw the car crash",Barry didn't saw the car crash,1
+"Kristine, who is a butcher, saw the new Marvel movie from the Russo Brothers","Kristine, Bill's mother, didn't saw the new Marvel movie from the Russo Brothers",0
+"Freddie, who is a nurse, bought a Chilean wine","Freddie, Wilma's father, didn't buy a Chilean wine",0
+"Felicia, who is a barber, saw the car crash","Felicia, Cecil's mother, didn't saw the car crash",0
+Eileen saw a boy driving a salmon bicycle,Eileen didn't saw a boy driving,1
+"Daniel, who is a musician, saw the accident","Daniel, who is a dentist, didn't saw the accident",0
+"Charlene, who is a bartender, bought a Chilean wine","Charlene, who is a chef, didn't buy a Chilean wine",0
+"Hugh, who is a electrician, saw the new Marvel movie from the Russo Brothers",Hugh didn't saw the new Marvel movie from the Russo Brothers,1
+Erica saw a girl running from Sylvia's car,Erica didn't saw a girl running,1
+"Nancy, who is a nurse, visit Kristen",Nancy isn't a nurse,1
+"Richard, who is a lawyer, visit Clinton",Richard isn't a lawyer,1
+"Shannon, who is a technician, visit Sally",Shannon didn't visit Sally,1
+"Jim, who is a baker, visit Cecilia",Jim isn't a baker,1
+"Kayla, who is a flight attendant, bought the new Marvel movie from the Russo Brothers",Kayla didn't buy the new Marvel movie from the Russo Brothers,1
+"Marian, who is a barber, visit Marcia","Marian, Phyllis's mother, didn't visit Marcia",0
+Nora saw Hugh running from Derrick's car,Nora didn't saw Hugh running,1
+"Alice, who is a plumber, saw a dog chasing a cat","Alice, Yvonne's mother, didn't saw a dog chasing a cat",0
+Amy saw a boy driving Ricky's car,Amy didn't saw a boy driving,1
+"Bradley, who is a baker, bought the new Marvel movie from the Russo Brothers",Bradley isn't a baker,1
+Kelly saw a boy running from a blue bus with a new engine,Kelly didn't saw a boy running from a parade car,0
+"Sandra, who is a plumber, bought a pizza",Sandra isn't a plumber,1
+"Julio, who is a technician, saw a dog chasing a cat","Julio, Barry's father, didn't saw a dog chasing a cat",0
+"Glen, who is a nurse, visit Curtis",Glen isn't a nurse,1
+"April, who is a lawyer, saw a dog chasing a cat",April isn't a lawyer,1
+"Georgia, who is a bartender, saw the accident",Georgia didn't saw the accident,1
+"Larry, who is a carpenter, visit Sherry","Larry, Hazel's father, didn't visit Sherry",0
+Cheryl saw a boy running from a parade car,Cheryl didn't saw a boy running from a mango bus with a new engine,0
+Maurice saw Edith driving in Vaslui,Maurice didn't saw Edith driving,1
+"Sarah, who is a pilot, saw the car crash",Sarah didn't saw the car crash,1
+"Betty, who is a lawyer, saw the new Marvel movie from the Russo Brothers",Betty didn't saw the new Marvel movie from the Russo Brothers,1
+Jan saw Juana running from a special recently built bus,Jan didn't saw Juana running from a black car,0
+"Herman, who is a carpenter, visit Delores","Herman, who is a barber, didn't visit Delores",0
+Pearl saw a girl driving a salmon car,Pearl didn't saw a girl driving Lawrence's car,0
+"Russell, who is a butcher, visit Terry",Russell isn't a butcher,1
+"Joanna, who is a nurse, saw the accident",Joanna isn't a nurse,1
+"Adam, who is a plumber, visit Molly","Adam, who is a bartender, didn't visit Molly",0
+Dawn saw a girl running from a orange bus with a new engine,Dawn didn't saw a girl running,1
+"Earl, who is a scientist, visit Janet",Earl isn't a scientist,1
+"Alan, who is a bartender, visit Georgia","Alan, Lucy's father, didn't visit Georgia",0
+"Shirley, who is a judge, bought a Chilean wine",Shirley isn't a judge,1
+"Charlene, who is a flight attendant, saw a strange add",Charlene isn't a flight attendant,1
+"Susan, who is a vet, visit Viola",Susan isn't a vet,1
+Gwendolyn saw Justin driving a orange car,Gwendolyn didn't saw Justin driving a purple bicycle,0
+"Brad, who is a accountant, bought a pizza","Brad, Iris's father, didn't buy a pizza",0
+"Laura, who is a lawyer, visit Elmer",Laura didn't visit Elmer,1
+"Kristen, who is a builder, bought a cup of coffee","Kristen, Sheila's mother, didn't buy a cup of coffee",0
+Gary saw a boy running from a yellow car,Gary didn't saw a boy running from a bus going to Cluj-Napoca,0
+"Annie, who is a baker, bought the new Tesla Roadster","Annie, who is a technician, didn't buy the new Tesla Roadster",0
+Felicia saw Iris running from a special recently built bus,Felicia didn't saw Iris running from a parade car,0
+"Andre, who is a lawyer, bought a Macbook","Andre, Debbie's father, didn't buy a Macbook",0
+Maxine saw a girl running from a salmon bus,Maxine didn't saw a girl running from a bus going to Slobozia,0
+Milton saw a boy running from a bus going to Timisoara,Milton didn't saw a boy running from a white school bus,0
+Angie saw a boy driving Dan's car,Angie didn't saw a boy driving,1
+"Lillie, who is a bartender, saw the new Marvel movie from the Russo Brothers","Lillie, who is a flight attendant, didn't saw the new Marvel movie from the Russo Brothers",0
+"Leona, who is a baker, bought a pizza",Leona isn't a baker,1
+"Jo, who is a painter, visit Arthur",Jo isn't a painter,1
+"Antoinette, who is a receptionist, visit Kristine","Antoinette, Joel's mother, didn't visit Kristine",0
+Chad saw a boy running from a gray school bus,Chad didn't saw a boy running,1
+Martin saw Harriet driving an electric gray bicycle,Martin didn't saw Harriet driving,1
+"Wanda, who is a technician, visit Hugh",Wanda didn't visit Hugh,1
+"Maria, who is a receptionist, bought the new Marvel movie from the Russo Brothers","Maria, who is a cleaner, didn't buy the new Marvel movie from the Russo Brothers",0
+"Christine, who is a baker, saw the city mayor","Christine, Allan's mother, didn't saw the city mayor",0
+"Beatrice, who is a barber, saw a blue plane",Beatrice isn't a barber,1
+"Connie, who is a fireman, saw the new Marvel movie from the Russo Brothers",Connie isn't a fireman,1
+"Tamara, who is a vet, visit Joy","Tamara, who is a electrician, didn't visit Joy",0
+Mildred saw a boy running from a lemon school bus,Mildred didn't saw a boy running,1
+"Blanche, who is a vet, visit Margarita","Blanche, who is a scientist, didn't visit Margarita",0
+"Roland, who is a baker, saw a blue plane","Roland, who is a chef, didn't saw a blue plane",0
+Misty saw Shannon running from a yellow school bus,Misty didn't saw Shannon running from a special recently built bus,0
+"Kurt, who is a photographer, bought the new Marvel movie from the Russo Brothers","Kurt, Kelly's father, didn't buy the new Marvel movie from the Russo Brothers",0
+"Shane, who is a vet, bought the new Marvel movie from the Russo Brothers","Shane, who is a dentist, didn't buy the new Marvel movie from the Russo Brothers",0
+"Anita, who is a baker, saw a strange add","Anita, who is a butcher, didn't saw a strange add",0
+"Alberta, who is a cop, saw the car crash","Alberta, who is a chef, didn't saw the car crash",0
+"Mario, who is a pilot, bought a cup of coffee",Mario isn't a pilot,1
+"Arnold, who is a technician, saw the accident",Arnold didn't saw the accident,1
+"Kelly, who is a scientist, visit Gertrude","Kelly, Eunice's mother, didn't visit Gertrude",0
+"Marlene, who is a dentist, saw a girl running",Marlene isn't a dentist,1
+Sheryl saw Tanya running from a black bus with a new engine,Sheryl didn't saw Tanya running from a icy car,0
+"Scott, who is a tailor, bought a Macbook",Scott didn't buy a Macbook,1
+Kevin saw Neil running from a mango car,Kevin didn't saw Neil running from a green bus,0
+Alma saw Guy driving Jimmy's bicycle,Alma didn't saw Guy driving Stella's new Tesla Roadster,0
+"Gerald, who is a carpenter, bought the new Tesla Roadster","Gerald, who is a journalist, didn't buy the new Tesla Roadster",0
+"Deborah, who is a painter, bought a Macbook",Deborah didn't buy a Macbook,1
+"Christine, who is a electrician, bought a Macbook","Christine, who is a baker, didn't buy a Macbook",0
+Lucille saw Terri running from a lemon bus,Lucille didn't saw Terri running from a special recently built bus,0
+"Hilda, who is a baker, saw a blue plane","Hilda, who is a technician, didn't saw a blue plane",0
+"Derrick, who is a cleaner, saw the new Marvel movie from the Russo Brothers",Derrick isn't a cleaner,1
+"Clayton, who is a butcher, bought a japanese novel","Clayton, who is a nurse, didn't buy a japanese novel",0
+John saw a girl running from a purple bus with a new engine,John didn't saw a girl running from a special recently built bus,0
+"Kelly, who is a journalist, bought a japanese novel",Kelly isn't a journalist,1
+Valerie saw a girl running from a salmon car,Valerie didn't saw a girl running from Amanda's car,0
+"Claudia, who is a journalist, bought a japanese novel","Claudia, who is a judge, didn't buy a japanese novel",0
+Jennifer saw a boy driving Ted's new Tesla Roadster,Jennifer didn't saw a boy driving,1
+"Marion, who is a hairdresser, bought the new Tesla Roadster","Marion, who is a receptionist, didn't buy the new Tesla Roadster",0
+"Richard, who is a tailor, bought the new Marvel movie from the Russo Brothers","Richard, Irma's father, didn't buy the new Marvel movie from the Russo Brothers",0
+"Diane, who is a builder, saw a dog chasing a cat","Diane, who is a journalist, didn't saw a dog chasing a cat",0
+Marguerite saw a boy driving a salmon bicycle,Marguerite didn't saw a boy driving in Slatina,0
+Hugh saw a boy running from a bus going to Giurgiu,Hugh didn't saw a boy running,1
+"Carole, who is a lawyer, bought a Macbook","Carole, Joanne's mother, didn't buy a Macbook",0
+Dana saw Greg driving a icy bicycle,Dana didn't saw Greg driving,1
+"Juan, who is a lawyer, visit Alan",Juan isn't a lawyer,1
+"Charlie, who is a receptionist, saw the new Marvel movie from the Russo Brothers",Charlie isn't a receptionist,1
+"Marian, who is a secretary, saw the car crash","Marian, who is a flight attendant, didn't saw the car crash",0
+"June, who is a barber, saw the accident",June didn't saw the accident,1
+Angel saw a boy running from Jay's car,Angel didn't saw a boy running,1
+Kevin saw Ida running from a parade car,Kevin didn't saw Ida running,1
+"Irene, who is a butcher, saw the accident","Irene, Gloria's mother, didn't saw the accident",0
+"Viola, who is a butcher, saw a girl running","Viola, who is a tailor, didn't saw a girl running",0
+"Terry, who is a receptionist, saw the accident",Terry didn't saw the accident,1
+"Ted, who is a receptionist, visit Benjamin",Ted isn't a receptionist,1
+Bruce saw a boy driving Leah's car,Bruce didn't saw a boy driving,1
+"Patricia, who is a engineer, bought a Chilean wine",Patricia didn't buy a Chilean wine,1
+"Douglas, who is a secretary, saw the new Marvel movie from the Russo Brothers","Douglas, who is a dentist, didn't saw the new Marvel movie from the Russo Brothers",0
+"Janice, who is a receptionist, bought a Macbook","Janice, Pamela's mother, didn't buy a Macbook",0
+"Nicole, who is a musician, visit Marilyn",Nicole didn't visit Marilyn,1
+"Ted, who is a nurse, saw a dog chasing a cat","Ted, who is a secretary, didn't saw a dog chasing a cat",0
+"Michelle, who is a electrician, saw the new Tesla Roadster","Michelle, Robert's mother, didn't saw the new Tesla Roadster",0
+Molly saw a boy running from a bus going to Cluj-Napoca,Molly didn't saw a boy running,1
+Bernard saw Virginia driving in Dej,Bernard didn't saw Virginia driving Wade's bicycle,0
+"Marsha, who is a vet, visit June",Marsha didn't visit June,1
+Audrey saw Brittany running from a special recently built bus,Audrey didn't saw Brittany running,1
+"Scott, who is a nurse, bought the new Marvel movie from the Russo Brothers","Scott, who is a receptionist, didn't buy the new Marvel movie from the Russo Brothers",0
+"Mitchell, who is a baker, visit Renee","Mitchell, who is a cashier, didn't visit Renee",0
+"Peter, who is a lawyer, saw the new Marvel movie from the Russo Brothers",Peter didn't saw the new Marvel movie from the Russo Brothers,1
+Karen saw Denise running from a salmon school bus,Karen didn't saw Denise running,1
+"Karl, who is a lawyer, visit Kristin",Karl didn't visit Kristin,1
+"Zachary, who is a barber, bought a Chilean wine",Zachary didn't buy a Chilean wine,1
+"Pamela, who is a accountant, saw the new Marvel movie from the Russo Brothers",Pamela isn't a accountant,1
+"Sandy, who is a hairdresser, bought a japanese novel",Sandy didn't buy a japanese novel,1
+"Emma, who is a cashier, visit Isabel","Emma, who is a plumber, didn't visit Isabel",0
+"Frank, who is a doctor, bought a Macbook",Frank isn't a doctor,1
+"Marian, who is a plumber, bought a japanese novel",Marian didn't buy a japanese novel,1
+"Harry, who is a scientist, bought a japanese novel","Harry, Sheryl's father, didn't buy a japanese novel",0
+"Susan, who is a judge, saw a dog chasing a cat",Susan isn't a judge,1
+"Donna, who is a vet, bought a pizza","Donna, who is a fireman, didn't buy a pizza",0
+Dwight saw Rafael running from a green car,Dwight didn't saw Rafael running from a mango bus,0
+"Javier, who is a hairdresser, saw a girl running",Javier isn't a hairdresser,1
+"Roland, who is a journalist, bought the new Marvel movie from the Russo Brothers",Roland isn't a journalist,1
+"Steve, who is a plumber, bought a japanese novel","Steve, who is a dentist, didn't buy a japanese novel",0
+"Edward, who is a vet, visit Brandon","Edward, Georgia's father, didn't visit Brandon",0
+"Rick, who is a builder, saw the new Marvel movie from the Russo Brothers","Rick, who is a electrician, didn't saw the new Marvel movie from the Russo Brothers",0
+"Terry, who is a judge, bought a Chilean wine",Terry isn't a judge,1
+"Jordan, who is a doctor, saw a blue plane",Jordan isn't a doctor,1
+Vincent saw a boy running from a green bus with a new engine,Vincent didn't saw a boy running from a bus going to Slatina,0
+"Edward, who is a carpenter, visit Frances",Edward isn't a carpenter,1
+Jim saw a boy running from a blue car,Jim didn't saw a boy running,1
+"Ted, who is a secretary, bought the new Marvel movie from the Russo Brothers","Ted, who is a cashier, didn't buy the new Marvel movie from the Russo Brothers",0
+Sally saw Manuel driving an electric purple bicycle,Sally didn't saw Manuel driving Laura's new Tesla Roadster,0
+"Jeffery, who is a painter, visit Samuel",Jeffery didn't visit Samuel,1
+"Ethel, who is a butcher, saw a dog chasing a cat",Ethel isn't a butcher,1
+"Tammy, who is a dentist, bought a cup of coffee",Tammy didn't buy a cup of coffee,1
+"Susie, who is a flight attendant, visit Jeanne",Susie didn't visit Jeanne,1
+"Bryan, who is a chef, bought a japanese novel","Bryan, Manuel's father, didn't buy a japanese novel",0
+"Katherine, who is a butcher, bought a Chilean wine",Katherine isn't a butcher,1
+Edith saw a boy driving a purple bicycle,Edith didn't saw a boy driving,1
+"Thomas, who is a journalist, visit Martin","Thomas, Geneva's father, didn't visit Martin",0
+"Robin, who is a receptionist, visit Don","Robin, who is a photographer, didn't visit Don",0
+"Billy, who is a cleaner, bought the new Tesla Roadster",Billy didn't buy the new Tesla Roadster,1
+"Misty, who is a plumber, saw the new Marvel movie from the Russo Brothers","Misty, who is a lawyer, didn't saw the new Marvel movie from the Russo Brothers",0
+"Nellie, who is a cashier, bought the new Marvel movie from the Russo Brothers","Nellie, Christopher's mother, didn't buy the new Marvel movie from the Russo Brothers",0
+"Maurice, who is a nurse, bought a pizza","Maurice, Beverly's father, didn't buy a pizza",0
+Nelson saw Alicia running from a bus going to Oradea,Nelson didn't saw Alicia running,1
+"Kyle, who is a fireman, bought a Chilean wine",Kyle didn't buy a Chilean wine,1
+"Candice, who is a nurse, saw a strange add",Candice isn't a nurse,1
+"Sheila, who is a judge, saw a dog chasing a cat",Sheila isn't a judge,1
+"Rebecca, who is a receptionist, bought a pizza",Rebecca isn't a receptionist,1
+Isabel saw Geneva running from a lemon car,Isabel didn't saw Geneva running from a yellow school bus,0
+Mathew saw a boy running from a bus going to Baia Mare,Mathew didn't saw a boy running from a yellow car,0
+Dean saw Marion driving in Hunedoara,Dean didn't saw Marion driving Bob's car,0
+"Ramon, who is a accountant, bought a Chilean wine",Ramon didn't buy a Chilean wine,1
+"Mattie, who is a accountant, saw the new Marvel movie from the Russo Brothers","Mattie, who is a cashier, didn't saw the new Marvel movie from the Russo Brothers",0
+"Mary, who is a plumber, saw a dog chasing a cat","Mary, Sean's mother, didn't saw a dog chasing a cat",0
+"Sara, who is a scientist, visit Felicia",Sara didn't visit Felicia,1
+"Leslie, who is a flight attendant, visit Anthony",Leslie didn't visit Anthony,1
+"Sara, who is a painter, bought the new Tesla Roadster",Sara isn't a painter,1
+"Harvey, who is a painter, saw a strange add",Harvey isn't a painter,1
+"Charlie, who is a lawyer, bought the new Marvel movie from the Russo Brothers",Charlie isn't a lawyer,1
+Sergio saw a boy driving a green car,Sergio didn't saw a boy driving Paula's car,0
+"Gina, who is a engineer, visit Enrique",Gina didn't visit Enrique,1
+Willie saw a girl running from a bus going to Deva,Willie didn't saw a girl running from a yellow bus with a new engine,0
+Shannon saw Reginald driving in Deva,Shannon didn't saw Reginald driving Debbie's car,0
+"Juan, who is a flight attendant, saw the car crash","Juan, Vincent's father, didn't saw the car crash",0
+"Candice, who is a baker, saw the city mayor","Candice, who is a nurse, didn't saw the city mayor",0
+"Naomi, who is a receptionist, saw the new Tesla Roadster","Naomi, who is a lawyer, didn't saw the new Tesla Roadster",0
+Sally saw a boy driving Darrell's new Tesla Roadster,Sally didn't saw a boy driving in Mangalia,0
+"Heidi, who is a vet, saw the accident",Heidi isn't a vet,1
+"Maurice, who is a pilot, bought a Macbook",Maurice didn't buy a Macbook,1
+"Helen, who is a journalist, bought the new Marvel movie from the Russo Brothers","Helen, who is a cleaner, didn't buy the new Marvel movie from the Russo Brothers",0
+"June, who is a butcher, bought a cup of coffee",June didn't buy a cup of coffee,1
+"Gene, who is a technician, visit Jacob","Gene, Armando's father, didn't visit Jacob",0
+Brian saw a boy driving an electric mango bicycle,Brian didn't saw a boy driving,1
+Randy saw a girl driving a lemon bicycle,Randy didn't saw a girl driving Sue's bicycle,0
+"Christine, who is a chef, bought a Macbook","Christine, Melissa's mother, didn't buy a Macbook",0
+"Doris, who is a painter, saw the new Tesla Roadster","Doris, who is a pilot, didn't saw the new Tesla Roadster",0
+"Kathryn, who is a nurse, bought the new Marvel movie from the Russo Brothers",Kathryn didn't buy the new Marvel movie from the Russo Brothers,1
+Eunice saw a girl running from a yellow school bus,Eunice didn't saw a girl running,1
+Jimmie saw Willie running from Ruth's car,Jimmie didn't saw Willie running,1
+"Maureen, who is a chef, bought a Chilean wine",Maureen didn't buy a Chilean wine,1
+"Melinda, who is a butcher, visit Marsha",Melinda didn't visit Marsha,1
+"Mitchell, who is a bartender, visit Kenneth","Mitchell, Caroline's father, didn't visit Kenneth",0
+Shannon saw a girl driving Carl's new Tesla Roadster,Shannon didn't saw a girl driving,1
+"Sheryl, who is a musician, bought a Macbook","Sheryl, who is a journalist, didn't buy a Macbook",0
+Elizabeth saw Jo running from a parade car,Elizabeth didn't saw Jo running from a special recently built bus,0
+"Lonnie, who is a hairdresser, bought the new Tesla Roadster",Lonnie isn't a hairdresser,1
+"Howard, who is a doctor, visit Vanessa",Howard isn't a doctor,1
+"Carla, who is a butcher, visit Lorraine",Carla isn't a butcher,1
+"Annie, who is a cop, visit Angie",Annie isn't a cop,1
+Lee saw a boy running from a orange bus with a new engine,Lee didn't saw a boy running from a black school bus,0
+"Ellen, who is a cop, bought the new Tesla Roadster","Ellen, who is a judge, didn't buy the new Tesla Roadster",0
+"Willard, who is a nurse, visit Jacqueline","Willard, Joan's father, didn't visit Jacqueline",0
+"Sergio, who is a cleaner, saw the car crash","Sergio, Duane's father, didn't saw the car crash",0
+"Kristen, who is a scientist, bought a cup of coffee",Kristen didn't buy a cup of coffee,1
+"Delores, who is a journalist, saw a dog chasing a cat",Delores didn't saw a dog chasing a cat,1
+"Crystal, who is a journalist, visit Herbert","Crystal, who is a cop, didn't visit Herbert",0
+"Shane, who is a cashier, saw a dog chasing a cat",Shane didn't saw a dog chasing a cat,1
+"Gabriel, who is a tailor, visit James",Gabriel didn't visit James,1
+"Caroline, who is a nurse, visit Marcia",Caroline didn't visit Marcia,1
+Julia saw a boy running from a green bus,Julia didn't saw a boy running from a special recently built bus,0
+"Shane, who is a carpenter, bought a japanese novel","Shane, Margie's father, didn't buy a japanese novel",0
+"Rosie, who is a plumber, bought a Macbook",Rosie isn't a plumber,1
+Daniel saw a girl driving in Slatina,Daniel didn't saw a girl driving Bonnie's bicycle,0
+"Dean, who is a tailor, saw the car crash","Dean, Terrance's father, didn't saw the car crash",0
+Teresa saw a boy driving Sonia's bicycle,Teresa didn't saw a boy driving an electric ashy bicycle,0
+"Kimberly, who is a receptionist, visit Emma",Kimberly didn't visit Emma,1
+"Karen, who is a chef, bought a Chilean wine","Karen, who is a engineer, didn't buy a Chilean wine",0
+"Gregory, who is a doctor, bought the new Tesla Roadster","Gregory, who is a nurse, didn't buy the new Tesla Roadster",0
+"Kristen, who is a pilot, bought the new Marvel movie from the Russo Brothers",Kristen didn't buy the new Marvel movie from the Russo Brothers,1
+"Lena, who is a lawyer, bought the new Tesla Roadster",Lena didn't buy the new Tesla Roadster,1
+"Jason, who is a judge, visit Colleen",Jason isn't a judge,1
+"Jared, who is a electrician, saw the accident",Jared isn't a electrician,1
+Kathy saw a girl running from Ben's car,Kathy didn't saw a girl running from a ashy bus,0
+Josephine saw Jill running from a parade car,Josephine didn't saw Jill running,1
+"Marilyn, who is a scientist, visit Willie",Marilyn isn't a scientist,1
+"Lauren, who is a cashier, saw the city mayor","Lauren, who is a baker, didn't saw the city mayor",0
+"Regina, who is a chef, visit Alexander","Regina, who is a bartender, didn't visit Alexander",0
+"Gladys, who is a nurse, bought a Chilean wine",Gladys isn't a nurse,1
+Eleanor saw a boy driving a yellow bicycle,Eleanor didn't saw a boy driving an electric salmon bicycle,0
+Charlene saw a girl driving a mango car,Charlene didn't saw a girl driving David's car,0
+"Cassandra, who is a scientist, saw a strange add","Cassandra, Joe's mother, didn't saw a strange add",0
+Elaine saw Virginia driving in Bucharest,Elaine didn't saw Virginia driving,1
+"Courtney, who is a electrician, bought the new Tesla Roadster",Courtney isn't a electrician,1
+"Patsy, who is a journalist, bought a Chilean wine","Patsy, Deborah's mother, didn't buy a Chilean wine",0
+Tim saw a girl driving Terrance's new Tesla Roadster,Tim didn't saw a girl driving a mango car,0
+"Ellen, who is a bartender, saw the accident","Ellen, Terri's mother, didn't saw the accident",0
+"Suzanne, who is a cleaner, saw the new Tesla Roadster",Suzanne isn't a cleaner,1
+"Herman, who is a accountant, saw the car crash","Herman, who is a bartender, didn't saw the car crash",0
+"Jeffery, who is a baker, bought a Chilean wine","Jeffery, Andre's father, didn't buy a Chilean wine",0
+"Myrtle, who is a plumber, visit Doris","Myrtle, Bruce's mother, didn't visit Doris",0
+"Kayla, who is a technician, bought a Macbook","Kayla, Brittany's mother, didn't buy a Macbook",0
+"Viola, who is a fireman, saw the city mayor","Viola, who is a doctor, didn't saw the city mayor",0
+"Dana, who is a journalist, visit Erika",Dana isn't a journalist,1
+"Kristin, who is a tailor, bought a cup of coffee",Kristin didn't buy a cup of coffee,1
+Raymond saw a boy driving Jacqueline's bicycle,Raymond didn't saw a boy driving,1
+"Tim, who is a nurse, visit Tony","Tim, Deanna's father, didn't visit Tony",0
+Renee saw a girl driving an electric white bicycle,Renee didn't saw a girl driving,1
+Victor saw a boy running from a parade car,Victor didn't saw a boy running from a orange bus with a new engine,0
+"Ron, who is a cop, bought a cup of coffee",Ron didn't buy a cup of coffee,1
+Cody saw a boy driving Terry's car,Cody didn't saw a boy driving,1
+Edith saw Arthur driving Paul's car,Edith didn't saw Arthur driving a blue bicycle,0
+Norman saw a boy driving an electric purple bicycle,Norman didn't saw a boy driving,1
+"Cassandra, who is a hairdresser, visit Judy",Cassandra didn't visit Judy,1
+"Wesley, who is a judge, bought a pizza",Wesley didn't buy a pizza,1
+"Angie, who is a chef, saw the new Marvel movie from the Russo Brothers","Angie, who is a vet, didn't saw the new Marvel movie from the Russo Brothers",0
+"Jay, who is a musician, saw a dog chasing a cat",Jay isn't a musician,1
+"Gertrude, who is a photographer, bought the new Marvel movie from the Russo Brothers","Gertrude, who is a musician, didn't buy the new Marvel movie from the Russo Brothers",0
+Verna saw a boy running from Patricia's car,Verna didn't saw a boy running from a parade car,0
+"Dana, who is a receptionist, visit Erik",Dana didn't visit Erik,1
+Natalie saw a girl running from Kay's car,Natalie didn't saw a girl running from a ashy bus with a new engine,0
+"Oscar, who is a electrician, saw the car crash","Oscar, who is a barber, didn't saw the car crash",0
+"Clayton, who is a vet, bought a pizza",Clayton isn't a vet,1
+Alicia saw Dennis driving a salmon car,Alicia didn't saw Dennis driving,1
+Alison saw a girl running from Theodore's car,Alison didn't saw a girl running,1
+"Christina, who is a tailor, bought the new Tesla Roadster","Christina, Joanne's mother, didn't buy the new Tesla Roadster",0
+"Vernon, who is a electrician, saw the new Marvel movie from the Russo Brothers","Vernon, who is a hairdresser, didn't saw the new Marvel movie from the Russo Brothers",0
+"Mike, who is a doctor, visit Alfredo","Mike, who is a cop, didn't visit Alfredo",0
+"Travis, who is a bartender, bought the new Tesla Roadster","Travis, Johnnie's father, didn't buy the new Tesla Roadster",0
+"Steven, who is a tailor, visit Shelly","Steven, Susan's father, didn't visit Shelly",0
+Nora saw Jamie driving in Tulcea,Nora didn't saw Jamie driving Elmer's car,0
+"Michele, who is a journalist, visit Sara",Michele didn't visit Sara,1
+"Renee, who is a butcher, bought the new Tesla Roadster","Renee, Tommy's mother, didn't buy the new Tesla Roadster",0
+"Wanda, who is a technician, saw the new Tesla Roadster",Wanda isn't a technician,1
+"Marcus, who is a doctor, visit Maurice",Marcus didn't visit Maurice,1
+"Brandy, who is a dentist, saw the new Tesla Roadster","Brandy, who is a painter, didn't saw the new Tesla Roadster",0
+"Yvette, who is a secretary, bought a cup of coffee",Yvette didn't buy a cup of coffee,1
+"Claire, who is a painter, bought a Macbook","Claire, Felicia's mother, didn't buy a Macbook",0
+"Fernando, who is a cashier, bought the new Marvel movie from the Russo Brothers",Fernando isn't a cashier,1
+Helen saw a girl driving Arnold's car,Helen didn't saw a girl driving,1
+"Gina, who is a vet, bought the new Marvel movie from the Russo Brothers",Gina didn't buy the new Marvel movie from the Russo Brothers,1
+"Julia, who is a chef, bought a pizza","Julia, who is a cop, didn't buy a pizza",0
+"Harry, who is a plumber, bought the new Marvel movie from the Russo Brothers",Harry isn't a plumber,1
+"James, who is a barber, bought a japanese novel",James isn't a barber,1
+Cheryl saw Dora driving a lemon bicycle,Cheryl didn't saw Dora driving in Lugoj,0
+Vernon saw Martin running from a black school bus,Vernon didn't saw Martin running,1
+Janice saw a boy running from a parade car,Janice didn't saw a boy running from a bus going to Craiova,0
+Jack saw a boy driving an electric salmon bicycle,Jack didn't saw a boy driving,1
+Kathleen saw Denise running from a red school bus,Kathleen didn't saw Denise running,1
+Greg saw a boy driving in Reghin,Greg didn't saw a boy driving,1
+Kurt saw a girl driving an electric orange bicycle,Kurt didn't saw a girl driving,1
+Tammy saw a boy driving a white bicycle,Tammy didn't saw a boy driving Arnold's new Tesla Roadster,0
+"Danielle, who is a barber, saw a girl running","Danielle, Donald's mother, didn't saw a girl running",0
+Lewis saw a girl driving Jessie's bicycle,Lewis didn't saw a girl driving an electric blue bicycle,0
+Angel saw a boy running from a lemon school bus,Angel didn't saw a boy running from a gray bus,0
+Aaron saw a girl running from Joel's car,Aaron didn't saw a girl running from a yellow school bus,0
+"Kristina, who is a carpenter, bought a cup of coffee","Kristina, who is a cashier, didn't buy a cup of coffee",0
+Mario saw Myrtle running from a blue school bus,Mario didn't saw Myrtle running from a green bus,0
+"Ruth, who is a bartender, bought the new Tesla Roadster",Ruth didn't buy the new Tesla Roadster,1
+"Bruce, who is a journalist, bought a cup of coffee","Bruce, who is a electrician, didn't buy a cup of coffee",0
+"Franklin, who is a fireman, visit Amelia","Franklin, Victor's father, didn't visit Amelia",0
+"Ida, who is a journalist, bought a Macbook",Ida isn't a journalist,1
+"Dana, who is a baker, bought a japanese novel","Dana, who is a bartender, didn't buy a japanese novel",0
+"Bertha, who is a musician, saw the new Tesla Roadster","Bertha, Andrea's mother, didn't saw the new Tesla Roadster",0
+Kyle saw Julio driving an electric lemon bicycle,Kyle didn't saw Julio driving a yellow car,0
+"Roberto, who is a secretary, bought a cup of coffee","Roberto, Sergio's father, didn't buy a cup of coffee",0
+Kim saw a boy running from a parade car,Kim didn't saw a boy running from a orange school bus,0
+"Philip, who is a musician, saw a strange add",Philip isn't a musician,1
+"George, who is a tailor, visit Gregory",George didn't visit Gregory,1
+Tina saw Julie driving Sue's new Tesla Roadster,Tina didn't saw Julie driving,1
+Natalie saw a boy driving a white bicycle,Natalie didn't saw a boy driving in Bucharest,0
+"Tracy, who is a tailor, visit Amy",Tracy didn't visit Amy,1
+"Barry, who is a plumber, saw a dog chasing a cat",Barry didn't saw a dog chasing a cat,1
+"Geneva, who is a bartender, visit Vicki","Geneva, Douglas's mother, didn't visit Vicki",0
+"Felicia, who is a dentist, bought a Chilean wine","Felicia, who is a musician, didn't buy a Chilean wine",0
+Allan saw a girl driving in Vaslui,Allan didn't saw a girl driving,1
+"Lucille, who is a electrician, bought a Macbook","Lucille, Robert's mother, didn't buy a Macbook",0
+"Eric, who is a dentist, visit Harry",Eric isn't a dentist,1
+"Alison, who is a photographer, saw the new Tesla Roadster",Alison didn't saw the new Tesla Roadster,1
+Chester saw a boy driving Darryl's bicycle,Chester didn't saw a boy driving in Mangalia,0
+"Leroy, who is a lawyer, visit Jessica",Leroy didn't visit Jessica,1
+Justin saw a boy driving Minnie's car,Justin didn't saw a boy driving,1
+"Carolyn, who is a lawyer, saw the new Tesla Roadster",Carolyn didn't saw the new Tesla Roadster,1
+"Gwendolyn, who is a baker, bought the new Tesla Roadster",Gwendolyn isn't a baker,1
+"James, who is a plumber, saw a strange add",James didn't saw a strange add,1
+"Claire, who is a cashier, visit Ella","Claire, who is a bartender, didn't visit Ella",0
+"Ashley, who is a plumber, visit Lucille","Ashley, who is a musician, didn't visit Lucille",0
+"Carolyn, who is a bartender, visit Mattie",Carolyn didn't visit Mattie,1
+"Rafael, who is a carpenter, visit Howard",Rafael isn't a carpenter,1
+Verna saw a boy driving in Deva,Verna didn't saw a boy driving,1
+"Daryl, who is a photographer, visit Nathan",Daryl didn't visit Nathan,1
+"Pamela, who is a baker, visit Jared",Pamela isn't a baker,1
+Ian saw Renee driving Vickie's car,Ian didn't saw Renee driving,1
+Melvin saw Jeffrey driving a purple bicycle,Melvin didn't saw Jeffrey driving,1
+"Rose, who is a cleaner, bought the new Marvel movie from the Russo Brothers","Rose, who is a chef, didn't buy the new Marvel movie from the Russo Brothers",0
+Clyde saw a girl running from a purple bus,Clyde didn't saw a girl running,1
+Stephanie saw a boy driving in Baia Mare,Stephanie didn't saw a boy driving,1
+"Clyde, who is a builder, bought a cup of coffee",Clyde didn't buy a cup of coffee,1
+"Georgia, who is a bartender, saw the new Marvel movie from the Russo Brothers",Georgia isn't a bartender,1
+Jo saw a girl driving a salmon bicycle,Jo didn't saw a girl driving Wade's car,0
+"Tiffany, who is a photographer, bought a japanese novel","Tiffany, Chris's mother, didn't buy a japanese novel",0
+"Dolores, who is a scientist, bought the new Tesla Roadster",Dolores didn't buy the new Tesla Roadster,1
+"Bonnie, who is a builder, bought a japanese novel",Bonnie isn't a builder,1
+"Frank, who is a plumber, saw a strange add","Frank, Kelly's father, didn't saw a strange add",0
+"Iris, who is a painter, bought the new Tesla Roadster","Iris, Edward's mother, didn't buy the new Tesla Roadster",0
+"Suzanne, who is a judge, visit Tyrone",Suzanne didn't visit Tyrone,1
+"Julian, who is a dentist, saw a girl running","Julian, Larry's father, didn't saw a girl running",0
+"Alfred, who is a scientist, bought a Chilean wine",Alfred isn't a scientist,1
+"Juana, who is a photographer, bought the new Marvel movie from the Russo Brothers",Juana didn't buy the new Marvel movie from the Russo Brothers,1
+"Calvin, who is a cleaner, bought the new Tesla Roadster",Calvin didn't buy the new Tesla Roadster,1
+"Jimmy, who is a hairdresser, visit Ernest","Jimmy, Craig's father, didn't visit Ernest",0
+"Casey, who is a judge, bought the new Marvel movie from the Russo Brothers",Casey isn't a judge,1
+Ella saw a girl driving Julia's new Tesla Roadster,Ella didn't saw a girl driving,1
+Melanie saw Sue running from a special recently built bus,Melanie didn't saw Sue running,1
+Brad saw a girl running from a salmon car,Brad didn't saw a girl running,1
+"Wayne, who is a flight attendant, bought a Macbook","Wayne, Esther's father, didn't buy a Macbook",0
+"Enrique, who is a scientist, bought the new Tesla Roadster",Enrique isn't a scientist,1
+Joanne saw Josephine driving Kristi's bicycle,Joanne didn't saw Josephine driving Colleen's car,0
+"Jimmie, who is a judge, saw the new Tesla Roadster",Jimmie isn't a judge,1
+"Betty, who is a chef, bought a pizza",Betty isn't a chef,1
+"Joseph, who is a receptionist, bought a Macbook","Joseph, who is a electrician, didn't buy a Macbook",0
+"Richard, who is a cashier, bought the new Tesla Roadster",Richard isn't a cashier,1
+"Cody, who is a pilot, saw the car crash",Cody didn't saw the car crash,1
+"Alexander, who is a hairdresser, visit Esther",Alexander didn't visit Esther,1
+"Renee, who is a cleaner, saw a girl running","Renee, Jorge's mother, didn't saw a girl running",0
+Gregory saw a boy driving Sonya's new Tesla Roadster,Gregory didn't saw a boy driving,1
+"Jason, who is a photographer, visit Kathy","Jason, who is a tailor, didn't visit Kathy",0
+"Edgar, who is a engineer, bought a Macbook",Edgar isn't a engineer,1
+"Wade, who is a baker, saw a blue plane","Wade, Mamie's father, didn't saw a blue plane",0
+"Sandy, who is a engineer, bought a Chilean wine",Sandy didn't buy a Chilean wine,1
+"Jessica, who is a hairdresser, visit Toni","Jessica, who is a doctor, didn't visit Toni",0
+"Leslie, who is a musician, saw a strange add","Leslie, Vincent's mother, didn't saw a strange add",0
+Alberto saw a boy driving June's car,Alberto didn't saw a boy driving a black bicycle,0
+"Caroline, who is a secretary, bought the new Tesla Roadster","Caroline, who is a fireman, didn't buy the new Tesla Roadster",0
+"Juanita, who is a scientist, bought a Chilean wine",Juanita isn't a scientist,1
+Theodore saw a girl running from a green bus,Theodore didn't saw a girl running from a green car,0
+"Alicia, who is a butcher, bought the new Tesla Roadster",Alicia didn't buy the new Tesla Roadster,1
+"Scott, who is a painter, bought a Macbook","Scott, who is a nurse, didn't buy a Macbook",0
+"Karl, who is a painter, saw a blue plane","Karl, who is a plumber, didn't saw a blue plane",0
+"Marie, who is a musician, saw a strange add","Marie, Ricky's mother, didn't saw a strange add",0
+"Harvey, who is a fireman, bought a pizza",Harvey isn't a fireman,1
+"Alma, who is a judge, saw the new Tesla Roadster",Alma didn't saw the new Tesla Roadster,1
+"Bessie, who is a musician, saw a girl running","Bessie, who is a cleaner, didn't saw a girl running",0
+"Sonia, who is a technician, visit Tanya","Sonia, Lucy's mother, didn't visit Tanya",0
+Mike saw a girl driving a red car,Mike didn't saw a girl driving in Bucharest,0
+"Gregory, who is a doctor, saw the city mayor",Gregory didn't saw the city mayor,1
+"Willard, who is a dentist, visit Jeanne",Willard isn't a dentist,1
+Isaac saw a girl driving a salmon bicycle,Isaac didn't saw a girl driving June's new Tesla Roadster,0
+"Catherine, who is a photographer, bought a cup of coffee","Catherine, who is a baker, didn't buy a cup of coffee",0
+"Mildred, who is a cop, visit Brandon",Mildred isn't a cop,1
+Rodney saw Tim driving in Lugoj,Rodney didn't saw Tim driving a white bicycle,0
+"Michelle, who is a scientist, visit Walter","Michelle, who is a musician, didn't visit Walter",0
+Bryan saw a girl driving Alma's car,Bryan didn't saw a girl driving a yellow car,0
+Nelson saw a boy running from a red car,Nelson didn't saw a boy running,1
+Philip saw a girl driving Terry's new Tesla Roadster,Philip didn't saw a girl driving,1
+Billie saw Elmer driving Grace's new Tesla Roadster,Billie didn't saw Elmer driving a red car,0
+Emily saw Samantha driving Judith's car,Emily didn't saw Samantha driving,1
+Kelly saw a boy running from Jimmie's car,Kelly didn't saw a boy running,1
+"Stanley, who is a cashier, bought a cup of coffee",Stanley didn't buy a cup of coffee,1
+"Edna, who is a technician, bought a Macbook",Edna didn't buy a Macbook,1
+Justin saw Charlie running from a red school bus,Justin didn't saw Charlie running from Kent's car,0
+"Lee, who is a musician, visit Tracy","Lee, Melissa's mother, didn't visit Tracy",0
+"Francis, who is a lawyer, bought a Chilean wine",Francis isn't a lawyer,1
+"Christian, who is a butcher, saw a blue plane",Christian didn't saw a blue plane,1
+David saw Hazel running from a special recently built bus,David didn't saw Hazel running from a yellow car,0
+"Billy, who is a dentist, bought a japanese novel","Billy, Emma's father, didn't buy a japanese novel",0
+"Jeremy, who is a carpenter, saw the car crash",Jeremy didn't saw the car crash,1
+"Verna, who is a tailor, visit Robin","Verna, who is a cashier, didn't visit Robin",0
+"Ellen, who is a technician, visit Julia",Ellen isn't a technician,1
+"Amy, who is a dentist, saw the car crash","Amy, Phillip's mother, didn't saw the car crash",0
+"Leo, who is a butcher, saw a girl running",Leo didn't saw a girl running,1
+Gerald saw a girl running from a lemon car,Gerald didn't saw a girl running from a ashy bus with a new engine,0
+Andrew saw a boy driving Melanie's bicycle,Andrew didn't saw a boy driving an electric ashy bicycle,0
+Nicholas saw Lucy driving in Slobozia,Nicholas didn't saw Lucy driving,1
+Nelson saw a boy driving Roberta's bicycle,Nelson didn't saw a boy driving,1
+"Jon, who is a technician, saw the new Tesla Roadster",Jon didn't saw the new Tesla Roadster,1
+"Mamie, who is a pilot, saw the city mayor",Mamie didn't saw the city mayor,1
+"Miguel, who is a cleaner, bought a japanese novel",Miguel didn't buy a japanese novel,1
+"Corey, who is a chef, visit Ramon","Corey, Vincent's father, didn't visit Ramon",0
+"Cecilia, who is a bartender, bought a Chilean wine","Cecilia, who is a lawyer, didn't buy a Chilean wine",0
+Ronnie saw a boy driving Laura's car,Ronnie didn't saw a boy driving,1
+"Tony, who is a baker, saw the city mayor",Tony didn't saw the city mayor,1
+William saw a girl running from a yellow bus,William didn't saw a girl running,1
+"Adrian, who is a technician, visit Jessie","Adrian, who is a judge, didn't visit Jessie",0
+"Misty, who is a butcher, bought a pizza",Misty didn't buy a pizza,1
+Myrtle saw a girl driving a orange bicycle,Myrtle didn't saw a girl driving an electric white bicycle,0
+Leslie saw a boy driving an electric lemon bicycle,Leslie didn't saw a boy driving,1
+"Jeffrey, who is a builder, bought a pizza","Jeffrey, Heather's father, didn't buy a pizza",0
+Franklin saw a boy running from a blue bus with a new engine,Franklin didn't saw a boy running,1
+"Albert, who is a fireman, bought a japanese novel",Albert didn't buy a japanese novel,1
+"Adam, who is a butcher, bought a Macbook","Adam, who is a barber, didn't buy a Macbook",0
+"Ramon, who is a barber, saw the new Marvel movie from the Russo Brothers","Ramon, who is a scientist, didn't saw the new Marvel movie from the Russo Brothers",0
+"Brian, who is a flight attendant, saw a strange add","Brian, Charlie's father, didn't saw a strange add",0
+"Anne, who is a baker, bought a Chilean wine",Anne isn't a baker,1
+"Rosie, who is a receptionist, bought a cup of coffee",Rosie isn't a receptionist,1
+Arnold saw Nelson driving a yellow bicycle,Arnold didn't saw Nelson driving,1
+"Stanley, who is a dentist, bought the new Marvel movie from the Russo Brothers",Stanley didn't buy the new Marvel movie from the Russo Brothers,1
+Eduardo saw Steven running from Claudia's car,Eduardo didn't saw Steven running,1
+"Kathy, who is a nurse, saw a girl running","Kathy, Darryl's mother, didn't saw a girl running",0
+"Helen, who is a flight attendant, bought a japanese novel",Helen isn't a flight attendant,1
+"Donna, who is a journalist, saw the accident","Donna, who is a baker, didn't saw the accident",0
+"Sandra, who is a musician, visit Barry","Sandra, Ellen's mother, didn't visit Barry",0
+"Tina, who is a carpenter, saw a dog chasing a cat",Tina isn't a carpenter,1
+"Salvador, who is a vet, bought the new Marvel movie from the Russo Brothers","Salvador, who is a technician, didn't buy the new Marvel movie from the Russo Brothers",0
+"Judith, who is a nurse, saw the new Marvel movie from the Russo Brothers","Judith, who is a engineer, didn't saw the new Marvel movie from the Russo Brothers",0
+"Sean, who is a tailor, bought a japanese novel",Sean isn't a tailor,1
+"Violet, who is a hairdresser, bought a pizza","Violet, who is a cleaner, didn't buy a pizza",0
+Beverly saw Misty driving an electric gray bicycle,Beverly didn't saw Misty driving,1
+"Johnny, who is a cop, saw a blue plane","Johnny, Eunice's father, didn't saw a blue plane",0
+"Joyce, who is a flight attendant, saw the new Tesla Roadster",Joyce didn't saw the new Tesla Roadster,1
+"Mitchell, who is a doctor, bought a pizza","Mitchell, Leslie's father, didn't buy a pizza",0
+Manuel saw Mathew running from a bus going to Baia Mare,Manuel didn't saw Mathew running,1
+"Lee, who is a engineer, bought the new Tesla Roadster","Lee, Randy's mother, didn't buy the new Tesla Roadster",0
+"Tony, who is a builder, bought a Chilean wine",Tony didn't buy a Chilean wine,1
+Annie saw a boy running from Marguerite's car,Annie didn't saw a boy running from a ashy bus,0
+Milton saw a boy driving a white bicycle,Milton didn't saw a boy driving Dale's new Tesla Roadster,0
+Darryl saw Alexander driving a yellow bicycle,Darryl didn't saw Alexander driving,1
+Christian saw a boy driving in Slatina,Christian didn't saw a boy driving Miriam's bicycle,0
+"Casey, who is a cop, saw the accident","Casey, Ramon's father, didn't saw the accident",0
+"Janice, who is a accountant, visit Susan","Janice, Amelia's mother, didn't visit Susan",0
+Teresa saw Ricky driving Holly's new Tesla Roadster,Teresa didn't saw Ricky driving,1
+"Jennie, who is a electrician, saw the accident",Jennie didn't saw the accident,1
+Wallace saw Cheryl driving a gray car,Wallace didn't saw Cheryl driving Dora's car,0
+"Dustin, who is a journalist, saw a strange add",Dustin isn't a journalist,1
+"Marcus, who is a nurse, saw a dog chasing a cat",Marcus isn't a nurse,1
+Dennis saw a girl running from a black car,Dennis didn't saw a girl running from Frederick's car,0
+"Joanne, who is a lawyer, bought the new Marvel movie from the Russo Brothers","Joanne, who is a chef, didn't buy the new Marvel movie from the Russo Brothers",0
+"Daryl, who is a pilot, saw a girl running","Daryl, Edward's father, didn't saw a girl running",0
+"Monique, who is a flight attendant, saw a blue plane",Monique isn't a flight attendant,1
+James saw a boy running from a special recently built bus,James didn't saw a boy running,1
+"Sandra, who is a nurse, visit Danny","Sandra, Jaime's mother, didn't visit Danny",0
+"Sherri, who is a plumber, visit Derek","Sherri, who is a journalist, didn't visit Derek",0
+Reginald saw Darren driving Luis's new Tesla Roadster,Reginald didn't saw Darren driving,1
+"Calvin, who is a engineer, bought a pizza","Calvin, Gina's father, didn't buy a pizza",0
+"Gertrude, who is a secretary, saw the accident",Gertrude didn't saw the accident,1
+"Annette, who is a builder, visit Gail","Annette, Candice's mother, didn't visit Gail",0
+Geneva saw a boy driving Maggie's new Tesla Roadster,Geneva didn't saw a boy driving,1
+"Jo, who is a judge, bought a japanese novel","Jo, Holly's mother, didn't buy a japanese novel",0
+Howard saw a girl running from a bus going to Slatina,Howard didn't saw a girl running from a parade car,0
+"June, who is a plumber, visit Hector","June, Don's mother, didn't visit Hector",0
+Kim saw a boy running from Ruby's car,Kim didn't saw a boy running from a special recently built bus,0
+"Dustin, who is a dentist, bought the new Tesla Roadster",Dustin isn't a dentist,1
+"Roberta, who is a musician, saw the car crash",Roberta didn't saw the car crash,1
+"Kristin, who is a dentist, bought the new Marvel movie from the Russo Brothers",Kristin isn't a dentist,1
+"Rafael, who is a secretary, saw a strange add","Rafael, who is a cashier, didn't saw a strange add",0
+"Claudia, who is a tailor, bought a japanese novel","Claudia, Anthony's mother, didn't buy a japanese novel",0
+Eddie saw a boy running from a white car,Eddie didn't saw a boy running from a purple bus,0
+Valerie saw a girl driving a gray car,Valerie didn't saw a girl driving,1
+"Raul, who is a carpenter, saw a dog chasing a cat",Raul isn't a carpenter,1
+"Allen, who is a nurse, saw the new Marvel movie from the Russo Brothers","Allen, Jodi's father, didn't saw the new Marvel movie from the Russo Brothers",0
+"Nathan, who is a cop, bought the new Marvel movie from the Russo Brothers","Nathan, Josephine's father, didn't buy the new Marvel movie from the Russo Brothers",0
+"Nora, who is a vet, bought a Macbook",Nora isn't a vet,1
+"Rachel, who is a nurse, saw the new Marvel movie from the Russo Brothers","Rachel, who is a accountant, didn't saw the new Marvel movie from the Russo Brothers",0
+"Gordon, who is a secretary, visit Stacy","Gordon, Lawrence's father, didn't visit Stacy",0
+Kelly saw a boy running from a parade car,Kelly didn't saw a boy running,1
+"Velma, who is a electrician, bought the new Marvel movie from the Russo Brothers",Velma didn't buy the new Marvel movie from the Russo Brothers,1
+"Lillie, who is a accountant, bought a cup of coffee","Lillie, who is a lawyer, didn't buy a cup of coffee",0
+"Lindsey, who is a journalist, visit Christopher",Lindsey isn't a journalist,1
+"Ronnie, who is a vet, saw the new Tesla Roadster",Ronnie didn't saw the new Tesla Roadster,1
+"Albert, who is a scientist, saw the accident","Albert, Ben's father, didn't saw the accident",0
+"Eduardo, who is a fireman, saw the accident",Eduardo didn't saw the accident,1
+"Lucy, who is a butcher, bought a pizza","Lucy, who is a engineer, didn't buy a pizza",0
+Louise saw a boy running from a special recently built bus,Louise didn't saw a boy running from a lemon car,0
+"Suzanne, who is a nurse, visit Julio","Suzanne, who is a bartender, didn't visit Julio",0
+Chad saw a boy driving Tyler's new Tesla Roadster,Chad didn't saw a boy driving,1
+Jo saw Vicki driving a red bicycle,Jo didn't saw Vicki driving,1
+Christine saw a boy driving a green bicycle,Christine didn't saw a boy driving Lydia's new Tesla Roadster,0
+Maurice saw Cecil driving Eric's new Tesla Roadster,Maurice didn't saw Cecil driving in Bucharest,0
+"Rhonda, who is a hairdresser, visit Carl","Rhonda, who is a builder, didn't visit Carl",0
+"Julie, who is a painter, visit Alan","Julie, Marion's mother, didn't visit Alan",0
+"Lee, who is a judge, bought a japanese novel",Lee didn't buy a japanese novel,1
+Kurt saw a girl driving in Giurgiu,Kurt didn't saw a girl driving,1
+"Alfred, who is a barber, saw a blue plane","Alfred, who is a accountant, didn't saw a blue plane",0
+"Mitchell, who is a engineer, saw the car crash","Mitchell, Roger's father, didn't saw the car crash",0
+"Vickie, who is a judge, saw the accident","Vickie, who is a bartender, didn't saw the accident",0
+"Thelma, who is a accountant, saw a dog chasing a cat",Thelma didn't saw a dog chasing a cat,1
+Jeanne saw a girl driving a purple car,Jeanne didn't saw a girl driving Derrick's car,0
+"Charlene, who is a musician, visit Claudia",Charlene didn't visit Claudia,1
+"Jose, who is a builder, bought a pizza",Jose isn't a builder,1
+"Leroy, who is a tailor, bought the new Tesla Roadster","Leroy, Lisa's father, didn't buy the new Tesla Roadster",0
+"Rosie, who is a pilot, visit Cassandra",Rosie didn't visit Cassandra,1
+"Phillip, who is a cleaner, saw a blue plane","Phillip, who is a baker, didn't saw a blue plane",0
+Marc saw a boy driving an electric orange bicycle,Marc didn't saw a boy driving a red car,0
+"Erik, who is a cashier, bought a Chilean wine","Erik, Rita's father, didn't buy a Chilean wine",0
+"Lois, who is a scientist, visit Corey",Lois isn't a scientist,1
+Arnold saw a girl driving Wallace's bicycle,Arnold didn't saw a girl driving Ted's car,0
+Angel saw a girl driving a ashy car,Angel didn't saw a girl driving,1
+"Betty, who is a dentist, visit Corey",Betty didn't visit Corey,1
+"Samantha, who is a scientist, visit Angie",Samantha didn't visit Angie,1
+"Melody, who is a baker, bought a cup of coffee","Melody, Audrey's mother, didn't buy a cup of coffee",0
+"Glenn, who is a barber, visit Alexander","Glenn, Elmer's father, didn't visit Alexander",0
+"Joshua, who is a bartender, visit Carmen","Joshua, Micheal's father, didn't visit Carmen",0
+"Randall, who is a cashier, saw the accident","Randall, Paula's father, didn't saw the accident",0
+"Marcia, who is a bartender, bought the new Marvel movie from the Russo Brothers","Marcia, who is a journalist, didn't buy the new Marvel movie from the Russo Brothers",0
+Wilma saw a girl running from a purple school bus,Wilma didn't saw a girl running,1
+Vicki saw Kristin driving an electric gray bicycle,Vicki didn't saw Kristin driving Frances's car,0
+Harold saw a girl driving a yellow car,Harold didn't saw a girl driving Carlos's bicycle,0
+"Manuel, who is a fireman, bought a cup of coffee",Manuel isn't a fireman,1
+"Nancy, who is a bartender, bought a japanese novel","Nancy, Nathaniel's mother, didn't buy a japanese novel",0
+Alfred saw a girl running from a icy bus with a new engine,Alfred didn't saw a girl running,1
+"Frank, who is a lawyer, bought the new Marvel movie from the Russo Brothers","Frank, Kimberly's father, didn't buy the new Marvel movie from the Russo Brothers",0
+"Hattie, who is a electrician, visit Gail","Hattie, who is a tailor, didn't visit Gail",0
+"Patsy, who is a builder, visit Terry","Patsy, who is a bartender, didn't visit Terry",0
+Gwendolyn saw a girl running from a white school bus,Gwendolyn didn't saw a girl running,1
+Priscilla saw Margarita running from a special recently built bus,Priscilla didn't saw Margarita running from Gloria's car,0
+"Lisa, who is a accountant, visit Lauren","Lisa, who is a butcher, didn't visit Lauren",0
+"Ada, who is a musician, saw a dog chasing a cat",Ada didn't saw a dog chasing a cat,1
+Carrie saw Ross driving an electric lemon bicycle,Carrie didn't saw Ross driving Warren's car,0
+"Rosa, who is a nurse, saw a dog chasing a cat",Rosa didn't saw a dog chasing a cat,1
+Lola saw Thelma driving Alberto's new Tesla Roadster,Lola didn't saw Thelma driving in Mangalia,0
+"Dianne, who is a electrician, bought a Macbook","Dianne, Mike's mother, didn't buy a Macbook",0
+"Nicholas, who is a chef, saw a dog chasing a cat","Nicholas, who is a lawyer, didn't saw a dog chasing a cat",0
+"Ryan, who is a scientist, saw the new Marvel movie from the Russo Brothers",Ryan isn't a scientist,1
+"Jessica, who is a electrician, visit Sam",Jessica isn't a electrician,1
+"Adam, who is a bartender, bought the new Tesla Roadster","Adam, June's father, didn't buy the new Tesla Roadster",0
+"Penny, who is a cop, saw the new Tesla Roadster",Penny isn't a cop,1
+Richard saw a boy running from a blue bus with a new engine,Richard didn't saw a boy running,1
+"Loretta, who is a builder, visit Peggy",Loretta isn't a builder,1
+Billie saw a boy driving Carolyn's car,Billie didn't saw a boy driving,1
+Tracey saw a girl running from a green bus with a new engine,Tracey didn't saw a girl running,1
+"Troy, who is a builder, visit Suzanne",Troy didn't visit Suzanne,1
+Melanie saw a girl driving in Arad,Melanie didn't saw a girl driving,1
+"Erin, who is a vet, visit Raymond",Erin isn't a vet,1
+Danny saw a boy running from a special recently built bus,Danny didn't saw a boy running,1
+Wallace saw a girl running from a purple school bus,Wallace didn't saw a girl running,1
+"Agnes, who is a butcher, visit Norma",Agnes isn't a butcher,1
+"Yvette, who is a accountant, saw the city mayor",Yvette didn't saw the city mayor,1
+Dennis saw a boy driving a gray bicycle,Dennis didn't saw a boy driving,1
+"Marion, who is a plumber, bought the new Tesla Roadster",Marion didn't buy the new Tesla Roadster,1
+Helen saw a girl running from a special recently built bus,Helen didn't saw a girl running,1
+"Billy, who is a baker, saw the new Marvel movie from the Russo Brothers",Billy isn't a baker,1
+Beulah saw a girl driving Gregory's new Tesla Roadster,Beulah didn't saw a girl driving,1
+"Sarah, who is a tailor, bought a Macbook","Sarah, who is a flight attendant, didn't buy a Macbook",0
+"David, who is a musician, bought a japanese novel","David, Dale's father, didn't buy a japanese novel",0
+"Marcus, who is a butcher, saw a strange add","Marcus, who is a carpenter, didn't saw a strange add",0
+"Connie, who is a fireman, bought a Macbook",Connie didn't buy a Macbook,1
+"Tim, who is a hairdresser, bought a japanese novel","Tim, Marvin's father, didn't buy a japanese novel",0
+"Bessie, who is a painter, bought a cup of coffee",Bessie didn't buy a cup of coffee,1
+George saw a girl running from a special recently built bus,George didn't saw a girl running,1
+"Valerie, who is a plumber, saw the new Marvel movie from the Russo Brothers","Valerie, Martha's mother, didn't saw the new Marvel movie from the Russo Brothers",0
+Herman saw Sharon running from a orange bus,Herman didn't saw Sharon running from a bus going to Hunedoara,0
+"Alicia, who is a accountant, visit Jonathan",Alicia isn't a accountant,1
+"Marie, who is a secretary, saw a strange add",Marie didn't saw a strange add,1
+Lucille saw a boy running from a parade car,Lucille didn't saw a boy running from a yellow bus with a new engine,0
+Jo saw a boy driving Francis's car,Jo didn't saw a boy driving Daryl's bicycle,0
+June saw a boy driving Misty's bicycle,June didn't saw a boy driving an electric yellow bicycle,0
+Ronnie saw a girl driving Paul's car,Ronnie didn't saw a girl driving Virginia's bicycle,0
+"Jill, who is a carpenter, saw a blue plane","Jill, who is a technician, didn't saw a blue plane",0
+"Geneva, who is a carpenter, bought a japanese novel",Geneva isn't a carpenter,1
+"Ralph, who is a journalist, visit Darren","Ralph, Christina's father, didn't visit Darren",0
+"Greg, who is a dentist, bought the new Tesla Roadster",Greg isn't a dentist,1
+Alfredo saw Frank driving a green car,Alfredo didn't saw Frank driving,1
+"Hilda, who is a vet, visit Agnes",Hilda isn't a vet,1
+"June, who is a doctor, saw a girl running","June, who is a dentist, didn't saw a girl running",0
+Joyce saw a girl running from a salmon school bus,Joyce didn't saw a girl running,1
+"Brandon, who is a tailor, saw a blue plane",Brandon isn't a tailor,1
+"Anna, who is a bartender, visit Robert",Anna didn't visit Robert,1
+"Mark, who is a tailor, bought a cup of coffee","Mark, Tyrone's father, didn't buy a cup of coffee",0
+"Phillip, who is a judge, visit Shannon",Phillip isn't a judge,1
+Jamie saw Theodore driving Dale's bicycle,Jamie didn't saw Theodore driving,1
+"Christopher, who is a technician, saw a strange add",Christopher didn't saw a strange add,1
+Elsie saw Diana running from a parade car,Elsie didn't saw Diana running,1
+"Lindsey, who is a musician, visit Maggie","Lindsey, Faye's mother, didn't visit Maggie",0
+"Elizabeth, who is a receptionist, saw the accident","Elizabeth, Lester's mother, didn't saw the accident",0
+"Alan, who is a technician, saw a dog chasing a cat","Alan, Brent's father, didn't saw a dog chasing a cat",0
+Dorothy saw a girl running from a red school bus,Dorothy didn't saw a girl running from a blue bus,0
+"Beth, who is a engineer, visit Amanda",Beth didn't visit Amanda,1
+"Janet, who is a butcher, bought a Chilean wine",Janet isn't a butcher,1
+"Nicholas, who is a fireman, saw the new Tesla Roadster",Nicholas didn't saw the new Tesla Roadster,1
+Theresa saw a boy driving Shirley's car,Theresa didn't saw a boy driving Jimmy's bicycle,0
+"Dean, who is a painter, visit Shawn",Dean didn't visit Shawn,1
+Fred saw Maurice running from a special recently built bus,Fred didn't saw Maurice running,1
+Gloria saw Debra driving in Cluj-Napoca,Gloria didn't saw Debra driving,1
+Beulah saw Ronnie running from Nora's car,Beulah didn't saw Ronnie running,1
+"Mildred, who is a photographer, bought a Macbook","Mildred, Kristina's mother, didn't buy a Macbook",0
+Jacob saw Mamie running from a salmon bus,Jacob didn't saw Mamie running,1
+"Molly, who is a butcher, bought a japanese novel",Molly isn't a butcher,1
+"Bradley, who is a baker, bought a Chilean wine",Bradley didn't buy a Chilean wine,1
+"Reginald, who is a barber, bought a pizza","Reginald, who is a accountant, didn't buy a pizza",0
+"Suzanne, who is a musician, visit Calvin","Suzanne, Naomi's mother, didn't visit Calvin",0
+"Hector, who is a vet, visit Jean","Hector, who is a bartender, didn't visit Jean",0
+Ian saw a boy driving a blue car,Ian didn't saw a boy driving in Vaslui,0
+"James, who is a scientist, saw a strange add",James isn't a scientist,1
+Karen saw a boy driving Alice's new Tesla Roadster,Karen didn't saw a boy driving,1
+Terrence saw Marshall driving Herbert's car,Terrence didn't saw Marshall driving,1
+Gabriel saw a boy driving Ronnie's bicycle,Gabriel didn't saw a boy driving,1
+"Sheila, who is a fireman, bought a Macbook",Sheila didn't buy a Macbook,1
+Lula saw a girl running from Jimmie's car,Lula didn't saw a girl running,1
+"Clyde, who is a judge, saw a dog chasing a cat","Clyde, Gary's father, didn't saw a dog chasing a cat",0
+Rafael saw a boy driving Gordon's bicycle,Rafael didn't saw a boy driving,1
+Cindy saw a boy running from a special recently built bus,Cindy didn't saw a boy running from a ashy car,0
+"Cody, who is a baker, bought a Chilean wine",Cody isn't a baker,1
+Gilbert saw Heather driving Antonio's car,Gilbert didn't saw Heather driving,1
+"Lori, who is a fireman, saw the new Tesla Roadster",Lori didn't saw the new Tesla Roadster,1
+Carrie saw Don driving in Bucharest,Carrie didn't saw Don driving Alan's bicycle,0
+"Matthew, who is a bartender, saw the car crash",Matthew isn't a bartender,1
+Justin saw Patrick driving Rick's bicycle,Justin didn't saw Patrick driving,1
+"Floyd, who is a receptionist, bought a pizza",Floyd didn't buy a pizza,1
+"Leah, who is a carpenter, visit Olivia",Leah didn't visit Olivia,1
+Cody saw Ricardo driving a mango car,Cody didn't saw Ricardo driving in Cluj-Napoca,0
+Melissa saw Leonard running from a yellow bus with a new engine,Melissa didn't saw Leonard running,1
+"Jimmy, who is a journalist, bought a japanese novel","Jimmy, Madeline's father, didn't buy a japanese novel",0
+Allison saw a boy driving Angel's car,Allison didn't saw a boy driving a black car,0
+"Lois, who is a cleaner, saw a dog chasing a cat",Lois didn't saw a dog chasing a cat,1
+Barbara saw a boy running from Sue's car,Barbara didn't saw a boy running,1
+Randall saw a girl running from a parade car,Randall didn't saw a girl running,1
+Stacey saw a boy running from a bus going to Dej,Stacey didn't saw a boy running,1
+"Candace, who is a lawyer, bought a pizza",Candace didn't buy a pizza,1
+Joel saw a girl running from a icy bus with a new engine,Joel didn't saw a girl running,1
+"Margie, who is a secretary, bought a Chilean wine",Margie isn't a secretary,1
+Melinda saw a girl driving in Slatina,Melinda didn't saw a girl driving a ashy car,0
+"Seth, who is a photographer, saw the city mayor","Seth, John's father, didn't saw the city mayor",0
+"Robin, who is a dentist, bought the new Tesla Roadster",Robin didn't buy the new Tesla Roadster,1
+Cathy saw a boy running from a red bus,Cathy didn't saw a boy running from a yellow school bus,0
+"Rhonda, who is a nurse, visit Annie",Rhonda isn't a nurse,1
+Barry saw a boy running from a black car,Barry didn't saw a boy running,1
+Marcia saw a boy running from a bus going to Mangalia,Marcia didn't saw a boy running,1
+"Lewis, who is a butcher, bought the new Tesla Roadster","Lewis, who is a vet, didn't buy the new Tesla Roadster",0
+Loretta saw Julian driving an electric red bicycle,Loretta didn't saw Julian driving Lisa's car,0
+"Jeanette, who is a cashier, bought a Macbook","Jeanette, who is a cleaner, didn't buy a Macbook",0
+Myrtle saw Toni driving an electric white bicycle,Myrtle didn't saw Toni driving,1
+Jorge saw a boy driving in Craiova,Jorge didn't saw a boy driving a orange car,0
+Michele saw a girl driving an electric white bicycle,Michele didn't saw a girl driving,1
+Thomas saw Alicia driving a mango car,Thomas didn't saw Alicia driving an electric mango bicycle,0
+"Isaac, who is a builder, saw a strange add",Isaac didn't saw a strange add,1
+"Cheryl, who is a doctor, saw the car crash",Cheryl didn't saw the car crash,1
+"Betty, who is a carpenter, saw a dog chasing a cat","Betty, Colleen's mother, didn't saw a dog chasing a cat",0
+Opal saw a girl driving Mark's car,Opal didn't saw a girl driving,1
+"Marcia, who is a journalist, bought a cup of coffee","Marcia, who is a engineer, didn't buy a cup of coffee",0
+"Russell, who is a hairdresser, saw the city mayor","Russell, Dora's father, didn't saw the city mayor",0
+"Jill, who is a baker, bought a Macbook","Jill, who is a musician, didn't buy a Macbook",0
+Vera saw Terry driving an electric black bicycle,Vera didn't saw Terry driving in Timisoara,0
+"Jennie, who is a barber, saw a strange add","Jennie, who is a plumber, didn't saw a strange add",0
+"Joan, who is a accountant, visit Barry",Joan didn't visit Barry,1
+Francis saw Delores running from a red bus with a new engine,Francis didn't saw Delores running,1
+"Holly, who is a chef, visit Carol","Holly, Curtis's mother, didn't visit Carol",0
+"Troy, who is a engineer, saw the new Tesla Roadster","Troy, Kathryn's father, didn't saw the new Tesla Roadster",0
+"Kirk, who is a musician, bought the new Marvel movie from the Russo Brothers","Kirk, Mario's father, didn't buy the new Marvel movie from the Russo Brothers",0
+Blanche saw a girl running from a gray bus,Blanche didn't saw a girl running from Steve's car,0
+"Dwight, who is a barber, saw the accident",Dwight didn't saw the accident,1
+"Keith, who is a flight attendant, bought a pizza",Keith didn't buy a pizza,1
+"Virginia, who is a judge, saw the accident",Virginia didn't saw the accident,1
+"Geraldine, who is a photographer, bought a cup of coffee","Geraldine, Raymond's mother, didn't buy a cup of coffee",0
+Edith saw Nicole driving a mango car,Edith didn't saw Nicole driving Francis's new Tesla Roadster,0
+"Tracy, who is a pilot, visit Lewis","Tracy, who is a accountant, didn't visit Lewis",0
+"Pamela, who is a scientist, visit Judy",Pamela isn't a scientist,1
+"Marian, who is a plumber, saw a blue plane","Marian, Enrique's mother, didn't saw a blue plane",0
+Bill saw a boy running from a parade car,Bill didn't saw a boy running from a bus going to Baia Mare,0
+"Lance, who is a butcher, bought the new Tesla Roadster","Lance, who is a baker, didn't buy the new Tesla Roadster",0
+"Glenda, who is a scientist, saw the accident","Glenda, Raul's mother, didn't saw the accident",0
+Shane saw a girl driving a lemon bicycle,Shane didn't saw a girl driving,1
+"Ada, who is a carpenter, bought the new Tesla Roadster",Ada isn't a carpenter,1
+"Gordon, who is a receptionist, bought a Macbook","Gordon, Jennifer's father, didn't buy a Macbook",0
+Ron saw a girl driving a lemon car,Ron didn't saw a girl driving Bobbie's new Tesla Roadster,0
+"Tyler, who is a vet, bought the new Tesla Roadster",Tyler isn't a vet,1
+Terri saw a boy running from a parade car,Terri didn't saw a boy running,1
+"Gabriel, who is a bartender, bought a japanese novel",Gabriel didn't buy a japanese novel,1
+Chad saw a boy driving a green car,Chad didn't saw a boy driving,1
+"Hattie, who is a butcher, visit Justin",Hattie didn't visit Justin,1
+"Leona, who is a doctor, saw a strange add","Leona, Randall's mother, didn't saw a strange add",0
+"Edgar, who is a cleaner, saw a girl running",Edgar didn't saw a girl running,1
+"Linda, who is a receptionist, bought the new Tesla Roadster","Linda, Christine's mother, didn't buy the new Tesla Roadster",0
+"Lula, who is a photographer, saw the new Tesla Roadster",Lula isn't a photographer,1
+"Douglas, who is a butcher, bought a cup of coffee","Douglas, Alison's father, didn't buy a cup of coffee",0
+Joanna saw Ross running from Helen's car,Joanna didn't saw Ross running from a black bus with a new engine,0
+Olga saw a girl driving Pauline's bicycle,Olga didn't saw a girl driving Clinton's new Tesla Roadster,0
+Lee saw a girl running from a mango bus,Lee didn't saw a girl running,1
+Eileen saw a girl driving a red car,Eileen didn't saw a girl driving a orange bicycle,0
+"Barbara, who is a judge, saw the city mayor","Barbara, who is a flight attendant, didn't saw the city mayor",0
+"Elsie, who is a lawyer, saw a girl running",Elsie didn't saw a girl running,1
+Harriet saw Julio driving Claude's car,Harriet didn't saw Julio driving Frances's bicycle,0
+Kimberly saw Rosemary running from Brittany's car,Kimberly didn't saw Rosemary running,1
+"Fred, who is a journalist, visit Dianne","Fred, Marian's father, didn't visit Dianne",0
+Carla saw Rick running from a salmon bus with a new engine,Carla didn't saw Rick running,1
+"Pedro, who is a fireman, visit Corey","Pedro, who is a cleaner, didn't visit Corey",0
+"Howard, who is a chef, saw a dog chasing a cat","Howard, Eileen's father, didn't saw a dog chasing a cat",0
+"Rose, who is a bartender, visit Margarita","Rose, Freddie's mother, didn't visit Margarita",0
+"Mathew, who is a receptionist, saw the new Marvel movie from the Russo Brothers",Mathew isn't a receptionist,1
+"Ellen, who is a barber, visit Sarah",Ellen didn't visit Sarah,1
+"Leon, who is a lawyer, saw a strange add","Leon, who is a chef, didn't saw a strange add",0
+"Marion, who is a pilot, bought the new Tesla Roadster","Marion, who is a judge, didn't buy the new Tesla Roadster",0
+"Wesley, who is a plumber, visit Clayton",Wesley isn't a plumber,1
+"Dustin, who is a judge, bought the new Marvel movie from the Russo Brothers","Dustin, Gilbert's father, didn't buy the new Marvel movie from the Russo Brothers",0
+"Scott, who is a fireman, visit Jill",Scott isn't a fireman,1
+Greg saw a girl running from Naomi's car,Greg didn't saw a girl running from a lemon school bus,0
+"Willie, who is a fireman, visit Ralph","Willie, who is a vet, didn't visit Ralph",0
+"Nina, who is a receptionist, visit Caroline","Nina, who is a technician, didn't visit Caroline",0
+"Brittany, who is a fireman, bought a cup of coffee","Brittany, Francis's mother, didn't buy a cup of coffee",0
+Alfred saw a boy running from a white school bus,Alfred didn't saw a boy running from a blue bus,0
+"Marlene, who is a bartender, visit Randy",Marlene didn't visit Randy,1
+"Daisy, who is a doctor, saw the car crash","Daisy, Inez's mother, didn't saw the car crash",0
+Beverly saw a girl driving a red car,Beverly didn't saw a girl driving,1
+"Daryl, who is a tailor, saw a blue plane",Daryl isn't a tailor,1
+"Michele, who is a fireman, visit Rosie","Michele, Sharon's mother, didn't visit Rosie",0
+"Brett, who is a nurse, bought a Macbook",Brett didn't buy a Macbook,1
+"Arnold, who is a doctor, visit Eleanor","Arnold, Anita's father, didn't visit Eleanor",0
+Maurice saw a boy driving a white car,Maurice didn't saw a boy driving,1
+"Sherry, who is a hairdresser, visit Tracy","Sherry, who is a dentist, didn't visit Tracy",0
+"Marsha, who is a plumber, bought the new Marvel movie from the Russo Brothers",Marsha didn't buy the new Marvel movie from the Russo Brothers,1
+"Lola, who is a carpenter, bought a japanese novel",Lola didn't buy a japanese novel,1
+"Nicholas, who is a butcher, visit Jacqueline",Nicholas didn't visit Jacqueline,1
+Candice saw Jon driving Rafael's new Tesla Roadster,Candice didn't saw Jon driving,1
+"Dolores, who is a bartender, visit Eddie","Dolores, Elaine's mother, didn't visit Eddie",0
+"Deanna, who is a tailor, saw a blue plane","Deanna, who is a photographer, didn't saw a blue plane",0
+Paula saw a girl running from a red bus with a new engine,Paula didn't saw a girl running,1
+Laura saw a girl running from a green school bus,Laura didn't saw a girl running,1
+"Nora, who is a cop, bought a Macbook",Nora isn't a cop,1
+Lester saw a boy running from a bus going to Timisoara,Lester didn't saw a boy running from a ashy school bus,0
+"Deanna, who is a vet, saw a blue plane",Deanna isn't a vet,1
+"Joann, who is a bartender, bought a Chilean wine","Joann, who is a nurse, didn't buy a Chilean wine",0
+"Wade, who is a carpenter, bought the new Marvel movie from the Russo Brothers",Wade isn't a carpenter,1
+"Pedro, who is a engineer, visit Dean","Pedro, Kathryn's father, didn't visit Dean",0
+Delores saw a girl running from a ashy bus,Delores didn't saw a girl running,1
+"Norma, who is a engineer, visit Duane",Norma didn't visit Duane,1
+"Barry, who is a fireman, visit Bobby","Barry, who is a dentist, didn't visit Bobby",0
+"Sharon, who is a hairdresser, saw the new Tesla Roadster","Sharon, who is a nurse, didn't saw the new Tesla Roadster",0
+Ronald saw a girl driving Calvin's new Tesla Roadster,Ronald didn't saw a girl driving,1
+"Claire, who is a photographer, bought a pizza","Claire, who is a lawyer, didn't buy a pizza",0
+Andrea saw a girl running from a salmon bus with a new engine,Andrea didn't saw a girl running,1
+"Wayne, who is a carpenter, saw a strange add",Wayne didn't saw a strange add,1
+"Michael, who is a journalist, saw the city mayor","Michael, Lester's father, didn't saw the city mayor",0
+"Eileen, who is a painter, visit Ron","Eileen, Jimmie's mother, didn't visit Ron",0
+"Eunice, who is a hairdresser, bought a pizza",Eunice didn't buy a pizza,1
+Lula saw a boy driving Jaime's new Tesla Roadster,Lula didn't saw a boy driving,1
+"Ken, who is a cop, bought the new Marvel movie from the Russo Brothers","Ken, Derrick's father, didn't buy the new Marvel movie from the Russo Brothers",0
+"David, who is a lawyer, visit Hattie",David isn't a lawyer,1
+"Madeline, who is a barber, visit Joyce",Madeline didn't visit Joyce,1
+Lee saw a boy running from a parade car,Lee didn't saw a boy running,1
+Terry saw a girl driving a mango bicycle,Terry didn't saw a girl driving Rene's bicycle,0
+"Carole, who is a painter, visit Olga",Carole isn't a painter,1
+"Bradley, who is a dentist, visit Irma",Bradley isn't a dentist,1
+"Russell, who is a vet, bought a pizza","Russell, who is a electrician, didn't buy a pizza",0
+Florence saw a girl driving Fannie's new Tesla Roadster,Florence didn't saw a girl driving,1
+"Claude, who is a painter, saw the new Tesla Roadster","Claude, who is a plumber, didn't saw the new Tesla Roadster",0
+"Jack, who is a doctor, bought a Chilean wine","Jack, Rachel's father, didn't buy a Chilean wine",0
+"Melinda, who is a pilot, visit Sonia",Melinda isn't a pilot,1
+"Eric, who is a butcher, bought a pizza",Eric didn't buy a pizza,1
+"Guy, who is a judge, saw a dog chasing a cat",Guy didn't saw a dog chasing a cat,1
+Jamie saw Elaine driving Felix's bicycle,Jamie didn't saw Elaine driving Daniel's new Tesla Roadster,0
+"Gerald, who is a lawyer, bought a Macbook",Gerald isn't a lawyer,1
+"Melvin, who is a flight attendant, visit Leslie",Melvin isn't a flight attendant,1
+"Anthony, who is a secretary, visit Albert",Anthony isn't a secretary,1
+Renee saw Marilyn driving Harold's bicycle,Renee didn't saw Marilyn driving,1
+"Lonnie, who is a tailor, bought the new Tesla Roadster",Lonnie didn't buy the new Tesla Roadster,1
+"Ella, who is a lawyer, saw the new Tesla Roadster","Ella, who is a pilot, didn't saw the new Tesla Roadster",0
+"Vivian, who is a painter, saw a girl running","Vivian, who is a dentist, didn't saw a girl running",0
+Tina saw Jeff driving Lois's car,Tina didn't saw Jeff driving,1
+"Tyler, who is a cashier, visit Ruby",Tyler didn't visit Ruby,1
+Andy saw Gail running from a gray school bus,Andy didn't saw Gail running from a special recently built bus,0
+Naomi saw a girl running from a bus going to Reghin,Naomi didn't saw a girl running,1
+Dolores saw a boy driving a icy bicycle,Dolores didn't saw a boy driving,1
+"Bernice, who is a fireman, bought a japanese novel","Bernice, Delores's mother, didn't buy a japanese novel",0
+"Sean, who is a journalist, visit Nellie",Sean didn't visit Nellie,1
+"Jamie, who is a cashier, saw a blue plane","Jamie, Jerome's mother, didn't saw a blue plane",0
+"Blanche, who is a doctor, bought a cup of coffee",Blanche isn't a doctor,1
+"Emma, who is a electrician, bought a japanese novel",Emma didn't buy a japanese novel,1
+"Peter, who is a photographer, bought a pizza",Peter isn't a photographer,1
+"Shane, who is a cashier, saw a girl running",Shane didn't saw a girl running,1
+"Tanya, who is a bartender, saw the accident",Tanya didn't saw the accident,1
+Diana saw Antonio driving a icy car,Diana didn't saw Antonio driving,1
+Floyd saw a boy driving David's bicycle,Floyd didn't saw a boy driving in Slatina,0
+"Pauline, who is a cleaner, visit Dorothy",Pauline didn't visit Dorothy,1
+Susan saw Wayne running from Steve's car,Susan didn't saw Wayne running from a bus going to Slatina,0
+Paul saw a girl driving Jane's new Tesla Roadster,Paul didn't saw a girl driving in Arad,0
+Stella saw Carlos running from a parade car,Stella didn't saw Carlos running from a orange school bus,0
+"Joann, who is a builder, bought a japanese novel",Joann isn't a builder,1
+"Virginia, who is a painter, visit Tommy",Virginia isn't a painter,1
+Lloyd saw a boy running from a mango car,Lloyd didn't saw a boy running from a parade car,0
+Wesley saw Vanessa running from Joy's car,Wesley didn't saw Vanessa running from a parade car,0
+"Dwight, who is a baker, visit Cory",Dwight didn't visit Cory,1
+"Wendy, who is a engineer, visit Willie",Wendy isn't a engineer,1
+Clinton saw a boy driving Heather's car,Clinton didn't saw a boy driving a ashy bicycle,0
+"Heather, who is a cop, bought a Chilean wine","Heather, who is a accountant, didn't buy a Chilean wine",0
+Alicia saw a girl driving Belinda's new Tesla Roadster,Alicia didn't saw a girl driving,1
+"Shawn, who is a chef, bought the new Marvel movie from the Russo Brothers","Shawn, who is a photographer, didn't buy the new Marvel movie from the Russo Brothers",0
+"Darryl, who is a cleaner, saw the accident","Darryl, Jerome's father, didn't saw the accident",0
+"Brent, who is a flight attendant, visit Isaac",Brent didn't visit Isaac,1
+"Cheryl, who is a cashier, saw a girl running",Cheryl didn't saw a girl running,1
+Monique saw a girl running from a icy school bus,Monique didn't saw a girl running,1
+"Arlene, who is a dentist, saw the new Marvel movie from the Russo Brothers","Arlene, Tyrone's mother, didn't saw the new Marvel movie from the Russo Brothers",0
+"Erin, who is a painter, bought a Macbook","Erin, John's mother, didn't buy a Macbook",0
+"Mary, who is a technician, visit Clyde","Mary, Thelma's mother, didn't visit Clyde",0
+"Norman, who is a vet, bought a pizza",Norman didn't buy a pizza,1
+"Jonathan, who is a receptionist, visit Linda","Jonathan, who is a carpenter, didn't visit Linda",0
+"Kathryn, who is a engineer, saw the new Tesla Roadster","Kathryn, who is a flight attendant, didn't saw the new Tesla Roadster",0
+"Ellen, who is a nurse, bought a cup of coffee",Ellen isn't a nurse,1
+"Jeanne, who is a doctor, visit Kirk",Jeanne isn't a doctor,1
+Carla saw a girl driving Leroy's bicycle,Carla didn't saw a girl driving in Blaj,0
+Virginia saw a girl running from a special recently built bus,Virginia didn't saw a girl running,1
+"Harold, who is a plumber, visit Oscar",Harold didn't visit Oscar,1
+Enrique saw a girl running from a green bus,Enrique didn't saw a girl running,1
+Alfred saw Rene driving Edna's car,Alfred didn't saw Rene driving a mango bicycle,0
+Thomas saw Darryl driving Glenda's new Tesla Roadster,Thomas didn't saw Darryl driving,1
+Cynthia saw a girl running from a bus going to Reghin,Cynthia didn't saw a girl running,1
+"Rene, who is a painter, saw the new Tesla Roadster","Rene, who is a lawyer, didn't saw the new Tesla Roadster",0
+Jennifer saw a boy driving an electric purple bicycle,Jennifer didn't saw a boy driving,1
+Margie saw Lonnie running from Jonathan's car,Margie didn't saw Lonnie running from a blue school bus,0
+"Wayne, who is a hairdresser, bought a japanese novel","Wayne, who is a pilot, didn't buy a japanese novel",0
+"Patrick, who is a fireman, visit Alan",Patrick isn't a fireman,1
+Kenneth saw a girl running from a special recently built bus,Kenneth didn't saw a girl running from a orange school bus,0
+"Gerald, who is a technician, saw the new Tesla Roadster",Gerald isn't a technician,1
+"Frederick, who is a flight attendant, visit Phillip",Frederick didn't visit Phillip,1
+Cody saw Sally running from a gray car,Cody didn't saw Sally running from a parade car,0
+"Julian, who is a cop, saw the accident","Julian, Guy's father, didn't saw the accident",0
+Vera saw a girl running from a gray bus with a new engine,Vera didn't saw a girl running from a bus going to Lugoj,0
+Calvin saw a girl running from a gray school bus,Calvin didn't saw a girl running,1
+Shawn saw a boy driving a ashy bicycle,Shawn didn't saw a boy driving an electric black bicycle,0
+"Mathew, who is a carpenter, bought a pizza","Mathew, Melanie's father, didn't buy a pizza",0
+"Wendy, who is a journalist, saw the accident","Wendy, Lance's mother, didn't saw the accident",0
+"Faye, who is a cop, saw the new Marvel movie from the Russo Brothers",Faye didn't saw the new Marvel movie from the Russo Brothers,1
+"Pamela, who is a doctor, saw the accident","Pamela, who is a cleaner, didn't saw the accident",0
+"Cora, who is a vet, saw a girl running",Cora didn't saw a girl running,1
+Edwin saw a boy running from a special recently built bus,Edwin didn't saw a boy running,1
+"Kristine, who is a carpenter, visit Joanna",Kristine isn't a carpenter,1
+Tamara saw a girl running from a red school bus,Tamara didn't saw a girl running from a special recently built bus,0
+"Jordan, who is a bartender, visit Salvador","Jordan, Yvette's father, didn't visit Salvador",0
+"Ben, who is a pilot, saw the new Tesla Roadster","Ben, Charlotte's father, didn't saw the new Tesla Roadster",0
+"Casey, who is a cop, bought a pizza",Casey isn't a cop,1
+Stacey saw Marvin driving an electric green bicycle,Stacey didn't saw Marvin driving Sheryl's new Tesla Roadster,0
+"Cindy, who is a photographer, bought the new Marvel movie from the Russo Brothers",Cindy didn't buy the new Marvel movie from the Russo Brothers,1
+"Clara, who is a baker, visit Nellie",Clara isn't a baker,1
+"Stanley, who is a bartender, bought a japanese novel","Stanley, who is a plumber, didn't buy a japanese novel",0
+Angel saw a girl running from a bus going to Dej,Angel didn't saw a girl running from a yellow school bus,0
+Dora saw a girl driving a gray bicycle,Dora didn't saw a girl driving,1
+"Blanche, who is a plumber, bought a japanese novel","Blanche, who is a builder, didn't buy a japanese novel",0
+"Beatrice, who is a bartender, visit Lee","Beatrice, Helen's mother, didn't visit Lee",0
+"Marion, who is a chef, bought a japanese novel","Marion, Jamie's father, didn't buy a japanese novel",0
+"Daniel, who is a tailor, visit Oscar",Daniel isn't a tailor,1
+"Francis, who is a cop, visit Isaac","Francis, Donald's father, didn't visit Isaac",0
+Ann saw a girl driving Floyd's car,Ann didn't saw a girl driving a mango car,0
+"Priscilla, who is a scientist, visit Bruce",Priscilla isn't a scientist,1
+"Charlie, who is a lawyer, visit Erika","Charlie, Chester's father, didn't visit Erika",0
+Vincent saw a girl driving an electric gray bicycle,Vincent didn't saw a girl driving Bob's new Tesla Roadster,0
+Ron saw Salvador running from a bus going to Reghin,Ron didn't saw Salvador running,1
+"Jamie, who is a accountant, bought a pizza",Jamie isn't a accountant,1
+Jackie saw Willard driving a lemon car,Jackie didn't saw Willard driving in Blaj,0
+"Madeline, who is a barber, visit Lula","Madeline, who is a receptionist, didn't visit Lula",0
+"Kathy, who is a doctor, saw a strange add","Kathy, who is a vet, didn't saw a strange add",0
+"Janet, who is a flight attendant, saw the new Tesla Roadster",Janet didn't saw the new Tesla Roadster,1
+"Eunice, who is a builder, saw the new Tesla Roadster",Eunice didn't saw the new Tesla Roadster,1
+Leon saw Myrtle running from a white bus with a new engine,Leon didn't saw Myrtle running from Vanessa's car,0
+"Everett, who is a dentist, visit Ellen",Everett didn't visit Ellen,1
+"Cynthia, who is a doctor, bought the new Marvel movie from the Russo Brothers","Cynthia, Dennis's mother, didn't buy the new Marvel movie from the Russo Brothers",0
+"Stephen, who is a butcher, bought a cup of coffee","Stephen, Fernando's father, didn't buy a cup of coffee",0
+"Benjamin, who is a hairdresser, visit Derrick","Benjamin, Nellie's father, didn't visit Derrick",0
+"Iris, who is a hairdresser, visit Calvin",Iris didn't visit Calvin,1
+"Bernice, who is a journalist, bought a cup of coffee",Bernice didn't buy a cup of coffee,1
+Herman saw a girl running from Francisco's car,Herman didn't saw a girl running,1
+Jay saw a boy running from a icy bus,Jay didn't saw a boy running from Maggie's car,0
+"Eugene, who is a technician, bought a japanese novel",Eugene didn't buy a japanese novel,1
+"Misty, who is a receptionist, bought the new Tesla Roadster",Misty didn't buy the new Tesla Roadster,1
+"Hugh, who is a builder, bought the new Marvel movie from the Russo Brothers",Hugh isn't a builder,1
+"Ella, who is a lawyer, visit Aaron","Ella, Ron's mother, didn't visit Aaron",0
+"Jeff, who is a technician, visit Maria","Jeff, who is a flight attendant, didn't visit Maria",0
+"Allen, who is a journalist, visit Marsha",Allen isn't a journalist,1
+"Lewis, who is a tailor, saw a blue plane","Lewis, who is a plumber, didn't saw a blue plane",0
+"Raul, who is a scientist, visit Cora","Raul, who is a electrician, didn't visit Cora",0
+Kristy saw a boy running from a parade car,Kristy didn't saw a boy running from a special recently built bus,0
+Bernard saw a girl running from a special recently built bus,Bernard didn't saw a girl running from a parade car,0
+Debbie saw a boy running from a special recently built bus,Debbie didn't saw a boy running from a purple school bus,0
+"Jeff, who is a bartender, visit Curtis",Jeff isn't a bartender,1
+"Lois, who is a journalist, saw the new Tesla Roadster","Lois, who is a nurse, didn't saw the new Tesla Roadster",0
+"Edward, who is a cop, visit Michelle","Edward, who is a receptionist, didn't visit Michelle",0
+"Josephine, who is a cop, saw a dog chasing a cat",Josephine didn't saw a dog chasing a cat,1
+"Jacqueline, who is a accountant, saw the accident","Jacqueline, Eunice's mother, didn't saw the accident",0
+"Sam, who is a musician, saw a blue plane",Sam didn't saw a blue plane,1
+Daryl saw Regina driving Ellen's bicycle,Daryl didn't saw Regina driving,1
+"Julia, who is a judge, bought a pizza",Julia didn't buy a pizza,1
+"Diane, who is a plumber, visit Margaret",Diane isn't a plumber,1
+"Jimmy, who is a chef, visit Milton","Jimmy, Ricky's father, didn't visit Milton",0
+"George, who is a hairdresser, bought a cup of coffee","George, who is a baker, didn't buy a cup of coffee",0
+"Sheryl, who is a accountant, saw a strange add",Sheryl isn't a accountant,1
+Jessie saw a boy driving in Bucharest,Jessie didn't saw a boy driving,1
+Jason saw a boy driving Doris's new Tesla Roadster,Jason didn't saw a boy driving in Blaj,0
+"Andy, who is a scientist, saw a blue plane",Andy isn't a scientist,1
+Juana saw a boy running from a parade car,Juana didn't saw a boy running,1
+"Minnie, who is a hairdresser, saw a dog chasing a cat",Minnie isn't a hairdresser,1
+"Rodney, who is a pilot, saw the new Tesla Roadster","Rodney, Amanda's father, didn't saw the new Tesla Roadster",0
+"Marlene, who is a pilot, visit Howard","Marlene, Crystal's mother, didn't visit Howard",0
+"Marshall, who is a cleaner, visit Julian",Marshall isn't a cleaner,1
+"Sarah, who is a accountant, visit Betty",Sarah isn't a accountant,1
+"Allan, who is a cleaner, saw the city mayor","Allan, Billie's father, didn't saw the city mayor",0
+Marlene saw Ralph driving in Slatina,Marlene didn't saw Ralph driving,1
+"Dean, who is a chef, visit Wendy",Dean isn't a chef,1
+"Charlotte, who is a lawyer, visit Debra","Charlotte, who is a cleaner, didn't visit Debra",0
+Virgil saw Colleen driving Jacqueline's new Tesla Roadster,Virgil didn't saw Colleen driving Tanya's bicycle,0
+Joshua saw Dawn running from a parade car,Joshua didn't saw Dawn running from a black school bus,0
+"Amanda, who is a photographer, bought the new Marvel movie from the Russo Brothers","Amanda, who is a pilot, didn't buy the new Marvel movie from the Russo Brothers",0
+"Kristina, who is a nurse, bought the new Marvel movie from the Russo Brothers",Kristina isn't a nurse,1
+Mae saw a girl driving in Bucharest,Mae didn't saw a girl driving a blue bicycle,0
+Stacy saw Travis driving Allen's new Tesla Roadster,Stacy didn't saw Travis driving,1
+"Lindsay, who is a baker, saw the city mayor",Lindsay isn't a baker,1
+"John, who is a chef, saw the accident",John isn't a chef,1
+Eugene saw Norma running from a icy bus with a new engine,Eugene didn't saw Norma running,1
+Albert saw Lewis driving in Timisoara,Albert didn't saw Lewis driving an electric white bicycle,0
+Melvin saw a boy running from a parade car,Melvin didn't saw a boy running from a bus going to Bucharest,0
+Sergio saw Alma driving Mathew's bicycle,Sergio didn't saw Alma driving Jessie's car,0
+"Rose, who is a engineer, visit Tommy",Rose didn't visit Tommy,1
+Bruce saw a girl driving Jacqueline's car,Bruce didn't saw a girl driving,1
+"Carl, who is a musician, visit Bernice","Carl, Beatrice's father, didn't visit Bernice",0
+Casey saw Linda running from a purple bus with a new engine,Casey didn't saw Linda running from a black school bus,0
+"Shelly, who is a chef, saw a strange add","Shelly, Dorothy's mother, didn't saw a strange add",0
+"Darryl, who is a tailor, bought the new Marvel movie from the Russo Brothers",Darryl didn't buy the new Marvel movie from the Russo Brothers,1
+"Wayne, who is a carpenter, bought a Macbook",Wayne isn't a carpenter,1
+"Jose, who is a builder, saw the car crash",Jose isn't a builder,1
+"Benjamin, who is a plumber, bought a japanese novel",Benjamin didn't buy a japanese novel,1
+Cathy saw a boy driving Kenneth's new Tesla Roadster,Cathy didn't saw a boy driving,1
+Maria saw a boy running from a salmon bus with a new engine,Maria didn't saw a boy running from a icy bus,0
+"Felix, who is a hairdresser, visit Debbie","Felix, Irene's father, didn't visit Debbie",0
+Donald saw a girl running from a bus going to Bucharest,Donald didn't saw a girl running,1
+"Marvin, who is a technician, visit Beulah","Marvin, who is a bartender, didn't visit Beulah",0
+"Harold, who is a barber, bought a pizza",Harold didn't buy a pizza,1
+Dorothy saw Stephanie driving Kirk's car,Dorothy didn't saw Stephanie driving,1
+"Rosemary, who is a bartender, saw a strange add",Rosemary didn't saw a strange add,1
+Mitchell saw a girl driving in Dej,Mitchell didn't saw a girl driving,1
+"Troy, who is a builder, bought the new Tesla Roadster",Troy isn't a builder,1
+"Calvin, who is a plumber, bought a japanese novel",Calvin isn't a plumber,1
+"Lynda, who is a butcher, bought a Macbook",Lynda isn't a butcher,1
+"Fred, who is a builder, visit Christian",Fred didn't visit Christian,1
+"Roland, who is a secretary, bought a cup of coffee",Roland isn't a secretary,1
+"Pauline, who is a doctor, visit Virgil",Pauline isn't a doctor,1
+John saw a boy running from a bus going to Dej,John didn't saw a boy running,1
+Christine saw a girl driving an electric icy bicycle,Christine didn't saw a girl driving Tonya's car,0
+"Sidney, who is a flight attendant, visit Nicole","Sidney, Clifford's father, didn't visit Nicole",0
+Clayton saw a boy driving Edna's car,Clayton didn't saw a boy driving an electric mango bicycle,0
+Guy saw a boy driving an electric lemon bicycle,Guy didn't saw a boy driving a icy car,0
+Felicia saw a girl running from a green school bus,Felicia didn't saw a girl running from a special recently built bus,0
+Edward saw a boy running from a parade car,Edward didn't saw a boy running from a icy bus with a new engine,0
+"Stanley, who is a nurse, saw the new Marvel movie from the Russo Brothers","Stanley, who is a pilot, didn't saw the new Marvel movie from the Russo Brothers",0
+"Kathleen, who is a scientist, saw the new Marvel movie from the Russo Brothers","Kathleen, Molly's mother, didn't saw the new Marvel movie from the Russo Brothers",0
+Elsie saw a boy driving a ashy bicycle,Elsie didn't saw a boy driving,1
+Clara saw a girl running from a lemon car,Clara didn't saw a girl running from Edna's car,0
+Elizabeth saw a boy driving a green car,Elizabeth didn't saw a boy driving,1
+Seth saw Irene driving Edith's bicycle,Seth didn't saw Irene driving,1
+"Shelley, who is a plumber, saw the new Tesla Roadster","Shelley, who is a cashier, didn't saw the new Tesla Roadster",0
+"Mark, who is a musician, saw a dog chasing a cat",Mark didn't saw a dog chasing a cat,1
+Kristin saw Louis running from a parade car,Kristin didn't saw Louis running,1
+"Tracey, who is a lawyer, visit Clifton","Tracey, who is a flight attendant, didn't visit Clifton",0
+"Ben, who is a cop, visit Dave",Ben isn't a cop,1
+"Beth, who is a nurse, bought a Macbook","Beth, Johnny's mother, didn't buy a Macbook",0
+"Robert, who is a doctor, bought a pizza",Robert didn't buy a pizza,1

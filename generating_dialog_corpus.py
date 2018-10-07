@@ -39,7 +39,17 @@ all_train_data = ["boolean1_train.csv",
                   "boolean10_train.csv",
                   "boolean_AND_train.csv",
                   "boolean_OR_train.csv",
-                  "boolean_train.csv"]
+                  "boolean_train.csv",
+                  "boolean3_inf_train.csv",
+                  "boolean4_inf_train.csv",
+                  "boolean5_inf_train.csv",
+                  "boolean8_inf_train.csv",
+                  "boolean9_inf_train.csv",
+                  "boolean10_inf_train.csv",
+                  "boolean_AND_inf_train.csv",
+                  "boolean_OR_inf_train.csv",
+                  "boolean_inf_train.csv"]
+
 
 all_test_data = ["boolean1_test.csv",
                  "boolean2_test.csv",
@@ -53,7 +63,16 @@ all_test_data = ["boolean1_test.csv",
                  "boolean10_test.csv",
                  "boolean_AND_test.csv",
                  "boolean_OR_test.csv",
-                 "boolean_test.csv"]
+                 "boolean_test.csv",
+                 "boolean3_inf_test.csv",
+                 "boolean4_inf_test.csv",
+                 "boolean5_inf_test.csv",
+                 "boolean8_inf_test.csv",
+                 "boolean9_inf_test.csv",
+                 "boolean10_inf_test.csv",
+                 "boolean_AND_inf_test.csv",
+                 "boolean_OR_inf_test.csv",
+                 "boolean_inf_test.csv"]
 
 
 all_valid_path = ["boolean1_valid",
@@ -68,21 +87,30 @@ all_valid_path = ["boolean1_valid",
                   "boolean10_valid",
                   "boolean_AND_valid",
                   "boolean_OR_valid",
-                  "boolean_valid"]
+                  "boolean_valid",
+                  "boolean3_inf_valid",
+                  "boolean4_inf_valid",
+                  "boolean5_inf_valid",
+                  "boolean8_inf_valid",
+                  "boolean9_inf_valid",
+                  "boolean10_inf_valid",
+                  "boolean_AND_inf_valid",
+                  "boolean_OR_inf_valid",
+                  "boolean_inf_valid"]
 
 
 def main():
     if not os.path.exists("dialog_data"):
         os.makedirs("dialog_data")
 
-    if not os.path.exists("data"):
+    if not os.path.exists("fixed_data"):
         print("Generating data \n")
         create_all()
 
     for tra, te, val in zip(all_train_data, all_test_data, all_valid_path):
 
-        train_data_path = os.path.join("data", tra)
-        test_data_path = os.path.join("data", te)
+        train_data_path = os.path.join("fixed_data", tra)
+        test_data_path = os.path.join("fixed_data", te)
         out_path_train = os.path.join("dialog_data", tra)[:-3] + "txt"
         out_path_test = os.path.join("dialog_data", te)[:-3] + "txt"
         out_path_valid = os.path.join("dialog_data", val) + ".txt"

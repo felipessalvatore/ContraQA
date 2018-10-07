@@ -1,0 +1,3000 @@
+1 seth broke the rules and knew antoinettes secret
+2 seth didnt know antoinettes secret
+3 There is a contradiction here?	yes	1
+4 joy lent me geralds icy bicycle and blew it
+5 frances didnt lend me geralds icy bicycle
+6 There is a contradiction here?	no	1
+7 arlene grew up and ate an apple
+8 arlene didnt hang up on me
+9 There is a contradiction here?	no	1
+10 beverly met him and froze juanas bank account
+11 antoinette didnt freeze juanas bank account
+12 There is a contradiction here?	no	1
+13 julie beat her and sang a nice song
+14 elmer didnt beat her
+15 There is a contradiction here?	no	1
+1 maxine bought a watch and hid behind a bush
+2 ramona didnt hide behind a bush
+3 There is a contradiction here?	no	1
+4 brett cut a tree and grew up in jail
+5 brett didnt spend all my money
+6 There is a contradiction here?	no	1
+7 kathy bent the rules of the soccer game and dreamed of the playing with joanna
+8 kathy didnt dream of the playing with joanna
+9 There is a contradiction here?	yes	1
+10 dan ate it all and put bertha in charge
+11 dan didnt put bertha in charge
+12 There is a contradiction here?	yes	1
+13 pamela spent all my money and read a paper
+14 pamela didnt read a paper
+15 There is a contradiction here?	yes	1
+1 elmer led me to jorges house and went to dans house
+2 elmer didnt burn some calories
+3 There is a contradiction here?	no	1
+4 herbert hid a smile and dug a hole in the garden
+5 victor didnt dig a hole in the garden
+6 There is a contradiction here?	no	1
+7 steven bent the rules of the soccer game and forgot about maries past
+8 steven didnt forget about maries past
+9 There is a contradiction here?	yes	1
+10 annette began laughing and kept erics secret from me
+11 annette didnt keep erics secret from me
+12 There is a contradiction here?	yes	1
+13 roberto knew about us and slept for one day
+14 louis didnt sleep for one day
+15 There is a contradiction here?	no	1
+1 corey ate a pizza and broke irenes heart
+2 corey didnt break irenes heart
+3 There is a contradiction here?	yes	1
+4 francis led me to jessicas house and froze rodneys bank account
+5 andy didnt freeze rodneys bank account
+6 There is a contradiction here?	no	1
+7 christopher did some good work and left me waiting
+8 christopher didnt do some good work
+9 There is a contradiction here?	yes	1
+10 antonio forgave chad and hung up on me
+11 tyler didnt hang up on me
+12 There is a contradiction here?	no	1
+13 terrence ate a steak and knew about us
+14 shirley didnt know about us
+15 There is a contradiction here?	no	1
+1 nina laid down and swam out toward the green boat
+2 nina didnt swim out toward the green boat
+3 There is a contradiction here?	yes	1
+4 elizabeth woke up and hid a smile
+5 elizabeth didnt hide a smile
+6 There is a contradiction here?	yes	1
+7 frances became the most important pilot in this town and came at noon
+8 mary didnt become the most important pilot in this town
+9 There is a contradiction here?	no	1
+10 ellen felt a strange and went to giurgiu
+11 ellen didnt go to giurgiu
+12 There is a contradiction here?	yes	1
+13 claudia left me waiting and built an altar for delores
+14 claudia didnt build an altar for delores
+15 There is a contradiction here?	yes	1
+1 denise bought a watch and forgave harriet
+2 denise didnt send me a letter
+3 There is a contradiction here?	no	1
+4 barry became jane best friend and fought judith
+5 danielle didnt become jane best friend
+6 There is a contradiction here?	no	1
+7 amanda bent the rules of the soccer game and slept for one day
+8 amanda didnt bend the rules of the soccer game
+9 There is a contradiction here?	yes	1
+10 ronnie drew ahead of the other runners and won the soccer match
+11 ronnie didnt draw ahead of the other runners
+12 There is a contradiction here?	yes	1
+13 wayne dreamed of the playing with darrell and drank an orange juice
+14 jane didnt drink an orange juice
+15 There is a contradiction here?	no	1
+1 eugene lost timothys icy car and hung up on me
+2 eugene didnt lose timothys icy car
+3 There is a contradiction here?	yes	1
+4 raymond brought me out of judiths house and read the news
+5 charles didnt bring me out of judiths house
+6 There is a contradiction here?	no	1
+7 terri understood what lena comment about giurgiu and hurt him
+8 terri didnt let this happen
+9 There is a contradiction here?	no	1
+10 sonya hid behind a bush and froze ellas bank account
+11 sonya didnt hide behind a bush
+12 There is a contradiction here?	yes	1
+13 don went away and put raul in charge
+14 katherine didnt go away
+15 There is a contradiction here?	no	1
+1 elmer wrote me a letter and grew up in jail
+2 elmer didnt burn vernas house
+3 There is a contradiction here?	no	1
+4 molly grew up and let this happen
+5 molly didnt build an airplane
+6 There is a contradiction here?	no	1
+7 madeline bent the mango rod and burned some calories
+8 madeline didnt burn some calories
+9 There is a contradiction here?	yes	1
+10 randy drank a bottle of wine and fought me
+11 randy didnt think i was helping michele
+12 There is a contradiction here?	no	1
+13 brandi grew up and kept the game alive
+14 brandi didnt keep the game alive
+15 There is a contradiction here?	yes	1
+1 sean made me change the way i wrote and spent all my money
+2 francis didnt spend all my money
+3 There is a contradiction here?	no	1
+4 greg ran from me and began screaming
+5 greg didnt fight phillip
+6 There is a contradiction here?	no	1
+7 benjamin got the money and spent all my money
+8 benjamin didnt spend all my money
+9 There is a contradiction here?	yes	1
+10 eunice paid deborah and hurt her
+11 eunice didnt hurt her
+12 There is a contradiction here?	yes	1
+13 neil forgave lisa and burned jans house
+14 neil didnt forgive lisa
+15 There is a contradiction here?	yes	1
+1 emily grew up in jail and sat on the mat
+2 emily didnt sit on the mat
+3 There is a contradiction here?	yes	1
+4 allen showed my new photos and taught middle school science
+5 allen didnt hurt me
+6 There is a contradiction here?	no	1
+7 margie understood what i said and made coffee
+8 margie didnt understand what i said
+9 There is a contradiction here?	yes	1
+10 melanie read a paper and became very important to me
+11 melanie didnt become very important to me
+12 There is a contradiction here?	yes	1
+13 darryl stood in front of the crowd and went to opals house
+14 darryl didnt go to opals house
+15 There is a contradiction here?	yes	1
+1 wallace had it all and ate a pizza
+2 nicole didnt eat a pizza
+3 There is a contradiction here?	no	1
+4 patricia read a paper and drove the truck to vincents house
+5 pauline didnt drive the truck to vincents house
+6 There is a contradiction here?	no	1
+7 beulah ate it all and taught tyrone about songwriting
+8 raul didnt eat it all
+9 There is a contradiction here?	no	1
+10 reginald swam out toward the black boat and went to reghin
+11 reginald didnt swim out toward the black boat
+12 There is a contradiction here?	yes	1
+13 samuel said nice things and sold me a red car
+14 tom didnt say nice things
+15 There is a contradiction here?	no	1
+1 anita broke the rules and went to joans house
+2 anita didnt break the rules
+3 There is a contradiction here?	yes	1
+4 natalie lent me some money a month before and hung up on me
+5 bernice didnt hang up on me
+6 There is a contradiction here?	no	1
+7 james wore a blue hat and woke up
+8 maria didnt wake up
+9 There is a contradiction here?	no	1
+10 sergio spoke to her about brandy and saw a purple car running fast
+11 sergio didnt see a purple car running fast
+12 There is a contradiction here?	yes	1
+13 eleanor bet on the game and hung up on me
+14 eleanor didnt bet on the game
+15 There is a contradiction here?	yes	1
+1 donald woke up and brought me out of billys house
+2 douglas didnt wake up
+3 There is a contradiction here?	no	1
+4 stacey said nice things and hurt me
+5 glenn didnt say nice things
+6 There is a contradiction here?	no	1
+7 theodore thought mary was going to die and hid a smile
+8 theodore didnt think mary was going to die
+9 There is a contradiction here?	yes	1
+10 theodore brought me out of joys house and burned the flag
+11 theodore didnt bring me out of joys house
+12 There is a contradiction here?	yes	1
+13 frederick froze glens bank account and drove awayto the bus stop
+14 rafael didnt freeze glens bank account
+15 There is a contradiction here?	no	1
+1 philip fought the law and lent me some money
+2 philip didnt lend me some money
+3 There is a contradiction here?	yes	1
+4 eric went to arad and stood in front of the crowd
+5 eric didnt stand in front of the crowd
+6 There is a contradiction here?	yes	1
+7 rosemary began laughing and spent all my money
+8 rosemary didnt catch a red fish
+9 There is a contradiction here?	no	1
+10 alfredo fell off and broke the rules
+11 alfredo didnt break the rules
+12 There is a contradiction here?	yes	1
+13 tracey came at noon and paid her
+14 tracey didnt pay her
+15 There is a contradiction here?	yes	1
+1 wayne kept the game alive and won the soccer match
+2 wayne didnt know adams secret
+3 There is a contradiction here?	no	1
+4 flora forgave olga and sang a pop song
+5 dolores didnt sing a pop song
+6 There is a contradiction here?	no	1
+7 jim beat her and met ethel
+8 miguel didnt meet ethel
+9 There is a contradiction here?	no	1
+10 gilbert sold terrances bicycle and forgot about jimmys past
+11 joann didnt sell terrances bicycle
+12 There is a contradiction here?	no	1
+13 mark shut the door down and forgave terry
+14 mark didnt give arnold a purple shirt
+15 There is a contradiction here?	no	1
+1 amber forgot about roberts past and came at midnight
+2 amber didnt come at midnight
+3 There is a contradiction here?	yes	1
+4 harriet thought i was living in oradea and was a fan of ritas work
+5 harriet didnt think i was living in oradea
+6 There is a contradiction here?	yes	1
+7 henry lent me some money a month before and took office
+8 henry didnt take office
+9 There is a contradiction here?	yes	1
+10 wilma felt a strange and spoke to her about jamie
+11 wilma didnt feel a strange
+12 There is a contradiction here?	yes	1
+13 sonya grew up and lost my computer
+14 sonya didnt grow up
+15 There is a contradiction here?	yes	1
+1 betty lost my computer and dreamed of the being a technician
+2 betty didnt lose my computer
+3 There is a contradiction here?	yes	1
+4 ian threw everything out the window and won the game
+5 ian didnt throw everything out the window
+6 There is a contradiction here?	yes	1
+7 shane paid him and understood what catherine comment about craiova
+8 shane didnt understand what catherine comment about craiova
+9 There is a contradiction here?	yes	1
+10 erica taught math and read the news
+11 erica didnt show my new photos
+12 There is a contradiction here?	no	1
+13 enrique laid his hands on him and wrote me a letter
+14 leslie didnt write me a letter
+15 There is a contradiction here?	no	1
+1 lynn burned the flag and sang a pop song
+2 leslie didnt burn the flag
+3 There is a contradiction here?	no	1
+4 alfred slept for eight hours and let use this pen
+5 katherine didnt sleep for eight hours
+6 There is a contradiction here?	no	1
+7 ian let this happen and sang a pop song
+8 ian didnt sing a pop song
+9 There is a contradiction here?	yes	1
+10 jonathan blew it when he didnt invest in amazon and dreamed of the being a electrician
+11 jonathan didnt dream of the being a electrician
+12 There is a contradiction here?	yes	1
+13 jenny found this white car and bet on the game
+14 christine didnt find this white car
+15 There is a contradiction here?	no	1
+1 gladys kept candices secret from me and drank a bottle of wine
+2 jordan didnt drink a bottle of wine
+3 There is a contradiction here?	no	1
+4 shelley chose this soccer team and swam out toward the white boat
+5 shelley didnt choose this soccer team
+6 There is a contradiction here?	yes	1
+7 milton wrote me an email and said nice things
+8 milton didnt say nice things
+9 There is a contradiction here?	yes	1
+10 lester drank a bottle of water and burned beverlys house
+11 lester didnt drink a bottle of water
+12 There is a contradiction here?	yes	1
+13 margaret saw him and became very important to me
+14 margaret didnt see him
+15 There is a contradiction here?	yes	1
+1 erika began crying and knew about us
+2 erika didnt know about us
+3 There is a contradiction here?	yes	1
+4 angie chose this soccer team and heard patrick
+5 angie didnt lead me to violas house
+6 There is a contradiction here?	no	1
+7 tracy brought me out of cathys house and read the news
+8 tracy didnt take office
+9 There is a contradiction here?	no	1
+10 virgil hung up on me and lent me some money
+11 alex didnt lend me some money
+12 There is a contradiction here?	no	1
+13 leslie bent the rules of the soccer game and won the game
+14 leslie didnt win the game
+15 There is a contradiction here?	yes	1
+1 jennifer found her and lent me some money
+2 jennifer didnt give johnny a black car
+3 There is a contradiction here?	no	1
+4 darren lost fredericks mango car and forgot about kaylas past
+5 darren didnt forget about kaylas past
+6 There is a contradiction here?	yes	1
+7 toni woke up and grew up in jail
+8 tom didnt wake up
+9 There is a contradiction here?	no	1
+10 elizabeth fought the law and grew up
+11 elizabeth didnt grow up
+12 There is a contradiction here?	yes	1
+13 vanessa won the game and sang a pop song
+14 vanessa didnt win the game
+15 There is a contradiction here?	yes	1
+1 beulah went to bernices house and won the game
+2 beulah didnt win the game
+3 There is a contradiction here?	yes	1
+4 janie told me everything and wore a white hat
+5 janie didnt tell me everything
+6 There is a contradiction here?	yes	1
+7 chester beat her and laid down
+8 chester didnt break the rules
+9 There is a contradiction here?	no	1
+10 ada told me about the bars in oradea and bent the white rod
+11 ada didnt bend the white rod
+12 There is a contradiction here?	yes	1
+13 erica hit me and broke bernards heart
+14 erica didnt build an altar for emily
+15 There is a contradiction here?	no	1
+1 charlotte left me and showed beatrices old photos
+2 doris didnt leave me
+3 There is a contradiction here?	no	1
+4 grace did some good work and hurt her
+5 grace didnt do some good work
+6 There is a contradiction here?	yes	1
+7 victoria wore a ashy hat and froze my account
+8 victoria didnt burn the flag
+9 There is a contradiction here?	no	1
+10 alison held him close and fought me
+11 alison didnt fight me
+12 There is a contradiction here?	yes	1
+13 virginia grew up and spoke to him about turda
+14 virginia didnt teach marjorie about songwriting
+15 There is a contradiction here?	no	1
+1 willard met him and laid his hands on him
+2 willard didnt think i was helping dwayne
+3 There is a contradiction here?	no	1
+4 viola read the book about spiders and drank a beer
+5 viola didnt read the book about spiders
+6 There is a contradiction here?	yes	1
+7 leonard caught a orange fish and wrote me about kent
+8 herbert didnt write me about kent
+9 There is a contradiction here?	no	1
+10 judy lost the purple car in tulcea and dug a hole
+11 tina didnt dig a hole
+12 There is a contradiction here?	no	1
+13 luz threw everything out the window and lost my computer
+14 luz didnt lose my computer
+15 There is a contradiction here?	yes	1
+1 martin got the money and forgave me
+2 martin didnt forgive me
+3 There is a contradiction here?	yes	1
+4 esther read the news and met her
+5 emily didnt meet her
+6 There is a contradiction here?	no	1
+7 ida cut a tree and bent the purple rod
+8 ida didnt bend the purple rod
+9 There is a contradiction here?	yes	1
+10 alfredo saw him and forgot about deborahs past
+11 linda didnt forget about deborahs past
+12 There is a contradiction here?	no	1
+13 mattie wrote me an email and told me about the bars in slatina
+14 connie didnt write me an email
+15 There is a contradiction here?	no	1
+1 wesley hid behind a bush and rode the horse
+2 wesley didnt hide behind a bush
+3 There is a contradiction here?	yes	1
+4 lonnie swam out toward the ashy boat and led me to deans house
+5 gail didnt swim out toward the ashy boat
+6 There is a contradiction here?	no	1
+7 kim wrote me an email and ate an apple
+8 kim didnt write me an email
+9 There is a contradiction here?	yes	1
+10 doris took a summer job and grew up
+11 doris didnt know roberts secret
+12 There is a contradiction here?	no	1
+13 hugh began laughing and sold ramons house
+14 olga didnt begin laughing
+15 There is a contradiction here?	no	1
+1 virgil gave dennis a green shirt and hid behind a bush
+2 jesse didnt give dennis a green shirt
+3 There is a contradiction here?	no	1
+4 josephine put dale in charge and grew up in jail
+5 josephine didnt grow up in jail
+6 There is a contradiction here?	yes	1
+7 cora began laughing and taught middle school science
+8 cora didnt begin laughing
+9 There is a contradiction here?	yes	1
+10 daisy got me lying and lent me ivans white bicycle
+11 rita didnt get me lying
+12 There is a contradiction here?	no	1
+13 randy drove awayto the bus stop and broke the record
+14 randy didnt drive awayto the bus stop
+15 There is a contradiction here?	yes	1
+1 virginia felt an outsider and wrote me about karen
+2 virginia didnt feel an outsider
+3 There is a contradiction here?	yes	1
+4 amanda blew me off and sat on the floor
+5 melody didnt blow me off
+6 There is a contradiction here?	no	1
+7 gordon grew up and sat on the chair
+8 danielle didnt grow up
+9 There is a contradiction here?	no	1
+10 dwight heard my voice and met me
+11 dwight didnt lose my computer
+12 There is a contradiction here?	no	1
+13 vera got me lying and forgave me
+14 maryann didnt forgive me
+15 There is a contradiction here?	no	1
+1 steve was a fan of sams work and sang a nice song
+2 steve wasnt a fan of sams work
+3 There is a contradiction here?	yes	1
+4 mike beat him and blew it
+5 natalie didnt beat him
+6 There is a contradiction here?	no	1
+7 shelley ate an apple and hurt him
+8 sergio didnt hurt him
+9 There is a contradiction here?	no	1
+10 brenda went to vaslui and sat on the floor
+11 brenda didnt sit on the floor
+12 There is a contradiction here?	yes	1
+13 mathew won the soccer match and stood up to hector
+14 mathew didnt win the soccer match
+15 There is a contradiction here?	yes	1
+1 toni fell off and heard julian
+2 toni didnt fall off
+3 There is a contradiction here?	yes	1
+4 arnold came at night and got the money
+5 arnold didnt come at night
+6 There is a contradiction here?	yes	1
+7 rhonda fell to the floor and hit me
+8 rhonda didnt hit me
+9 There is a contradiction here?	yes	1
+10 faye understood what viola comment about arad and thought i was living in clujnapoca
+11 faye didnt think i was living in clujnapoca
+12 There is a contradiction here?	yes	1
+13 dolores fell off and put the phone down
+14 dolores didnt hang up on me
+15 There is a contradiction here?	no	1
+1 marlene sang a pop song and bet on the game
+2 marlene didnt bet on the game
+3 There is a contradiction here?	yes	1
+4 isaac took the gray shirt out of the washer and lost my computer
+5 april didnt take the gray shirt out of the washer
+6 There is a contradiction here?	no	1
+7 harold bent the black rod and lent me luzs icy bicycle
+8 harold didnt bend the black rod
+9 There is a contradiction here?	yes	1
+10 sherry lent me loris blue bicycle and spoke to her about kathleen
+11 sherry didnt speak to her about kathleen
+12 There is a contradiction here?	yes	1
+13 terrence beat us a lot and stood up to benjamin
+14 jorge didnt stand up to benjamin
+15 There is a contradiction here?	no	1
+1 debbie became very important to me and took office
+2 debbie didnt sell floras house
+3 There is a contradiction here?	no	1
+4 connie broke audreys heart and became the most important butcher in this town
+5 connie didnt become the most important butcher in this town
+6 There is a contradiction here?	yes	1
+7 jamie won the game and swam out toward the salmon boat
+8 jamie didnt swim out toward the salmon boat
+9 There is a contradiction here?	yes	1
+10 casey grew up in jail and sold kristinas house
+11 casey didnt sell kristinas house
+12 There is a contradiction here?	yes	1
+13 erika forgave me and caught a red fish
+14 kristen didnt catch a red fish
+15 There is a contradiction here?	no	1
+1 jessica made coffee and knew shawns secret
+2 jessica didnt make coffee
+3 There is a contradiction here?	yes	1
+4 toni did everything and bought a red bicycle
+5 toni didnt do everything
+6 There is a contradiction here?	yes	1
+7 joan laid his hands on him and drank a bottle of water
+8 grace didnt lay his hands on him
+9 There is a contradiction here?	no	1
+10 glen caught a gray fish and thought kevin was going to die
+11 glen didnt catch a gray fish
+12 There is a contradiction here?	yes	1
+13 lucille knew jessicas secret and broke moniques heart
+14 lucille didnt bend the rules of the soccer game
+15 There is a contradiction here?	no	1
+1 terry put the phone down and lent me some money
+2 mike didnt put the phone down
+3 There is a contradiction here?	no	1
+4 tara froze my account and woke up
+5 tara didnt freeze my account
+6 There is a contradiction here?	yes	1
+7 hugh forgave sara and laid down
+8 hugh didnt forgive sara
+9 There is a contradiction here?	yes	1
+10 john read a paper and won the game
+11 nathaniel didnt read a paper
+12 There is a contradiction here?	no	1
+13 ramon forgot about bernards hobby and left me waiting
+14 terry didnt forget about bernards hobby
+15 There is a contradiction here?	no	1
+1 sheila left barcelona for mangalia and did it again
+2 guadalupe didnt do it again
+3 There is a contradiction here?	no	1
+4 ann swam out toward the green boat and let me drive madelines ashy car
+5 ann didnt swim out toward the green boat
+6 There is a contradiction here?	yes	1
+7 beatrice went away and lent me some money a month before
+8 beatrice didnt go away
+9 There is a contradiction here?	yes	1
+10 allison went to antoinettes house and was the first in line
+11 tanya wasnt the first in line
+12 There is a contradiction here?	no	1
+13 chad swam out toward the salmon boat and did it again
+14 sonia didnt swim out toward the salmon boat
+15 There is a contradiction here?	no	1
+1 gerald left me waiting and lent me some money
+2 candice didnt lend me some money
+3 There is a contradiction here?	no	1
+4 ana showed my new photos and sold hermans bicycle
+5 sherri didnt sell hermans bicycle
+6 There is a contradiction here?	no	1
+7 terrence hid behind a bush and flew to slobozia
+8 terrence didnt hide behind a bush
+9 There is a contradiction here?	yes	1
+10 beverly caught a blue fish and grew up in jail
+11 clara didnt catch a blue fish
+12 There is a contradiction here?	no	1
+13 barry spoke to her about don and drove the truck to dawns house
+14 nathan didnt drive the truck to dawns house
+15 There is a contradiction here?	no	1
+1 geraldine forgot about carloss hobby and read a paper
+2 geraldine didnt forget about carloss hobby
+3 There is a contradiction here?	yes	1
+4 jerry lent me some money a month before and let me drive bonnies orange car
+5 barbara didnt let me drive bonnies orange car
+6 There is a contradiction here?	no	1
+7 carla read the book about spiders and understood what fannie comment about bucharest
+8 zachary didnt understand what fannie comment about bucharest
+9 There is a contradiction here?	no	1
+10 margaret spoke to him about bucharest and laid his hands on him
+11 margaret didnt lay his hands on him
+12 There is a contradiction here?	yes	1
+13 charles bent the rules of the soccer game and heard darren
+14 ricardo didnt bend the rules of the soccer game
+15 There is a contradiction here?	no	1
+1 nathan cut himself and spoke to me
+2 leo didnt cut himself
+3 There is a contradiction here?	no	1
+4 lynn broke normas heart and lost my computer
+5 lynn didnt break normas heart
+6 There is a contradiction here?	yes	1
+7 yolanda lent me idas red bicycle and fell to the floor
+8 edward didnt fall to the floor
+9 There is a contradiction here?	no	1
+10 kirk understood what martin comment about slatina and left me
+11 kirk didnt leave me
+12 There is a contradiction here?	yes	1
+13 claudia forgave antoinette and blew me off
+14 claudia didnt forgive antoinette
+15 There is a contradiction here?	yes	1
+1 phillip held her close and rode the buffalo
+2 erik didnt hold her close
+3 There is a contradiction here?	no	1
+4 wilma told me jodis secret and grew up in jail
+5 wilma didnt grow up in jail
+6 There is a contradiction here?	yes	1
+7 lorraine brought me out of opals house and chose this soccer team
+8 lorraine didnt choose this soccer team
+9 There is a contradiction here?	yes	1
+10 kyle hung up on me and dreamed of the being a doctor
+11 kyle didnt dream of the being a doctor
+12 There is a contradiction here?	yes	1
+13 ricky ran from me and grew up
+14 ricky didnt grow up
+15 There is a contradiction here?	yes	1
+1 russell gave richard a black shirt and was a fan of candaces work
+2 franklin wasnt a fan of candaces work
+3 There is a contradiction here?	no	1
+4 willie drew ahead of the other runners and slept for eight hours
+5 tracy didnt draw ahead of the other runners
+6 There is a contradiction here?	no	1
+7 barry lost bryans green car and took office
+8 barry didnt take office
+9 There is a contradiction here?	yes	1
+10 mattie felt an outsider and lost shawns yellow car
+11 mattie didnt lose shawns yellow car
+12 There is a contradiction here?	yes	1
+13 theodore lost my computer and woke up
+14 theodore didnt lose my computer
+15 There is a contradiction here?	yes	1
+1 june swam out toward the salmon boat and got me lying
+2 maria didnt swim out toward the salmon boat
+3 There is a contradiction here?	no	1
+4 michael flew to blaj and knew natalies secret
+5 leonard didnt know natalies secret
+6 There is a contradiction here?	no	1
+7 george showed lillies old photos and got the money
+8 george didnt show lillies old photos
+9 There is a contradiction here?	yes	1
+10 hugh told me everything and put the phone down
+11 hugh didnt put the phone down
+12 There is a contradiction here?	yes	1
+13 marlene beat tom out of 20 dollars and wore a mango hat
+14 marlene didnt wear a mango hat
+15 There is a contradiction here?	yes	1
+1 kyle laid his hands on him and hung up on me
+2 kyle didnt hit her
+3 There is a contradiction here?	no	1
+4 lee spent all my money and kept the game alive
+5 bessie didnt spend all my money
+6 There is a contradiction here?	no	1
+7 sheryl held me back and had everything
+8 sheryl didnt hold me back
+9 There is a contradiction here?	yes	1
+10 lisa bet on the wining horse and spoke to her about verna
+11 susie didnt bet on the wining horse
+12 There is a contradiction here?	no	1
+13 marguerite grew up in jail and put lillian in charge
+14 marguerite didnt grow up in jail
+15 There is a contradiction here?	yes	1
+1 charles wore a purple jacket and fought the law
+2 ashley didnt wear a purple jacket
+3 There is a contradiction here?	no	1
+4 delores laid down and came at night
+5 delores didnt teach victoria about songwriting
+6 There is a contradiction here?	no	1
+7 faye bought a watch and thought i was living in vaslui
+8 dan didnt think i was living in vaslui
+9 There is a contradiction here?	no	1
+10 alma found thisme and paid him
+11 alma didnt find thisme
+12 There is a contradiction here?	yes	1
+13 greg understood what i said and told me everything
+14 greg didnt send me a letter
+15 There is a contradiction here?	no	1
+1 kimberly understood what gary comment about tulcea and hit him
+2 kimberly didnt understand what gary comment about tulcea
+3 There is a contradiction here?	yes	1
+4 russell drove the truck to alices house and rode the horse
+5 russell didnt ride the horse
+6 There is a contradiction here?	yes	1
+7 joseph caught a mango fish and swam out toward the purple boat
+8 dean didnt catch a mango fish
+9 There is a contradiction here?	no	1
+10 sidney led me to dustins house and did it again
+11 sidney didnt lead me to dustins house
+12 There is a contradiction here?	yes	1
+13 nancy grew up in jail and sold opals bicycle
+14 nancy didnt grow up in jail
+15 There is a contradiction here?	yes	1
+1 duane grew up in jail and heard my voice
+2 duane didnt grow up in jail
+3 There is a contradiction here?	yes	1
+4 sara bought a lemon bicycle and lent me some money
+5 sara didnt lend me some money
+6 There is a contradiction here?	yes	1
+7 neil read the book about spiders and found thisme
+8 neil didnt ride the buffalo
+9 There is a contradiction here?	no	1
+10 ramon forgave me and fell off
+11 ramon didnt forgive me
+12 There is a contradiction here?	yes	1
+13 sheila sent me a letter and bet on the game
+14 genevieve didnt bet on the game
+15 There is a contradiction here?	no	1
+1 maria cut a tree and bet on the blue car
+2 roger didnt cut a tree
+3 There is a contradiction here?	no	1
+4 darlene fought troy and broke the rules
+5 darlene didnt bet on the red car
+6 There is a contradiction here?	no	1
+7 shelley understood what dana comment about bucharest and kept the game alive
+8 lillian didnt understand what dana comment about bucharest
+9 There is a contradiction here?	no	1
+10 leah put the phone down and had it all
+11 everett didnt have it all
+12 There is a contradiction here?	no	1
+13 clinton kept lisas secret from me and wore a salmon hat
+14 leonard didnt keep lisas secret from me
+15 There is a contradiction here?	no	1
+1 clarence met me and laid his hands on him
+2 clarence didnt eat breakfast
+3 There is a contradiction here?	no	1
+4 martha bought a yellow car and drew ahead of the other runners
+5 martha didnt tell me alfreds secret
+6 There is a contradiction here?	no	1
+7 elaine met him and made tea
+8 dorothy didnt meet him
+9 There is a contradiction here?	no	1
+10 lisa sent me a note and went to deva
+11 ida didnt send me a note
+12 There is a contradiction here?	no	1
+13 tracey knew about us and cut my hair
+14 tracey didnt lose my computer
+15 There is a contradiction here?	no	1
+1 harvey blew it and lent me maurices purple bicycle
+2 sheryl didnt lend me maurices purple bicycle
+3 There is a contradiction here?	no	1
+4 cheryl said nice things and ate it all
+5 cheryl didnt lay his hands on him
+6 There is a contradiction here?	no	1
+7 tom met me and dreamed of running in vaslui
+8 kay didnt meet me
+9 There is a contradiction here?	no	1
+10 loretta shut the door down and showed my new photos
+11 loretta didnt show my new photos
+12 There is a contradiction here?	yes	1
+13 lillian had everything and heard my voice
+14 ken didnt hear my voice
+15 There is a contradiction here?	no	1
+1 jimmy drank a beer and made coffee
+2 jimmy didnt drink a beer
+3 There is a contradiction here?	yes	1
+4 wendy taught math and said nice things
+5 wendy didnt say nice things
+6 There is a contradiction here?	yes	1
+7 stanley spoke to him about clujnapoca and drew ahead of the other runners
+8 jodi didnt speak to him about clujnapoca
+9 There is a contradiction here?	no	1
+10 lawrence chose to live in bucharest and met monica
+11 lawrence didnt take the footage
+12 There is a contradiction here?	no	1
+13 bonnie broke kristines heart and thought jan was going to die
+14 bonnie didnt lead me to tommys house
+15 There is a contradiction here?	no	1
+1 juana grew up in jail and paid flora
+2 juana didnt grow up in jail
+3 There is a contradiction here?	yes	1
+4 arnold grew up in jail and ate a pizza
+5 arnold didnt eat a pizza
+6 There is a contradiction here?	yes	1
+7 marian fell in love with virgil and led me to anitas house
+8 marian didnt fall in love with virgil
+9 There is a contradiction here?	yes	1
+10 kurt sold berthas bicycle and felt threatened
+11 kurt didnt see him
+12 There is a contradiction here?	no	1
+13 wallace laid his hands on her and lost virginias salmon car
+14 wanda didnt lay his hands on her
+15 There is a contradiction here?	no	1
+1 jared did everything and taught middle school science
+2 jared didnt have a good daya good conversation with heidi
+3 There is a contradiction here?	no	1
+4 judy laid down and sold isaacs bicycle
+5 judy didnt sell isaacs bicycle
+6 There is a contradiction here?	yes	1
+7 candice hung up on me and spent all my money
+8 candice didnt bend the lemon rod
+9 There is a contradiction here?	no	1
+10 felicia did some good work and drove the truck to diannes house
+11 felicia didnt do some good work
+12 There is a contradiction here?	yes	1
+13 susan understood what maggie comment about slatina and led me to janices house
+14 susan didnt understand what maggie comment about slatina
+15 There is a contradiction here?	yes	1
+1 harold showed my new photos and dug a hole in the garden
+2 lillie didnt show my new photos
+3 There is a contradiction here?	no	1
+4 priscilla said funny things and spoke to him about deva
+5 priscilla didnt say funny things
+6 There is a contradiction here?	yes	1
+7 bobby threw everything out the window and went away
+8 miguel didnt throw everything out the window
+9 There is a contradiction here?	no	1
+10 suzanne read the news and bought a watch
+11 suzanne didnt buy a watch
+12 There is a contradiction here?	yes	1
+13 roland was a fan of enriques work and spoke to her about allen
+14 troy didnt speak to her about allen
+15 There is a contradiction here?	no	1
+1 katrina fought me and sang a pop song
+2 katrina didnt sing a pop song
+3 There is a contradiction here?	yes	1
+4 margie burned gabriels house and read a paper
+5 margie didnt burn gabriels house
+6 There is a contradiction here?	yes	1
+7 terry broke rogers heart and hit a tree
+8 deanna didnt hit a tree
+9 There is a contradiction here?	no	1
+10 linda burned deannas house and rode the horse
+11 bob didnt burn deannas house
+12 There is a contradiction here?	no	1
+13 katrina stood in front of the crowd and bought a icy car
+14 guadalupe didnt buy a icy car
+15 There is a contradiction here?	no	1
+1 melody hung up on me and caught a lemon fish
+2 kristen didnt hang up on me
+3 There is a contradiction here?	no	1
+4 nancy gave lynn a gray shirt and caught a orange fish
+5 shawn didnt give lynn a gray shirt
+6 There is a contradiction here?	no	1
+7 olivia ran from me and built a computer
+8 dorothy didnt ring from me
+9 There is a contradiction here?	no	1
+10 jessie did everything and met lauren
+11 ken didnt do everything
+12 There is a contradiction here?	no	1
+13 andy sat on the floor and dug a hole
+14 andy didnt dig a hole
+15 There is a contradiction here?	yes	1
+1 suzanne heard me and said nice things
+2 johnnie didnt hear me
+3 There is a contradiction here?	no	1
+4 jeff told me about the bars in blaj and sat on the mat
+5 jeff didnt have a good daya good conversation with melinda
+6 There is a contradiction here?	no	1
+7 carmen left me and blew it when he didnt invest in amazon
+8 carmen didnt blow it when he didnt invest in amazon
+9 There is a contradiction here?	yes	1
+10 jimmy ran from me and chose this way of life
+11 jimmy didnt ring from me
+12 There is a contradiction here?	yes	1
+13 anita swam out toward the black boat and got me lying
+14 lindsey didnt get me lying
+15 There is a contradiction here?	no	1
+1 michelle stood in front of the crowd and felt threatened
+2 clarence didnt stand in front of the crowd
+3 There is a contradiction here?	no	1
+4 tina threw everything out the window and chose this way of life
+5 tina didnt blow it
+6 There is a contradiction here?	no	1
+7 bradley wore a purple hat and taught math
+8 bradley didnt dig a hole in the garden
+9 There is a contradiction here?	no	1
+10 travis fought raymond and had a good week
+11 travis didnt teach math
+12 There is a contradiction here?	no	1
+13 ronnie drove awayto the bus stop and lost my computer
+14 ronnie didnt drive awayto the bus stop
+15 There is a contradiction here?	yes	1
+1 thomas lent me some money and won the game
+2 thomas didnt win the game
+3 There is a contradiction here?	yes	1
+4 andy had a good daya good conversation with yolanda and went to blaj
+5 andy didnt go to blaj
+6 There is a contradiction here?	yes	1
+7 chris left me waiting and bought a gray bicycle
+8 chris didnt let use this pen
+9 There is a contradiction here?	no	1
+10 vicki sang a pop song and told me about the bars in slatina
+11 vicki didnt sing a pop song
+12 There is a contradiction here?	yes	1
+13 francisco drove the truck to melindas house and burned some calories
+14 patsy didnt burn some calories
+15 There is a contradiction here?	no	1
+1 katherine met gladys and ran from barcelona to baia mare
+2 katherine didnt meet gladys
+3 There is a contradiction here?	yes	1
+4 everett drank an orange juice and lent me some money
+5 everett didnt lend me some money
+6 There is a contradiction here?	yes	1
+7 raul went away and sold veras house
+8 raul didnt go away
+9 There is a contradiction here?	yes	1
+10 brittany bought a yellow bicycle and sang a nice song
+11 brittany didnt buy a yellow bicycle
+12 There is a contradiction here?	yes	1
+13 edna lost hazels icy car and stood up to aaron
+14 edna didnt fall in love with leonard
+15 There is a contradiction here?	no	1
+1 lawrence chose to live in lugoj and flew to clujnapoca
+2 lawrence didnt choose to live in lugoj
+3 There is a contradiction here?	yes	1
+4 leslie blew it when he didnt invest in amazon and drove awayto the bus stop
+5 leslie didnt blow it when he didnt invest in amazon
+6 There is a contradiction here?	yes	1
+7 randall froze my account and brought me out of daisys house
+8 randall didnt freeze my account
+9 There is a contradiction here?	yes	1
+10 dean chose to live in lugoj and saw him
+11 diana didnt see him
+12 There is a contradiction here?	no	1
+13 kristine slept the night and became clinton best friend
+14 billy didnt become clinton best friend
+15 There is a contradiction here?	no	1
+1 pamela kept josephines secret from me and laid his hands on her
+2 pamela didnt lay his hands on her
+3 There is a contradiction here?	yes	1
+4 howard froze aprils bank account and left me
+5 howard didnt leave me
+6 There is a contradiction here?	yes	1
+7 martha ran from me and taught math
+8 martha didnt give jose a black shirt
+9 There is a contradiction here?	no	1
+10 jeanne understood what i said and burned melanies house
+11 jeanne didnt burn melanies house
+12 There is a contradiction here?	yes	1
+13 iris fell off and slept for eight hours
+14 iris didnt sleep for eight hours
+15 There is a contradiction here?	yes	1
+1 pamela went away and led me to patricias house
+2 pamela didnt throw everything out the window
+3 There is a contradiction here?	no	1
+4 denise forgot about cassandras hobby and grew up
+5 denise didnt speak to her about robert
+6 There is a contradiction here?	no	1
+7 alicia let me drive luiss green car and did it again
+8 alicia didnt get me lying
+9 There is a contradiction here?	no	1
+10 nathaniel got the money and wore a green jacket
+11 agnes didnt get the money
+12 There is a contradiction here?	no	1
+13 cindy beat us a lot and chose to live in deva
+14 cindy didnt beat us a lot
+15 There is a contradiction here?	yes	1
+1 heather stood up to kyle and swam out toward the black boat
+2 heather didnt swim out toward the black boat
+3 There is a contradiction here?	yes	1
+4 jay cut himself and froze carries bank account
+5 harry didnt cut himself
+6 There is a contradiction here?	no	1
+7 gail kept elsies secret from me and lent me eddies orange bicycle
+8 gail didnt drive the truck to joannes house
+9 There is a contradiction here?	no	1
+10 benjamin wrote me a letter and drank a beer
+11 lindsey didnt drink a beer
+12 There is a contradiction here?	no	1
+13 rachel led me to billies house and lost my computer
+14 rachel didnt bet on the black car
+15 There is a contradiction here?	no	1
+1 manuel told me blanches secret and wore a red hat
+2 manuel didnt tell me blanches secret
+3 There is a contradiction here?	yes	1
+4 jordan built a computer and won the game
+5 jordan didnt win the game
+6 There is a contradiction here?	yes	1
+7 cory sat on the chair and got the money
+8 cory didnt grow up
+9 There is a contradiction here?	no	1
+10 glenn drew ahead of the other runners and rode the buffalo
+11 cecil didnt ride the buffalo
+12 There is a contradiction here?	no	1
+13 natasha found what i was looking for and sold me a black car
+14 alfredo didnt sell me a black car
+15 There is a contradiction here?	no	1
+1 brenda had it all and gave dana a yellow bicycle
+2 brenda didnt give dana a yellow bicycle
+3 There is a contradiction here?	yes	1
+4 cody flew to vaslui and understood what i said
+5 cody didnt sleep for one day
+6 There is a contradiction here?	no	1
+7 jimmy chose this way of life and beat us a lot
+8 jimmy didnt beat us a lot
+9 There is a contradiction here?	yes	1
+10 daryl cut a tree and dreamed of running in giurgiu
+11 daryl didnt cut a tree
+12 There is a contradiction here?	yes	1
+13 adrian bet on the wining horse and was the first in line
+14 adrian wasnt the first in line
+15 There is a contradiction here?	yes	1
+1 brittany wore a black jacket and broke the record
+2 vickie didnt wear a black jacket
+3 There is a contradiction here?	no	1
+4 caroline took office and hurt her
+5 caroline didnt hurt her
+6 There is a contradiction here?	yes	1
+7 morris hit him and brought me out of olivias house
+8 carol didnt bring me out of olivias house
+9 There is a contradiction here?	no	1
+10 rene left barcelona for baia mare and gave kristin a gray bicycle
+11 rene didnt have everything
+12 There is a contradiction here?	no	1
+13 nancy came at noon and laid down
+14 jamie didnt come at noon
+15 There is a contradiction here?	no	1
+1 melinda brought me out of peggys house and won the soccer match
+2 melinda didnt bring me out of peggys house
+3 There is a contradiction here?	yes	1
+4 jodi cut a tree and did it again
+5 jodi didnt cut a tree
+6 There is a contradiction here?	yes	1
+7 bobby spent all my money and bought a lemon bicycle
+8 bobby didnt spend all my money
+9 There is a contradiction here?	yes	1
+10 debra slept the night and dreamed of the being a judge
+11 debra didnt dream of the being a judge
+12 There is a contradiction here?	yes	1
+13 caroline hid a smile and met me
+14 bonnie didnt hide a smile
+15 There is a contradiction here?	no	1
+1 alex blew it when he didnt invest in amazon and showed my new photos
+2 alex didnt blow it when he didnt invest in amazon
+3 There is a contradiction here?	yes	1
+4 julie paid her and became lee best friend
+5 alberto didnt become lee best friend
+6 There is a contradiction here?	no	1
+7 dolores read the news and burned the flag
+8 dolores didnt read the news
+9 There is a contradiction here?	yes	1
+10 michele came at night and slept for one day
+11 michele didnt sleep for one day
+12 There is a contradiction here?	yes	1
+13 russell let this happen and understood what janice comment about lugoj
+14 russell didnt understand what janice comment about lugoj
+15 There is a contradiction here?	yes	1
+1 alvin felt an outsider and grew up
+2 alvin didnt feel an outsider
+3 There is a contradiction here?	yes	1
+4 troy felt a strange and threw everything out the window
+5 troy didnt feel a strange
+6 There is a contradiction here?	yes	1
+7 freddie found thisme and kept saying this was crazy
+8 freddie didnt drink a bottle of water
+9 There is a contradiction here?	no	1
+10 vickie cut himself and hurt him
+11 vickie didnt hurt him
+12 There is a contradiction here?	yes	1
+13 maryann lost theresas green car and knew about us
+14 arlene didnt lose theresas green car
+15 There is a contradiction here?	no	1
+1 beverly threw everything out the window and sent me a note
+2 beverly didnt dig a hole in the garden
+3 There is a contradiction here?	no	1
+4 larry fell off and built an altar for misty
+5 marlene didnt build an altar for misty
+6 There is a contradiction here?	no	1
+7 lindsey threw everything out the window and caught a icy fish
+8 lindsey didnt throw everything out the window
+9 There is a contradiction here?	yes	1
+10 glenda got me lying and bought a watch
+11 glenda didnt buy a watch
+12 There is a contradiction here?	yes	1
+13 erin brought me out of lances house and came at night
+14 erin didnt come at night
+15 There is a contradiction here?	yes	1
+1 fred blew it when he didnt invest in amazon and sat on the floor
+2 fred didnt sit on the floor
+3 There is a contradiction here?	yes	1
+4 vivian did some good work and froze my account
+5 vivian didnt freeze my account
+6 There is a contradiction here?	yes	1
+7 roberta bent the red rod and took the footage
+8 roberta didnt bend the red rod
+9 There is a contradiction here?	yes	1
+10 james brought me out of marthas house and led me to diannes house
+11 billy didnt bring me out of marthas house
+12 There is a contradiction here?	no	1
+13 anthony told me about the bars in bucharest and swam out toward the orange boat
+14 anthony didnt swim out toward the orange boat
+15 There is a contradiction here?	yes	1
+1 evelyn ate it all and blew it when he didnt invest in amazon
+2 evelyn didnt blow it when he didnt invest in amazon
+3 There is a contradiction here?	yes	1
+4 lewis came at midnight and burned the flag
+5 lewis didnt pay him
+6 There is a contradiction here?	no	1
+7 jodi hit me and grew up
+8 jodi didnt hit me
+9 There is a contradiction here?	yes	1
+10 deborah brought me out of johnnies house and grew up
+11 deborah didnt bring me out of johnnies house
+12 There is a contradiction here?	yes	1
+13 dora felt a strange and held her close
+14 dora didnt feel a strange
+15 There is a contradiction here?	yes	1
+1 clinton sang a nice song and bent the blue rod
+2 clinton didnt sing a nice song
+3 There is a contradiction here?	yes	1
+4 bill blew it and drew ahead of the other runners
+5 bill didnt blow it
+6 There is a contradiction here?	yes	1
+7 cindy met him and began laughing
+8 david didnt meet him
+9 There is a contradiction here?	no	1
+10 alison taught willie about songwriting and hit a tree
+11 alison didnt get me lying
+12 There is a contradiction here?	no	1
+13 oscar paid me and chose this way of life
+14 alberta didnt choose this way of life
+15 There is a contradiction here?	no	1
+1 eileen woke up and won the soccer match
+2 delores didnt wake up
+3 There is a contradiction here?	no	1
+4 ann heard my voice and began screaming
+5 ann didnt blow me off
+6 There is a contradiction here?	no	1
+7 steven said funny things and told me about the bars in turda
+8 steven didnt find this white car
+9 There is a contradiction here?	no	1
+10 lillie froze mikes bank account and built an airplane
+11 greg didnt freeze mikes bank account
+12 There is a contradiction here?	no	1
+13 donald met rene and was the first in line
+14 shane wasnt the first in line
+15 There is a contradiction here?	no	1
+1 lisa had a good week and made coffee
+2 lisa didnt make coffee
+3 There is a contradiction here?	yes	1
+4 wayne shut the door down and froze rubens bank account
+5 wayne didnt freeze rubens bank account
+6 There is a contradiction here?	yes	1
+7 george dug a hole and saw her
+8 virginia didnt see her
+9 There is a contradiction here?	no	1
+10 roland chose this soccer team and spent all my money
+11 roland didnt spend all my money
+12 There is a contradiction here?	yes	1
+13 lena hit me and kept glendas secret from me
+14 lena didnt hit me
+15 There is a contradiction here?	yes	1
+1 marshall bent the yellow rod and led me to maurices house
+2 marshall didnt bend the yellow rod
+3 There is a contradiction here?	yes	1
+4 antoinette hid a smile and thought i was living in deva
+5 leon didnt think i was living in deva
+6 There is a contradiction here?	no	1
+7 bob built a computer and sent me a note
+8 bob didnt get the money
+9 There is a contradiction here?	no	1
+10 joan cut my hair and froze jessicas bank account
+11 joan didnt cut my hair
+12 There is a contradiction here?	yes	1
+13 neil fought the law and said nice things
+14 neil didnt say nice things
+15 There is a contradiction here?	yes	1
+1 isabel slept for one day and drove awayto the bus stop
+2 elsie didnt sleep for one day
+3 There is a contradiction here?	no	1
+4 vanessa sold me a gray car and ate a steak
+5 vanessa didnt sell me a gray car
+6 There is a contradiction here?	yes	1
+7 rita threw everything out the window and forgave me
+8 rita didnt forgive me
+9 There is a contradiction here?	yes	1
+10 kristine rode the buffalo and got me lying
+11 kristine didnt get me lying
+12 There is a contradiction here?	yes	1
+13 barry met her and did it again
+14 barry didnt do it again
+15 There is a contradiction here?	yes	1
+1 justin lent me some money a month before and dug a hole in kristis backyard
+2 justin didnt dig a hole in kristis backyard
+3 There is a contradiction here?	yes	1
+4 frances cut my hair and swam out toward the green boat
+5 frances didnt swim out toward the green boat
+6 There is a contradiction here?	yes	1
+7 joann sang a pop song and taught math
+8 gordon didnt sing a pop song
+9 There is a contradiction here?	no	1
+10 connie burned some calories and ran from barcelona to baia mare
+11 connie didnt ring from barcelona to baia mare
+12 There is a contradiction here?	yes	1
+13 jessie began crying and flew to slatina
+14 darrell didnt begin crying
+15 There is a contradiction here?	no	1
+1 helen sent me a letter and went to alexs house
+2 helen didnt send me a letter
+3 There is a contradiction here?	yes	1
+4 kurt slept for one day and led me to kristines house
+5 warren didnt sleep for one day
+6 There is a contradiction here?	no	1
+7 genevieve heard me and froze my account
+8 genevieve didnt eat a pizza
+9 There is a contradiction here?	no	1
+10 toni wore a gray hat and taught christopher about songwriting
+11 toni didnt teach christopher about songwriting
+12 There is a contradiction here?	yes	1
+13 rosemary slept the night and shut the door down
+14 corey didnt shut the door down
+15 There is a contradiction here?	no	1
+1 opal dreamed of running in blaj and forgave me
+2 opal didnt dream of running in blaj
+3 There is a contradiction here?	yes	1
+4 charles hung up on me and let use this pen
+5 charles didnt hang up on me
+6 There is a contradiction here?	yes	1
+7 frank burned the flag and lost monicas green car
+8 frank didnt burn the flag
+9 There is a contradiction here?	yes	1
+10 lena drove awayto the bus stop and forgot about olivias hobby
+11 lena didnt drive awayto the bus stop
+12 There is a contradiction here?	yes	1
+13 kenneth blew it when he didnt invest in amazon and fell to the floor
+14 kenneth didnt fall to the floor
+15 There is a contradiction here?	yes	1
+1 opal sent me a note and bought a ashy car
+2 vicki didnt buy a ashy car
+3 There is a contradiction here?	no	1
+4 nelson took a summer job and stood up to mabel
+5 nelson didnt teach charlene about songwriting
+6 There is a contradiction here?	no	1
+7 patrick chose this soccer team and froze my account
+8 patrick didnt freeze my account
+9 There is a contradiction here?	yes	1
+10 ernest bet on the wining horse and made tea
+11 darren didnt make tea
+12 There is a contradiction here?	no	1
+13 georgia forgot about willards hobby and gave steve a icy bicycle
+14 georgia didnt give steve a icy bicycle
+15 There is a contradiction here?	yes	1
+1 kathy hung up on me and sold andreas house
+2 jared didnt hang up on me
+3 There is a contradiction here?	no	1
+4 marc taught kenneth about songwriting and froze my account
+5 marc didnt write me a letter
+6 There is a contradiction here?	no	1
+7 george hung up on jeffrey and did some good work
+8 george didnt hang up on jeffrey
+9 There is a contradiction here?	yes	1
+10 lance led me to esthers house and caught a white fish
+11 maxine didnt catch a white fish
+12 There is a contradiction here?	no	1
+13 inez knew about us and became gordon best friend
+14 inez didnt become gordon best friend
+15 There is a contradiction here?	yes	1
+1 brian laid his hands on her and showed caroles old photos
+2 brian didnt know sharons secret
+3 There is a contradiction here?	no	1
+4 gertrude bent the rules of the soccer game and was a kind person
+5 gertrude wasnt a kind person
+6 There is a contradiction here?	yes	1
+7 agnes swam out toward the green boat and did everything
+8 agnes didnt swim out toward the green boat
+9 There is a contradiction here?	yes	1
+10 michelle heard kristine and left me
+11 michelle didnt leave me
+12 There is a contradiction here?	yes	1
+13 leroy fell in love with lynn and sold rickys house
+14 leroy didnt sell rickys house
+15 There is a contradiction here?	yes	1
+1 jerry left me waiting and spoke to me
+2 jerry didnt leave me waiting
+3 There is a contradiction here?	yes	1
+4 daryl grew up in jail and hung up on jimmie
+5 daryl didnt grow up in jail
+6 There is a contradiction here?	yes	1
+7 belinda spoke to him about giurgiu and sold denniss house
+8 belinda didnt sell denniss house
+9 There is a contradiction here?	yes	1
+10 erica bought a ashy bicycle and lent me some money
+11 erica didnt lend me some money
+12 There is a contradiction here?	yes	1
+13 judith forgot about teresas past and grew up in jail
+14 violet didnt forget about teresas past
+15 There is a contradiction here?	no	1
+1 nina rode the buffalo and fell off
+2 nina didnt fall off
+3 There is a contradiction here?	yes	1
+4 walter forgave me and sat on the mat
+5 walter didnt sit on the mat
+6 There is a contradiction here?	yes	1
+7 jason paid me and had a good week
+8 harry didnt pay me
+9 There is a contradiction here?	no	1
+10 brandy saw me and thought alfredo was going to die
+11 brandy didnt see me
+12 There is a contradiction here?	yes	1
+13 carlos caught a gray fish and forgave me
+14 carlos didnt hold him close
+15 There is a contradiction here?	no	1
+1 jan froze my account and left me
+2 jan didnt find thisme
+3 There is a contradiction here?	no	1
+4 monique fought me and laid his hands on her
+5 monique didnt lay his hands on her
+6 There is a contradiction here?	yes	1
+7 ernest slept for eight hours and wore a purple jacket
+8 ernest didnt sleep for eight hours
+9 There is a contradiction here?	yes	1
+10 monique let use this pen and began screaming
+11 monique didnt begin screaming
+12 There is a contradiction here?	yes	1
+13 sheila paid rodney and read the news
+14 terri didnt read the news
+15 There is a contradiction here?	no	1
+1 karen understood what bernard comment about mangalia and swam out toward the green boat
+2 shane didnt understand what bernard comment about mangalia
+3 There is a contradiction here?	no	1
+4 mary threw everything out the window and beat her
+5 mary didnt throw everything out the window
+6 There is a contradiction here?	yes	1
+7 mamie lost my computer and hung up on paula
+8 sylvia didnt lose my computer
+9 There is a contradiction here?	no	1
+10 constance led me to isabels house and hid a smile
+11 katrina didnt lead me to isabels house
+12 There is a contradiction here?	no	1
+13 raymond swam out toward the black boat and read the book about spiders
+14 raymond didnt read the book about spiders
+15 There is a contradiction here?	yes	1
+1 kelly bought a watch and brought me out of normas house
+2 kelly didnt meet him
+3 There is a contradiction here?	no	1
+4 mabel cut a tree and stood in front of the crowd
+5 mabel didnt cut a tree
+6 There is a contradiction here?	yes	1
+7 dawn shut the door down and threw everything out the window
+8 dawn didnt shut the door down
+9 There is a contradiction here?	yes	1
+10 julio shut the door down and bought a blue bicycle
+11 julio didnt come at night
+12 There is a contradiction here?	no	1
+13 lillian drove awayto the bus stop and burned some calories
+14 velma didnt burn some calories
+15 There is a contradiction here?	no	1
+1 emily had a good week and built an altar for wade
+2 martha didnt build an altar for wade
+3 There is a contradiction here?	no	1
+4 naomi shut the door down and taught edgar about songwriting
+5 james didnt shut the door down
+6 There is a contradiction here?	no	1
+7 holly stood in front of the crowd and blew it when he didnt invest in amazon
+8 holly didnt stand in front of the crowd
+9 There is a contradiction here?	yes	1
+10 eleanor knew about us and sat on the mat
+11 eleanor didnt know about us
+12 There is a contradiction here?	yes	1
+13 lindsay took a summer job and won the soccer match
+14 lindsay didnt win the soccer match
+15 There is a contradiction here?	yes	1
+1 ernest said funny things and made me change the way i wrote
+2 ernest didnt make me change the way i wrote
+3 There is a contradiction here?	yes	1
+4 pearl held him close and became very important to me
+5 pearl didnt become very important to me
+6 There is a contradiction here?	yes	1
+7 neil blew me off and wore a gray jacket
+8 neil didnt feel a strange
+9 There is a contradiction here?	no	1
+10 glenn read a paper and burned some calories
+11 glenn didnt read a paper
+12 There is a contradiction here?	yes	1
+13 patricia hit a tree and paid ricky
+14 patricia didnt pay ricky
+15 There is a contradiction here?	yes	1
+1 glenn held her close and ate a steak
+2 glenn didnt hold her close
+3 There is a contradiction here?	yes	1
+4 regina took a summer job and became very important to me
+5 regina didnt become very important to me
+6 There is a contradiction here?	yes	1
+7 lena brought me out of stacys house and sold joans bicycle
+8 lena didnt lose the yellow car in timisoara
+9 There is a contradiction here?	no	1
+10 ralph broke the rules and felt threatened
+11 ralph didnt break the rules
+12 There is a contradiction here?	yes	1
+13 kristine forgave me and dug a hole in the garden
+14 kristine didnt forgive me
+15 There is a contradiction here?	yes	1
+1 christina bent the lemon rod and bet on the wining horse
+2 peter didnt bet on the wining horse
+3 There is a contradiction here?	no	1
+4 deanna hung up on me and let me drive joans icy car
+5 melanie didnt let me drive joans icy car
+6 There is a contradiction here?	no	1
+7 shirley hurt him and gave sara a white car
+8 shirley didnt hurt him
+9 There is a contradiction here?	yes	1
+10 jessie laid his hands on him and made tea
+11 cathy didnt make tea
+12 There is a contradiction here?	no	1
+13 bruce did everything and dreamed of running in lugoj
+14 bruce didnt dream of running in lugoj
+15 There is a contradiction here?	yes	1
+1 dwayne held him close and built a computer
+2 theodore didnt build a computer
+3 There is a contradiction here?	no	1
+4 kirk drew ahead of the other runners and spoke to me
+5 kirk didnt speak to me
+6 There is a contradiction here?	yes	1
+7 dawn won the soccer match and drank a bottle of water
+8 nora didnt win the soccer match
+9 There is a contradiction here?	no	1
+10 rachel cut my hair and drew ahead of the other runners
+11 rachel didnt cut my hair
+12 There is a contradiction here?	yes	1
+13 ann went away and cut my hair
+14 frederick didnt go away
+15 There is a contradiction here?	no	1
+1 hazel gave danny a green shirt and came at noon
+2 hazel didnt drive awayto the bus stop
+3 There is a contradiction here?	no	1
+4 johnnie rode the buffalo and blew it when he didnt invest in amazon
+5 douglas didnt ride the buffalo
+6 There is a contradiction here?	no	1
+7 willard dreamed of running in timisoara and fought linda
+8 willard didnt forget about florences past
+9 There is a contradiction here?	no	1
+10 randy understood what i said and sold danielles bicycle
+11 randy didnt feel a strange
+12 There is a contradiction here?	no	1
+13 kimberly held me back and broke the rules
+14 judith didnt hold me back
+15 There is a contradiction here?	no	1
+1 russell hid behind a bush and burned joannes house
+2 jose didnt burn joannes house
+3 There is a contradiction here?	no	1
+4 troy sent me a note and drew ahead of the other runners
+5 gerald didnt send me a note
+6 There is a contradiction here?	no	1
+7 brian forgave christy and spent all my money
+8 jo didnt forgive christy
+9 There is a contradiction here?	no	1
+10 erik drank a bottle of water and showed opals old photos
+11 philip didnt drink a bottle of water
+12 There is a contradiction here?	no	1
+13 lena rode the buffalo and sent me a note
+14 lena didnt beat him
+15 There is a contradiction here?	no	1
+1 lindsey had a good week and felt threatened
+2 lindsey didnt have a good week
+3 There is a contradiction here?	yes	1
+4 melanie gave inez a green shirt and ate a pizza
+5 melanie didnt give inez a green shirt
+6 There is a contradiction here?	yes	1
+7 marian bet on the game and bought a salmon bicycle
+8 marian didnt buy a salmon bicycle
+9 There is a contradiction here?	yes	1
+10 ricky forgot about charless past and woke up
+11 ricky didnt forget about charless past
+12 There is a contradiction here?	yes	1
+13 mildred rode the horse and cut himself
+14 steven didnt ride the horse
+15 There is a contradiction here?	no	1
+1 curtis wrote a song about the sky and bet on the wining horse
+2 curtis didnt bet on the wining horse
+3 There is a contradiction here?	yes	1
+4 ken told me aprils secret and gave ramona a green bicycle
+5 raul didnt tell me aprils secret
+6 There is a contradiction here?	no	1
+7 sean laid his hands on him and became very important to me
+8 sean didnt lay his hands on him
+9 There is a contradiction here?	yes	1
+10 cory swam out toward the icy boat and lent me some money a month before
+11 sara didnt lend me some money a month before
+12 There is a contradiction here?	no	1
+13 erika led me to tracys house and forgot about randys past
+14 erika didnt lead me to tracys house
+15 There is a contradiction here?	yes	1
+1 annie paid her and caught a blue fish
+2 carol didnt pay her
+3 There is a contradiction here?	no	1
+4 alicia wore a mango hat and brought me out of donalds house
+5 dolores didnt wear a mango hat
+6 There is a contradiction here?	no	1
+7 joyce threw everything out the window and broke javiers heart
+8 david didnt throw everything out the window
+9 There is a contradiction here?	no	1
+10 willard found this red car and had it all
+11 willard didnt go away
+12 There is a contradiction here?	no	1
+13 michelle began laughing and froze my account
+14 michelle didnt understand what i said
+15 There is a contradiction here?	no	1
+1 kathy broke the record and ate breakfast
+2 kathy didnt break the record
+3 There is a contradiction here?	yes	1
+4 alberto forgot about ambers past and ran from barcelona to turda
+5 wanda didnt forget about ambers past
+6 There is a contradiction here?	no	1
+7 curtis sat on the mat and sold me a yellow car
+8 curtis didnt sell me a yellow car
+9 There is a contradiction here?	yes	1
+10 mike brought me out of bens house and grew up in jail
+11 carl didnt grow up in jail
+12 There is a contradiction here?	no	1
+13 alberta was a silly person and fought the law
+14 alberta didnt find jesus
+15 There is a contradiction here?	no	1
+1 gerald wrote me a letter and beat her
+2 gerald didnt write me a letter
+3 There is a contradiction here?	yes	1
+4 wade went away and fell to the floor
+5 morris didnt fall to the floor
+6 There is a contradiction here?	no	1
+7 zachary took a summer job and had a good week
+8 zachary didnt write me an email
+9 There is a contradiction here?	no	1
+10 elaine took the yellow shirt out of the washer and bought a ashy bicycle
+11 elaine didnt spend all my money
+12 There is a contradiction here?	no	1
+13 virginia sat on the chair and lost the gray car in mangalia
+14 virginia didnt sit on the chair
+15 There is a contradiction here?	yes	1
+1 stacy fought claude and ran from me
+2 stacy didnt ring from me
+3 There is a contradiction here?	yes	1
+4 debra chose this way of life and came at noon
+5 debra didnt swim out toward the red boat
+6 There is a contradiction here?	no	1
+7 marion left me waiting and fell to the floor
+8 marion didnt fall to the floor
+9 There is a contradiction here?	yes	1
+10 blanche taught math and came at midnight
+11 blanche didnt come at midnight
+12 There is a contradiction here?	yes	1
+13 erika held him close and had everything
+14 erika didnt drink an orange juice
+15 There is a contradiction here?	no	1
+1 becky forgave me and hung up on me
+2 albert didnt forgive me
+3 There is a contradiction here?	no	1
+4 terry lost my computer and left me waiting
+5 terry didnt burn some calories
+6 There is a contradiction here?	no	1
+7 ray went away and left barcelona for bucharest
+8 ray didnt go away
+9 There is a contradiction here?	yes	1
+10 leroy wrote me an email and sent me a note
+11 leroy didnt send me a note
+12 There is a contradiction here?	yes	1
+13 adam spent all my money and beat us a lot
+14 adam didnt begin crying
+15 There is a contradiction here?	no	1
+1 ted found what i was looking for and woke up
+2 ted didnt put the phone down
+3 There is a contradiction here?	no	1
+4 jerry ran into kay and rode the buffalo
+5 jerry didnt ride the buffalo
+6 There is a contradiction here?	yes	1
+7 bill understood what i said and fought the law
+8 kathryn didnt understand what i said
+9 There is a contradiction here?	no	1
+10 jan hung up on pedro and bent the ashy rod
+11 jan didnt bend the ashy rod
+12 There is a contradiction here?	yes	1
+13 jared hurt me and understood what lillie comment about craiova
+14 jared didnt understand what lillie comment about craiova
+15 There is a contradiction here?	yes	1
+1 philip thought irma was going to die and cut my hair
+2 philip didnt think irma was going to die
+3 There is a contradiction here?	yes	1
+4 leona knew brandis secret and wore a red jacket
+5 leona didnt know brandis secret
+6 There is a contradiction here?	yes	1
+7 ella heard me and woke up
+8 ella didnt wake up
+9 There is a contradiction here?	yes	1
+10 lois made tea and sent me a letter
+11 billy didnt send me a letter
+12 There is a contradiction here?	no	1
+13 benjamin beat us a lot and paid pamela
+14 benjamin didnt hit a tree
+15 There is a contradiction here?	no	1
+1 eugene fought the law and saw rita
+2 eugene didnt fight the law
+3 There is a contradiction here?	yes	1
+4 herbert ate a steak and led me to christys house
+5 joyce didnt eat a steak
+6 There is a contradiction here?	no	1
+7 opal gave phyllis a green car and beat us a lot
+8 opal didnt buy a watch
+9 There is a contradiction here?	no	1
+10 andy chose to live in slatina and hid behind a bush
+11 andy didnt choose to live in slatina
+12 There is a contradiction here?	yes	1
+13 juana went to marjories house and came at midnight
+14 juana didnt come at midnight
+15 There is a contradiction here?	yes	1
+1 billy sold juans bicycle and rode the buffalo
+2 billy didnt sell juans bicycle
+3 There is a contradiction here?	yes	1
+4 emma ran from barcelona to bucharest and woke up
+5 emma didnt ring from barcelona to bucharest
+6 There is a contradiction here?	yes	1
+7 ramon wore a mango jacket and left barcelona for arad
+8 norma didnt wear a mango jacket
+9 There is a contradiction here?	no	1
+10 marvin lent me some money a month before and felt an outsider
+11 marvin didnt lend me some money a month before
+12 There is a contradiction here?	yes	1
+13 steve stood in front of the crowd and bent the rules of the soccer game
+14 steve didnt stand in front of the crowd
+15 There is a contradiction here?	yes	1
+1 william ran from me and bought a black bicycle
+2 alison didnt buy a black bicycle
+3 There is a contradiction here?	no	1
+4 guadalupe spent all my money and flew to arad
+5 hattie didnt fly to arad
+6 There is a contradiction here?	no	1
+7 roger cut my hair and did everything
+8 roger didnt lead me to traceys house
+9 There is a contradiction here?	no	1
+10 joann thought i was living in timisoara and dug a hole in the garden
+11 joann didnt think i was living in timisoara
+12 There is a contradiction here?	yes	1
+13 beverly was the first in line and dreamed of the playing with katrina
+14 holly didnt dream of the playing with katrina
+15 There is a contradiction here?	no	1
+1 dennis cut my hair and sold lorraines bicycle
+2 dennis didnt cut my hair
+3 There is a contradiction here?	yes	1
+4 rita hung up on me and thought i was helping cheryl
+5 rita didnt hang up on me
+6 There is a contradiction here?	yes	1
+7 kirk got me lying and shut the door down
+8 peggy didnt get me lying
+9 There is a contradiction here?	no	1
+10 ruby beat us a lot and knew about us
+11 ruby didnt shut the door down
+12 There is a contradiction here?	no	1
+13 wesley sat on the floor and sent me a note
+14 tamara didnt sit on the floor
+15 There is a contradiction here?	no	1
+1 iris felt an outsider and had it all
+2 iris didnt have it all
+3 There is a contradiction here?	yes	1
+4 billie heard marion and had it all
+5 billie didnt hear marion
+6 There is a contradiction here?	yes	1
+7 jaime held her close and hit me
+8 jaime didnt forgive me
+9 There is a contradiction here?	no	1
+10 terrance chose this way of life and laid down
+11 terrance didnt fly to slatina
+12 There is a contradiction here?	no	1
+13 rosie caught a white fish and heard me
+14 regina didnt hear me
+15 There is a contradiction here?	no	1
+1 tammy led me to jeans house and broke marcias heart
+2 tammy didnt win the soccer match
+3 There is a contradiction here?	no	1
+4 tommy caught a orange fish and ran from me
+5 tommy didnt eat it all
+6 There is a contradiction here?	no	1
+7 susie felt threatened and sat on the chair
+8 holly didnt feel threatened
+9 There is a contradiction here?	no	1
+10 beverly held me back and spent all my money
+11 beverly didnt spend all my money
+12 There is a contradiction here?	yes	1
+13 mitchell sat on the chair and found thisme
+14 mitchell didnt sit on the chair
+15 There is a contradiction here?	yes	1
+1 debbie drank an orange juice and bet on the wining horse
+2 harry didnt drink an orange juice
+3 There is a contradiction here?	no	1
+4 herman flew to arad and thought barry was going to die
+5 herman didnt take a summer job
+6 There is a contradiction here?	no	1
+7 lauren met him and stood up to arlene
+8 lauren didnt stand up to arlene
+9 There is a contradiction here?	yes	1
+10 angel took office and threw everything out the window
+11 angel didnt take office
+12 There is a contradiction here?	yes	1
+13 javier lent me some money and drove the truck to marcias house
+14 javier didnt write me an email
+15 There is a contradiction here?	no	1
+1 patricia swam out toward the purple boat and hid a smile
+2 renee didnt swim out toward the purple boat
+3 There is a contradiction here?	no	1
+4 nina bought a watch and saw me
+5 nina didnt see me
+6 There is a contradiction here?	yes	1
+7 javier spent all my money and came at midnight
+8 javier didnt spend all my money
+9 There is a contradiction here?	yes	1
+10 cynthia dug a hole in chriss backyard and hit her
+11 janet didnt dig a hole in chriss backyard
+12 There is a contradiction here?	no	1
+13 roy sent me a note and showed fayes old photos
+14 roy didnt send me a note
+15 There is a contradiction here?	yes	1
+1 lucy bet on the wining horse and flew to giurgiu
+2 lucy didnt bet on the wining horse
+3 There is a contradiction here?	yes	1
+4 julia laid his hands on him and bought a ashy car
+5 julia didnt lay his hands on him
+6 There is a contradiction here?	yes	1
+7 mathew told me everything and ran into sylvia
+8 mathew didnt tell me everything
+9 There is a contradiction here?	yes	1
+10 christian sang a nice song and swam out toward the yellow boat
+11 tim didnt swim out toward the yellow boat
+12 There is a contradiction here?	no	1
+13 bernard thought i was helping ramona and blew me off
+14 bernard didnt think i was helping ramona
+15 There is a contradiction here?	yes	1
+1 keith bent the rules of the card game and became daisy best friend
+2 clifton didnt bend the rules of the card game
+3 There is a contradiction here?	no	1
+4 tracy hung up on harry and read the book about spiders
+5 tina didnt read the book about spiders
+6 There is a contradiction here?	no	1
+7 claudia kept the game alive and dreamed of the being a chef
+8 claudia didnt dream of the being a chef
+9 There is a contradiction here?	yes	1
+10 derek rode the horse and built leahs house
+11 derek didnt ride the horse
+12 There is a contradiction here?	yes	1
+13 dolores hit me and lost valeries white car
+14 sherry didnt hit me
+15 There is a contradiction here?	no	1
+1 jacqueline taught middle school science and drew ahead of the other runners
+2 melanie didnt teach middle school science
+3 There is a contradiction here?	no	1
+4 ray knew felicias secret and understood what ryan comment about blaj
+5 carmen didnt understand what ryan comment about blaj
+6 There is a contradiction here?	no	1
+7 renee saw me and burned some calories
+8 renee didnt see me
+9 There is a contradiction here?	yes	1
+10 warren slept for one day and sang a nice song
+11 warren didnt sing a nice song
+12 There is a contradiction here?	yes	1
+13 jodi sang a nice song and told me coreys secret
+14 jodi didnt tell me coreys secret
+15 There is a contradiction here?	yes	1
+1 miguel got the money and woke up
+2 miguel didnt wake up
+3 There is a contradiction here?	yes	1
+4 janice chose this soccer team and said nice things
+5 hugh didnt choose this soccer team
+6 There is a contradiction here?	no	1
+7 duane met her and found thisme
+8 duane didnt find thisme
+9 There is a contradiction here?	yes	1
+10 marjorie gave gary a green shirt and won the game
+11 francisco didnt win the game
+12 There is a contradiction here?	no	1
+13 cindy paid me and hit her
+14 dianne didnt pay me
+15 There is a contradiction here?	no	1
+1 fred forgot about ernests past and let me drive candices blue car
+2 willie didnt let me drive candices blue car
+3 There is a contradiction here?	no	1
+4 judith lost brittanys purple car and forgave me
+5 judith didnt say nice things
+6 There is a contradiction here?	no	1
+7 maxine wrote me about erik and caught a black fish
+8 maxine didnt catch a black fish
+9 There is a contradiction here?	yes	1
+10 jared bent the rules of the soccer game and drove awayto the bus stop
+11 jared didnt drive awayto the bus stop
+12 There is a contradiction here?	yes	1
+13 pauline did some good work and rode the horse
+14 pauline didnt do some good work
+15 There is a contradiction here?	yes	1
+1 willie beat her and bought a watch
+2 annette didnt beat her
+3 There is a contradiction here?	no	1
+4 nellie took the footage and chose this soccer team
+5 nellie didnt choose this soccer team
+6 There is a contradiction here?	yes	1
+7 tanya hung up on me and read the news
+8 april didnt read the news
+9 There is a contradiction here?	no	1
+10 leah hung up on me and said nice things
+11 ethel didnt hang up on me
+12 There is a contradiction here?	no	1
+13 suzanne ate a pizza and got me lying
+14 suzanne didnt swim out toward the purple boat
+15 There is a contradiction here?	no	1
+1 max forgave enrique and understood what i said
+2 max didnt forgive enrique
+3 There is a contradiction here?	yes	1
+4 blanche went to reghin and drew ahead of the other runners
+5 blanche didnt bring me out of brendas house
+6 There is a contradiction here?	no	1
+7 sam did some good work and stood up to morris
+8 sam didnt do some good work
+9 There is a contradiction here?	yes	1
+10 clyde built a computer and kept ryans secret from me
+11 clyde didnt build a computer
+12 There is a contradiction here?	yes	1
+13 richard took the footage and drank a bottle of wine
+14 duane didnt take the footage
+15 There is a contradiction here?	no	1
+1 constance put veronica in charge and hit a tree
+2 constance didnt hit a tree
+3 There is a contradiction here?	yes	1
+4 andy felt an outsider and built an altar for shirley
+5 andy didnt build an altar for shirley
+6 There is a contradiction here?	yes	1
+7 irene woke up and brought me out of eddies house
+8 irene didnt bring me out of eddies house
+9 There is a contradiction here?	yes	1
+10 jacob let me drive zacharys purple car and put the phone down
+11 ralph didnt let me drive zacharys purple car
+12 There is a contradiction here?	no	1
+13 harvey laid down and sat on the mat
+14 glenn didnt lay down
+15 There is a contradiction here?	no	1
+1 april made coffee and beat him
+2 april didnt make coffee
+3 There is a contradiction here?	yes	1
+4 earl told me everything and saw him
+5 derek didnt tell me everything
+6 There is a contradiction here?	no	1
+7 daisy said nice things and stood in front of the crowd
+8 daisy didnt let use this pen
+9 There is a contradiction here?	no	1
+10 jennie ate a pizza and threw everything out the window
+11 jennie didnt throw everything out the window
+12 There is a contradiction here?	yes	1
+13 rhonda drew ahead of the other runners and hit him
+14 rhonda didnt draw ahead of the other runners
+15 There is a contradiction here?	yes	1
+1 daryl drank a bottle of wine and sold freddies house
+2 daryl didnt sell freddies house
+3 There is a contradiction here?	yes	1
+4 daniel burned the flag and led me to jefferys house
+5 daniel didnt burn the flag
+6 There is a contradiction here?	yes	1
+7 sherri dreamed of the playing with eugene and swam out toward the icy boat
+8 sam didnt dream of the playing with eugene
+9 There is a contradiction here?	no	1
+10 ben sat on the mat and threw everything out the window
+11 ben didnt sit on the mat
+12 There is a contradiction here?	yes	1
+13 raul caught a mango fish and did some good work
+14 raul didnt do some good work
+15 There is a contradiction here?	yes	1
+1 linda spent all my money and paid her
+2 linda didnt pay her
+3 There is a contradiction here?	yes	1
+4 sara stood up to bernard and blew it
+5 brett didnt stand up to bernard
+6 There is a contradiction here?	no	1
+7 chester became the most important butcher in this town and caught a ashy fish
+8 chester didnt forget about salvadors past
+9 There is a contradiction here?	no	1
+10 benjamin built an airplane and found her
+11 benjamin didnt win the game
+12 There is a contradiction here?	no	1
+13 sam had a good daya good conversation with audrey and became very important to me
+14 annette didnt have a good daya good conversation with audrey
+15 There is a contradiction here?	no	1
+1 brenda sang a nice song and paid him
+2 wallace didnt sing a nice song
+3 There is a contradiction here?	no	1
+4 sherri grew up and sold kirks bicycle
+5 sherri didnt sell kirks bicycle
+6 There is a contradiction here?	yes	1
+7 stanley gave micheal a lemon bicycle and knew melanies secret
+8 stanley didnt spend all my money
+9 There is a contradiction here?	no	1
+10 pearl slept the night and fell in love with sherri
+11 pearl didnt fall in love with sherri
+12 There is a contradiction here?	yes	1
+13 randy heard harvey and dug a hole in the garden
+14 ramona didnt dig a hole in the garden
+15 There is a contradiction here?	no	1
+1 clayton fought the law and froze ethels bank account
+2 katrina didnt freeze ethels bank account
+3 There is a contradiction here?	no	1
+4 jerome hit me and built a computer
+5 jerome didnt hit me
+6 There is a contradiction here?	yes	1
+7 stephen took a summer job and sang a pop song
+8 roland didnt take a summer job
+9 There is a contradiction here?	no	1
+10 tanya met me and woke up
+11 tanya didnt meet me
+12 There is a contradiction here?	yes	1
+13 rafael wore a white hat and caught a purple fish
+14 duane didnt catch a purple fish
+15 There is a contradiction here?	no	1
+1 deborah lost maurices white car and heard chris
+2 deborah didnt lose maurices white car
+3 There is a contradiction here?	yes	1
+4 raymond drove the truck to alicias house and told me everything
+5 raymond didnt tell me everything
+6 There is a contradiction here?	yes	1
+7 alfredo blew it and forgave howard
+8 alfredo didnt forgive howard
+9 There is a contradiction here?	yes	1
+10 martin flew to slatina and cut a tree
+11 amanda didnt fly to slatina
+12 There is a contradiction here?	no	1
+13 barbara lost my computer and hung up on kurt
+14 fernando didnt lose my computer
+15 There is a contradiction here?	no	1
+1 jeremy spoke to him about giurgiu and cut a tree
+2 jeremy didnt drink a bottle of water
+3 There is a contradiction here?	no	1
+4 marsha went to jeromes house and forgave jay
+5 marsha didnt go to jeromes house
+6 There is a contradiction here?	yes	1
+7 clara slept for one day and blew me off
+8 clara didnt blow me off
+9 There is a contradiction here?	yes	1
+10 jeanne held him close and froze paulas bank account
+11 jeanne didnt freeze paulas bank account
+12 There is a contradiction here?	yes	1
+13 carmen read a paper and forgot about ramons hobby
+14 carmen didnt forget about ramons hobby
+15 There is a contradiction here?	yes	1
+1 rodney sang a nice song and knew renes secret
+2 rodney didnt sing a nice song
+3 There is a contradiction here?	yes	1
+4 beatrice grew up and hurt me
+5 beatrice didnt put the phone down
+6 There is a contradiction here?	no	1
+7 terry did it again and understood what julie comment about slobozia
+8 cathy didnt understand what julie comment about slobozia
+9 There is a contradiction here?	no	1
+10 phillip knew about us and kept the game alive
+11 phillip didnt teach louis about songwriting
+12 There is a contradiction here?	no	1
+13 doris hung up on me and built ritas house
+14 darrell didnt hang up on me
+15 There is a contradiction here?	no	1
+1 tyrone forgot about gregorys past and put glenda in charge
+2 tyrone didnt forget about gregorys past
+3 There is a contradiction here?	yes	1
+4 bryan forgot about dianes past and forgave me
+5 bryan didnt forget about dianes past
+6 There is a contradiction here?	yes	1
+7 lynda was a fan of gregorys work and put nora in charge
+8 lynda didnt put nora in charge
+9 There is a contradiction here?	yes	1
+10 jeanette laid his hands on her and saw him
+11 bradley didnt see him
+12 There is a contradiction here?	no	1
+13 beth took a summer job and ran into renee
+14 steven didnt take a summer job
+15 There is a contradiction here?	no	1
+1 elsie fought the law and let this happen
+2 elsie didnt fight the law
+3 There is a contradiction here?	yes	1
+4 velma saw eunice and sat on the floor
+5 velma didnt see eunice
+6 There is a contradiction here?	yes	1
+7 jane forgot about robins hobby and drew ahead of the other runners
+8 leah didnt forget about robins hobby
+9 There is a contradiction here?	no	1
+10 bonnie laid down and found thisme
+11 bonnie didnt find thisme
+12 There is a contradiction here?	yes	1
+13 sean found him and made tea
+14 rosa didnt find him
+15 There is a contradiction here?	no	1
+1 sam did everything and flew to lugoj
+2 elizabeth didnt do everything
+3 There is a contradiction here?	no	1
+4 lillian met me and was the first in line
+5 nancy wasnt the first in line
+6 There is a contradiction here?	no	1
+7 rebecca threw everything out the window and saw her
+8 rebecca didnt see her
+9 There is a contradiction here?	yes	1
+10 belinda wrote a song about the sky and spent all my money
+11 belinda didnt spend all my money
+12 There is a contradiction here?	yes	1
+13 sabrina sold geraldines house and said nice things
+14 sabrina didnt sell geraldines house
+15 There is a contradiction here?	yes	1
+1 todd found this green car and made coffee
+2 todd didnt find this green car
+3 There is a contradiction here?	yes	1
+4 stanley put the phone down and slept for eight hours
+5 stanley didnt begin crying
+6 There is a contradiction here?	no	1
+7 dolores threw everything out the window and sent me a note
+8 dolores didnt send me a note
+9 There is a contradiction here?	yes	1
+10 dave woke up and built an airplane
+11 dave didnt throw everything out the window
+12 There is a contradiction here?	no	1
+13 robert met melinda and drew ahead of the other runners
+14 janie didnt draw ahead of the other runners
+15 There is a contradiction here?	no	1
+1 jamie brought me out of sheilas house and fell in love with colleen
+2 jamie didnt bring me out of sheilas house
+3 There is a contradiction here?	yes	1
+4 rosie lent me chriss blue bicycle and began laughing
+5 rosie didnt begin laughing
+6 There is a contradiction here?	yes	1
+7 harry felt a strange and bent the green rod
+8 wendy didnt feel a strange
+9 There is a contradiction here?	no	1
+10 lucy chose this soccer team and forgave nicole
+11 leona didnt choose this soccer team
+12 There is a contradiction here?	no	1
+13 daisy hit her and showed williams old photos
+14 anne didnt show williams old photos
+15 There is a contradiction here?	no	1
+1 gordon became the most important technician in this town and lent me some money a month before
+2 mark didnt become the most important technician in this town
+3 There is a contradiction here?	no	1
+4 glenn read the book about spiders and lost my computer
+5 glenn didnt read the book about spiders
+6 There is a contradiction here?	yes	1
+7 lena wore a ashy hat and left barcelona for reghin
+8 lena didnt wear a ashy hat
+9 There is a contradiction here?	yes	1
+10 judy said nice things and fought the law
+11 judy didnt put the phone down
+12 There is a contradiction here?	no	1
+13 wanda forgot about vernas hobby and beat amanda out of 20 dollars
+14 wanda didnt keep doriss secret from me
+15 There is a contradiction here?	no	1
+1 rene drove awayto the bus stop and hurt me
+2 rene didnt drive awayto the bus stop
+3 There is a contradiction here?	yes	1
+4 jill spent all my money and chose this way of life
+5 jill didnt choose this way of life
+6 There is a contradiction here?	yes	1
+7 ruben gave calvin a yellow car and broke edwins heart
+8 anna didnt break edwins heart
+9 There is a contradiction here?	no	1
+10 rita wrote me an email and shut the door down
+11 rita didnt sing a nice song
+12 There is a contradiction here?	no	1
+13 julie met me and taught math
+14 julie didnt meet me
+15 There is a contradiction here?	yes	1
+1 roberta laid his hands on him and thought charlene was going to die
+2 loretta didnt lay his hands on him
+3 There is a contradiction here?	no	1
+4 kirk did some good work and bought a white bicycle
+5 florence didnt buy a white bicycle
+6 There is a contradiction here?	no	1
+7 hazel sat on the floor and led me to jessies house
+8 hazel didnt lead me to jessies house
+9 There is a contradiction here?	yes	1
+10 brett let this happen and broke the rules
+11 floyd didnt break the rules
+12 There is a contradiction here?	no	1
+13 emma felt a strange and drew ahead of the other runners
+14 gladys didnt feel a strange
+15 There is a contradiction here?	no	1
+1 karl held me back and drew ahead of the other runners
+2 karl didnt hold me back
+3 There is a contradiction here?	yes	1
+4 allison won the game and hung up on me
+5 tina didnt hang up on me
+6 There is a contradiction here?	no	1
+7 sergio sang a nice song and taught brandy about songwriting
+8 sergio didnt teach brandy about songwriting
+9 There is a contradiction here?	yes	1
+10 melinda built a computer and heard me
+11 melinda didnt hear me
+12 There is a contradiction here?	yes	1
+13 jorge sold graces bicycle and found her
+14 jorge didnt find her
+15 There is a contradiction here?	yes	1
+1 jeremy thought i was living in bucharest and bent the rules of the card game
+2 jeremy didnt think i was living in bucharest
+3 There is a contradiction here?	yes	1
+4 joyce kept saying this was crazy and forgave me
+5 brittany didnt keep saying this was crazy
+6 There is a contradiction here?	no	1
+7 samuel spent all my money and built calvins house
+8 samuel didnt build calvins house
+9 There is a contradiction here?	yes	1
+10 rafael burned richards house and found him
+11 joanna didnt burn richards house
+12 There is a contradiction here?	no	1
+13 douglas rode the horse and told me about the bars in giurgiu
+14 douglas didnt tell me about the bars in giurgiu
+15 There is a contradiction here?	yes	1
+1 ruth put wayne in charge and paid him
+2 ruth didnt put wayne in charge
+3 There is a contradiction here?	yes	1
+4 veronica was a obedient person and rode the buffalo
+5 veronica wasnt a obedient person
+6 There is a contradiction here?	yes	1
+7 terry wore a white hat and ran into kristy
+8 terry didnt wear a white hat
+9 There is a contradiction here?	yes	1
+10 leah ran from barcelona to blaj and told me everything
+11 sherri didnt ring from barcelona to blaj
+12 There is a contradiction here?	no	1
+13 manuel cut himself and took the footage
+14 manuel didnt cut himself
+15 There is a contradiction here?	yes	1
+1 felicia bought a orange bicycle and slept for one day
+2 felicia didnt sleep for one day
+3 There is a contradiction here?	yes	1
+4 harvey knew edgars secret and rode the horse
+5 harvey didnt ride the horse
+6 There is a contradiction here?	yes	1
+7 pamela lost my computer and ran into laurie
+8 pamela didnt lose my computer
+9 There is a contradiction here?	yes	1
+10 michelle put jamie in charge and understood what i said
+11 michelle didnt understand what i said
+12 There is a contradiction here?	yes	1
+13 yolanda spoke to her about ramon and woke up
+14 yolanda didnt wake up
+15 There is a contradiction here?	yes	1
+1 tamara drove awayto the bus stop and woke up
+2 tamara didnt bend the green rod
+3 There is a contradiction here?	no	1
+4 rosemary dreamed of the playing with florence and threw everything out the window
+5 rosemary didnt blow me off
+6 There is a contradiction here?	no	1
+7 vincent cut my hair and drew ahead of the other runners
+8 vincent didnt draw ahead of the other runners
+9 There is a contradiction here?	yes	1
+10 rita said nice things and built an altar for emma
+11 rita didnt pay randy
+12 There is a contradiction here?	no	1
+13 connie forgave flora and sang a pop song
+14 sabrina didnt sing a pop song
+15 There is a contradiction here?	no	1
+1 sheila froze my account and left me waiting
+2 joel didnt leave me waiting
+3 There is a contradiction here?	no	1
+4 heidi fought me and forgot about sarahs past
+5 heidi didnt forget about sarahs past
+6 There is a contradiction here?	yes	1
+7 franklin put april in charge and beat us a lot
+8 franklin didnt beat us a lot
+9 There is a contradiction here?	yes	1
+10 freddie took office and drew ahead of the other runners
+11 freddie didnt draw ahead of the other runners
+12 There is a contradiction here?	yes	1
+13 roland got me lying and sold me a icy car
+14 roland didnt hold her close
+15 There is a contradiction here?	no	1
+1 dawn fought me and fell to the floor
+2 laurie didnt fight me
+3 There is a contradiction here?	no	1
+4 curtis gave sidney a salmon bicycle and stood up to denise
+5 morris didnt stand up to denise
+6 There is a contradiction here?	no	1
+7 lisa drew ahead of the other runners and gave daryl a ashy car
+8 philip didnt give daryl a ashy car
+9 There is a contradiction here?	no	1
+10 ruben told me about the bars in bucharest and flew to reghin
+11 ruben didnt fly to reghin
+12 There is a contradiction here?	yes	1
+13 melinda ran from barcelona to reghin and bought a white bicycle
+14 joann didnt buy a white bicycle
+15 There is a contradiction here?	no	1
+1 marie understood what i said and paid him
+2 clifford didnt pay him
+3 There is a contradiction here?	no	1
+4 michael came at noon and paid her
+5 ana didnt come at noon
+6 There is a contradiction here?	no	1
+7 clinton woke up and hit him
+8 clinton didnt hit him
+9 There is a contradiction here?	yes	1
+10 johnny forgot about valeries past and taught middle school science
+11 johnny didnt forget about valeries past
+12 There is a contradiction here?	yes	1
+13 terri sold traviss bicycle and lost dustins salmon car
+14 jamie didnt lose dustins salmon car
+15 There is a contradiction here?	no	1
+1 johnny had it all and showed my new photos
+2 johnny didnt have it all
+3 There is a contradiction here?	yes	1
+4 charlene got the money and saw him
+5 charlene didnt get the money
+6 There is a contradiction here?	yes	1
+7 georgia paid her and drank a bottle of water
+8 marie didnt drink a bottle of water
+9 There is a contradiction here?	no	1
+10 isabel had a good daya good conversation with daniel and taught math
+11 adrian didnt have a good daya good conversation with daniel
+12 There is a contradiction here?	no	1
+13 allison won the soccer match and wrote me an email
+14 allison didnt write me an email
+15 There is a contradiction here?	yes	1
+1 nathan drew ahead of the other runners and swam out toward the blue boat
+2 nathan didnt swim out toward the blue boat
+3 There is a contradiction here?	yes	1
+4 gerald hung up on virgil and paid me
+5 gerald didnt pay me
+6 There is a contradiction here?	yes	1
+7 charles made me change the way i wrote and drove awayto the bus stop
+8 charles didnt make me change the way i wrote
+9 There is a contradiction here?	yes	1
+10 nathaniel fought the law and made me change the way i wrote
+11 nathaniel didnt catch a mango fish
+12 There is a contradiction here?	no	1
+13 charlie had everything and won the soccer match
+14 charlie didnt have everything
+15 There is a contradiction here?	yes	1
+1 bessie bent the rules of the soccer game and lost andreas icy car
+2 wanda didnt bend the rules of the soccer game
+3 There is a contradiction here?	no	1
+4 hazel knew about us and did some good work
+5 hazel didnt forgive me
+6 There is a contradiction here?	no	1
+7 lindsey let me drive luzs red car and shut the door down
+8 lindsey didnt shut the door down
+9 There is a contradiction here?	yes	1
+10 rafael burned sonias house and drank a bottle of water
+11 rafael didnt drink a bottle of water
+12 There is a contradiction here?	yes	1
+13 marsha broke samuels heart and hurt him
+14 thomas didnt break samuels heart
+15 There is a contradiction here?	no	1
+1 olga broke the rules and swam out toward the lemon boat
+2 olga didnt break the rules
+3 There is a contradiction here?	yes	1
+4 richard paid me and built an airplane
+5 richard didnt pay me
+6 There is a contradiction here?	yes	1
+7 alexander felt threatened and went to evelyns house
+8 nancy didnt go to evelyns house
+9 There is a contradiction here?	no	1
+10 leah hid a smile and brought me out of leons house
+11 kathleen didnt bring me out of leons house
+12 There is a contradiction here?	no	1
+13 lisa froze my account and spoke to her about jerry
+14 rafael didnt freeze my account
+15 There is a contradiction here?	no	1
+1 eleanor sold jeans bicycle and flew to dej
+2 eleanor didnt lead me to cathys house
+3 There is a contradiction here?	no	1
+4 teresa laid his hands on him and stood in front of the crowd
+5 teresa didnt hit her
+6 There is a contradiction here?	no	1
+7 rosie forgot about miltons hobby and bet on the game
+8 bobby didnt bet on the game
+9 There is a contradiction here?	no	1
+10 harry wrote a song about the sky and heard carmen
+11 harry didnt hang up on me
+12 There is a contradiction here?	no	1
+13 nathaniel rode the horse and froze sues bank account
+14 nathaniel didnt freeze sues bank account
+15 There is a contradiction here?	yes	1
+1 candice won the game and gave robin a ashy car
+2 candice didnt give robin a ashy car
+3 There is a contradiction here?	yes	1
+4 helen cut himself and showed my new photos
+5 helen didnt cut himself
+6 There is a contradiction here?	yes	1
+7 ana said nice things and rode the horse
+8 ana didnt swim out toward the lemon boat
+9 There is a contradiction here?	no	1
+10 rachel froze mollys bank account and laid his hands on him
+11 rachel didnt freeze mollys bank account
+12 There is a contradiction here?	yes	1
+13 karen fell to the floor and bet on the gray car
+14 marshall didnt bet on the gray car
+15 There is a contradiction here?	no	1
+1 geneva chose this soccer team and was a kind person
+2 geneva didnt choose this soccer team
+3 There is a contradiction here?	yes	1
+4 carla met elmer and spent all my money
+5 carla didnt spend all my money
+6 There is a contradiction here?	yes	1
+7 maryann forgot about victors past and sang a nice song
+8 maggie didnt forget about victors past
+9 There is a contradiction here?	no	1
+10 holly ran into tommy and led me to connies house
+11 holly didnt ring into tommy
+12 There is a contradiction here?	yes	1
+13 amber found what i was looking for and blew it
+14 amber didnt find what i was looking for
+15 There is a contradiction here?	yes	1
+1 thomas forgot about alvins past and became very important to me
+2 allen didnt become very important to me
+3 There is a contradiction here?	no	1
+4 caroline led me to gladyss house and lost joyces orange car
+5 justin didnt lead me to gladyss house
+6 There is a contradiction here?	no	1
+7 beverly got the money and understood what ricardo comment about tulcea
+8 beverly didnt understand what ricardo comment about tulcea
+9 There is a contradiction here?	yes	1
+10 brett put the phone down and kept saying this was crazy
+11 brett didnt put the phone down
+12 There is a contradiction here?	yes	1
+13 bonnie took the green shirt out of the washer and let this happen
+14 bonnie didnt let this happen
+15 There is a contradiction here?	yes	1
+1 theresa kept bobs secret from me and took office
+2 theresa didnt keep bobs secret from me
+3 There is a contradiction here?	yes	1
+4 beth flew to clujnapoca and shut the door down
+5 beth didnt shut the door down
+6 There is a contradiction here?	yes	1
+7 janie chose to live in clujnapoca and hung up on me
+8 jimmie didnt hang up on me
+9 There is a contradiction here?	no	1
+10 george put the phone down and laid his hands on him
+11 george didnt put the phone down
+12 There is a contradiction here?	yes	1
+13 mark built an airplane and fell off
+14 julie didnt build an airplane
+15 There is a contradiction here?	no	1
+1 patrick dreamed of running in lugoj and put the phone down
+2 patrick didnt dream of running in lugoj
+3 There is a contradiction here?	yes	1
+4 ana lost the gray car in giurgiu and came at midnight
+5 ana didnt come at midnight
+6 There is a contradiction here?	yes	1
+7 elaine slept for one day and sat on the floor
+8 marcia didnt sleep for one day
+9 There is a contradiction here?	no	1
+10 shannon froze my account and woke up
+11 kristine didnt freeze my account
+12 There is a contradiction here?	no	1
+13 jesus blew it and threw everything out the window
+14 jesus didnt blow it
+15 There is a contradiction here?	yes	1
+1 marcia lent me some money a month before and slept for eight hours
+2 marcia didnt sleep for eight hours
+3 There is a contradiction here?	yes	1
+4 floyd told me everything and wrote me about ruth
+5 floyd didnt say nice things
+6 There is a contradiction here?	no	1
+7 wendy woke up and did everything
+8 wendy didnt do everything
+9 There is a contradiction here?	yes	1
+10 kathryn wore a black jacket and grew up
+11 aaron didnt grow up
+12 There is a contradiction here?	no	1
+13 tom burned some calories and drove awayto the bus stop
+14 daryl didnt burn some calories
+15 There is a contradiction here?	no	1
+1 lester told me judys secret and sold normans house
+2 lester didnt sell normans house
+3 There is a contradiction here?	yes	1
+4 dolores swam out toward the lemon boat and put the phone down
+5 dolores didnt buy a white car
+6 There is a contradiction here?	no	1
+7 edgar showed stephens old photos and flew to dej
+8 edgar didnt fly to dej
+9 There is a contradiction here?	yes	1
+10 harold slept the night and wrote a song about the sky
+11 walter didnt write a song about the sky
+12 There is a contradiction here?	no	1
+13 herman dug a hole in pauls backyard and drove the truck to hollys house
+14 elizabeth didnt drive the truck to hollys house
+15 There is a contradiction here?	no	1
+1 ernest told me about the bars in giurgiu and thought martin was going to die
+2 ernest didnt think martin was going to die
+3 There is a contradiction here?	yes	1
+4 yolanda thought i was living in timisoara and wore a purple hat
+5 yolanda didnt think i was living in timisoara
+6 There is a contradiction here?	yes	1
+7 ethel slept the night and froze my account
+8 ethel didnt freeze my account
+9 There is a contradiction here?	yes	1
+10 franklin cut a tree and drove the truck to stephanies house
+11 franklin didnt choose this soccer team
+12 There is a contradiction here?	no	1
+13 jerome heard me and hit her
+14 jerome didnt hit her
+15 There is a contradiction here?	yes	1
+1 charles forgot about sonias hobby and bet on the game
+2 charles didnt cut himself
+3 There is a contradiction here?	no	1
+4 lester let me drive naomis green car and began laughing
+5 lester didnt bring me out of willies house
+6 There is a contradiction here?	no	1
+7 patsy lost mabels black car and made me change the way i wrote
+8 patsy didnt lose mabels black car
+9 There is a contradiction here?	yes	1
+10 charlene showed my new photos and spent all my money
+11 charlene didnt show my new photos
+12 There is a contradiction here?	yes	1
+13 harold rode the buffalo and did it again
+14 harold didnt do it again
+15 There is a contradiction here?	yes	1
+1 ralph thought i was living in bucharest and ran from me
+2 tara didnt ring from me
+3 There is a contradiction here?	no	1
+4 marilyn put the phone down and led me to inezs house
+5 marilyn didnt put the phone down
+6 There is a contradiction here?	yes	1
+7 kay froze adrians bank account and sold rosemarys house
+8 kay wasnt a fan of daryls work
+9 There is a contradiction here?	no	1
+10 margarita ate an apple and was the first in line
+11 lester wasnt the first in line
+12 There is a contradiction here?	no	1
+13 jorge paid her and bet on the wining horse
+14 jorge didnt pay her
+15 There is a contradiction here?	yes	1
+1 marjorie led me to ericas house and flew to timisoara
+2 shannon didnt lead me to ericas house
+3 There is a contradiction here?	no	1
+4 kim ran from me and knew marios secret
+5 kim didnt see the best dentist from tulcea
+6 There is a contradiction here?	no	1
+7 jackie shut the door down and burned some calories
+8 miguel didnt burn some calories
+9 There is a contradiction here?	no	1
+10 duane hurt him and became lee best friend
+11 darren didnt hurt him
+12 There is a contradiction here?	no	1
+13 barbara wrote me about marion and sent me a note
+14 barbara didnt write me about marion
+15 There is a contradiction here?	yes	1
+1 ada led me to sheilas house and fell off
+2 julian didnt lead me to sheilas house
+3 There is a contradiction here?	no	1
+4 mae rode the buffalo and spoke to him about bucharest
+5 mae didnt speak to him about bucharest
+6 There is a contradiction here?	yes	1
+7 jordan spent all my money and wore a mango jacket
+8 jordan didnt take a summer job
+9 There is a contradiction here?	no	1
+10 ella taught middle school science and built a computer
+11 ella didnt build a computer
+12 There is a contradiction here?	yes	1
+13 eunice drew ahead of the other runners and froze my account
+14 eunice didnt freeze my account
+15 There is a contradiction here?	yes	1
+1 javier drove the truck to wades house and paid him
+2 brent didnt pay him
+3 There is a contradiction here?	no	1
+4 michele drank an orange juice and threw everything out the window
+5 michele didnt throw everything out the window
+6 There is a contradiction here?	yes	1
+7 ken laid his hands on her and sold me a green car
+8 pearl didnt sell me a green car
+9 There is a contradiction here?	no	1
+10 leona knew about us and bought a watch
+11 leslie didnt buy a watch
+12 There is a contradiction here?	no	1
+13 kelly began laughing and cut a tree
+14 kelly didnt begin laughing
+15 There is a contradiction here?	yes	1
+1 victor chose to live in dej and hurt me
+2 yolanda didnt choose to live in dej
+3 There is a contradiction here?	no	1
+4 jo came at noon and forgot about catherines past
+5 sandy didnt forget about catherines past
+6 There is a contradiction here?	no	1
+7 billy got the money and wore a gray jacket
+8 erin didnt get the money
+9 There is a contradiction here?	no	1
+10 heidi caught a ashy fish and woke up
+11 heidi didnt catch a ashy fish
+12 There is a contradiction here?	yes	1
+13 charlie put the phone down and went to evelyns house
+14 william didnt put the phone down
+15 There is a contradiction here?	no	1
+1 nathaniel drank a bottle of wine and stood in front of the crowd
+2 nathaniel didnt let this happen
+3 There is a contradiction here?	no	1
+4 cecil put the phone down and wrote me about christopher
+5 cecil didnt hold me back
+6 There is a contradiction here?	no	1
+7 annie wore a white hat and shut the door down
+8 howard didnt shut the door down
+9 There is a contradiction here?	no	1
+10 victor ran into monique and forgot about glendas past
+11 bob didnt ring into monique
+12 There is a contradiction here?	no	1
+13 bradley lent me kimberlys orange bicycle and blew it when he didnt invest in amazon
+14 bradley didnt feel threatened
+15 There is a contradiction here?	no	1
+1 ada sang a pop song and came at midnight
+2 eugene didnt sing a pop song
+3 There is a contradiction here?	no	1
+4 glen bent the rules of the soccer game and fell off
+5 glen didnt fall off
+6 There is a contradiction here?	yes	1
+7 erica saw her and gave nancy a salmon car
+8 erica didnt take the ashy shirt out of the washer
+9 There is a contradiction here?	no	1
+10 melanie built a computer and sold beckys house
+11 alfredo didnt build a computer
+12 There is a contradiction here?	no	1
+13 gene taught brandi about songwriting and felt a strange
+14 gene didnt teach brandi about songwriting
+15 There is a contradiction here?	yes	1
+1 maxine woke up and heard walter
+2 maxine didnt hear walter
+3 There is a contradiction here?	yes	1
+4 sherri fell to the floor and threw everything out the window
+5 sherri didnt throw everything out the window
+6 There is a contradiction here?	yes	1
+7 victoria caught a black fish and chose to live in oradea
+8 victoria didnt catch a black fish
+9 There is a contradiction here?	yes	1
+10 don slept the night and sent me a letter
+11 don didnt fall in love with jessie
+12 There is a contradiction here?	no	1
+13 wayne chose this way of life and fought ella
+14 carolyn didnt fight ella
+15 There is a contradiction here?	no	1
+1 barbara wore a salmon hat and showed davids old photos
+2 henry didnt show davids old photos
+3 There is a contradiction here?	no	1
+4 sonia hit me and taught middle school science
+5 jesse didnt teach middle school science
+6 There is a contradiction here?	no	1
+7 franklin shut the door down and dreamed of running in giurgiu
+8 franklin didnt shut the door down
+9 There is a contradiction here?	yes	1
+10 lola drew ahead of the other runners and spent all my money
+11 lola didnt fight me
+12 There is a contradiction here?	no	1
+13 harry bought a lemon car and had everything
+14 harry didnt have everything
+15 There is a contradiction here?	yes	1
+1 jordan blew it when he didnt invest in amazon and dreamed of running in bucharest
+2 jordan didnt build an altar for jennie
+3 There is a contradiction here?	no	1
+4 darrell swam out toward the green boat and met him
+5 darrell didnt swim out toward the green boat
+6 There is a contradiction here?	yes	1
+7 justin woke up and shut the door down
+8 justin didnt choose this way of life
+9 There is a contradiction here?	no	1
+10 ellen felt threatened and made coffee
+11 ellen didnt feel threatened
+12 There is a contradiction here?	yes	1
+13 olga broke lawrences heart and stood in front of the crowd
+14 olga didnt break lawrences heart
+15 There is a contradiction here?	yes	1
+1 lucy froze my account and forgot about debbies past
+2 lucy didnt forget about debbies past
+3 There is a contradiction here?	yes	1
+4 irma showed dons old photos and took office
+5 irma didnt take office
+6 There is a contradiction here?	yes	1
+7 emily lent me some money a month before and burned some calories
+8 emily didnt hurt me
+9 There is a contradiction here?	no	1
+10 ken hid behind a bush and forgot about kims hobby
+11 ken didnt hide behind a bush
+12 There is a contradiction here?	yes	1
+13 matthew sold andres house and bent the rules of the soccer game
+14 matthew didnt bend the rules of the soccer game
+15 There is a contradiction here?	yes	1
+1 cory bought a gray car and knew about us
+2 cory didnt let me drive ednas green car
+3 There is a contradiction here?	no	1
+4 jimmie let me drive harolds lemon car and sang a nice song
+5 jimmie didnt let me drive harolds lemon car
+6 There is a contradiction here?	yes	1
+7 brandy caught a mango fish and broke the record
+8 brandy didnt beat him
+9 There is a contradiction here?	no	1
+10 sonia sang a nice song and did some good work
+11 sonia didnt sing a nice song
+12 There is a contradiction here?	yes	1
+13 shelley shut the door down and met melanie
+14 lucy didnt meet melanie
+15 There is a contradiction here?	no	1
+1 pamela wrote me an email and kept lauries secret from me
+2 maurice didnt keep lauries secret from me
+3 There is a contradiction here?	no	1
+4 luz fell to the floor and heard me
+5 luz didnt fall to the floor
+6 There is a contradiction here?	yes	1
+7 tim chose this soccer team and drew ahead of the other runners
+8 tim didnt draw ahead of the other runners
+9 There is a contradiction here?	yes	1
+10 jacqueline forgave alberta and held me back
+11 edith didnt hold me back
+12 There is a contradiction here?	no	1
+13 claudia met him and built a computer
+14 claudia didnt meet him
+15 There is a contradiction here?	yes	1
+1 timothy told me nancys secret and stood in front of the crowd
+2 timothy didnt stand in front of the crowd
+3 There is a contradiction here?	yes	1
+4 cora showed my new photos and paid her
+5 cora didnt show my new photos
+6 There is a contradiction here?	yes	1
+7 cecilia broke the rules and wore a black hat
+8 deborah didnt wear a black hat
+9 There is a contradiction here?	no	1
+10 caroline saw a blue car running fast and broke eduardos heart
+11 caroline didnt break eduardos heart
+12 There is a contradiction here?	yes	1
+13 jamie was a aggressive person and lost the lemon car in clujnapoca
+14 jamie didnt bend the rules of the soccer game
+15 There is a contradiction here?	no	1
+1 megan hung up on travis and spoke to him about mangalia
+2 samuel didnt hang up on travis
+3 There is a contradiction here?	no	1
+4 sean held him close and knew about us
+5 felix didnt hold him close
+6 There is a contradiction here?	no	1
+7 joanne became jack best friend and forgot about caseys past
+8 charlie didnt forget about caseys past
+9 There is a contradiction here?	no	1
+10 lewis brought me out of claudias house and built a computer
+11 lewis didnt bring me out of claudias house
+12 There is a contradiction here?	yes	1
+13 susan told me everything and bent the rules of the soccer game
+14 susan didnt tell me everything
+15 There is a contradiction here?	yes	1
+1 justin read the book about spiders and rode the buffalo
+2 jesse didnt read the book about spiders
+3 There is a contradiction here?	no	1
+4 norma won the soccer match and drew ahead of the other runners
+5 norma didnt win the soccer match
+6 There is a contradiction here?	yes	1
+7 annette chose to live in giurgiu and knew alexs secret
+8 annette didnt shut the door down
+9 There is a contradiction here?	no	1
+10 amanda found jesus and froze jeans bank account
+11 amanda didnt find jesus
+12 There is a contradiction here?	yes	1
+13 armando was a fan of jesses work and chose this soccer team
+14 erik didnt choose this soccer team
+15 There is a contradiction here?	no	1
+1 katherine rode the buffalo and told me everything
+2 katherine didnt ride the buffalo
+3 There is a contradiction here?	yes	1
+4 charles began crying and became vincent best friend
+5 sarah didnt become vincent best friend
+6 There is a contradiction here?	no	1
+7 bertha woke up and said funny things
+8 bertha didnt wake up
+9 There is a contradiction here?	yes	1
+10 arlene showed velmas old photos and knew about us
+11 cathy didnt show velmas old photos
+12 There is a contradiction here?	no	1
+13 brian flew to deva and drove awayto the bus stop
+14 brian didnt drive awayto the bus stop
+15 There is a contradiction here?	yes	1
+1 kay sang a nice song and met him
+2 kay didnt meet him
+3 There is a contradiction here?	yes	1
+4 jenny grew up in jail and woke up
+5 jenny didnt grow up in jail
+6 There is a contradiction here?	yes	1
+7 beulah swam out toward the black boat and built a computer
+8 beulah didnt build a computer
+9 There is a contradiction here?	yes	1
+10 olivia let me drive deans ashy car and grew up
+11 olivia didnt let me drive deans ashy car
+12 There is a contradiction here?	yes	1
+13 sabrina wrote me about ida and caught a purple fish
+14 sabrina didnt catch a purple fish
+15 There is a contradiction here?	yes	1
+1 jack sent me a letter and spent all my money
+2 jack didnt send me a letter
+3 There is a contradiction here?	yes	1
+4 joseph bet on the wining horse and blew it when he didnt invest in amazon
+5 joseph didnt meet her
+6 There is a contradiction here?	no	1
+7 gwendolyn wrote a song about the sky and dreamed of running in clujnapoca
+8 gwendolyn didnt write a song about the sky
+9 There is a contradiction here?	yes	1
+10 scott made tea and taught frank about songwriting
+11 daniel didnt teach frank about songwriting
+12 There is a contradiction here?	no	1
+13 jack won the game and fought the law
+14 jack didnt lose priscillas salmon car
+15 There is a contradiction here?	no	1
+1 priscilla gave leslie a white shirt and thought melissa was going to die
+2 priscilla didnt think melissa was going to die
+3 There is a contradiction here?	yes	1
+4 claude hung up on christina and dreamed of the playing with jack
+5 shane didnt hang up on christina
+6 There is a contradiction here?	no	1
+7 alvin beat him and built an airplane
+8 kristina didnt beat him
+9 There is a contradiction here?	no	1
+10 milton broke the record and put the phone down
+11 clifford didnt put the phone down
+12 There is a contradiction here?	no	1
+13 lula woke up and stood up to michelle
+14 andrew didnt stand up to michelle
+15 There is a contradiction here?	no	1
+1 jimmy had a good daya good conversation with irene and ate a steak
+2 jimmy didnt say nice things
+3 There is a contradiction here?	no	1
+4 brad fell to the floor and taught middle school science
+5 marlene didnt fall to the floor
+6 There is a contradiction here?	no	1
+7 darren left barcelona for craiova and kept saying this was crazy
+8 tracy didnt leave barcelona for craiova
+9 There is a contradiction here?	no	1
+10 linda bought a watch and heard me
+11 richard didnt hear me
+12 There is a contradiction here?	no	1
+13 ramona caught a mango fish and took the footage
+14 ramona didnt take the footage
+15 There is a contradiction here?	yes	1
+1 curtis was the first in line and woke up
+2 curtis didnt wake up
+3 There is a contradiction here?	yes	1
+4 jim forgot about bobs hobby and shut the door down
+5 caroline didnt forget about bobs hobby
+6 There is a contradiction here?	no	1
+7 frank lent me some money and woke up
+8 miriam didnt wake up
+9 There is a contradiction here?	no	1
+10 anthony saw me and found him
+11 anthony didnt see me
+12 There is a contradiction here?	yes	1
+13 salvador burned the flag and froze my account
+14 salvador didnt burn the flag
+15 There is a contradiction here?	yes	1
+1 sara threw everything out the window and went to tulcea
+2 sara didnt throw everything out the window
+3 There is a contradiction here?	yes	1
+4 claudia paid sandra and showed my new photos
+5 christopher didnt pay sandra
+6 There is a contradiction here?	no	1
+7 katie held me back and fell to the floor
+8 katie didnt hold me back
+9 There is a contradiction here?	yes	1
+10 carol swam out toward the salmon boat and taught middle school science
+11 carol didnt swim out toward the salmon boat
+12 There is a contradiction here?	yes	1
+13 morris forgot about donnas past and rode the horse
+14 morris didnt ride the horse
+15 There is a contradiction here?	yes	1
+1 florence fell in love with carla and woke up
+2 florence didnt wake up
+3 There is a contradiction here?	yes	1
+4 randall forgot about ramonas hobby and swam out toward the green boat
+5 randall didnt lay his hands on her
+6 There is a contradiction here?	no	1
+7 deanna fought the law and took a summer job
+8 deanna didnt take a summer job
+9 There is a contradiction here?	yes	1
+10 lillian became hugh best friend and won the soccer match
+11 lillian didnt meet me
+12 There is a contradiction here?	no	1
+13 chris burned some calories and sang a nice song
+14 chris didnt burn some calories
+15 There is a contradiction here?	yes	1
+1 sherri was a fan of henrys work and hurt me
+2 francis wasnt a fan of henrys work
+3 There is a contradiction here?	no	1
+4 sue taught melvin about songwriting and began screaming
+5 billie didnt teach melvin about songwriting
+6 There is a contradiction here?	no	1
+7 chester laid down and lent me some money
+8 chester didnt lay down
+9 There is a contradiction here?	yes	1
+10 janice saw the best dentist from dej and sang a pop song
+11 jerome didnt see the best dentist from dej
+12 There is a contradiction here?	no	1
+13 kristi froze my account and built an altar for cecilia
+14 kristi didnt freeze my account
+15 There is a contradiction here?	yes	1
+1 hector had everything and built an airplane
+2 penny didnt build an airplane
+3 There is a contradiction here?	no	1
+4 karl found what i was looking for and ate an apple
+5 karl didnt find what i was looking for
+6 There is a contradiction here?	yes	1
+7 gladys hit me and forgave me
+8 ethel didnt forgive me
+9 There is a contradiction here?	no	1
+10 kyle won the game and read the book about spiders
+11 kyle didnt break roses heart
+12 There is a contradiction here?	no	1
+13 alvin did everything and gave virgil a green bicycle
+14 alvin didnt give virgil a green bicycle
+15 There is a contradiction here?	yes	1
+1 bryan broke the rules and fought the law
+2 delores didnt break the rules
+3 There is a contradiction here?	no	1
+4 julian built an altar for renee and let use this pen
+5 vicki didnt build an altar for renee
+6 There is a contradiction here?	no	1
+7 nelson sent me a letter and forgot about kims past
+8 nelson didnt forget about kims past
+9 There is a contradiction here?	yes	1
+10 jeffrey knew alfredos secret and led me to warrens house
+11 candice didnt know alfredos secret
+12 There is a contradiction here?	no	1
+13 judy chose to live in bucharest and spoke to me
+14 cora didnt choose to live in bucharest
+15 There is a contradiction here?	no	1
+1 faye froze my account and heard my voice
+2 faye didnt freeze my account
+3 There is a contradiction here?	yes	1
+4 gerald beat jeffery out of 20 dollars and knew about us
+5 dwight didnt know about us
+6 There is a contradiction here?	no	1
+7 billy held me back and drank a bottle of water
+8 billy didnt drink a bottle of water
+9 There is a contradiction here?	yes	1
+10 melissa caught a gray fish and lent me some money
+11 melissa didnt catch a gray fish
+12 There is a contradiction here?	yes	1
+13 eva froze bruces bank account and cut himself
+14 eva didnt freeze bruces bank account
+15 There is a contradiction here?	yes	1
+1 melvin bought a black bicycle and forgave dora
+2 melvin didnt think i was living in tulcea
+3 There is a contradiction here?	no	1
+4 laurie spent all my money and swam out toward the red boat
+5 laurie didnt draw ahead of the other runners
+6 There is a contradiction here?	no	1
+7 dennis spoke to me and burned marshalls house
+8 bonnie didnt speak to me
+9 There is a contradiction here?	no	1
+10 ruben sat on the mat and began crying
+11 clara didnt begin crying
+12 There is a contradiction here?	no	1
+13 christian put the phone down and paid her
+14 christian didnt put the phone down
+15 There is a contradiction here?	yes	1
+1 mike did everything and built an altar for troy
+2 elizabeth didnt do everything
+3 There is a contradiction here?	no	1
+4 kay wrote me a letter and led me to nicholass house
+5 lee didnt write me a letter
+6 There is a contradiction here?	no	1
+7 aaron said funny things and showed my new photos
+8 willard didnt say funny things
+9 There is a contradiction here?	no	1
+10 lydia brought me out of lolas house and forgave me
+11 lydia didnt speak to him about clujnapoca
+12 There is a contradiction here?	no	1
+13 april rode the horse and sang a nice song
+14 april didnt sing a nice song
+15 There is a contradiction here?	yes	1
+1 ian wrote me an email and found him
+2 ian didnt write me an email
+3 There is a contradiction here?	yes	1
+4 darryl drank a bottle of water and bought a purple bicycle
+5 darryl didnt buy a purple bicycle
+6 There is a contradiction here?	yes	1
+7 isabel said funny things and told me everything
+8 roger didnt say funny things
+9 There is a contradiction here?	no	1
+10 harriet met him and put colleen in charge
+11 harriet didnt put colleen in charge
+12 There is a contradiction here?	yes	1
+13 steven chose this way of life and sang a pop song
+14 lucille didnt choose this way of life
+15 There is a contradiction here?	no	1
+1 becky shut the door down and brought me out of noras house
+2 becky didnt bring me out of noras house
+3 There is a contradiction here?	yes	1
+4 jodi fell in love with lester and held him close
+5 arnold didnt fall in love with lester
+6 There is a contradiction here?	no	1
+7 vickie led me to howards house and grew up
+8 vickie didnt buy a green car
+9 There is a contradiction here?	no	1
+10 gertrude felt an outsider and forgave francisco
+11 gertrude didnt feel an outsider
+12 There is a contradiction here?	yes	1
+13 stella bet on the wining horse and broke the rules
+14 joann didnt break the rules
+15 There is a contradiction here?	no	1
+1 darren let me drive isabels salmon car and made me change the way i wrote
+2 darren didnt make me change the way i wrote
+3 There is a contradiction here?	yes	1
+4 allen wrote me an email and sang a pop song
+5 allen didnt sing a pop song
+6 There is a contradiction here?	yes	1
+7 geraldine became the most important doctor in this town and swam out toward the ashy boat
+8 geraldine didnt swim out toward the ashy boat
+9 There is a contradiction here?	yes	1
+10 janet began screaming and spoke to me
+11 marsha didnt begin screaming
+12 There is a contradiction here?	no	1
+13 pedro forgot about annas hobby and chose to live in baia mare
+14 audrey didnt choose to live in baia mare
+15 There is a contradiction here?	no	1
+1 grace hit me and spoke to her about derrick
+2 grace didnt find her
+3 There is a contradiction here?	no	1
+4 brenda left me waiting and sang a pop song
+5 cora didnt sing a pop song
+6 There is a contradiction here?	no	1
+7 jeremy told me about the bars in hunedoara and hurt me
+8 jeremy didnt give isaac a icy shirt
+9 There is a contradiction here?	no	1
+10 don read a paper and thought i was helping philip
+11 don didnt think i was helping philip
+12 There is a contradiction here?	yes	1
+13 kim put the phone down and told me nathaniels secret
+14 antoinette didnt tell me nathaniels secret
+15 There is a contradiction here?	no	1
+1 leonard bet on the game and ate breakfast
+2 leonard didnt bet on the game
+3 There is a contradiction here?	yes	1
+4 andy hid behind a bush and built a computer
+5 andy didnt choose to live in dej
+6 There is a contradiction here?	no	1
+7 virgil froze henrys bank account and cut a tree
+8 virgil didnt think i was helping johnnie
+9 There is a contradiction here?	no	1
+10 josephine cut himself and did it again
+11 josephine didnt dig a hole in benjamins backyard
+12 There is a contradiction here?	no	1
+13 jimmy blew it and left me
+14 jimmy didnt leave me
+15 There is a contradiction here?	yes	1
+1 joanne took the footage and felt threatened
+2 samantha didnt feel threatened
+3 There is a contradiction here?	no	1
+4 marc took office and fought the law
+5 marc didnt fight the law
+6 There is a contradiction here?	yes	1
+7 debra hurt her and blew me off
+8 amanda didnt hurt her
+9 There is a contradiction here?	no	1
+10 naomi began crying and lost my computer
+11 edgar didnt begin crying
+12 There is a contradiction here?	no	1
+13 salvador lost roys green car and made tea
+14 erik didnt lose roys green car
+15 There is a contradiction here?	no	1
+1 kimberly flew to timisoara and saw him
+2 kimberly didnt see him
+3 There is a contradiction here?	yes	1
+4 erika swam out toward the green boat and showed my new photos
+5 erika didnt swim out toward the green boat
+6 There is a contradiction here?	yes	1
+7 terry sold me a gray car and burned some calories
+8 terry didnt understand what jeanette comment about giurgiu
+9 There is a contradiction here?	no	1
+10 timothy chose to live in clujnapoca and dug a hole in the garden
+11 timothy didnt choose to live in clujnapoca
+12 There is a contradiction here?	yes	1
+13 jeffrey drank an orange juice and drove awayto the bus stop
+14 jeffrey didnt drink an orange juice
+15 There is a contradiction here?	yes	1
+1 erik paid her and put the phone down
+2 erik didnt pay her
+3 There is a contradiction here?	yes	1
+4 barry sang a nice song and dreamed of running in bucharest
+5 lindsey didnt sing a nice song
+6 There is a contradiction here?	no	1
+7 brandi blew me off and froze my account
+8 brandi didnt sit on the floor
+9 There is a contradiction here?	no	1
+10 tamara got the money and felt threatened
+11 tamara didnt break jamies heart
+12 There is a contradiction here?	no	1
+13 rafael made me change the way i wrote and drove the truck to moniques house
+14 rafael didnt drive the truck to moniques house
+15 There is a contradiction here?	yes	1
+1 sidney kept saying this was crazy and understood what billie comment about bucharest
+2 felicia didnt keep saying this was crazy
+3 There is a contradiction here?	no	1
+4 kent dreamed of the playing with shelly and bent the rules of the soccer game
+5 kent didnt bend the rules of the soccer game
+6 There is a contradiction here?	yes	1
+7 ella let use this pen and bent the rules of the card game
+8 ella didnt let use this pen
+9 There is a contradiction here?	yes	1
+10 ernest stood up to walter and kept saying this was crazy
+11 michelle didnt stand up to walter
+12 There is a contradiction here?	no	1
+13 hazel sent me a note and slept the night
+14 fannie didnt sleep the night
+15 There is a contradiction here?	no	1
+1 sandy hurt him and heard me
+2 sandy didnt hurt him
+3 There is a contradiction here?	yes	1
+4 harvey knew about us and made tea
+5 cheryl didnt know about us
+6 There is a contradiction here?	no	1
+7 clifton sat on the chair and slept the night
+8 clifton didnt hold her close
+9 There is a contradiction here?	no	1
+10 sally taught math and met danielle
+11 frederick didnt meet danielle
+12 There is a contradiction here?	no	1
+13 melanie wrote me a letter and rode the horse
+14 lena didnt write me a letter
+15 There is a contradiction here?	no	1
+1 faye held me back and brought me out of moniques house
+2 faye didnt bring me out of moniques house
+3 There is a contradiction here?	yes	1
+4 sheryl hurt me and dreamed of the playing with max
+5 sheryl didnt hurt me
+6 There is a contradiction here?	yes	1
+7 jennie let use this pen and hit him
+8 arlene didnt let use this pen
+9 There is a contradiction here?	no	1
+10 earl grew up in jail and sang a nice song
+11 alan didnt grow up in jail
+12 There is a contradiction here?	no	1
+13 kristi told me vernas secret and said nice things
+14 kristi didnt dream of running in reghin
+15 There is a contradiction here?	no	1
+1 ruth was a fan of dianas work and told me about the bars in lugoj
+2 ruth didnt tell me about the bars in lugoj
+3 There is a contradiction here?	yes	1
+4 anita paid him and wrote me a letter
+5 anita didnt write me a letter
+6 There is a contradiction here?	yes	1
+7 violet showed my new photos and kept the game alive
+8 violet didnt show my new photos
+9 There is a contradiction here?	yes	1
+10 marguerite wore a salmon hat and sat on the chair
+11 betty didnt sit on the chair
+12 There is a contradiction here?	no	1
+13 leo stood up to carrie and hit her
+14 leo didnt stand up to carrie
+15 There is a contradiction here?	yes	1
+1 chad forgave lloyd and bet on the game
+2 chad didnt leave barcelona for reghin
+3 There is a contradiction here?	no	1
+4 ray went to cathys house and swam out toward the black boat
+5 ray didnt meet him
+6 There is a contradiction here?	no	1
+7 johnnie met rhonda and stood in front of the crowd
+8 johnnie didnt meet rhonda
+9 There is a contradiction here?	yes	1
+10 julia thought i was living in dej and told me everything
+11 anita didnt think i was living in dej
+12 There is a contradiction here?	no	1
+13 patsy ate a steak and slept for eight hours
+14 patsy didnt eat a steak
+15 There is a contradiction here?	yes	1

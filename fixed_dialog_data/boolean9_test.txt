@@ -1,0 +1,3000 @@
+1 stephanie will get me lying or sleep for eight hours
+2 stephanie will neither dream of running in dej nor sleep for eight hours
+3 There is a contradiction here?	no	1
+4 alvin will bet on the game or choose this way of life
+5 alvin will not bet on the game
+6 There is a contradiction here?	no	1
+7 beatrice will make tea or forget about violas past
+8 beatrice will neither make tea nor forget about violas past
+9 There is a contradiction here?	yes	1
+10 frank will sleep for eight hours or send me a letter
+11 frank will not sleep for eight hours and frank wil not send me a letter
+12 There is a contradiction here?	yes	1
+13 deborah will shut the door down or wear a blue hat
+14 deborah will neither shut the door down nor wear a blue hat
+15 There is a contradiction here?	yes	1
+1 allison will freeze erikas bank account or hit him
+2 allison will not freeze erikas bank account and allison wil not hit him
+3 There is a contradiction here?	yes	1
+4 lindsey will see her or pay jack
+5 lindsey will neither see her nor pay jack
+6 There is a contradiction here?	yes	1
+7 marcia will fly to mangalia or write me about iris
+8 marcia will neither fly to mangalia nor write me about iris
+9 There is a contradiction here?	yes	1
+10 marjorie will tell me everything or give ethel a icy bicycle
+11 marjorie will not tell me everything
+12 There is a contradiction here?	no	1
+13 bonnie will lend me mamies orange bicycle or burn the flag
+14 bonnie will neither speak to me nor burn the flag
+15 There is a contradiction here?	no	1
+1 tiffany will understand what nancy comment about turda or lend me bernards mango bicycle
+2 rachel will neither understand what nancy comment about turda nor lend me bernards mango bicycle
+3 There is a contradiction here?	no	1
+4 russell will burn the flag or fall to the floor
+5 judith will neither burn the flag nor fall to the floor
+6 There is a contradiction here?	no	1
+7 michele will lose miriams red car or become very important to me
+8 michele will not become very important to me
+9 There is a contradiction here?	no	1
+10 marjorie will hang up on jo or lay his hands on her
+11 lula will neither hang up on jo nor lay his hands on her
+12 There is a contradiction here?	no	1
+13 kenneth will cut a tree or think i was living in lugoj
+14 kenneth will not think i was living in lugoj
+15 There is a contradiction here?	no	1
+1 isabel will begin crying or meet me
+2 isabel will not begin crying and isabel wil not meet me
+3 There is a contradiction here?	yes	1
+4 neil will meet alma or go away
+5 neil will neither make me change the way i wrote nor go away
+6 There is a contradiction here?	no	1
+7 roland will know nicholass secret or fight elaine
+8 roland will not know nicholass secret and roland wil not fight elaine
+9 There is a contradiction here?	yes	1
+10 ross will freeze my account or grow up
+11 ross will not freeze my account and ross wil not grow up
+12 There is a contradiction here?	yes	1
+13 donald will do it again or sleep for eight hours
+14 donald will not sleep for eight hours
+15 There is a contradiction here?	no	1
+1 brett will freeze my account or send me a letter
+2 brett will not send me a letter
+3 There is a contradiction here?	no	1
+4 gregory will grow up in jail or take a summer job
+5 gregory will neither grow up in jail nor take a summer job
+6 There is a contradiction here?	yes	1
+7 darrell will cut himself or make tea
+8 darrell will not cut himself
+9 There is a contradiction here?	no	1
+10 marvin will throw everything out the window or send me a letter
+11 marvin will not throw everything out the window and marvin wil not send me a letter
+12 There is a contradiction here?	yes	1
+13 marjorie will spend all my money or freeze my account
+14 marjorie will neither spend all my money nor dig a hole
+15 There is a contradiction here?	no	1
+1 robin will begin laughing or feel an outsider
+2 robin will neither begin laughing nor feel an outsider
+3 There is a contradiction here?	yes	1
+4 george will burn some calories or ring from me
+5 george will not burn some calories and george wil not ring from me
+6 There is a contradiction here?	yes	1
+7 melvin will meet edith or forgive adam
+8 melvin will neither meet edith nor forgive adam
+9 There is a contradiction here?	yes	1
+10 julie will swim out toward the ashy boat or lay down
+11 julie will neither swim out toward the ashy boat nor lay down
+12 There is a contradiction here?	yes	1
+13 penny will see her or think i was helping ann
+14 penny will neither see her nor think i was helping ann
+15 There is a contradiction here?	yes	1
+1 jamie will hide behind a bush or hear joy
+2 jamie will neither hide behind a bush nor hear joy
+3 There is a contradiction here?	yes	1
+4 lillie will read the book about spiders or break the record
+5 kristina will neither read the book about spiders nor break the record
+6 There is a contradiction here?	no	1
+7 eleanor will sing a pop song or teach math
+8 eleanor will not sing a pop song and eleanor wil not teach math
+9 There is a contradiction here?	yes	1
+10 todd will give leonard a green bicycle or wake up
+11 susan will neither give leonard a green bicycle nor wake up
+12 There is a contradiction here?	no	1
+13 emma will fly to timisoara or bend the rules of the card game
+14 emma will neither freeze jacobs bank account nor bend the rules of the card game
+15 There is a contradiction here?	no	1
+1 jeff will hit me or burn margarets house
+2 jeff will neither hit me nor meet me
+3 There is a contradiction here?	no	1
+4 candace will dream of the playing with beth or fight jessica
+5 gwendolyn will neither dream of the playing with beth nor fight jessica
+6 There is a contradiction here?	no	1
+7 everett will burn some calories or leave me waiting
+8 everett will not burn some calories and everett wil not leave me waiting
+9 There is a contradiction here?	yes	1
+10 heather will ring from me or sing a nice song
+11 heather will not ring from me
+12 There is a contradiction here?	no	1
+13 ana will write me about frances or catch a blue fish
+14 ana will neither write me about frances nor catch a blue fish
+15 There is a contradiction here?	yes	1
+1 lucy will wear a lemon hat or freeze jeremys bank account
+2 stacy will neither wear a lemon hat nor freeze jeremys bank account
+3 There is a contradiction here?	no	1
+4 ann will bring me out of mikes house or feel a strange
+5 ann will neither bring me out of mikes house nor think anne was going to die
+6 There is a contradiction here?	no	1
+7 nathan will fly to timisoara or make tea
+8 nathan will not fly to timisoara and nathan wil not make tea
+9 There is a contradiction here?	yes	1
+10 heather will make tea or fly to reghin
+11 greg will neither make tea nor fly to reghin
+12 There is a contradiction here?	no	1
+13 katherine will spend all my money or hit him
+14 katherine will not spend all my money and katherine wil not hit him
+15 There is a contradiction here?	yes	1
+1 adam will cut my hair or bend the rules of the soccer game
+2 adam will neither cut my hair nor bend the rules of the soccer game
+3 There is a contradiction here?	yes	1
+4 roger will forget about louises hobby or sell me a red car
+5 roger will neither forget about louises hobby nor sell me a red car
+6 There is a contradiction here?	yes	1
+7 mattie will come at night or make me change the way i wrote
+8 mattie will not come at night and mattie wil not make me change the way i wrote
+9 There is a contradiction here?	yes	1
+10 lori will keep saying this was crazy or build an airplane
+11 lori will neither keep saying this was crazy nor build an airplane
+12 There is a contradiction here?	yes	1
+13 harvey will feel threatened or draw ahead of the other runners
+14 harvey will neither understand what i said nor draw ahead of the other runners
+15 There is a contradiction here?	no	1
+1 penny will spend all my money or teach middle school science
+2 penny will not teach middle school science
+3 There is a contradiction here?	no	1
+4 jill will go to jeremys house or win the game
+5 jill will neither hang up on reginald nor win the game
+6 There is a contradiction here?	no	1
+7 douglas will get the money or show katherines old photos
+8 douglas will not get the money
+9 There is a contradiction here?	no	1
+10 denise will forgive me or break the rules
+11 clarence will neither forgive me nor break the rules
+12 There is a contradiction here?	no	1
+13 ana will win the game or spend all my money
+14 darryl will neither win the game nor spend all my money
+15 There is a contradiction here?	no	1
+1 byron will lose my computer or know about us
+2 byron will neither show tinas old photos nor know about us
+3 There is a contradiction here?	no	1
+4 keith will spend all my money or win the game
+5 keith will neither understand what opal comment about bucharest nor win the game
+6 There is a contradiction here?	no	1
+7 troy will break the rules or fight the law
+8 troy will not break the rules
+9 There is a contradiction here?	no	1
+10 wanda will dream of the playing with kent or drive awayto the bus stop
+11 wanda will not dream of the playing with kent and wanda wil not drive awayto the bus stop
+12 There is a contradiction here?	yes	1
+13 don will find jesus or write a song about the sky
+14 don will not find jesus and don wil not write a song about the sky
+15 There is a contradiction here?	yes	1
+1 diana will lend me some money a month before or have everything
+2 diana will not have everything
+3 There is a contradiction here?	no	1
+4 rose will do everything or become jessie best friend
+5 rose will not do everything and rose wil not become jessie best friend
+6 There is a contradiction here?	yes	1
+7 alicia will leave me waiting or fly to arad
+8 alicia will neither leave me waiting nor fly to arad
+9 There is a contradiction here?	yes	1
+10 lloyd will know kirks secret or dig a hole in howards backyard
+11 lloyd will neither break the record nor dig a hole in howards backyard
+12 There is a contradiction here?	no	1
+13 jeanne will keep the game alive or dig a hole
+14 jeanne will not keep the game alive and jeanne wil not dig a hole
+15 There is a contradiction here?	yes	1
+1 louis will send me a note or teach math
+2 louis will neither send me a note nor teach math
+3 There is a contradiction here?	yes	1
+4 albert will draw ahead of the other runners or tell me about the bars in hunedoara
+5 albert will not tell me about the bars in hunedoara
+6 There is a contradiction here?	no	1
+7 joann will give rose a yellow shirt or hit him
+8 joann will not give rose a yellow shirt and joann wil not hit him
+9 There is a contradiction here?	yes	1
+10 frances will bend the yellow rod or blow me off
+11 frances will neither bend the yellow rod nor blow me off
+12 There is a contradiction here?	yes	1
+13 karl will win the game or know brandons secret
+14 karl will neither win the game nor know brandons secret
+15 There is a contradiction here?	yes	1
+1 viola will drink a bottle of wine or keep saying this was crazy
+2 viola will neither drink a bottle of wine nor eat a pizza
+3 There is a contradiction here?	no	1
+4 samuel will leave barcelona for vaslui or send me a note
+5 samuel will not leave barcelona for vaslui and samuel wil not send me a note
+6 There is a contradiction here?	yes	1
+7 andrea will grow up in jail or dig a hole in the garden
+8 andrea will not grow up in jail
+9 There is a contradiction here?	no	1
+10 darren will dig a hole or break the rules
+11 darren will neither dig a hole nor eat an apple
+12 There is a contradiction here?	no	1
+13 vickie will forget about christians hobby or see me
+14 vickie will not forget about christians hobby
+15 There is a contradiction here?	no	1
+1 erin will forgive me or speak to him about slobozia
+2 erin will not forgive me and erin wil not speak to him about slobozia
+3 There is a contradiction here?	yes	1
+4 peggy will find him or have it all
+5 peggy will not find him
+6 There is a contradiction here?	no	1
+7 jenny will lend me clydes yellow bicycle or hold him close
+8 jenny will not lend me clydes yellow bicycle and jenny wil not hold him close
+9 There is a contradiction here?	yes	1
+10 bruce will wear a green hat or hit a tree
+11 bruce will neither wear a green hat nor hit a tree
+12 There is a contradiction here?	yes	1
+13 wallace will freeze tinas bank account or drink an orange juice
+14 wallace will neither freeze tinas bank account nor drink an orange juice
+15 There is a contradiction here?	yes	1
+1 victor will know joys secret or teach elaine about songwriting
+2 victor will neither know joys secret nor teach elaine about songwriting
+3 There is a contradiction here?	yes	1
+4 marvin will win the soccer match or give margarita a icy bicycle
+5 marvin will neither say funny things nor give margarita a icy bicycle
+6 There is a contradiction here?	no	1
+7 daniel will bring me out of jamess house or eat it all
+8 daniel will not bring me out of jamess house and daniel wil not eat it all
+9 There is a contradiction here?	yes	1
+10 jessie will hear me or go to dales house
+11 gabriel will neither hear me nor go to dales house
+12 There is a contradiction here?	no	1
+13 reginald will show my new photos or lose my computer
+14 reginald will neither wear a gray jacket nor lose my computer
+15 There is a contradiction here?	no	1
+1 patricia will dig a hole in cecilias backyard or take the red shirt out of the washer
+2 patricia will neither say nice things nor take the red shirt out of the washer
+3 There is a contradiction here?	no	1
+4 doris will wake up or let me drive luiss gray car
+5 doris will not wake up
+6 There is a contradiction here?	no	1
+7 joshua will drive awayto the bus stop or burn the flag
+8 joshua will not drive awayto the bus stop and joshua wil not burn the flag
+9 There is a contradiction here?	yes	1
+10 jennifer will sing a nice song or wear a purple jacket
+11 jennifer will neither sing a nice song nor wear a purple jacket
+12 There is a contradiction here?	yes	1
+13 ralph will lose jennies yellow car or say nice things
+14 ralph will not lose jennies yellow car
+15 There is a contradiction here?	no	1
+1 erin will make tea or lead me to kathleens house
+2 erin will not make tea and erin wil not lead me to kathleens house
+3 There is a contradiction here?	yes	1
+4 sonya will come at midnight or begin crying
+5 anna will neither come at midnight nor begin crying
+6 There is a contradiction here?	no	1
+7 sue will read the book about spiders or throw everything out the window
+8 sue will not read the book about spiders
+9 There is a contradiction here?	no	1
+10 corey will become the most important nurse in this town or build an altar for alfred
+11 dwight will neither become the most important nurse in this town nor build an altar for alfred
+12 There is a contradiction here?	no	1
+13 jeanne will have a good daya good conversation with kelly or hang up on francisco
+14 jeanne will not hang up on francisco
+15 There is a contradiction here?	no	1
+1 claudia will lose my computer or bet on the game
+2 claudia will not lose my computer
+3 There is a contradiction here?	no	1
+4 stanley will teach marilyn about songwriting or catch a orange fish
+5 stanley will not teach marilyn about songwriting
+6 There is a contradiction here?	no	1
+7 carolyn will do it again or think i was living in arad
+8 carolyn will not think i was living in arad
+9 There is a contradiction here?	no	1
+10 natalie will ride the buffalo or hurt me
+11 natalie will not ride the buffalo
+12 There is a contradiction here?	no	1
+13 lawrence will ring from me or catch a yellow fish
+14 lawrence will not ring from me and lawrence wil not catch a yellow fish
+15 There is a contradiction here?	yes	1
+1 veronica will dig a hole in the garden or break mamies heart
+2 veronica will not break mamies heart
+3 There is a contradiction here?	no	1
+4 michelle will buy a black car or swim out toward the orange boat
+5 michelle will not buy a black car and michelle wil not swim out toward the orange boat
+6 There is a contradiction here?	yes	1
+7 donna will put the phone down or choose to live in timisoara
+8 donna will not choose to live in timisoara
+9 There is a contradiction here?	no	1
+10 erik will keep daves secret from me or feel an outsider
+11 erik will neither keep daves secret from me nor feel an outsider
+12 There is a contradiction here?	yes	1
+13 nathan will beat us a lot or take a summer job
+14 nathan will neither beat us a lot nor take a summer job
+15 There is a contradiction here?	yes	1
+1 leonard will take a summer job or write me a letter
+2 leonard will not take a summer job
+3 There is a contradiction here?	no	1
+4 constance will do some good work or blow me off
+5 constance will not do some good work and constance wil not blow me off
+6 There is a contradiction here?	yes	1
+7 sarah will drink a bottle of wine or lend me some money
+8 sarah will not drink a bottle of wine and sarah wil not lend me some money
+9 There is a contradiction here?	yes	1
+10 peter will bring me out of kents house or lay his hands on him
+11 peter will neither bring me out of kents house nor lay his hands on him
+12 There is a contradiction here?	yes	1
+13 kyle will build a computer or sell me a black car
+14 kyle will neither build a computer nor sell me a black car
+15 There is a contradiction here?	yes	1
+1 joann will come at noon or dig a hole in herberts backyard
+2 joann will not come at noon
+3 There is a contradiction here?	no	1
+4 natasha will lead me to erics house or show rebeccas old photos
+5 natasha will not lead me to erics house and natasha wil not show rebeccas old photos
+6 There is a contradiction here?	yes	1
+7 maureen will send me a note or hear my voice
+8 maureen will not send me a note and maureen wil not hear my voice
+9 There is a contradiction here?	yes	1
+10 katherine will blow it or forget about roberts past
+11 katherine will not blow it
+12 There is a contradiction here?	no	1
+13 rosemary will pay rhonda or show sonyas old photos
+14 rosemary will neither pay rhonda nor show sonyas old photos
+15 There is a contradiction here?	yes	1
+1 hugh will hide behind a bush or ring into geneva
+2 bradley will neither hide behind a bush nor ring into geneva
+3 There is a contradiction here?	no	1
+4 jeanne will pay her or hit him
+5 jeanne will not pay her and jeanne wil not hit him
+6 There is a contradiction here?	yes	1
+7 beatrice will do it again or let use this pen
+8 beatrice will not do it again
+9 There is a contradiction here?	no	1
+10 bradley will hear me or fight me
+11 bradley will neither hear me nor fight me
+12 There is a contradiction here?	yes	1
+13 steve will blow it or cut my hair
+14 steve will neither blow it nor cut my hair
+15 There is a contradiction here?	yes	1
+1 judy will leave me or hang up on me
+2 judy will neither leave me nor hang up on me
+3 There is a contradiction here?	yes	1
+4 glenn will go away or eat a steak
+5 glenn will neither go away nor eat a steak
+6 There is a contradiction here?	yes	1
+7 geraldine will do it again or fall in love with jo
+8 geraldine will not do it again and geraldine wil not fall in love with jo
+9 There is a contradiction here?	yes	1
+10 floyd will ring from me or have it all
+11 tom will neither ring from me nor have it all
+12 There is a contradiction here?	no	1
+13 adrian will draw ahead of the other runners or drive awayto the bus stop
+14 adrian will not drive awayto the bus stop
+15 There is a contradiction here?	no	1
+1 kurt will say nice things or hit her
+2 kurt will not say nice things and kurt wil not hit her
+3 There is a contradiction here?	yes	1
+4 anthony will come at noon or begin laughing
+5 leona will neither come at noon nor begin laughing
+6 There is a contradiction here?	no	1
+7 gary will sell me a salmon car or lay his hands on him
+8 gary will neither ride the horse nor lay his hands on him
+9 There is a contradiction here?	no	1
+10 ramon will lose my computer or read the news
+11 ramon will neither lose my computer nor read the news
+12 There is a contradiction here?	yes	1
+13 norman will write me about neil or take a summer job
+14 norman will not write me about neil and norman wil not take a summer job
+15 There is a contradiction here?	yes	1
+1 raul will dream of the playing with terry or meet him
+2 raul will neither dream of the playing with terry nor understand what nina comment about slobozia
+3 There is a contradiction here?	no	1
+4 mabel will find this mango car or hit me
+5 mabel will not hit me
+6 There is a contradiction here?	no	1
+7 rosa will stand up to sherry or find what i was looking for
+8 rosa will not stand up to sherry and rosa wil not find what i was looking for
+9 There is a contradiction here?	yes	1
+10 andy will fight daisy or burn some calories
+11 andy will not burn some calories
+12 There is a contradiction here?	no	1
+13 genevieve will lay his hands on him or forgive craig
+14 genevieve will not lay his hands on him and genevieve wil not forgive craig
+15 There is a contradiction here?	yes	1
+1 kristin will hurt her or dig a hole in lindas backyard
+2 kristin will not hurt her
+3 There is a contradiction here?	no	1
+4 tyler will become the most important nurse in this town or speak to her about brian
+5 tyler will not speak to her about brian
+6 There is a contradiction here?	no	1
+7 leroy will fall in love with alfred or sell me a white car
+8 misty will neither fall in love with alfred nor sell me a white car
+9 There is a contradiction here?	no	1
+10 ryan will stand up to theodore or feel an outsider
+11 ryan will neither stand up to theodore nor feel an outsider
+12 There is a contradiction here?	yes	1
+13 laura will teach math or understand what i said
+14 laura will neither teach math nor understand what i said
+15 There is a contradiction here?	yes	1
+1 rose will say funny things or draw ahead of the other runners
+2 rose will not say funny things and rose wil not draw ahead of the other runners
+3 There is a contradiction here?	yes	1
+4 geraldine will bring me out of leahs house or become clayton best friend
+5 geraldine will neither bring me out of leahs house nor become clayton best friend
+6 There is a contradiction here?	yes	1
+7 melody will hang up on me or lend me some money
+8 curtis will neither hang up on me nor lend me some money
+9 There is a contradiction here?	no	1
+10 vanessa will give crystal a blue bicycle or hold me back
+11 vanessa will not give crystal a blue bicycle and vanessa wil not hold me back
+12 There is a contradiction here?	yes	1
+13 beverly will wear a icy hat or shut the door down
+14 beverly will not wear a icy hat and beverly wil not shut the door down
+15 There is a contradiction here?	yes	1
+1 joe will shut the door down or grow up in jail
+2 joe will not grow up in jail
+3 There is a contradiction here?	no	1
+4 jackie will grow up or think i was helping margarita
+5 jackie will not grow up and jackie wil not think i was helping margarita
+6 There is a contradiction here?	yes	1
+7 pauline will make tea or become brandon best friend
+8 pauline will not make tea
+9 There is a contradiction here?	no	1
+10 elizabeth will send me a letter or do it again
+11 elizabeth will neither send me a letter nor do it again
+12 There is a contradiction here?	yes	1
+13 diane will win the game or eat an apple
+14 diane will not win the game and diane wil not eat an apple
+15 There is a contradiction here?	yes	1
+1 velma will forgive debra or ring from barcelona to dej
+2 velma will neither forgive debra nor ring from barcelona to dej
+3 There is a contradiction here?	yes	1
+4 jennie will hit me or take the footage
+5 kathy will neither hit me nor take the footage
+6 There is a contradiction here?	no	1
+7 beverly will fight sonya or sit on the chair
+8 beverly will not fight sonya and beverly wil not sit on the chair
+9 There is a contradiction here?	yes	1
+10 darren will read the book about spiders or shut the door down
+11 darren will neither read the book about spiders nor shut the door down
+12 There is a contradiction here?	yes	1
+13 jane will stand in front of the crowd or fall in love with candace
+14 jane will neither stand in front of the crowd nor fall in love with candace
+15 There is a contradiction here?	yes	1
+1 raul will wear a black jacket or see the best plumber from hunedoara
+2 raul will neither eat an apple nor see the best plumber from hunedoara
+3 There is a contradiction here?	no	1
+4 alicia will hang up on elizabeth or drink an orange juice
+5 suzanne will neither hang up on elizabeth nor drink an orange juice
+6 There is a contradiction here?	no	1
+7 julian will beat her or buy a lemon bicycle
+8 julian will not beat her and julian wil not buy a lemon bicycle
+9 There is a contradiction here?	yes	1
+10 roland will blow it or speak to her about jodi
+11 roland will neither blow it nor speak to her about jodi
+12 There is a contradiction here?	yes	1
+13 billie will ride the buffalo or cut a tree
+14 billie will neither ride the buffalo nor cut a tree
+15 There is a contradiction here?	yes	1
+1 viola will drink a beer or ring from me
+2 viola will not drink a beer and viola wil not ring from me
+3 There is a contradiction here?	yes	1
+4 amanda will choose to live in vaslui or find what i was looking for
+5 amanda will not choose to live in vaslui
+6 There is a contradiction here?	no	1
+7 troy will give mabel a blue car or show genes old photos
+8 troy will neither drink a bottle of water nor show genes old photos
+9 There is a contradiction here?	no	1
+10 stella will feel an outsider or send me a note
+11 stella will not feel an outsider and stella wil not send me a note
+12 There is a contradiction here?	yes	1
+13 anna will meet angie or bring me out of lindsays house
+14 anna will neither meet angie nor bring me out of lindsays house
+15 There is a contradiction here?	yes	1
+1 kenneth will send me a letter or leave me waiting
+2 kenneth will not send me a letter and kenneth wil not leave me waiting
+3 There is a contradiction here?	yes	1
+4 fernando will forget about kristys hobby or fall off
+5 fernando will neither forget about kristys hobby nor fall off
+6 There is a contradiction here?	yes	1
+7 jeff will fall to the floor or sleep the night
+8 mike will neither fall to the floor nor sleep the night
+9 There is a contradiction here?	no	1
+10 suzanne will lead me to ians house or let use this pen
+11 suzanne will not lead me to ians house and suzanne wil not let use this pen
+12 There is a contradiction here?	yes	1
+13 mark will send me a note or hear jose
+14 mark will neither send me a note nor hear jose
+15 There is a contradiction here?	yes	1
+1 charlotte will shut the door down or get me lying
+2 charlotte will neither shut the door down nor get me lying
+3 There is a contradiction here?	yes	1
+4 bobby will tell me about the bars in turda or bet on the wining horse
+5 felicia will neither tell me about the bars in turda nor bet on the wining horse
+6 There is a contradiction here?	no	1
+7 alma will dream of the playing with diane or eat it all
+8 alma will not dream of the playing with diane
+9 There is a contradiction here?	no	1
+10 betty will swim out toward the black boat or bet on the purple car
+11 betty will not swim out toward the black boat and betty wil not bet on the purple car
+12 There is a contradiction here?	yes	1
+13 ivan will hurt him or swim out toward the black boat
+14 tracy will neither hurt him nor swim out toward the black boat
+15 There is a contradiction here?	no	1
+1 candice will spend all my money or meet him
+2 candice will neither spend all my money nor meet him
+3 There is a contradiction here?	yes	1
+4 sandra will hurt him or ride the buffalo
+5 sandra will not hurt him and sandra wil not ride the buffalo
+6 There is a contradiction here?	yes	1
+7 herman will let this happen or burn some calories
+8 herman will not let this happen and herman wil not burn some calories
+9 There is a contradiction here?	yes	1
+10 georgia will throw everything out the window or lay his hands on her
+11 georgia will neither throw everything out the window nor burn the flag
+12 There is a contradiction here?	no	1
+13 cody will do everything or sit on the mat
+14 cody will not sit on the mat
+15 There is a contradiction here?	no	1
+1 sue will wake up or dream of running in bucharest
+2 martin will neither wake up nor dream of running in bucharest
+3 There is a contradiction here?	no	1
+4 rosa will hear beatrice or bend the orange rod
+5 rosa will neither take the yellow shirt out of the washer nor bend the orange rod
+6 There is a contradiction here?	no	1
+7 angie will beat us a lot or hide a smile
+8 scott will neither beat us a lot nor hide a smile
+9 There is a contradiction here?	no	1
+10 jeffery will forget about connies hobby or see him
+11 jeffery will neither forget about connies hobby nor see him
+12 There is a contradiction here?	yes	1
+13 michelle will give barry a purple car or pay him
+14 michelle will neither give barry a purple car nor pay him
+15 There is a contradiction here?	yes	1
+1 rhonda will burn charlottes house or see colleen
+2 jo will neither burn charlottes house nor see colleen
+3 There is a contradiction here?	no	1
+4 dean will read the book about spiders or speak to him about giurgiu
+5 dean will not read the book about spiders and dean wil not speak to him about giurgiu
+6 There is a contradiction here?	yes	1
+7 clyde will let use this pen or hurt me
+8 clyde will not hurt me
+9 There is a contradiction here?	no	1
+10 billie will spend all my money or think i was helping stacy
+11 billie will neither spend all my money nor think i was helping stacy
+12 There is a contradiction here?	yes	1
+13 mitchell will keep eriks secret from me or let use this pen
+14 mitchell will not let use this pen
+15 There is a contradiction here?	no	1
+1 willard will do it again or write me a letter
+2 willard will neither do it again nor write me a letter
+3 There is a contradiction here?	yes	1
+4 jerome will become very important to me or sing a pop song
+5 jerome will neither forget about kristines past nor sing a pop song
+6 There is a contradiction here?	no	1
+7 carole will think i was living in dej or forgive me
+8 carole will not think i was living in dej
+9 There is a contradiction here?	no	1
+10 frederick will hide behind a bush or wear a mango hat
+11 frederick will neither hide behind a bush nor wear a mango hat
+12 There is a contradiction here?	yes	1
+13 jeanette will lend me fannies gray bicycle or win the soccer match
+14 jeanette will neither show tiffanys old photos nor win the soccer match
+15 There is a contradiction here?	no	1
+1 melinda will dream of the playing with wesley or ride the buffalo
+2 melinda will not dream of the playing with wesley and melinda wil not ride the buffalo
+3 There is a contradiction here?	yes	1
+4 kay will build a computer or send me a note
+5 kay will neither build a computer nor send me a note
+6 There is a contradiction here?	yes	1
+7 stephanie will hear my voice or teach math
+8 stephanie will not hear my voice
+9 There is a contradiction here?	no	1
+10 gilbert will cut a tree or hear me
+11 gilbert will not cut a tree
+12 There is a contradiction here?	no	1
+13 leo will buy a watch or teach middle school science
+14 leo will neither buy a watch nor sell me a green car
+15 There is a contradiction here?	no	1
+1 ernest will hide behind a bush or blow me off
+2 ernest will not hide behind a bush and ernest wil not blow me off
+3 There is a contradiction here?	yes	1
+4 nathaniel will fight the law or take office
+5 nathaniel will not take office
+6 There is a contradiction here?	no	1
+7 regina will stand in front of the crowd or bend the rules of the soccer game
+8 regina will not stand in front of the crowd
+9 There is a contradiction here?	no	1
+10 pauline will sell me a black car or become ralph best friend
+11 pauline will not sell me a black car and pauline wil not become ralph best friend
+12 There is a contradiction here?	yes	1
+13 cassandra will hurt him or eat a pizza
+14 cassandra will not hurt him
+15 There is a contradiction here?	no	1
+1 ernest will hide a smile or sleep for one day
+2 ernest will not sleep for one day
+3 There is a contradiction here?	no	1
+4 franklin will hold me back or build an airplane
+5 franklin will neither hold me back nor fight mamie
+6 There is a contradiction here?	no	1
+7 courtney will blow it or have everything
+8 courtney will not have everything
+9 There is a contradiction here?	no	1
+10 maurice will hurt me or break jordans heart
+11 maurice will not hurt me and maurice wil not break jordans heart
+12 There is a contradiction here?	yes	1
+13 emily will choose to live in dej or cut a tree
+14 emily will neither show my new photos nor cut a tree
+15 There is a contradiction here?	no	1
+1 rosa will hear jaime or speak to me
+2 rosa will neither hear jaime nor speak to me
+3 There is a contradiction here?	yes	1
+4 vincent will lay his hands on him or cut a tree
+5 vincent will not lay his hands on him and vincent wil not cut a tree
+6 There is a contradiction here?	yes	1
+7 florence will show my new photos or draw ahead of the other runners
+8 florence will not show my new photos
+9 There is a contradiction here?	no	1
+10 victoria will hear me or leave barcelona for baia mare
+11 victoria will not leave barcelona for baia mare
+12 There is a contradiction here?	no	1
+13 joy will ring from me or sell katies bicycle
+14 joy will not ring from me and joy wil not sell katies bicycle
+15 There is a contradiction here?	yes	1
+1 clyde will sit on the chair or swim out toward the red boat
+2 clyde will not sit on the chair and clyde wil not swim out toward the red boat
+3 There is a contradiction here?	yes	1
+4 alberta will pay me or forget about genes hobby
+5 alberta will neither pay me nor forget about genes hobby
+6 There is a contradiction here?	yes	1
+7 valerie will win the game or beat her
+8 valerie will not beat her
+9 There is a contradiction here?	no	1
+10 george will hurt her or beat him
+11 george will neither hurt her nor beat him
+12 There is a contradiction here?	yes	1
+13 pamela will hold me back or bring me out of brads house
+14 pamela will neither hold me back nor bring me out of brads house
+15 There is a contradiction here?	yes	1
+1 eric will wear a white hat or ride the buffalo
+2 eric will not wear a white hat
+3 There is a contradiction here?	no	1
+4 gloria will choose to live in deva or drink a beer
+5 gloria will neither choose to live in deva nor hide a smile
+6 There is a contradiction here?	no	1
+7 sheryl will teach middle school science or send me a letter
+8 sheryl will not teach middle school science and sheryl wil not send me a letter
+9 There is a contradiction here?	yes	1
+10 arthur will read the book about spiders or bring me out of ambers house
+11 arthur will not read the book about spiders
+12 There is a contradiction here?	no	1
+13 barry will say nice things or send me a note
+14 barry will not say nice things and barry wil not send me a note
+15 There is a contradiction here?	yes	1
+1 fannie will freeze my account or bend the rules of the card game
+2 fannie will neither freeze my account nor bend the rules of the card game
+3 There is a contradiction here?	yes	1
+4 alex will hang up on me or show donnas old photos
+5 alex will not hang up on me and alex wil not show donnas old photos
+6 There is a contradiction here?	yes	1
+7 eleanor will ride the horse or drive the truck to eugenes house
+8 eleanor will not ride the horse
+9 There is a contradiction here?	no	1
+10 wanda will understand what marlene comment about oradea or cut a tree
+11 wanda will not understand what marlene comment about oradea and wanda wil not cut a tree
+12 There is a contradiction here?	yes	1
+13 robin will get the money or forget about sams past
+14 dean will neither get the money nor forget about sams past
+15 There is a contradiction here?	no	1
+1 marvin will wear a lemon hat or make tea
+2 marvin will neither wear a lemon hat nor make tea
+3 There is a contradiction here?	yes	1
+4 maryann will draw ahead of the other runners or sing a nice song
+5 roland will neither draw ahead of the other runners nor sing a nice song
+6 There is a contradiction here?	no	1
+7 robert will stand up to candace or hear misty
+8 robert will neither stand up to candace nor hear misty
+9 There is a contradiction here?	yes	1
+10 gwendolyn will hold me back or find thisme
+11 milton will neither hold me back nor find thisme
+12 There is a contradiction here?	no	1
+13 clifford will bring me out of carlas house or ride the horse
+14 clifford will not bring me out of carlas house and clifford wil not ride the horse
+15 There is a contradiction here?	yes	1
+1 ruby will go to arad or grow up in jail
+2 ruby will not go to arad
+3 There is a contradiction here?	no	1
+4 jessie will tell me about the bars in hunedoara or teach middle school science
+5 jessie will neither wake up nor teach middle school science
+6 There is a contradiction here?	no	1
+7 maryann will feel a strange or take the footage
+8 maryann will neither feel a strange nor take the footage
+9 There is a contradiction here?	yes	1
+10 christina will have a good daya good conversation with gwendolyn or fight me
+11 christina will neither have a good daya good conversation with gwendolyn nor fight me
+12 There is a contradiction here?	yes	1
+13 agnes will become very important to me or dream of the playing with theodore
+14 teresa will neither become very important to me nor dream of the playing with theodore
+15 There is a contradiction here?	no	1
+1 frank will win the soccer match or get the money
+2 frank will not win the soccer match
+3 There is a contradiction here?	no	1
+4 sidney will win the soccer match or drive awayto the bus stop
+5 sidney will neither sit on the chair nor drive awayto the bus stop
+6 There is a contradiction here?	no	1
+7 natalie will draw ahead of the other runners or fall to the floor
+8 natalie will not draw ahead of the other runners and natalie wil not fall to the floor
+9 There is a contradiction here?	yes	1
+10 vickie will catch a orange fish or wear a green jacket
+11 vickie will not catch a orange fish and vickie wil not wear a green jacket
+12 There is a contradiction here?	yes	1
+13 debra will grow up or buy a salmon bicycle
+14 debra will not grow up
+15 There is a contradiction here?	no	1
+1 byron will think brenda was going to die or swim out toward the red boat
+2 byron will not think brenda was going to die and byron wil not swim out toward the red boat
+3 There is a contradiction here?	yes	1
+4 connie will leave barcelona for lugoj or lend me some money
+5 connie will not leave barcelona for lugoj
+6 There is a contradiction here?	no	1
+7 gene will read the book about spiders or make me change the way i wrote
+8 gene will neither lead me to glorias house nor make me change the way i wrote
+9 There is a contradiction here?	no	1
+10 yvette will leave barcelona for deva or bend the yellow rod
+11 yvette will not leave barcelona for deva
+12 There is a contradiction here?	no	1
+13 jenny will come at midnight or show janes old photos
+14 jenny will not come at midnight and jenny wil not show janes old photos
+15 There is a contradiction here?	yes	1
+1 sean will know about us or lay down
+2 sean will not know about us and sean wil not lay down
+3 There is a contradiction here?	yes	1
+4 sharon will sell melvins house or tell me everything
+5 sharon will neither sell melvins house nor tell me everything
+6 There is a contradiction here?	yes	1
+7 naomi will go to audreys house or win the soccer match
+8 naomi will neither go to audreys house nor win the soccer match
+9 There is a contradiction here?	yes	1
+10 willie will break the record or say nice things
+11 willie will neither break the record nor say nice things
+12 There is a contradiction here?	yes	1
+13 anita will hang up on me or ride the buffalo
+14 anita will not hang up on me and anita wil not ride the buffalo
+15 There is a contradiction here?	yes	1
+1 eric will sell me a gray car or fly to bucharest
+2 eric will not fly to bucharest
+3 There is a contradiction here?	no	1
+4 sally will speak to her about emma or fight me
+5 sally will not speak to her about emma
+6 There is a contradiction here?	no	1
+7 jackie will fight jonathan or build an airplane
+8 jackie will neither fight jonathan nor build an airplane
+9 There is a contradiction here?	yes	1
+10 brian will bend the rules of the soccer game or go to bucharest
+11 brian will not bend the rules of the soccer game and brian wil not go to bucharest
+12 There is a contradiction here?	yes	1
+13 mabel will make coffee or sit on the floor
+14 mabel will neither make coffee nor win the soccer match
+15 There is a contradiction here?	no	1
+1 harriet will sing a nice song or drive the truck to miriams house
+2 harriet will neither sing a nice song nor drive the truck to miriams house
+3 There is a contradiction here?	yes	1
+4 debra will take a summer job or bet on the mango car
+5 debra will not take a summer job
+6 There is a contradiction here?	no	1
+7 juana will wear a lemon hat or keep justins secret from me
+8 juana will neither sell bernices bicycle nor keep justins secret from me
+9 There is a contradiction here?	no	1
+10 cheryl will dream of running in mangalia or forgive me
+11 cheryl will not forgive me
+12 There is a contradiction here?	no	1
+13 geneva will meet him or forgive me
+14 geneva will neither meet him nor swim out toward the ashy boat
+15 There is a contradiction here?	no	1
+1 madeline will bet on the wining horse or understand what i said
+2 madeline will not bet on the wining horse and madeline wil not understand what i said
+3 There is a contradiction here?	yes	1
+4 cheryl will have everything or fight heidi
+5 cheryl will neither come at noon nor fight heidi
+6 There is a contradiction here?	no	1
+7 roger will read a paper or bring me out of terrys house
+8 roger will not read a paper
+9 There is a contradiction here?	no	1
+10 lula will ride the buffalo or drive awayto the bus stop
+11 lula will not drive awayto the bus stop
+12 There is a contradiction here?	no	1
+13 walter will swim out toward the salmon boat or let this happen
+14 walter will not swim out toward the salmon boat and walter wil not let this happen
+15 There is a contradiction here?	yes	1
+1 beverly will wear a salmon hat or feel threatened
+2 beverly will neither wear a salmon hat nor feel threatened
+3 There is a contradiction here?	yes	1
+4 gene will lose my computer or fly to tulcea
+5 gene will not fly to tulcea
+6 There is a contradiction here?	no	1
+7 blanche will feel an outsider or lay his hands on him
+8 blanche will neither feel an outsider nor lay his hands on him
+9 There is a contradiction here?	yes	1
+10 glenn will wear a mango hat or break the record
+11 glenn will neither wear a mango hat nor break the record
+12 There is a contradiction here?	yes	1
+13 kim will blow me off or catch a ashy fish
+14 kim will neither blow me off nor catch a ashy fish
+15 There is a contradiction here?	yes	1
+1 benjamin will begin screaming or sell franciscos bicycle
+2 benjamin will not begin screaming
+3 There is a contradiction here?	no	1
+4 terry will dig a hole or put ethel in charge
+5 terry will neither dig a hole nor put ethel in charge
+6 There is a contradiction here?	yes	1
+7 kristina will beat her or wake up
+8 kristina will not beat her and kristina wil not wake up
+9 There is a contradiction here?	yes	1
+10 sheryl will burn kenneths house or shut the door down
+11 sheryl will neither burn kenneths house nor shut the door down
+12 There is a contradiction here?	yes	1
+13 wallace will feel threatened or build an altar for janice
+14 virgil will neither feel threatened nor build an altar for janice
+15 There is a contradiction here?	no	1
+1 stacey will leave me waiting or read the book about spiders
+2 stacey will not read the book about spiders
+3 There is a contradiction here?	no	1
+4 megan will lead me to edwins house or take office
+5 megan will neither catch a lemon fish nor take office
+6 There is a contradiction here?	no	1
+7 lula will fly to turda or teach middle school science
+8 william will neither fly to turda nor teach middle school science
+9 There is a contradiction here?	no	1
+10 timothy will find her or meet me
+11 timothy will neither find her nor meet me
+12 There is a contradiction here?	yes	1
+13 cassandra will grow up in jail or break the rules
+14 cassandra will neither grow up in jail nor break the rules
+15 There is a contradiction here?	yes	1
+1 ashley will shut the door down or hold him close
+2 claire will neither shut the door down nor hold him close
+3 There is a contradiction here?	no	1
+4 jennifer will fly to clujnapoca or drink a bottle of wine
+5 jennifer will not drink a bottle of wine
+6 There is a contradiction here?	no	1
+7 irma will ring into eddie or bet on the game
+8 irma will not ring into eddie
+9 There is a contradiction here?	no	1
+10 mark will write me an email or make coffee
+11 mark will not write me an email
+12 There is a contradiction here?	no	1
+13 lynda will ring into sharon or bet on the game
+14 lynda will neither ring into sharon nor bet on the game
+15 There is a contradiction here?	yes	1
+1 janice will dig a hole in the garden or catch a icy fish
+2 janice will neither dig a hole in the garden nor catch a icy fish
+3 There is a contradiction here?	yes	1
+4 sherry will show gregorys old photos or see her
+5 julian will neither show gregorys old photos nor see her
+6 There is a contradiction here?	no	1
+7 kimberly will begin screaming or let this happen
+8 kimberly will neither begin screaming nor let this happen
+9 There is a contradiction here?	yes	1
+10 tammy will buy a white bicycle or feel a strange
+11 tammy will neither buy a white bicycle nor feel a strange
+12 There is a contradiction here?	yes	1
+13 maxine will buy a watch or send me a letter
+14 maxine will neither buy a watch nor lend me gladyss ashy bicycle
+15 There is a contradiction here?	no	1
+1 lindsey will bend the white rod or find jesus
+2 lindsey will not bend the white rod and lindsey wil not find jesus
+3 There is a contradiction here?	yes	1
+4 laurie will put lois in charge or fly to slobozia
+5 laurie will not put lois in charge and laurie wil not fly to slobozia
+6 There is a contradiction here?	yes	1
+7 marilyn will freeze my account or have it all
+8 marilyn will not freeze my account and marilyn wil not have it all
+9 There is a contradiction here?	yes	1
+10 carol will speak to me or throw everything out the window
+11 carol will neither speak to me nor throw everything out the window
+12 There is a contradiction here?	yes	1
+13 vera will buy a mango car or cut a tree
+14 byron will neither buy a mango car nor cut a tree
+15 There is a contradiction here?	no	1
+1 allison will eat it all or dig a hole in the garden
+2 allison will not eat it all
+3 There is a contradiction here?	no	1
+4 elsie will choose to live in tulcea or meet me
+5 elsie will neither choose to live in tulcea nor meet me
+6 There is a contradiction here?	yes	1
+7 amanda will bend the rules of the card game or sit on the floor
+8 amanda will neither bend the rules of the card game nor sit on the floor
+9 There is a contradiction here?	yes	1
+10 sarah will begin screaming or forgive hector
+11 sarah will neither begin screaming nor forgive hector
+12 There is a contradiction here?	yes	1
+13 anita will know about us or feel threatened
+14 anita will neither know about us nor feel threatened
+15 There is a contradiction here?	yes	1
+1 carrie will hear my voice or win the soccer match
+2 carrie will not win the soccer match
+3 There is a contradiction here?	no	1
+4 francisco will tell me about the bars in vaslui or dream of the playing with terrance
+5 francisco will neither feel an outsider nor dream of the playing with terrance
+6 There is a contradiction here?	no	1
+7 clifton will stand in front of the crowd or dig a hole
+8 clifton will neither stand in front of the crowd nor dig a hole
+9 There is a contradiction here?	yes	1
+10 elmer will cut himself or leave barcelona for craiova
+11 elmer will neither cut himself nor leave barcelona for craiova
+12 There is a contradiction here?	yes	1
+13 pearl will have everything or hold me back
+14 pearl will not have everything and pearl wil not hold me back
+15 There is a contradiction here?	yes	1
+1 emma will bend the rules of the soccer game or read a paper
+2 emma will not bend the rules of the soccer game and emma wil not read a paper
+3 There is a contradiction here?	yes	1
+4 mary will freeze reginas bank account or go to anas house
+5 mary will neither freeze reginas bank account nor go to anas house
+6 There is a contradiction here?	yes	1
+7 gene will ride the horse or teach middle school science
+8 gene will neither ride the horse nor teach middle school science
+9 There is a contradiction here?	yes	1
+10 edward will cut my hair or bend the rules of the card game
+11 edward will not cut my hair and edward wil not bend the rules of the card game
+12 There is a contradiction here?	yes	1
+13 travis will cut himself or wear a lemon hat
+14 travis will neither eat it all nor wear a lemon hat
+15 There is a contradiction here?	no	1
+1 monique will hear my voice or burn some calories
+2 monique will not hear my voice and monique wil not burn some calories
+3 There is a contradiction here?	yes	1
+4 theodore will stand in front of the crowd or drink an orange juice
+5 marcus will neither stand in front of the crowd nor drink an orange juice
+6 There is a contradiction here?	no	1
+7 tanya will become kathleen best friend or send me a letter
+8 tanya will not become kathleen best friend and tanya wil not send me a letter
+9 There is a contradiction here?	yes	1
+10 kristina will lay his hands on him or pay neil
+11 kristina will not lay his hands on him
+12 There is a contradiction here?	no	1
+13 jessie will forget about lydias hobby or do it again
+14 jessie will not forget about lydias hobby and jessie wil not do it again
+15 There is a contradiction here?	yes	1
+1 craig will win the game or come at night
+2 craig will neither hide behind a bush nor come at night
+3 There is a contradiction here?	no	1
+4 marc will lead me to joses house or sell me a blue car
+5 marc will neither lead me to joses house nor sell me a blue car
+6 There is a contradiction here?	yes	1
+7 valerie will spend all my money or keep the game alive
+8 valerie will neither hit me nor keep the game alive
+9 There is a contradiction here?	no	1
+10 maryann will blow it when he didnt invest in amazon or bet on the game
+11 maryann will neither blow it when he didnt invest in amazon nor bet on the game
+12 There is a contradiction here?	yes	1
+13 joanne will pay me or ring into tammy
+14 joanne will neither pay me nor forget about jeannes hobby
+15 There is a contradiction here?	no	1
+1 courtney will eat a steak or let use this pen
+2 courtney will neither ring from barcelona to deva nor let use this pen
+3 There is a contradiction here?	no	1
+4 miriam will say nice things or send me a note
+5 miriam will neither say nice things nor send me a note
+6 There is a contradiction here?	yes	1
+7 victoria will hang up on me or forget about fayes hobby
+8 victoria will not hang up on me and victoria wil not forget about fayes hobby
+9 There is a contradiction here?	yes	1
+10 josephine will stand up to sherri or swim out toward the gray boat
+11 josephine will not swim out toward the gray boat
+12 There is a contradiction here?	no	1
+13 claudia will get me lying or wake up
+14 claudia will not get me lying and claudia wil not wake up
+15 There is a contradiction here?	yes	1
+1 julian will do everything or speak to him about bucharest
+2 julian will not do everything and julian wil not speak to him about bucharest
+3 There is a contradiction here?	yes	1
+4 edwin will stand up to allan or fall in love with michele
+5 edwin will neither stand up to allan nor fall in love with michele
+6 There is a contradiction here?	yes	1
+7 opal will make coffee or tell me about the bars in oradea
+8 opal will not make coffee and opal wil not tell me about the bars in oradea
+9 There is a contradiction here?	yes	1
+10 judy will hear jenny or feel a strange
+11 judy will not hear jenny and judy wil not feel a strange
+12 There is a contradiction here?	yes	1
+13 minnie will spend all my money or forgive me
+14 minnie will not forgive me
+15 There is a contradiction here?	no	1
+1 jamie will draw ahead of the other runners or come at midnight
+2 jamie will not draw ahead of the other runners and jamie wil not come at midnight
+3 There is a contradiction here?	yes	1
+4 debra will read the news or feel threatened
+5 debra will not read the news
+6 There is a contradiction here?	no	1
+7 stephanie will know lawrences secret or drink a bottle of water
+8 harold will neither know lawrences secret nor drink a bottle of water
+9 There is a contradiction here?	no	1
+10 ben will know about us or get me lying
+11 kim will neither know about us nor get me lying
+12 There is a contradiction here?	no	1
+13 claire will forget about esthers past or let me drive willards black car
+14 claire will not forget about esthers past
+15 There is a contradiction here?	no	1
+1 denise will hear mario or buy a watch
+2 denise will not hear mario and denise wil not buy a watch
+3 There is a contradiction here?	yes	1
+4 roy will drink a beer or fly to clujnapoca
+5 roy will not drink a beer
+6 There is a contradiction here?	no	1
+7 dolores will wear a ashy jacket or pay sonia
+8 dolores will not pay sonia
+9 There is a contradiction here?	no	1
+10 stanley will sit on the floor or bet on the gray car
+11 stanley will neither sit on the floor nor bet on the gray car
+12 There is a contradiction here?	yes	1
+13 eva will blow it or stand in front of the crowd
+14 eva will neither blow it nor stand in front of the crowd
+15 There is a contradiction here?	yes	1
+1 craig will fly to deva or speak to me
+2 craig will not fly to deva
+3 There is a contradiction here?	no	1
+4 joy will lead me to alberts house or get me lying
+5 troy will neither lead me to alberts house nor get me lying
+6 There is a contradiction here?	no	1
+7 john will fight me or cut my hair
+8 john will not cut my hair
+9 There is a contradiction here?	no	1
+10 courtney will pay me or bring me out of javiers house
+11 courtney will neither pay me nor ring into mary
+12 There is a contradiction here?	no	1
+13 katie will spend all my money or lay his hands on him
+14 katie will not spend all my money
+15 There is a contradiction here?	no	1
+1 andrea will burn the flag or hide a smile
+2 andrea will neither burn the flag nor hide a smile
+3 There is a contradiction here?	yes	1
+4 jessie will write me a letter or think esther was going to die
+5 jessie will neither write me a letter nor think esther was going to die
+6 There is a contradiction here?	yes	1
+7 carla will go to bobs house or think clifton was going to die
+8 carla will not go to bobs house and carla wil not think clifton was going to die
+9 There is a contradiction here?	yes	1
+10 gladys will win the game or hit her
+11 gladys will not win the game and gladys wil not hit her
+12 There is a contradiction here?	yes	1
+13 timothy will wear a mango hat or pay me
+14 timothy will not pay me
+15 There is a contradiction here?	no	1
+1 jared will see him or leave barcelona for clujnapoca
+2 jared will neither see him nor beat her
+3 There is a contradiction here?	no	1
+4 bobbie will dream of the playing with jamie or burn genevieves house
+5 bobbie will not burn genevieves house
+6 There is a contradiction here?	no	1
+7 betty will send me a letter or ring into roberta
+8 betty will not send me a letter and betty wil not ring into roberta
+9 There is a contradiction here?	yes	1
+10 joyce will say nice things or throw everything out the window
+11 joyce will not say nice things and joyce wil not throw everything out the window
+12 There is a contradiction here?	yes	1
+13 kelly will forget about marions past or choose this soccer team
+14 kelly will neither forget about marions past nor choose this soccer team
+15 There is a contradiction here?	yes	1
+1 margie will catch a gray fish or understand what helen comment about blaj
+2 margie will not catch a gray fish
+3 There is a contradiction here?	no	1
+4 stephanie will think i was helping mike or sit on the mat
+5 stephanie will neither think i was helping mike nor sit on the mat
+6 There is a contradiction here?	yes	1
+7 erin will blow it or send me a letter
+8 erin will neither blow it nor send me a letter
+9 There is a contradiction here?	yes	1
+10 kristen will hold me back or keep gregorys secret from me
+11 jose will neither hold me back nor keep gregorys secret from me
+12 There is a contradiction here?	no	1
+13 dustin will draw ahead of the other runners or pay her
+14 dustin will neither draw ahead of the other runners nor pay her
+15 There is a contradiction here?	yes	1
+1 sam will ring from me or sit on the chair
+2 sam will neither ring from me nor sit on the chair
+3 There is a contradiction here?	yes	1
+4 cheryl will think donald was going to die or fight the law
+5 cheryl will not think donald was going to die
+6 There is a contradiction here?	no	1
+7 vickie will build an altar for steven or burn the flag
+8 vickie will not build an altar for steven
+9 There is a contradiction here?	no	1
+10 glenda will bend the rules of the card game or fight the law
+11 katie will neither bend the rules of the card game nor fight the law
+12 There is a contradiction here?	no	1
+13 candice will fight me or think inez was going to die
+14 candice will not fight me and candice wil not think inez was going to die
+15 There is a contradiction here?	yes	1
+1 jessie will sit on the chair or write me about maurice
+2 jessie will not sit on the chair and jessie wil not write me about maurice
+3 There is a contradiction here?	yes	1
+4 glen will sit on the floor or think i was helping carole
+5 glen will neither put isaac in charge nor think i was helping carole
+6 There is a contradiction here?	no	1
+7 lauren will fall to the floor or meet him
+8 alberto will neither fall to the floor nor meet him
+9 There is a contradiction here?	no	1
+10 ida will draw ahead of the other runners or leave me waiting
+11 ida will neither draw ahead of the other runners nor leave me waiting
+12 There is a contradiction here?	yes	1
+13 jon will lay his hands on her or throw everything out the window
+14 jon will neither lay his hands on her nor throw everything out the window
+15 There is a contradiction here?	yes	1
+1 casey will forgive me or hang up on me
+2 casey will neither forgive me nor hang up on me
+3 There is a contradiction here?	yes	1
+4 velma will lead me to marshalls house or dig a hole
+5 velma will neither do some good work nor dig a hole
+6 There is a contradiction here?	no	1
+7 maria will bend the purple rod or give angel a gray bicycle
+8 maria will neither bend the purple rod nor give angel a gray bicycle
+9 There is a contradiction here?	yes	1
+10 dwayne will ring from me or give tom a lemon car
+11 dwayne will neither ring from me nor give tom a lemon car
+12 There is a contradiction here?	yes	1
+13 minnie will blow it when he didnt invest in amazon or shut the door down
+14 minnie will not blow it when he didnt invest in amazon and minnie wil not shut the door down
+15 There is a contradiction here?	yes	1
+1 wesley will keep saying this was crazy or feel a strange
+2 rodney will neither keep saying this was crazy nor feel a strange
+3 There is a contradiction here?	no	1
+4 joanna will hang up on thomas or drive the truck to natalies house
+5 joanna will neither hang up on thomas nor drive the truck to natalies house
+6 There is a contradiction here?	yes	1
+7 ana will stand in front of the crowd or understand what jeffrey comment about baia mare
+8 ana will not stand in front of the crowd and ana wil not understand what jeffrey comment about baia mare
+9 There is a contradiction here?	yes	1
+10 norma will shut the door down or come at midnight
+11 norma will not shut the door down and norma wil not come at midnight
+12 There is a contradiction here?	yes	1
+13 joann will hear my voice or come at noon
+14 joann will neither hear my voice nor come at noon
+15 There is a contradiction here?	yes	1
+1 rebecca will tell me everything or speak to him about lugoj
+2 terry will neither tell me everything nor speak to him about lugoj
+3 There is a contradiction here?	no	1
+4 guy will lead me to denises house or hear susan
+5 kurt will neither lead me to denises house nor hear susan
+6 There is a contradiction here?	no	1
+7 charles will read the book about spiders or know about us
+8 charles will neither ring from barcelona to baia mare nor know about us
+9 There is a contradiction here?	no	1
+10 lucy will begin screaming or show marshalls old photos
+11 lucy will neither think i was living in craiova nor show marshalls old photos
+12 There is a contradiction here?	no	1
+13 alison will show my new photos or grow up
+14 alison will not show my new photos and alison wil not grow up
+15 There is a contradiction here?	yes	1
+1 ronald will have it all or fall to the floor
+2 ronald will not have it all and ronald wil not fall to the floor
+3 There is a contradiction here?	yes	1
+4 kent will build maxs house or sell me a gray car
+5 kent will not sell me a gray car
+6 There is a contradiction here?	no	1
+7 eric will choose this soccer team or begin screaming
+8 ruby will neither choose this soccer team nor begin screaming
+9 There is a contradiction here?	no	1
+10 jesus will show charlottes old photos or bet on the wining horse
+11 jesus will neither show charlottes old photos nor bet on the wining horse
+12 There is a contradiction here?	yes	1
+13 rita will fall to the floor or understand what amanda comment about lugoj
+14 rita will not fall to the floor
+15 There is a contradiction here?	no	1
+1 suzanne will send me a note or hit a tree
+2 suzanne will neither send me a note nor hit a tree
+3 There is a contradiction here?	yes	1
+4 justin will lead me to audreys house or wake up
+5 justin will neither lead me to audreys house nor fall off
+6 There is a contradiction here?	no	1
+7 virginia will become the most important flight attendant in this town or hurt me
+8 virginia will not become the most important flight attendant in this town and virginia wil not hurt me
+9 There is a contradiction here?	yes	1
+10 norma will pay him or lose my computer
+11 norma will not pay him and norma wil not lose my computer
+12 There is a contradiction here?	yes	1
+13 marsha will wake up or put alvin in charge
+14 marsha will not wake up
+15 There is a contradiction here?	no	1
+1 brian will lay his hands on him or sleep for one day
+2 brian will not lay his hands on him and brian wil not sleep for one day
+3 There is a contradiction here?	yes	1
+4 james will hear mary or shut the door down
+5 james will not hear mary
+6 There is a contradiction here?	no	1
+7 brittany will become the most important judge in this town or wake up
+8 brittany will neither become the most important judge in this town nor wake up
+9 There is a contradiction here?	yes	1
+10 nicholas will lay down or burn karens house
+11 nicholas will not lay down
+12 There is a contradiction here?	no	1
+13 gordon will stand up to javier or know joes secret
+14 jerry will neither stand up to javier nor know joes secret
+15 There is a contradiction here?	no	1
+1 jessie will grow up or cut himself
+2 jessie will not grow up and jessie wil not cut himself
+3 There is a contradiction here?	yes	1
+4 stacey will send me a letter or put the phone down
+5 stacey will neither send me a letter nor put the phone down
+6 There is a contradiction here?	yes	1
+7 tara will dig a hole or forgive me
+8 tara will not dig a hole and tara wil not forgive me
+9 There is a contradiction here?	yes	1
+10 terry will break valeries heart or do everything
+11 terry will not break valeries heart
+12 There is a contradiction here?	no	1
+13 harry will hit him or see a lemon car running fast
+14 harry will not hit him
+15 There is a contradiction here?	no	1
+1 guadalupe will tell me chesters secret or win the soccer match
+2 guadalupe will not tell me chesters secret
+3 There is a contradiction here?	no	1
+4 sean will win the soccer match or spend all my money
+5 sean will not win the soccer match and sean wil not spend all my money
+6 There is a contradiction here?	yes	1
+7 dennis will pay me or sing a pop song
+8 mattie will neither pay me nor sing a pop song
+9 There is a contradiction here?	no	1
+10 belinda will hold me back or choose this way of life
+11 belinda will neither buy a watch nor choose this way of life
+12 There is a contradiction here?	no	1
+13 pamela will fight irene or pay me
+14 adrian will neither fight irene nor pay me
+15 There is a contradiction here?	no	1
+1 elmer will shut the door down or do it again
+2 elmer will neither shut the door down nor do it again
+3 There is a contradiction here?	yes	1
+4 marshall will say nice things or ride the horse
+5 marshall will neither say nice things nor ride the horse
+6 There is a contradiction here?	yes	1
+7 beth will lead me to roys house or find jesus
+8 beth will neither eat a steak nor find jesus
+9 There is a contradiction here?	no	1
+10 patrick will hang up on me or lend me craigs black bicycle
+11 patrick will not hang up on me
+12 There is a contradiction here?	no	1
+13 eva will make coffee or lay down
+14 eva will neither drive awayto the bus stop nor lay down
+15 There is a contradiction here?	no	1
+1 jennifer will swim out toward the mango boat or begin laughing
+2 jennifer will not begin laughing
+3 There is a contradiction here?	no	1
+4 julie will write a song about the sky or choose this soccer team
+5 julie will neither pay her nor choose this soccer team
+6 There is a contradiction here?	no	1
+7 brandi will begin screaming or buy a purple bicycle
+8 brandi will neither begin screaming nor buy a purple bicycle
+9 There is a contradiction here?	yes	1
+10 lucille will forget about alicias hobby or say nice things
+11 lucille will not forget about alicias hobby
+12 There is a contradiction here?	no	1
+13 lillie will leave me waiting or drive the truck to todds house
+14 lillie will neither leave me waiting nor drive the truck to todds house
+15 There is a contradiction here?	yes	1
+1 carla will bring me out of samanthas house or wake up
+2 carla will neither bring me out of samanthas house nor wake up
+3 There is a contradiction here?	yes	1
+4 audrey will build a computer or put the phone down
+5 audrey will not build a computer and audrey wil not put the phone down
+6 There is a contradiction here?	yes	1
+7 charles will eat a pizza or wear a purple jacket
+8 charles will neither spend all my money nor wear a purple jacket
+9 There is a contradiction here?	no	1
+10 jennie will hold me back or grow up in jail
+11 jennie will neither hold me back nor sit on the chair
+12 There is a contradiction here?	no	1
+13 flora will shut the door down or dream of the playing with nicholas
+14 flora will neither shut the door down nor dream of the playing with nicholas
+15 There is a contradiction here?	yes	1
+1 guadalupe will win the soccer match or sell me a black car
+2 guadalupe will not win the soccer match
+3 There is a contradiction here?	no	1
+4 mae will see elaine or throw everything out the window
+5 mae will not see elaine and mae wil not throw everything out the window
+6 There is a contradiction here?	yes	1
+7 gloria will lose wallaces orange car or take a summer job
+8 gloria will neither lose wallaces orange car nor take a summer job
+9 There is a contradiction here?	yes	1
+10 kirk will meet me or draw ahead of the other runners
+11 kirk will not meet me and kirk wil not draw ahead of the other runners
+12 There is a contradiction here?	yes	1
+13 katrina will begin crying or make coffee
+14 katrina will neither begin crying nor make coffee
+15 There is a contradiction here?	yes	1
+1 sue will let me drive marshas salmon car or read a paper
+2 sue will not let me drive marshas salmon car and sue wil not read a paper
+3 There is a contradiction here?	yes	1
+4 misty will fall off or send me a note
+5 misty will neither catch a icy fish nor send me a note
+6 There is a contradiction here?	no	1
+7 joann will forgive charlene or bet on the game
+8 joann will not bet on the game
+9 There is a contradiction here?	no	1
+10 william will cut himself or build carls house
+11 william will not cut himself and william wil not build carls house
+12 There is a contradiction here?	yes	1
+13 jared will take a summer job or hit him
+14 jared will not hit him
+15 There is a contradiction here?	no	1
+1 sandy will fly to mangalia or write me about monica
+2 sandy will not write me about monica
+3 There is a contradiction here?	no	1
+4 manuel will ride the horse or catch a gray fish
+5 cassandra will neither ride the horse nor catch a gray fish
+6 There is a contradiction here?	no	1
+7 jennie will bet on the game or think i was living in vaslui
+8 jennie will not think i was living in vaslui
+9 There is a contradiction here?	no	1
+10 genevieve will feel a strange or break the record
+11 genevieve will not break the record
+12 There is a contradiction here?	no	1
+13 freddie will spend all my money or sit on the mat
+14 karl will neither spend all my money nor sit on the mat
+15 There is a contradiction here?	no	1
+1 lola will dig a hole or ride the horse
+2 lola will not dig a hole
+3 There is a contradiction here?	no	1
+4 jordan will lend me some money a month before or shut the door down
+5 jordan will neither forget about jills hobby nor shut the door down
+6 There is a contradiction here?	no	1
+7 bill will bring me out of josephs house or beat her
+8 bill will not bring me out of josephs house and bill wil not beat her
+9 There is a contradiction here?	yes	1
+10 amanda will get the money or dream of running in lugoj
+11 amanda will not get the money and amanda wil not dream of running in lugoj
+12 There is a contradiction here?	yes	1
+13 leona will sell gladyss house or keep alices secret from me
+14 leona will not sell gladyss house and leona wil not keep alices secret from me
+15 There is a contradiction here?	yes	1
+1 juanita will choose this way of life or lend me some money a month before
+2 juanita will not choose this way of life
+3 There is a contradiction here?	no	1
+4 dave will hear steve or get the money
+5 dave will neither hear steve nor fall in love with courtney
+6 There is a contradiction here?	no	1
+7 roger will bring me out of morriss house or become very important to me
+8 roger will not become very important to me
+9 There is a contradiction here?	no	1
+10 beverly will dig a hole in edgars backyard or become mary best friend
+11 beverly will neither lose the purple car in lugoj nor become mary best friend
+12 There is a contradiction here?	no	1
+13 janet will sell claudias bicycle or eat a pizza
+14 janet will not sell claudias bicycle
+15 There is a contradiction here?	no	1
+1 carla will wear a icy jacket or beat us a lot
+2 dwight will neither wear a icy jacket nor beat us a lot
+3 There is a contradiction here?	no	1
+4 roy will stand in front of the crowd or hang up on me
+5 roy will not stand in front of the crowd
+6 There is a contradiction here?	no	1
+7 phillip will know about us or build a computer
+8 phillip will not build a computer
+9 There is a contradiction here?	no	1
+10 bessie will blow it when he didnt invest in amazon or find this gray car
+11 bessie will not blow it when he didnt invest in amazon
+12 There is a contradiction here?	no	1
+13 sean will write me a letter or let use this pen
+14 sean will not write me a letter
+15 There is a contradiction here?	no	1
+1 chester will catch a lemon fish or drink a bottle of wine
+2 chester will neither catch a lemon fish nor become jesus best friend
+3 There is a contradiction here?	no	1
+4 don will ring from barcelona to bucharest or grow up in jail
+5 don will not ring from barcelona to bucharest and don wil not grow up in jail
+6 There is a contradiction here?	yes	1
+7 terry will sell erins house or bring me out of catherines house
+8 terry will not sell erins house
+9 There is a contradiction here?	no	1
+10 judy will find what i was looking for or cut himself
+11 judy will not find what i was looking for
+12 There is a contradiction here?	no	1
+13 toni will teach sherry about songwriting or take office
+14 toni will neither ride the buffalo nor take office
+15 There is a contradiction here?	no	1
+1 judith will leave barcelona for giurgiu or become the most important painter in this town
+2 judith will neither leave barcelona for giurgiu nor become the most important painter in this town
+3 There is a contradiction here?	yes	1
+4 opal will do it again or feel a strange
+5 opal will not feel a strange
+6 There is a contradiction here?	no	1
+7 ashley will make me change the way i wrote or say nice things
+8 ashley will neither make me change the way i wrote nor sing a pop song
+9 There is a contradiction here?	no	1
+10 maxine will eat breakfast or do some good work
+11 maxine will neither eat breakfast nor do some good work
+12 There is a contradiction here?	yes	1
+13 jean will sell tonys house or feel threatened
+14 sherry will neither sell tonys house nor feel threatened
+15 There is a contradiction here?	no	1
+1 sam will put the phone down or forgive me
+2 sam will not put the phone down and sam wil not forgive me
+3 There is a contradiction here?	yes	1
+4 sheryl will hold her close or say nice things
+5 sheryl will neither hold her close nor say nice things
+6 There is a contradiction here?	yes	1
+7 floyd will drive awayto the bus stop or sing a nice song
+8 floyd will neither drive awayto the bus stop nor sing a nice song
+9 There is a contradiction here?	yes	1
+10 roberto will ride the buffalo or hold him close
+11 roberto will neither think lillie was going to die nor hold him close
+12 There is a contradiction here?	no	1
+13 gabriel will hit her or understand what sonia comment about mangalia
+14 sheila will neither hit her nor understand what sonia comment about mangalia
+15 There is a contradiction here?	no	1
+1 molly will wear a icy jacket or draw ahead of the other runners
+2 molly will neither wear a icy jacket nor stand up to anita
+3 There is a contradiction here?	no	1
+4 richard will draw ahead of the other runners or shut the door down
+5 richard will not draw ahead of the other runners and richard wil not shut the door down
+6 There is a contradiction here?	yes	1
+7 larry will drink a bottle of wine or give albert a green car
+8 larry will not drink a bottle of wine and larry wil not give albert a green car
+9 There is a contradiction here?	yes	1
+10 kristy will make tea or dig a hole
+11 kristy will not make tea
+12 There is a contradiction here?	no	1
+13 jackie will say funny things or let this happen
+14 jackie will neither say funny things nor let this happen
+15 There is a contradiction here?	yes	1
+1 dale will catch a red fish or ring from me
+2 dale will neither catch a red fish nor ring from me
+3 There is a contradiction here?	yes	1
+4 terry will catch a purple fish or see the best cashier from deva
+5 terry will not catch a purple fish and terry wil not see the best cashier from deva
+6 There is a contradiction here?	yes	1
+7 allen will do everything or show my new photos
+8 allen will not show my new photos
+9 There is a contradiction here?	no	1
+10 steven will pay me or understand what i said
+11 steven will neither pay me nor understand what i said
+12 There is a contradiction here?	yes	1
+13 lawrence will lend me armandos green bicycle or begin screaming
+14 lawrence will not lend me armandos green bicycle and lawrence wil not begin screaming
+15 There is a contradiction here?	yes	1
+1 hattie will send me a letter or tell me everything
+2 hattie will not send me a letter and hattie wil not tell me everything
+3 There is a contradiction here?	yes	1
+4 jason will feel threatened or begin laughing
+5 jason will neither ride the buffalo nor begin laughing
+6 There is a contradiction here?	no	1
+7 ronald will fight me or hold him close
+8 ronald will not hold him close
+9 There is a contradiction here?	no	1
+10 gertrude will take the footage or buy a green car
+11 gertrude will not take the footage
+12 There is a contradiction here?	no	1
+13 bernice will throw everything out the window or break mollys heart
+14 bernice will neither throw everything out the window nor break mollys heart
+15 There is a contradiction here?	yes	1
+1 herbert will go to giurgiu or see the best cleaner from bucharest
+2 herbert will neither go to giurgiu nor see the best cleaner from bucharest
+3 There is a contradiction here?	yes	1
+4 stephen will bet on the ashy car or build an altar for kathleen
+5 stephen will not bet on the ashy car
+6 There is a contradiction here?	no	1
+7 jesus will dig a hole or write me about misty
+8 jesus will not dig a hole and jesus wil not write me about misty
+9 There is a contradiction here?	yes	1
+10 wilma will sleep for one day or bring me out of luiss house
+11 james will neither sleep for one day nor bring me out of luiss house
+12 There is a contradiction here?	no	1
+13 lynn will think i was living in turda or drink a bottle of wine
+14 lynn will not think i was living in turda
+15 There is a contradiction here?	no	1
+1 gilbert will make me change the way i wrote or hide behind a bush
+2 gilbert will neither make me change the way i wrote nor hide behind a bush
+3 There is a contradiction here?	yes	1
+4 carrie will send me a note or hang up on me
+5 carrie will neither send me a note nor hang up on me
+6 There is a contradiction here?	yes	1
+7 warren will tell me johns secret or show my new photos
+8 warren will not tell me johns secret and warren wil not show my new photos
+9 There is a contradiction here?	yes	1
+10 alvin will choose to live in giurgiu or wear a salmon jacket
+11 alvin will neither choose to live in giurgiu nor wear a salmon jacket
+12 There is a contradiction here?	yes	1
+13 bertha will come at midnight or shut the door down
+14 bertha will not come at midnight and bertha wil not shut the door down
+15 There is a contradiction here?	yes	1
+1 judith will keep the game alive or throw everything out the window
+2 judith will not keep the game alive and judith wil not throw everything out the window
+3 There is a contradiction here?	yes	1
+4 jacob will sleep for eight hours or catch a ashy fish
+5 jacob will not sleep for eight hours and jacob wil not catch a ashy fish
+6 There is a contradiction here?	yes	1
+7 caroline will swim out toward the lemon boat or burn jacks house
+8 caroline will neither take the blue shirt out of the washer nor burn jacks house
+9 There is a contradiction here?	no	1
+10 clara will dig a hole or burn melodys house
+11 clara will not burn melodys house
+12 There is a contradiction here?	no	1
+13 vicki will forget about rosss past or see her
+14 stacey will neither forget about rosss past nor see her
+15 There is a contradiction here?	no	1
+1 karl will hold him close or wake up
+2 karl will not hold him close and karl wil not wake up
+3 There is a contradiction here?	yes	1
+4 marilyn will know about us or think i was helping catherine
+5 marilyn will neither know about us nor think i was helping catherine
+6 There is a contradiction here?	yes	1
+7 dorothy will freeze leslies bank account or read the book about spiders
+8 dorothy will neither freeze leslies bank account nor come at night
+9 There is a contradiction here?	no	1
+10 elsie will bend the rules of the soccer game or send me a letter
+11 elsie will not send me a letter
+12 There is a contradiction here?	no	1
+13 kirk will get the money or put larry in charge
+14 kirk will neither fly to bucharest nor put larry in charge
+15 There is a contradiction here?	no	1
+1 irene will show my new photos or feel threatened
+2 irene will neither show my new photos nor feel threatened
+3 There is a contradiction here?	yes	1
+4 isabel will hit him or forget about ninas hobby
+5 isabel will not hit him
+6 There is a contradiction here?	no	1
+7 margie will dig a hole in the garden or bet on the gray car
+8 margie will not dig a hole in the garden and margie wil not bet on the gray car
+9 There is a contradiction here?	yes	1
+10 lorraine will fall to the floor or keep saying this was crazy
+11 lorraine will neither fall to the floor nor keep saying this was crazy
+12 There is a contradiction here?	yes	1
+13 john will tell me clarences secret or send me a note
+14 john will not tell me clarences secret and john wil not send me a note
+15 There is a contradiction here?	yes	1
+1 wallace will send me a letter or beat us a lot
+2 wallace will not send me a letter
+3 There is a contradiction here?	no	1
+4 joyce will show claytons old photos or spend all my money
+5 floyd will neither show claytons old photos nor spend all my money
+6 There is a contradiction here?	no	1
+7 walter will become casey best friend or think i was helping hilda
+8 walter will neither become casey best friend nor think i was helping hilda
+9 There is a contradiction here?	yes	1
+10 walter will hurt her or go to inezs house
+11 walter will not go to inezs house
+12 There is a contradiction here?	no	1
+13 keith will drink an orange juice or forget about kens hobby
+14 keith will not drink an orange juice and keith wil not forget about kens hobby
+15 There is a contradiction here?	yes	1
+1 luz will show my new photos or choose to live in giurgiu
+2 luz will not show my new photos
+3 There is a contradiction here?	no	1
+4 allison will catch a orange fish or fly to lugoj
+5 allison will not fly to lugoj
+6 There is a contradiction here?	no	1
+7 kathryn will lose my computer or draw ahead of the other runners
+8 kathryn will neither read a paper nor draw ahead of the other runners
+9 There is a contradiction here?	no	1
+10 flora will burn shannons house or sit on the chair
+11 flora will neither make coffee nor sit on the chair
+12 There is a contradiction here?	no	1
+13 anita will put the phone down or lose my computer
+14 anita will not put the phone down and anita wil not lose my computer
+15 There is a contradiction here?	yes	1
+1 benjamin will swim out toward the orange boat or drive awayto the bus stop
+2 benjamin will not swim out toward the orange boat
+3 There is a contradiction here?	no	1
+4 heather will send me a note or tell me everything
+5 heather will not send me a note and heather wil not tell me everything
+6 There is a contradiction here?	yes	1
+7 adam will break the record or have a good week
+8 adam will not break the record and adam wil not have a good week
+9 There is a contradiction here?	yes	1
+10 thomas will know chesters secret or let this happen
+11 thomas will not know chesters secret
+12 There is a contradiction here?	no	1
+13 vincent will show my new photos or choose this way of life
+14 vincent will not show my new photos
+15 There is a contradiction here?	no	1
+1 keith will read the news or catch a orange fish
+2 keith will neither read the news nor catch a orange fish
+3 There is a contradiction here?	yes	1
+4 ellen will show my new photos or go to traviss house
+5 franklin will neither show my new photos nor go to traviss house
+6 There is a contradiction here?	no	1
+7 regina will break the rules or stand up to joanne
+8 regina will not stand up to joanne
+9 There is a contradiction here?	no	1
+10 walter will sell tamaras house or make me change the way i wrote
+11 calvin will neither sell tamaras house nor make me change the way i wrote
+12 There is a contradiction here?	no	1
+13 willie will feel a strange or build an airplane
+14 willie will neither feel a strange nor build an airplane
+15 There is a contradiction here?	yes	1
+1 vicki will speak to her about scott or show jacks old photos
+2 vicki will not speak to her about scott and vicki wil not show jacks old photos
+3 There is a contradiction here?	yes	1
+4 margarita will know jamess secret or do it again
+5 margarita will neither meet her nor do it again
+6 There is a contradiction here?	no	1
+7 antonio will win the soccer match or wear a salmon hat
+8 melissa will neither win the soccer match nor wear a salmon hat
+9 There is a contradiction here?	no	1
+10 charlotte will forget about yolandas hobby or sleep the night
+11 charlotte will not forget about yolandas hobby and charlotte wil not sleep the night
+12 There is a contradiction here?	yes	1
+13 benjamin will catch a salmon fish or lend me some money a month before
+14 benjamin will neither catch a salmon fish nor lend me some money a month before
+15 There is a contradiction here?	yes	1
+1 lucy will fly to blaj or fight me
+2 lucy will not fly to blaj and lucy wil not fight me
+3 There is a contradiction here?	yes	1
+4 geraldine will burn joes house or sing a pop song
+5 geraldine will neither burn joes house nor sing a pop song
+6 There is a contradiction here?	yes	1
+7 cindy will begin screaming or get the money
+8 cindy will not begin screaming and cindy wil not get the money
+9 There is a contradiction here?	yes	1
+10 lynda will read the book about spiders or go away
+11 lynda will neither read the book about spiders nor go away
+12 There is a contradiction here?	yes	1
+13 marshall will get the money or lead me to jaimes house
+14 jeremy will neither get the money nor lead me to jaimes house
+15 There is a contradiction here?	no	1
+1 laura will forget about floras hobby or see me
+2 laura will neither forget about floras hobby nor see me
+3 There is a contradiction here?	yes	1
+4 alan will hurt me or forget about alfreds past
+5 alan will neither hurt me nor hang up on me
+6 There is a contradiction here?	no	1
+7 lois will understand what vicki comment about slobozia or burn some calories
+8 lois will not understand what vicki comment about slobozia and lois wil not burn some calories
+9 There is a contradiction here?	yes	1
+10 mildred will forgive francis or dig a hole in sarahs backyard
+11 mildred will neither forgive francis nor dig a hole in sarahs backyard
+12 There is a contradiction here?	yes	1
+13 daniel will send me a letter or sit on the floor
+14 daniel will not send me a letter
+15 There is a contradiction here?	no	1
+1 ramon will draw ahead of the other runners or beat erik out of 20 dollars
+2 maurice will neither draw ahead of the other runners nor beat erik out of 20 dollars
+3 There is a contradiction here?	no	1
+4 harvey will go to arad or feel a strange
+5 harvey will not feel a strange
+6 There is a contradiction here?	no	1
+7 ellen will fight the law or ring into beverly
+8 ellen will neither fight the law nor ring into beverly
+9 There is a contradiction here?	yes	1
+10 frank will hit him or have everything
+11 frank will neither hit him nor have everything
+12 There is a contradiction here?	yes	1
+13 olivia will keep the game alive or teach math
+14 pamela will neither keep the game alive nor teach math
+15 There is a contradiction here?	no	1
+1 michelle will put isabel in charge or build olgas house
+2 rebecca will neither put isabel in charge nor build olgas house
+3 There is a contradiction here?	no	1
+4 kyle will tell me about the bars in deva or hide behind a bush
+5 kyle will neither tell me about the bars in deva nor hide behind a bush
+6 There is a contradiction here?	yes	1
+7 kelly will bet on the wining horse or get the money
+8 kelly will neither find jesus nor get the money
+9 There is a contradiction here?	no	1
+10 eddie will hang up on louis or speak to her about gordon
+11 eddie will neither find what i was looking for nor speak to her about gordon
+12 There is a contradiction here?	no	1
+13 stephanie will throw everything out the window or ride the horse
+14 stephanie will neither throw everything out the window nor ride the horse
+15 There is a contradiction here?	yes	1
+1 marvin will meet him or take the orange shirt out of the washer
+2 marvin will not meet him and marvin wil not take the orange shirt out of the washer
+3 There is a contradiction here?	yes	1
+4 mitchell will dream of the being a butcher or fly to timisoara
+5 timothy will neither dream of the being a butcher nor fly to timisoara
+6 There is a contradiction here?	no	1
+7 casey will sit on the floor or come at night
+8 casey will neither sit on the floor nor come at night
+9 There is a contradiction here?	yes	1
+10 brenda will sell me a red car or drink an orange juice
+11 brenda will neither sell me a red car nor drink an orange juice
+12 There is a contradiction here?	yes	1
+13 tamara will sing a pop song or wake up
+14 tamara will not sing a pop song
+15 There is a contradiction here?	no	1
+1 lucille will hide a smile or shut the door down
+2 lucille will neither hide a smile nor shut the door down
+3 There is a contradiction here?	yes	1
+4 june will sell veronicas bicycle or break martins heart
+5 june will not sell veronicas bicycle and june wil not break martins heart
+6 There is a contradiction here?	yes	1
+7 laurie will win the soccer match or eat breakfast
+8 laurie will not win the soccer match and laurie wil not eat breakfast
+9 There is a contradiction here?	yes	1
+10 hilda will say nice things or dream of the being a painter
+11 hilda will neither say nice things nor dream of the being a painter
+12 There is a contradiction here?	yes	1
+13 allan will leave me or do some good work
+14 allan will not leave me and allan wil not do some good work
+15 There is a contradiction here?	yes	1
+1 billie will lead me to lindas house or drink an orange juice
+2 billie will neither lead me to lindas house nor drink an orange juice
+3 There is a contradiction here?	yes	1
+4 frances will break the record or swim out toward the green boat
+5 frances will neither break the record nor swim out toward the green boat
+6 There is a contradiction here?	yes	1
+7 helen will wake up or do some good work
+8 helen will not wake up and helen wil not do some good work
+9 There is a contradiction here?	yes	1
+10 vernon will cut my hair or buy a watch
+11 vernon will neither cut my hair nor break the record
+12 There is a contradiction here?	no	1
+13 peter will hurt him or teach ben about songwriting
+14 peter will not hurt him and peter wil not teach ben about songwriting
+15 There is a contradiction here?	yes	1
+1 eric will buy a gray car or lead me to leons house
+2 eric will neither buy a gray car nor lead me to leons house
+3 There is a contradiction here?	yes	1
+4 ruth will write me about beth or buy a watch
+5 roger will neither write me about beth nor buy a watch
+6 There is a contradiction here?	no	1
+7 pamela will pay me or begin screaming
+8 pamela will not pay me and pamela wil not begin screaming
+9 There is a contradiction here?	yes	1
+10 donald will put the phone down or swim out toward the icy boat
+11 donald will not put the phone down and donald wil not swim out toward the icy boat
+12 There is a contradiction here?	yes	1
+13 delores will stand up to melvin or buy a gray bicycle
+14 delores will neither stand up to melvin nor buy a gray bicycle
+15 There is a contradiction here?	yes	1
+1 wayne will swim out toward the yellow boat or meet her
+2 wayne will neither swim out toward the yellow boat nor meet her
+3 There is a contradiction here?	yes	1
+4 sandra will bet on the wining horse or hang up on mary
+5 sandra will neither bet on the wining horse nor hang up on mary
+6 There is a contradiction here?	yes	1
+7 william will lend me roys blue bicycle or sit on the floor
+8 william will neither lend me roys blue bicycle nor sit on the floor
+9 There is a contradiction here?	yes	1
+10 william will read the news or speak to her about joe
+11 jackie will neither read the news nor speak to her about joe
+12 There is a contradiction here?	no	1
+13 ernest will ride the buffalo or hurt me
+14 ernest will not ride the buffalo and ernest wil not hurt me
+15 There is a contradiction here?	yes	1
+1 pauline will take a summer job or send me a letter
+2 pauline will not take a summer job
+3 There is a contradiction here?	no	1
+4 claudia will sit on the chair or feel a strange
+5 sonia will neither sit on the chair nor feel a strange
+6 There is a contradiction here?	no	1
+7 harold will pay him or stand up to herbert
+8 harold will neither pay him nor stand up to herbert
+9 There is a contradiction here?	yes	1
+10 monique will hit me or win the game
+11 monique will not hit me and monique wil not win the game
+12 There is a contradiction here?	yes	1
+13 glenda will forget about rebeccas hobby or buy a purple bicycle
+14 glenda will not forget about rebeccas hobby
+15 There is a contradiction here?	no	1
+1 joann will bend the rules of the card game or go to deva
+2 clyde will neither bend the rules of the card game nor go to deva
+3 There is a contradiction here?	no	1
+4 florence will fall to the floor or wear a gray hat
+5 florence will neither fall to the floor nor drive the truck to toms house
+6 There is a contradiction here?	no	1
+7 leona will see the best butcher from turda or lose my computer
+8 leona will neither see the best butcher from turda nor lose my computer
+9 There is a contradiction here?	yes	1
+10 jacqueline will get the money or lay his hands on him
+11 jacqueline will not get the money and jacqueline wil not lay his hands on him
+12 There is a contradiction here?	yes	1
+13 alan will catch a red fish or ride the horse
+14 alan will not catch a red fish and alan wil not ride the horse
+15 There is a contradiction here?	yes	1
+1 shawn will swim out toward the blue boat or take office
+2 shawn will neither show sabrinas old photos nor take office
+3 There is a contradiction here?	no	1
+4 tracy will wake up or sleep for eight hours
+5 tracy will neither tell me olivias secret nor sleep for eight hours
+6 There is a contradiction here?	no	1
+7 natasha will shut the door down or fly to slatina
+8 natasha will neither shut the door down nor fly to slatina
+9 There is a contradiction here?	yes	1
+10 ivan will hurt me or sleep for one day
+11 ivan will not hurt me and ivan wil not sleep for one day
+12 There is a contradiction here?	yes	1
+13 harry will find jesus or hear my voice
+14 harry will not find jesus and harry wil not hear my voice
+15 There is a contradiction here?	yes	1
+1 cassandra will cut my hair or dig a hole in the garden
+2 melody will neither cut my hair nor dig a hole in the garden
+3 There is a contradiction here?	no	1
+4 valerie will grow up in jail or freeze lydias bank account
+5 don will neither grow up in jail nor freeze lydias bank account
+6 There is a contradiction here?	no	1
+7 thomas will shut the door down or pay her
+8 thomas will neither shut the door down nor pay her
+9 There is a contradiction here?	yes	1
+10 dave will lose the white car in timisoara or lend me some money a month before
+11 dave will neither lose the white car in timisoara nor lend me some money a month before
+12 There is a contradiction here?	yes	1
+13 beverly will feel a strange or leave barcelona for arad
+14 philip will neither feel a strange nor leave barcelona for arad
+15 There is a contradiction here?	no	1
+1 beth will find what i was looking for or go to giurgiu
+2 beth will not find what i was looking for and beth wil not go to giurgiu
+3 There is a contradiction here?	yes	1
+4 frances will fall off or read a paper
+5 frances will not fall off
+6 There is a contradiction here?	no	1
+7 alberto will lead me to cathys house or dig a hole
+8 alberto will neither forget about stellas hobby nor dig a hole
+9 There is a contradiction here?	no	1
+10 lena will read the news or tell me brents secret
+11 lena will neither read the news nor tell me brents secret
+12 There is a contradiction here?	yes	1
+13 teresa will fly to dej or hit a tree
+14 teresa will neither fly to dej nor hit a tree
+15 There is a contradiction here?	yes	1
+1 mary will drive the truck to edwins house or shut the door down
+2 mary will neither ring from me nor shut the door down
+3 There is a contradiction here?	no	1
+4 nora will hold me back or speak to him about clujnapoca
+5 nora will neither hide a smile nor speak to him about clujnapoca
+6 There is a contradiction here?	no	1
+7 lauren will wear a red hat or put the phone down
+8 lauren will not wear a red hat and lauren wil not put the phone down
+9 There is a contradiction here?	yes	1
+10 glenn will come at midnight or ring from me
+11 glenn will not come at midnight and glenn wil not ring from me
+12 There is a contradiction here?	yes	1
+13 constance will drink a bottle of water or bring me out of deloress house
+14 constance will not bring me out of deloress house
+15 There is a contradiction here?	no	1
+1 armando will drink a beer or show jessies old photos
+2 armando will neither drink a beer nor show jessies old photos
+3 There is a contradiction here?	yes	1
+4 melinda will grow up in jail or begin crying
+5 melinda will not grow up in jail and melinda wil not begin crying
+6 There is a contradiction here?	yes	1
+7 phillip will speak to him about clujnapoca or forgive deborah
+8 phillip will not speak to him about clujnapoca and phillip wil not forgive deborah
+9 There is a contradiction here?	yes	1
+10 kelly will lose the purple car in slatina or hang up on jeremy
+11 kelly will neither lose the purple car in slatina nor hang up on jeremy
+12 There is a contradiction here?	yes	1
+13 luis will stand up to terri or bring me out of renes house
+14 luis will not stand up to terri
+15 There is a contradiction here?	no	1
+1 john will come at noon or drive the truck to gabriels house
+2 john will not come at noon
+3 There is a contradiction here?	no	1
+4 teresa will blow it or fly to bucharest
+5 teresa will not blow it and teresa wil not fly to bucharest
+6 There is a contradiction here?	yes	1
+7 ken will ride the horse or sit on the chair
+8 ken will not ride the horse and ken wil not sit on the chair
+9 There is a contradiction here?	yes	1
+10 katherine will meet george or give ada a black shirt
+11 katherine will neither choose this way of life nor give ada a black shirt
+12 There is a contradiction here?	no	1
+13 frank will take office or give stephanie a green bicycle
+14 natalie will neither take office nor give stephanie a green bicycle
+15 There is a contradiction here?	no	1
+1 rene will freeze claudias bank account or swim out toward the icy boat
+2 rene will not freeze claudias bank account and rene wil not swim out toward the icy boat
+3 There is a contradiction here?	yes	1
+4 clifford will forgive me or know about us
+5 clifford will neither forgive me nor know about us
+6 There is a contradiction here?	yes	1
+7 karen will catch a red fish or tell me about the bars in vaslui
+8 karen will neither bring me out of wesleys house nor tell me about the bars in vaslui
+9 There is a contradiction here?	no	1
+10 clarence will freeze my account or cut himself
+11 clarence will not cut himself
+12 There is a contradiction here?	no	1
+13 sabrina will speak to me or hurt him
+14 sabrina will neither speak to me nor hurt him
+15 There is a contradiction here?	yes	1
+1 leah will understand what i said or fly to turda
+2 leah will not understand what i said
+3 There is a contradiction here?	no	1
+4 byron will blow it or wake up
+5 byron will not blow it and byron wil not wake up
+6 There is a contradiction here?	yes	1
+7 alison will cut himself or think i was living in slatina
+8 alison will not cut himself and alison wil not think i was living in slatina
+9 There is a contradiction here?	yes	1
+10 gilbert will have a good week or freeze marthas bank account
+11 gilbert will not have a good week and gilbert wil not freeze marthas bank account
+12 There is a contradiction here?	yes	1
+13 stacy will give teresa a white bicycle or stand up to valerie
+14 stacy will not stand up to valerie
+15 There is a contradiction here?	no	1
+1 debbie will read a paper or beat her
+2 debbie will neither sing a pop song nor beat her
+3 There is a contradiction here?	no	1
+4 johnny will sing a nice song or let use this pen
+5 johnny will not sing a nice song and johnny wil not let use this pen
+6 There is a contradiction here?	yes	1
+7 melinda will buy a black car or hold her close
+8 melinda will not buy a black car and melinda wil not hold her close
+9 There is a contradiction here?	yes	1
+10 sherri will have a good week or show my new photos
+11 sherri will neither have a good week nor show my new photos
+12 There is a contradiction here?	yes	1
+13 adam will get the money or spend all my money
+14 adam will neither get the money nor spend all my money
+15 There is a contradiction here?	yes	1
+1 jason will say nice things or hurt her
+2 jason will neither say nice things nor become dean best friend
+3 There is a contradiction here?	no	1
+4 everett will take the footage or drink a beer
+5 everett will neither take the footage nor drink a beer
+6 There is a contradiction here?	yes	1
+7 christy will lose jacquelines orange car or think i was helping sally
+8 christy will not think i was helping sally
+9 There is a contradiction here?	no	1
+10 sherri will keep duanes secret from me or get the money
+11 sherri will not keep duanes secret from me
+12 There is a contradiction here?	no	1
+13 carlos will lay his hands on her or sell warrens bicycle
+14 carlos will neither lay his hands on her nor ride the horse
+15 There is a contradiction here?	no	1
+1 cody will win the game or lose my computer
+2 cody will neither give toni a mango bicycle nor lose my computer
+3 There is a contradiction here?	no	1
+4 lester will feel a strange or stand up to tracy
+5 lester will neither spend all my money nor stand up to tracy
+6 There is a contradiction here?	no	1
+7 ben will pay him or go to cassandras house
+8 ben will not go to cassandras house
+9 There is a contradiction here?	no	1
+10 danielle will speak to him about turda or bring me out of monicas house
+11 danielle will not speak to him about turda and danielle wil not bring me out of monicas house
+12 There is a contradiction here?	yes	1
+13 sylvia will dream of the playing with gordon or have a good daya good conversation with shelley
+14 sylvia will not dream of the playing with gordon and sylvia wil not have a good daya good conversation with shelley
+15 There is a contradiction here?	yes	1
+1 erik will throw everything out the window or make coffee
+2 erik will neither throw everything out the window nor lay his hands on him
+3 There is a contradiction here?	no	1
+4 kent will drive the truck to lolas house or lead me to isabels house
+5 kent will not drive the truck to lolas house and kent wil not lead me to isabels house
+6 There is a contradiction here?	yes	1
+7 sharon will sing a nice song or hurt her
+8 sharon will neither sing a nice song nor hurt her
+9 There is a contradiction here?	yes	1
+10 salvador will leave barcelona for bucharest or sell cynthias bicycle
+11 salvador will not leave barcelona for bucharest and salvador wil not sell cynthias bicycle
+12 There is a contradiction here?	yes	1
+13 cathy will write me about margie or become the most important technician in this town
+14 cathy will not become the most important technician in this town
+15 There is a contradiction here?	no	1
+1 marguerite will hold her close or bend the rules of the soccer game
+2 marguerite will not hold her close and marguerite wil not bend the rules of the soccer game
+3 There is a contradiction here?	yes	1
+4 george will drive awayto the bus stop or go away
+5 george will not drive awayto the bus stop and george wil not go away
+6 There is a contradiction here?	yes	1
+7 shelly will sit on the floor or feel an outsider
+8 shelly will neither sit on the floor nor feel an outsider
+9 There is a contradiction here?	yes	1
+10 margarita will make coffee or build an airplane
+11 margarita will neither make coffee nor build an airplane
+12 There is a contradiction here?	yes	1
+13 benjamin will come at night or hang up on geraldine
+14 benjamin will neither drink a bottle of water nor hang up on geraldine
+15 There is a contradiction here?	no	1
+1 travis will understand what i said or take the purple shirt out of the washer
+2 travis will neither meet her nor take the purple shirt out of the washer
+3 There is a contradiction here?	no	1
+4 june will hold me back or spend all my money
+5 june will neither hold me back nor blow it
+6 There is a contradiction here?	no	1
+7 jenny will eat it all or lose sidneys salmon car
+8 jenny will not lose sidneys salmon car
+9 There is a contradiction here?	no	1
+10 jay will tell me about the bars in craiova or give beatrice a icy bicycle
+11 jay will neither tell me about the bars in craiova nor give beatrice a icy bicycle
+12 There is a contradiction here?	yes	1
+13 gene will say nice things or put the phone down
+14 gene will not say nice things
+15 There is a contradiction here?	no	1
+1 elsie will come at noon or keep the game alive
+2 thomas will neither come at noon nor keep the game alive
+3 There is a contradiction here?	no	1
+4 minnie will burn monicas house or hit him
+5 minnie will not hit him
+6 There is a contradiction here?	no	1
+7 alberta will sleep for one day or see him
+8 alberta will neither sleep for one day nor see him
+9 There is a contradiction here?	yes	1
+10 eileen will forgive me or bring me out of marvins house
+11 eileen will not forgive me and eileen wil not bring me out of marvins house
+12 There is a contradiction here?	yes	1
+13 tina will get the money or go away
+14 tina will neither get the money nor hurt me
+15 There is a contradiction here?	no	1
+1 dave will ring into alfredo or write me about sergio
+2 harriet will neither ring into alfredo nor write me about sergio
+3 There is a contradiction here?	no	1
+4 gail will ride the horse or build an altar for candice
+5 gail will not build an altar for candice
+6 There is a contradiction here?	no	1
+7 charlotte will hurt me or think i was living in timisoara
+8 charlotte will neither hurt me nor think i was living in timisoara
+9 There is a contradiction here?	yes	1
+10 ida will make me change the way i wrote or wear a yellow jacket
+11 ida will not wear a yellow jacket
+12 There is a contradiction here?	no	1
+13 violet will spend all my money or bet on the mango car
+14 violet will not spend all my money
+15 There is a contradiction here?	no	1
+1 greg will know felixs secret or lead me to michelles house
+2 greg will not know felixs secret
+3 There is a contradiction here?	no	1
+4 rosa will get the money or know rodneys secret
+5 rosa will not get the money
+6 There is a contradiction here?	no	1
+7 nathaniel will cut my hair or eat an apple
+8 nathaniel will not cut my hair and nathaniel wil not eat an apple
+9 There is a contradiction here?	yes	1
+10 clarence will hide behind a bush or write me about pamela
+11 clarence will not write me about pamela
+12 There is a contradiction here?	no	1
+13 ruben will hide a smile or keep the game alive
+14 ruben will not hide a smile and ruben wil not keep the game alive
+15 There is a contradiction here?	yes	1
+1 kim will find him or send me a note
+2 kim will not send me a note
+3 There is a contradiction here?	no	1
+4 sonia will get the money or eat it all
+5 sonia will neither get the money nor eat it all
+6 There is a contradiction here?	yes	1
+7 olivia will take a summer job or come at night
+8 olivia will not come at night
+9 There is a contradiction here?	no	1
+10 thelma will ride the buffalo or dream of the being a tailor
+11 thelma will not ride the buffalo and thelma wil not dream of the being a tailor
+12 There is a contradiction here?	yes	1
+13 leslie will let this happen or eat a pizza
+14 leslie will not let this happen and leslie wil not eat a pizza
+15 There is a contradiction here?	yes	1
+1 susan will say funny things or sell johnnys bicycle
+2 susan will not say funny things
+3 There is a contradiction here?	no	1
+4 sabrina will hold him close or dig a hole
+5 clarence will neither hold him close nor dig a hole
+6 There is a contradiction here?	no	1
+7 stephanie will fight jay or forget about franciscos past
+8 stephanie will neither fight jay nor forget about franciscos past
+9 There is a contradiction here?	yes	1
+10 elsie will beat her or catch a green fish
+11 elsie will neither beat her nor catch a green fish
+12 There is a contradiction here?	yes	1
+13 steven will take office or leave barcelona for oradea
+14 steven will neither meet fannie nor leave barcelona for oradea
+15 There is a contradiction here?	no	1
+1 phillip will do some good work or fight reginald
+2 phillip will neither do some good work nor fight reginald
+3 There is a contradiction here?	yes	1
+4 denise will tell me about the bars in craiova or say nice things
+5 denise will not tell me about the bars in craiova and denise wil not say nice things
+6 There is a contradiction here?	yes	1
+7 beatrice will bring me out of johnnys house or take office
+8 jim will neither bring me out of johnnys house nor take office
+9 There is a contradiction here?	no	1
+10 dean will hit her or fall in love with april
+11 dean will not hit her and dean wil not fall in love with april
+12 There is a contradiction here?	yes	1
+13 alma will hurt me or forget about fernandos hobby
+14 alma will not hurt me
+15 There is a contradiction here?	no	1
+1 marilyn will catch a mango fish or say funny things
+2 marilyn will neither catch a mango fish nor say funny things
+3 There is a contradiction here?	yes	1
+4 eleanor will choose to live in bucharest or spend all my money
+5 eleanor will neither hide a smile nor spend all my money
+6 There is a contradiction here?	no	1
+7 ross will sing a pop song or make me change the way i wrote
+8 ross will neither sing a pop song nor make me change the way i wrote
+9 There is a contradiction here?	yes	1
+10 neil will lay down or feel a strange
+11 neil will neither lay down nor shut the door down
+12 There is a contradiction here?	no	1
+13 geneva will forgive joseph or sleep for eight hours
+14 geneva will not forgive joseph
+15 There is a contradiction here?	no	1
+1 fred will begin laughing or sell me a salmon car
+2 carlos will neither begin laughing nor sell me a salmon car
+3 There is a contradiction here?	no	1
+4 jean will read a paper or shut the door down
+5 jean will not read a paper and jean wil not shut the door down
+6 There is a contradiction here?	yes	1
+7 kyle will blow it when he didnt invest in amazon or wake up
+8 kyle will neither blow it when he didnt invest in amazon nor dream of running in dej
+9 There is a contradiction here?	no	1
+10 erin will hold him close or see him
+11 erin will not see him
+12 There is a contradiction here?	no	1
+13 lola will drink a beer or build a computer
+14 lola will not drink a beer and lola wil not build a computer
+15 There is a contradiction here?	yes	1
+1 antoinette will buy a yellow car or lay his hands on her
+2 antoinette will neither feel threatened nor lay his hands on her
+3 There is a contradiction here?	no	1
+4 christy will hang up on dora or drive awayto the bus stop
+5 christy will neither freeze jodis bank account nor drive awayto the bus stop
+6 There is a contradiction here?	no	1
+7 douglas will tell me warrens secret or know about us
+8 douglas will neither tell me warrens secret nor know about us
+9 There is a contradiction here?	yes	1
+10 armando will wake up or forget about nathaniels past
+11 armando will not wake up and armando wil not forget about nathaniels past
+12 There is a contradiction here?	yes	1
+13 rhonda will write me about alvin or get the money
+14 rhonda will neither write me about alvin nor get the money
+15 There is a contradiction here?	yes	1
+1 jacob will lay down or see hazel
+2 jacob will not lay down
+3 There is a contradiction here?	no	1
+4 jon will drink an orange juice or bend the mango rod
+5 jon will neither drink an orange juice nor bend the mango rod
+6 There is a contradiction here?	yes	1
+7 jacqueline will hurt her or beat him
+8 jacqueline will not beat him
+9 There is a contradiction here?	no	1
+10 sally will find jesus or let this happen
+11 sally will not let this happen
+12 There is a contradiction here?	no	1
+13 clifton will become james best friend or lay down
+14 clifton will not lay down
+15 There is a contradiction here?	no	1
+1 janet will become the most important tailor in this town or know about us
+2 janet will not become the most important tailor in this town
+3 There is a contradiction here?	no	1
+4 thomas will wake up or build an altar for jon
+5 thomas will not wake up and thomas wil not build an altar for jon
+6 There is a contradiction here?	yes	1
+7 rosa will catch a blue fish or throw everything out the window
+8 rosa will neither catch a blue fish nor throw everything out the window
+9 There is a contradiction here?	yes	1
+10 cory will tell me shannons secret or drink a bottle of wine
+11 cory will not tell me shannons secret and cory wil not drink a bottle of wine
+12 There is a contradiction here?	yes	1
+13 jerry will send me a note or show my new photos
+14 jerry will neither send me a note nor hold her close
+15 There is a contradiction here?	no	1
+1 jessica will begin screaming or draw ahead of the other runners
+2 jessica will not draw ahead of the other runners
+3 There is a contradiction here?	no	1
+4 andy will swim out toward the ashy boat or beat joshua out of 20 dollars
+5 andy will not swim out toward the ashy boat and andy wil not beat joshua out of 20 dollars
+6 There is a contradiction here?	yes	1
+7 veronica will eat a pizza or take a summer job
+8 veronica will neither eat a pizza nor swim out toward the ashy boat
+9 There is a contradiction here?	no	1
+10 brittany will give hazel a black bicycle or fly to dej
+11 brittany will not give hazel a black bicycle and brittany wil not fly to dej
+12 There is a contradiction here?	yes	1
+13 cindy will burn gails house or speak to me
+14 cindy will not burn gails house and cindy wil not speak to me
+15 There is a contradiction here?	yes	1
+1 tim will know about us or lose the orange car in giurgiu
+2 tim will not lose the orange car in giurgiu
+3 There is a contradiction here?	no	1
+4 jacob will drive the truck to fernandos house or go away
+5 jacob will not drive the truck to fernandos house and jacob wil not go away
+6 There is a contradiction here?	yes	1
+7 verna will lead me to kathryns house or tell me everything
+8 verna will not tell me everything
+9 There is a contradiction here?	no	1
+10 kelly will sell me a purple car or read a paper
+11 kelly will not sell me a purple car and kelly wil not read a paper
+12 There is a contradiction here?	yes	1
+13 allan will sleep for eight hours or build a computer
+14 sara will neither sleep for eight hours nor build a computer
+15 There is a contradiction here?	no	1
+1 hector will wear a red hat or lend me julias orange bicycle
+2 hector will neither wear a red hat nor lend me julias orange bicycle
+3 There is a contradiction here?	yes	1
+4 kristin will sing a nice song or understand what i said
+5 misty will neither sing a nice song nor understand what i said
+6 There is a contradiction here?	no	1
+7 chester will begin laughing or let this happen
+8 chester will not begin laughing and chester wil not let this happen
+9 There is a contradiction here?	yes	1
+10 phyllis will wear a purple jacket or wake up
+11 phyllis will not wear a purple jacket
+12 There is a contradiction here?	no	1
+13 lynn will become the most important chef in this town or throw everything out the window
+14 lynn will not become the most important chef in this town and lynn wil not throw everything out the window
+15 There is a contradiction here?	yes	1
+1 samuel will lend me wesleys ashy bicycle or lead me to leslies house
+2 samuel will not lend me wesleys ashy bicycle and samuel wil not lead me to leslies house
+3 There is a contradiction here?	yes	1
+4 alicia will cut my hair or send me a note
+5 alicia will neither cut my hair nor let me drive allans lemon car
+6 There is a contradiction here?	no	1
+7 norma will cut a tree or lay down
+8 norma will not cut a tree and norma wil not lay down
+9 There is a contradiction here?	yes	1
+10 kevin will dig a hole or lay his hands on him
+11 kevin will not dig a hole and kevin wil not lay his hands on him
+12 There is a contradiction here?	yes	1
+13 ronnie will become very important to me or write a song about the sky
+14 ronnie will not write a song about the sky
+15 There is a contradiction here?	no	1
+1 renee will feel a strange or meet him
+2 renee will neither feel a strange nor meet him
+3 There is a contradiction here?	yes	1
+4 roberto will hold her close or fight justin
+5 roberto will not hold her close and roberto wil not fight justin
+6 There is a contradiction here?	yes	1
+7 jennifer will lay his hands on her or tell me everything
+8 jennifer will not lay his hands on her
+9 There is a contradiction here?	no	1
+10 betty will put the phone down or eat it all
+11 betty will neither put the phone down nor stand in front of the crowd
+12 There is a contradiction here?	no	1
+13 helen will spend all my money or speak to me
+14 helen will not spend all my money
+15 There is a contradiction here?	no	1
+1 vanessa will sell me a green car or forget about micheals past
+2 vanessa will not sell me a green car and vanessa wil not forget about micheals past
+3 There is a contradiction here?	yes	1
+4 nathaniel will take the footage or catch a black fish
+5 nathaniel will neither pay me nor catch a black fish
+6 There is a contradiction here?	no	1
+7 pedro will send me a note or teach math
+8 pedro will neither grow up in jail nor teach math
+9 There is a contradiction here?	no	1
+10 julia will shut the door down or sleep the night
+11 julia will neither shut the door down nor blow me off
+12 There is a contradiction here?	no	1
+13 francisco will do some good work or see wayne
+14 francisco will neither choose this way of life nor see wayne
+15 There is a contradiction here?	no	1
+1 clifton will leave barcelona for reghin or tell me everything
+2 clifton will not tell me everything
+3 There is a contradiction here?	no	1
+4 armando will put holly in charge or take office
+5 armando will not put holly in charge
+6 There is a contradiction here?	no	1
+7 kristina will win the soccer match or have it all
+8 kristina will neither lead me to sheryls house nor have it all
+9 There is a contradiction here?	no	1
+10 shane will tell me everything or pay michelle
+11 shane will neither tell me everything nor pay michelle
+12 There is a contradiction here?	yes	1
+13 lucille will hear me or win the soccer match
+14 lucille will not win the soccer match
+15 There is a contradiction here?	no	1
+1 guadalupe will dream of the being a cashier or wake up
+2 guadalupe will neither dream of the being a cashier nor wake up
+3 There is a contradiction here?	yes	1
+4 justin will ring into andrew or bend the rules of the card game
+5 justin will not bend the rules of the card game
+6 There is a contradiction here?	no	1
+7 ian will understand what i said or teach jerome about songwriting
+8 ian will not understand what i said and ian wil not teach jerome about songwriting
+9 There is a contradiction here?	yes	1
+10 brandi will give edna a yellow car or beat her
+11 brandi will not give edna a yellow car and brandi wil not beat her
+12 There is a contradiction here?	yes	1
+13 carla will keep julios secret from me or sit on the mat
+14 carla will not keep julios secret from me and carla wil not sit on the mat
+15 There is a contradiction here?	yes	1
+1 courtney will ring from barcelona to turda or sit on the floor
+2 courtney will not ring from barcelona to turda and courtney wil not sit on the floor
+3 There is a contradiction here?	yes	1
+4 nelson will send me a letter or spend all my money
+5 nelson will neither say nice things nor spend all my money
+6 There is a contradiction here?	no	1
+7 nathaniel will burn the flag or bring me out of sues house
+8 nathaniel will not bring me out of sues house
+9 There is a contradiction here?	no	1
+10 erik will see a icy car running fast or ring into william
+11 erik will not see a icy car running fast and erik wil not ring into william
+12 There is a contradiction here?	yes	1
+13 ada will hear my voice or bring me out of alfredos house
+14 ada will neither say nice things nor bring me out of alfredos house
+15 There is a contradiction here?	no	1
+1 joann will sit on the chair or hit me
+2 joann will not sit on the chair and joann wil not hit me
+3 There is a contradiction here?	yes	1
+4 bryan will let use this pen or draw ahead of the other runners
+5 bryan will not let use this pen and bryan wil not draw ahead of the other runners
+6 There is a contradiction here?	yes	1
+7 jennifer will break floyds heart or spend all my money
+8 jennifer will not break floyds heart
+9 There is a contradiction here?	no	1
+10 bobby will forgive me or drive the truck to guys house
+11 bobby will neither beat her nor drive the truck to guys house
+12 There is a contradiction here?	no	1
+13 guadalupe will wear a red hat or stand up to bobby
+14 guadalupe will not stand up to bobby
+15 There is a contradiction here?	no	1
+1 anne will blow it when he didnt invest in amazon or wear a gray jacket
+2 anne will not blow it when he didnt invest in amazon and anne wil not wear a gray jacket
+3 There is a contradiction here?	yes	1
+4 kirk will beat her or understand what i said
+5 kirk will not beat her
+6 There is a contradiction here?	no	1
+7 vanessa will put darrell in charge or choose this way of life
+8 vanessa will not choose this way of life
+9 There is a contradiction here?	no	1
+10 carmen will leave me or lose the green car in oradea
+11 carmen will not leave me and carmen wil not lose the green car in oradea
+12 There is a contradiction here?	yes	1
+13 pauline will freeze daisys bank account or keep the game alive
+14 pauline will neither freeze daisys bank account nor keep the game alive
+15 There is a contradiction here?	yes	1
+1 mark will throw everything out the window or fight me
+2 mark will not throw everything out the window and mark wil not fight me
+3 There is a contradiction here?	yes	1
+4 margie will stand in front of the crowd or speak to him about oradea
+5 margie will neither stand in front of the crowd nor speak to him about oradea
+6 There is a contradiction here?	yes	1
+7 nellie will win the game or let use this pen
+8 viola will neither win the game nor let use this pen
+9 There is a contradiction here?	no	1
+10 deanna will let this happen or buy a black bicycle
+11 deanna will not let this happen and deanna wil not buy a black bicycle
+12 There is a contradiction here?	yes	1
+13 oscar will sing a pop song or grow up in jail
+14 oscar will not grow up in jail
+15 There is a contradiction here?	no	1
+1 constance will wake up or think jimmie was going to die
+2 constance will not think jimmie was going to die
+3 There is a contradiction here?	no	1
+4 lawrence will build an altar for jill or let use this pen
+5 lawrence will neither break bens heart nor let use this pen
+6 There is a contradiction here?	no	1
+7 carlos will wake up or get the money
+8 carlos will not wake up and carlos wil not get the money
+9 There is a contradiction here?	yes	1
+10 lonnie will ride the horse or tell me sarahs secret
+11 lonnie will not ride the horse
+12 There is a contradiction here?	no	1
+13 andy will write me an email or forget about josephines past
+14 andy will not forget about josephines past
+15 There is a contradiction here?	no	1
+1 mabel will lend me lesters mango bicycle or draw ahead of the other runners
+2 mabel will not draw ahead of the other runners
+3 There is a contradiction here?	no	1
+4 carl will win the soccer match or hold her close
+5 carl will not win the soccer match and carl wil not hold her close
+6 There is a contradiction here?	yes	1
+7 maxine will pay me or find him
+8 maxine will not find him
+9 There is a contradiction here?	no	1
+10 jacob will take a summer job or lay his hands on her
+11 dale will neither take a summer job nor lay his hands on her
+12 There is a contradiction here?	no	1
+13 vicki will make coffee or understand what beth comment about bucharest
+14 vicki will not make coffee
+15 There is a contradiction here?	no	1
+1 jim will shut the door down or know about us
+2 jim will neither shut the door down nor know about us
+3 There is a contradiction here?	yes	1
+4 rachel will drink a bottle of water or know about us
+5 rachel will neither drink a bottle of water nor know about us
+6 There is a contradiction here?	yes	1
+7 ellen will draw ahead of the other runners or swim out toward the white boat
+8 ellen will not draw ahead of the other runners
+9 There is a contradiction here?	no	1
+10 kelly will take the footage or bet on the wining horse
+11 kelly will neither take the footage nor bet on the wining horse
+12 There is a contradiction here?	yes	1
+13 virgil will begin crying or pay cecilia
+14 virgil will not begin crying and virgil wil not pay cecilia
+15 There is a contradiction here?	yes	1
+1 francis will hang up on me or drive awayto the bus stop
+2 francis will not drive awayto the bus stop
+3 There is a contradiction here?	no	1
+4 harvey will give juana a icy bicycle or buy a watch
+5 harvey will not give juana a icy bicycle and harvey wil not buy a watch
+6 There is a contradiction here?	yes	1
+7 christian will hang up on lloyd or feel an outsider
+8 christian will neither hang up on lloyd nor feel an outsider
+9 There is a contradiction here?	yes	1
+10 felix will say funny things or choose this way of life
+11 felix will neither say funny things nor choose this way of life
+12 There is a contradiction here?	yes	1
+13 carl will find thisme or begin screaming
+14 carl will not begin screaming
+15 There is a contradiction here?	no	1
+1 danielle will know reginalds secret or drive awayto the bus stop
+2 danielle will neither grow up nor drive awayto the bus stop
+3 There is a contradiction here?	no	1
+4 nathan will blow it or bring me out of jeffreys house
+5 nathan will neither write a song about the sky nor bring me out of jeffreys house
+6 There is a contradiction here?	no	1
+7 juana will grow up in jail or stand up to jo
+8 juana will neither throw everything out the window nor stand up to jo
+9 There is a contradiction here?	no	1
+10 lewis will teach sonia about songwriting or shut the door down
+11 lewis will not shut the door down
+12 There is a contradiction here?	no	1
+13 george will teach math or hit me
+14 george will not hit me
+15 There is a contradiction here?	no	1
+1 arthur will hang up on bradley or meet me
+2 arthur will not hang up on bradley
+3 There is a contradiction here?	no	1
+4 willie will hang up on glenda or feel an outsider
+5 willie will neither hang up on glenda nor feel an outsider
+6 There is a contradiction here?	yes	1
+7 jason will tell me neils secret or forgive me
+8 jason will neither tell me neils secret nor forgive me
+9 There is a contradiction here?	yes	1
+10 marvin will bring me out of doloress house or spend all my money
+11 marvin will neither bring me out of doloress house nor spend all my money
+12 There is a contradiction here?	yes	1
+13 nicholas will make me change the way i wrote or show my new photos
+14 nicholas will neither make me change the way i wrote nor show my new photos
+15 There is a contradiction here?	yes	1
+1 deanna will see the best barber from deva or let use this pen
+2 deanna will not see the best barber from deva and deanna wil not let use this pen
+3 There is a contradiction here?	yes	1
+4 reginald will fight eric or sleep for eight hours
+5 reginald will neither fight eric nor sleep for eight hours
+6 There is a contradiction here?	yes	1
+7 jacob will beat him or cut a tree
+8 jacob will not beat him and jacob wil not cut a tree
+9 There is a contradiction here?	yes	1
+10 neil will have a good week or see me
+11 neil will not have a good week
+12 There is a contradiction here?	no	1
+13 milton will draw ahead of the other runners or teach joel about songwriting
+14 milton will not draw ahead of the other runners
+15 There is a contradiction here?	no	1
+1 olga will sing a pop song or fall off
+2 olga will not sing a pop song and olga wil not fall off
+3 There is a contradiction here?	yes	1
+4 lola will make me change the way i wrote or wear a yellow hat
+5 lola will neither make me change the way i wrote nor build janies house
+6 There is a contradiction here?	no	1
+7 kelly will catch a red fish or get the money
+8 kelly will neither catch a red fish nor get the money
+9 There is a contradiction here?	yes	1
+10 evelyn will bend the green rod or catch a salmon fish
+11 evelyn will not bend the green rod and evelyn wil not catch a salmon fish
+12 There is a contradiction here?	yes	1
+13 lynda will draw ahead of the other runners or hear my voice
+14 lynda will not draw ahead of the other runners and lynda wil not hear my voice
+15 There is a contradiction here?	yes	1
+1 robin will forget about dannys hobby or have it all
+2 robin will not forget about dannys hobby and robin wil not have it all
+3 There is a contradiction here?	yes	1
+4 jordan will fall in love with darryl or find what i was looking for
+5 jordan will not fall in love with darryl and jordan wil not find what i was looking for
+6 There is a contradiction here?	yes	1
+7 penny will put roberta in charge or speak to me
+8 penny will not put roberta in charge and penny wil not speak to me
+9 There is a contradiction here?	yes	1
+10 miriam will lose my computer or lay his hands on him
+11 miriam will neither lose my computer nor lay his hands on him
+12 There is a contradiction here?	yes	1
+13 shannon will hear kenneth or become ricky best friend
+14 donald will neither hear kenneth nor become ricky best friend
+15 There is a contradiction here?	no	1
+1 floyd will think i was living in oradea or begin screaming
+2 floyd will neither think i was living in oradea nor begin screaming
+3 There is a contradiction here?	yes	1
+4 deanna will keep the game alive or bend the rules of the soccer game
+5 deanna will not keep the game alive and deanna wil not bend the rules of the soccer game
+6 There is a contradiction here?	yes	1
+7 claudia will get the money or lead me to chads house
+8 claudia will neither get the money nor lead me to chads house
+9 There is a contradiction here?	yes	1
+10 suzanne will sit on the floor or build franciscos house
+11 suzanne will neither sit on the floor nor build franciscos house
+12 There is a contradiction here?	yes	1
+13 leon will stand up to tina or ride the buffalo
+14 leon will not stand up to tina and leon wil not ride the buffalo
+15 There is a contradiction here?	yes	1
+1 steven will wake up or lend me some money a month before
+2 marlene will neither wake up nor lend me some money a month before
+3 There is a contradiction here?	no	1
+4 ernest will fall off or put travis in charge
+5 norma will neither fall off nor put travis in charge
+6 There is a contradiction here?	no	1
+7 cecilia will lay his hands on her or win the soccer match
+8 cecilia will not lay his hands on her and cecilia wil not win the soccer match
+9 There is a contradiction here?	yes	1
+10 kathy will show my new photos or put the phone down
+11 kathy will not show my new photos
+12 There is a contradiction here?	no	1
+13 john will blow it when he didnt invest in amazon or sleep for one day
+14 wendy will neither blow it when he didnt invest in amazon nor sleep for one day
+15 There is a contradiction here?	no	1
+1 eugene will fight inez or eat it all
+2 eugene will neither fight inez nor freeze my account
+3 There is a contradiction here?	no	1
+4 charlie will have a good week or begin screaming
+5 charlie will neither have a good week nor begin screaming
+6 There is a contradiction here?	yes	1
+7 leah will throw everything out the window or give heather a blue shirt
+8 leah will neither throw everything out the window nor give heather a blue shirt
+9 There is a contradiction here?	yes	1
+10 clyde will bet on the icy car or take the blue shirt out of the washer
+11 clyde will not bet on the icy car
+12 There is a contradiction here?	no	1
+13 martha will become very important to me or put the phone down
+14 martha will not become very important to me and martha wil not put the phone down
+15 There is a contradiction here?	yes	1
+1 mark will lay his hands on her or stand in front of the crowd
+2 mark will neither lay his hands on her nor speak to me
+3 There is a contradiction here?	no	1
+4 melanie will shut the door down or let me drive julias yellow car
+5 melanie will neither shut the door down nor let me drive julias yellow car
+6 There is a contradiction here?	yes	1
+7 sue will pay me or wake up
+8 rita will neither pay me nor wake up
+9 There is a contradiction here?	no	1
+10 russell will begin crying or understand what paula comment about craiova
+11 russell will neither begin crying nor lose marshalls salmon car
+12 There is a contradiction here?	no	1
+13 sandra will throw everything out the window or ride the horse
+14 franklin will neither throw everything out the window nor ride the horse
+15 There is a contradiction here?	no	1
+1 caroline will lay his hands on her or make me change the way i wrote
+2 caroline will not lay his hands on her
+3 There is a contradiction here?	no	1
+4 inez will send me a letter or wake up
+5 inez will neither give delores a salmon car nor wake up
+6 There is a contradiction here?	no	1
+7 bonnie will forget about monicas hobby or write me about todd
+8 bonnie will not write me about todd
+9 There is a contradiction here?	no	1
+10 wallace will feel an outsider or hold me back
+11 wallace will neither feel an outsider nor hold me back
+12 There is a contradiction here?	yes	1
+13 sonya will bend the rules of the soccer game or get me lying
+14 sonya will not bend the rules of the soccer game and sonya wil not get me lying
+15 There is a contradiction here?	yes	1
+1 angie will fight darren or leave me waiting
+2 angie will not fight darren
+3 There is a contradiction here?	no	1
+4 seth will think i was living in dej or forget about johnnys hobby
+5 seth will not forget about johnnys hobby
+6 There is a contradiction here?	no	1
+7 dan will break the record or stand in front of the crowd
+8 dan will not break the record and dan wil not stand in front of the crowd
+9 There is a contradiction here?	yes	1
+10 bernice will draw ahead of the other runners or begin screaming
+11 bernice will not begin screaming
+12 There is a contradiction here?	no	1
+13 esther will win the soccer match or understand what i said
+14 esther will neither win the soccer match nor put the phone down
+15 There is a contradiction here?	no	1
+1 floyd will build a computer or hold him close
+2 jessie will neither build a computer nor hold him close
+3 There is a contradiction here?	no	1
+4 bonnie will hide a smile or dig a hole
+5 bonnie will neither hide a smile nor dig a hole
+6 There is a contradiction here?	yes	1
+7 bobbie will hang up on bernard or ride the horse
+8 leonard will neither hang up on bernard nor ride the horse
+9 There is a contradiction here?	no	1
+10 joel will lend me arnolds black bicycle or throw everything out the window
+11 joel will neither see him nor throw everything out the window
+12 There is a contradiction here?	no	1
+13 olivia will meet me or draw ahead of the other runners
+14 olivia will neither meet me nor draw ahead of the other runners
+15 There is a contradiction here?	yes	1
+1 hazel will ride the buffalo or go away
+2 hazel will neither ride the buffalo nor go away
+3 There is a contradiction here?	yes	1
+4 irene will forgive me or eat it all
+5 irene will not forgive me
+6 There is a contradiction here?	no	1
+7 norman will choose this soccer team or eat an apple
+8 norman will neither drive the truck to fannies house nor eat an apple
+9 There is a contradiction here?	no	1
+10 lisa will bend the rules of the soccer game or wake up
+11 lisa will neither bend the rules of the soccer game nor wake up
+12 There is a contradiction here?	yes	1
+13 bernice will blow me off or pay him
+14 bernice will neither blow me off nor pay him
+15 There is a contradiction here?	yes	1
+1 adam will fall to the floor or do some good work
+2 erik will neither fall to the floor nor do some good work
+3 There is a contradiction here?	no	1
+4 marsha will build a computer or let me drive catherines blue car
+5 linda will neither build a computer nor let me drive catherines blue car
+6 There is a contradiction here?	no	1
+7 candice will cut a tree or do some good work
+8 candice will not do some good work
+9 There is a contradiction here?	no	1
+10 alvin will eat it all or hide behind a bush
+11 alvin will not eat it all and alvin wil not hide behind a bush
+12 There is a contradiction here?	yes	1
+13 blanche will lose claudias green car or grow up in jail
+14 lula will neither lose claudias green car nor grow up in jail
+15 There is a contradiction here?	no	1
+1 corey will bring me out of jimmys house or dig a hole in ediths backyard
+2 corey will not bring me out of jimmys house and corey wil not dig a hole in ediths backyard
+3 There is a contradiction here?	yes	1
+4 beatrice will draw ahead of the other runners or teach math
+5 beatrice will not draw ahead of the other runners
+6 There is a contradiction here?	no	1
+7 jeanette will think duane was going to die or forgive judith
+8 everett will neither think duane was going to die nor forgive judith
+9 There is a contradiction here?	no	1
+10 leslie will drink a bottle of water or forgive heidi
+11 misty will neither drink a bottle of water nor forgive heidi
+12 There is a contradiction here?	no	1
+13 ashley will wear a black jacket or stand up to dave
+14 ashley will neither wear a black jacket nor stand up to dave
+15 There is a contradiction here?	yes	1
+1 leona will drive awayto the bus stop or get the money
+2 leona will not drive awayto the bus stop and leona wil not get the money
+3 There is a contradiction here?	yes	1
+4 andrew will drink a beer or tell me everything
+5 rene will neither drink a beer nor tell me everything
+6 There is a contradiction here?	no	1
+7 suzanne will break garys heart or bring me out of rafaels house
+8 suzanne will not break garys heart and suzanne wil not bring me out of rafaels house
+9 There is a contradiction here?	yes	1
+10 joyce will beat judy out of 20 dollars or give nelson a icy car
+11 dora will neither beat judy out of 20 dollars nor give nelson a icy car
+12 There is a contradiction here?	no	1
+13 pauline will dream of the playing with harry or pay her
+14 pauline will neither dream of the playing with harry nor pay her
+15 There is a contradiction here?	yes	1
+1 angel will dig a hole in sallys backyard or ring into maggie
+2 lee will neither dig a hole in sallys backyard nor ring into maggie
+3 There is a contradiction here?	no	1
+4 toni will come at midnight or pay deanna
+5 johnny will neither come at midnight nor pay deanna
+6 There is a contradiction here?	no	1
+7 becky will bet on the game or keep saying this was crazy
+8 becky will neither bet on the game nor keep saying this was crazy
+9 There is a contradiction here?	yes	1
+10 nicole will hear my voice or lend me some money a month before
+11 nicole will neither hear my voice nor lend me some money a month before
+12 There is a contradiction here?	yes	1
+13 madeline will lay down or feel an outsider
+14 madeline will not lay down and madeline wil not feel an outsider
+15 There is a contradiction here?	yes	1
+1 virgil will begin laughing or wear a orange jacket
+2 virgil will neither begin laughing nor wear a orange jacket
+3 There is a contradiction here?	yes	1
+4 heidi will cut a tree or ring from barcelona to deva
+5 heidi will not ring from barcelona to deva
+6 There is a contradiction here?	no	1
+7 jane will lend me lindas lemon bicycle or send me a note
+8 jane will neither drink an orange juice nor send me a note
+9 There is a contradiction here?	no	1
+10 amelia will lead me to charlies house or sleep the night
+11 amelia will neither lead me to charlies house nor think calvin was going to die
+12 There is a contradiction here?	no	1
+13 nathan will give alfredo a yellow bicycle or know chads secret
+14 iris will neither give alfredo a yellow bicycle nor know chads secret
+15 There is a contradiction here?	no	1
+1 jessie will forget about glorias past or understand what kyle comment about craiova
+2 renee will neither forget about glorias past nor understand what kyle comment about craiova
+3 There is a contradiction here?	no	1
+4 terry will choose to live in hunedoara or bend the mango rod
+5 terry will not choose to live in hunedoara
+6 There is a contradiction here?	no	1
+7 amy will wake up or tell me everything
+8 amy will neither wake up nor tell me everything
+9 There is a contradiction here?	yes	1
+10 christian will drive the truck to martins house or give marvin a red bicycle
+11 christian will not drive the truck to martins house and christian wil not give marvin a red bicycle
+12 There is a contradiction here?	yes	1
+13 diane will sell melanies bicycle or hide a smile
+14 kathryn will neither sell melanies bicycle nor hide a smile
+15 There is a contradiction here?	no	1
+1 tracey will meet naomi or forget about staceys past
+2 tracey will not meet naomi and tracey wil not forget about staceys past
+3 There is a contradiction here?	yes	1
+4 carlos will find her or lead me to corys house
+5 carlos will neither find her nor lead me to corys house
+6 There is a contradiction here?	yes	1
+7 daisy will fall off or lend me tanyas yellow bicycle
+8 daisy will not fall off
+9 There is a contradiction here?	no	1
+10 denise will shut the door down or find this purple car
+11 denise will not shut the door down and denise wil not find this purple car
+12 There is a contradiction here?	yes	1
+13 mamie will have it all or see me
+14 mamie will not see me
+15 There is a contradiction here?	no	1
+1 chris will hit a tree or feel an outsider
+2 chris will not hit a tree
+3 There is a contradiction here?	no	1
+4 sally will understand what i said or have it all
+5 sally will neither understand what i said nor have it all
+6 There is a contradiction here?	yes	1
+7 jessie will hold me back or have it all
+8 jessie will not hold me back and jessie wil not have it all
+9 There is a contradiction here?	yes	1
+10 troy will grow up or teach math
+11 troy will neither grow up nor teach math
+12 There is a contradiction here?	yes	1
+13 bobby will fall to the floor or forget about terrys hobby
+14 marvin will neither fall to the floor nor forget about terrys hobby
+15 There is a contradiction here?	no	1
+1 misty will know glorias secret or drink an orange juice
+2 misty will not know glorias secret and misty wil not drink an orange juice
+3 There is a contradiction here?	yes	1
+4 kelly will freeze charlottes bank account or hold me back
+5 kelly will not freeze charlottes bank account and kelly wil not hold me back
+6 There is a contradiction here?	yes	1
+7 joe will eat a steak or forgive me
+8 joe will not eat a steak
+9 There is a contradiction here?	no	1
+10 lucille will eat an apple or hang up on me
+11 lucille will not hang up on me
+12 There is a contradiction here?	no	1
+13 martin will lend me marions orange bicycle or forget about catherines past
+14 troy will neither lend me marions orange bicycle nor forget about catherines past
+15 There is a contradiction here?	no	1
+1 morris will catch a salmon fish or throw everything out the window
+2 morris will neither catch a salmon fish nor throw everything out the window
+3 There is a contradiction here?	yes	1
+4 shannon will hold him close or drive the truck to toms house
+5 shannon will neither hold him close nor drive the truck to toms house
+6 There is a contradiction here?	yes	1
+7 johnnie will write me about jonathan or sleep the night
+8 johnnie will neither write me about jonathan nor sleep the night
+9 There is a contradiction here?	yes	1
+10 linda will see me or make tea
+11 linda will not see me and linda wil not make tea
+12 There is a contradiction here?	yes	1
+13 misty will understand what i said or forgive alma
+14 jesse will neither understand what i said nor forgive alma
+15 There is a contradiction here?	no	1
+1 chad will catch a salmon fish or understand what jim comment about vaslui
+2 chad will neither catch a salmon fish nor understand what jim comment about vaslui
+3 There is a contradiction here?	yes	1
+4 casey will fly to clujnapoca or bet on the wining horse
+5 casey will not fly to clujnapoca and casey wil not bet on the wining horse
+6 There is a contradiction here?	yes	1
+7 ricardo will hear my voice or wear a black hat
+8 ricardo will neither hear my voice nor wear a black hat
+9 There is a contradiction here?	yes	1
+10 marcia will bet on the wining horse or grow up in jail
+11 marcia will neither bet on the wining horse nor grow up in jail
+12 There is a contradiction here?	yes	1
+13 michelle will build an altar for donna or lay his hands on him
+14 naomi will neither build an altar for donna nor lay his hands on him
+15 There is a contradiction here?	no	1
+1 bonnie will blow it or drink a bottle of water
+2 bruce will neither blow it nor drink a bottle of water
+3 There is a contradiction here?	no	1
+4 calvin will catch a mango fish or make me change the way i wrote
+5 calvin will neither catch a mango fish nor make me change the way i wrote
+6 There is a contradiction here?	yes	1
+7 rachel will teach victor about songwriting or fly to mangalia
+8 lydia will neither teach victor about songwriting nor fly to mangalia
+9 There is a contradiction here?	no	1
+10 martha will grow up in jail or find him
+11 martha will not find him
+12 There is a contradiction here?	no	1
+13 bradley will lay his hands on him or eat it all
+14 bradley will not lay his hands on him and bradley wil not eat it all
+15 There is a contradiction here?	yes	1
+1 gregory will lose lawrences icy car or lend me some money a month before
+2 gregory will not lose lawrences icy car and gregory wil not lend me some money a month before
+3 There is a contradiction here?	yes	1
+4 jaime will lose my computer or choose to live in blaj
+5 jaime will not choose to live in blaj
+6 There is a contradiction here?	no	1
+7 karl will drink a bottle of water or stand up to joy
+8 karl will not drink a bottle of water and karl wil not stand up to joy
+9 There is a contradiction here?	yes	1
+10 julia will begin crying or fly to vaslui
+11 julia will not begin crying and julia wil not fly to vaslui
+12 There is a contradiction here?	yes	1
+13 jared will freeze my account or wake up
+14 jared will not freeze my account and jared wil not wake up
+15 There is a contradiction here?	yes	1
+1 erika will do it again or understand what mamie comment about lugoj
+2 joyce will neither do it again nor understand what mamie comment about lugoj
+3 There is a contradiction here?	no	1
+4 sherry will send me a note or read the news
+5 sherry will not send me a note
+6 There is a contradiction here?	no	1
+7 victor will dig a hole in lillies backyard or draw ahead of the other runners
+8 victor will not dig a hole in lillies backyard and victor wil not draw ahead of the other runners
+9 There is a contradiction here?	yes	1
+10 marian will swim out toward the salmon boat or freeze my account
+11 marian will neither swim out toward the salmon boat nor freeze my account
+12 There is a contradiction here?	yes	1
+13 sandy will catch a mango fish or lay his hands on her
+14 gina will neither catch a mango fish nor lay his hands on her
+15 There is a contradiction here?	no	1
+1 stacey will get me lying or hold me back
+2 stacey will neither get me lying nor hold me back
+3 There is a contradiction here?	yes	1
+4 patrick will wear a blue hat or spend all my money
+5 patrick will neither wear a blue hat nor spend all my money
+6 There is a contradiction here?	yes	1
+7 joshua will know about us or bring me out of shanes house
+8 joshua will neither know about us nor bring me out of shanes house
+9 There is a contradiction here?	yes	1
+10 troy will find him or drive the truck to jeremys house
+11 zachary will neither find him nor drive the truck to jeremys house
+12 There is a contradiction here?	no	1
+13 maurice will break wallaces heart or eat an apple
+14 melvin will neither break wallaces heart nor eat an apple
+15 There is a contradiction here?	no	1
+1 dennis will teach middle school science or ride the horse
+2 dennis will not teach middle school science
+3 There is a contradiction here?	no	1
+4 gail will send me a note or come at night
+5 gail will not send me a note
+6 There is a contradiction here?	no	1
+7 dustin will dream of the being a electrician or get me lying
+8 dustin will not dream of the being a electrician
+9 There is a contradiction here?	no	1
+10 roberta will forget about ivans hobby or dig a hole in the garden
+11 roberta will not dig a hole in the garden
+12 There is a contradiction here?	no	1
+13 juana will sleep for one day or bring me out of leons house
+14 juana will not sleep for one day and juana wil not bring me out of leons house
+15 There is a contradiction here?	yes	1
+1 ida will bring me out of eunices house or sell me a mango car
+2 ida will not sell me a mango car
+3 There is a contradiction here?	no	1
+4 leroy will let me drive sarahs black car or lead me to marias house
+5 leroy will not let me drive sarahs black car
+6 There is a contradiction here?	no	1
+7 harry will dream of the playing with phyllis or know about us
+8 harry will neither dream of the playing with phyllis nor know about us
+9 There is a contradiction here?	yes	1
+10 bobbie will draw ahead of the other runners or wake up
+11 bobbie will neither draw ahead of the other runners nor wake up
+12 There is a contradiction here?	yes	1
+13 molly will grow up in jail or teach math
+14 molly will neither draw ahead of the other runners nor teach math
+15 There is a contradiction here?	no	1
+1 jeffrey will spend all my money or say funny things
+2 jeffrey will neither spend all my money nor say funny things
+3 There is a contradiction here?	yes	1
+4 megan will freeze my account or wear a green hat
+5 megan will neither freeze my account nor wear a green hat
+6 There is a contradiction here?	yes	1
+7 kelly will show my new photos or go to shirleys house
+8 wallace will neither show my new photos nor go to shirleys house
+9 There is a contradiction here?	no	1
+10 johnnie will dig a hole or cut a tree
+11 johnnie will not dig a hole
+12 There is a contradiction here?	no	1
+13 cindy will come at midnight or put felicia in charge
+14 cindy will not come at midnight and cindy wil not put felicia in charge
+15 There is a contradiction here?	yes	1
+1 anita will sit on the mat or swim out toward the orange boat
+2 anita will not swim out toward the orange boat
+3 There is a contradiction here?	no	1
+4 clifton will have a good daya good conversation with brandon or drink a beer
+5 clifton will neither have a good daya good conversation with brandon nor drink a beer
+6 There is a contradiction here?	yes	1
+7 stephanie will do everything or drive the truck to henrys house
+8 stephanie will not do everything
+9 There is a contradiction here?	no	1
+10 corey will lead me to marions house or send me a letter
+11 harry will neither lead me to marions house nor send me a letter
+12 There is a contradiction here?	no	1
+13 kimberly will pay me or hang up on me
+14 glenda will neither pay me nor hang up on me
+15 There is a contradiction here?	no	1
+1 kathryn will have it all or send me a note
+2 kathryn will not have it all and kathryn wil not send me a note
+3 There is a contradiction here?	yes	1
+4 margarita will sell lorettas bicycle or speak to him about reghin
+5 margarita will not speak to him about reghin
+6 There is a contradiction here?	no	1
+7 velma will hang up on me or choose this soccer team
+8 velma will not hang up on me
+9 There is a contradiction here?	no	1
+10 wade will eat an apple or lend me some money
+11 wade will neither eat an apple nor come at night
+12 There is a contradiction here?	no	1
+13 edward will find thisme or fall off
+14 edward will neither find thisme nor fall off
+15 There is a contradiction here?	yes	1
+1 adam will blow it when he didnt invest in amazon or drive awayto the bus stop
+2 adam will not blow it when he didnt invest in amazon
+3 There is a contradiction here?	no	1
+4 joann will throw everything out the window or forgive yvette
+5 joann will neither throw everything out the window nor forgive yvette
+6 There is a contradiction here?	yes	1
+7 lee will forget about virgils past or drive awayto the bus stop
+8 lee will neither think i was helping eileen nor drive awayto the bus stop
+9 There is a contradiction here?	no	1
+10 douglas will begin crying or sleep for eight hours
+11 douglas will neither begin crying nor sleep for eight hours
+12 There is a contradiction here?	yes	1
+13 raul will sell velmas bicycle or leave barcelona for oradea
+14 raul will neither lose kristines black car nor leave barcelona for oradea
+15 There is a contradiction here?	no	1
+1 rick will drink a bottle of water or think i was helping vicki
+2 rick will neither drink a bottle of water nor think i was helping vicki
+3 There is a contradiction here?	yes	1
+4 bessie will begin laughing or let this happen
+5 bessie will neither begin laughing nor let this happen
+6 There is a contradiction here?	yes	1
+7 charlie will sit on the chair or get the money
+8 charlie will not get the money
+9 There is a contradiction here?	no	1
+10 penny will ride the horse or come at midnight
+11 penny will not ride the horse and penny wil not come at midnight
+12 There is a contradiction here?	yes	1
+13 pauline will sleep for one day or bring me out of andys house
+14 pauline will not sleep for one day and pauline wil not bring me out of andys house
+15 There is a contradiction here?	yes	1
+1 eduardo will feel an outsider or drink a beer
+2 eduardo will not drink a beer
+3 There is a contradiction here?	no	1
+4 laurie will wear a lemon jacket or come at midnight
+5 laurie will neither wear a lemon jacket nor freeze cheryls bank account
+6 There is a contradiction here?	no	1
+7 kimberly will lead me to lauries house or hide behind a bush
+8 kimberly will not lead me to lauries house and kimberly wil not hide behind a bush
+9 There is a contradiction here?	yes	1
+10 leona will stand in front of the crowd or sit on the floor
+11 nathaniel will neither stand in front of the crowd nor sit on the floor
+12 There is a contradiction here?	no	1
+13 charles will hold her close or show oscars old photos
+14 charles will neither hold her close nor show oscars old photos
+15 There is a contradiction here?	yes	1
+1 agnes will lead me to claires house or blow me off
+2 agnes will neither lead me to claires house nor throw everything out the window
+3 There is a contradiction here?	no	1
+4 william will become the most important painter in this town or grow up
+5 william will not become the most important painter in this town and william wil not grow up
+6 There is a contradiction here?	yes	1
+7 brad will get me lying or understand what derrick comment about bucharest
+8 brad will neither get me lying nor understand what derrick comment about bucharest
+9 There is a contradiction here?	yes	1
+10 jan will teach middle school science or bet on the wining horse
+11 jan will neither teach middle school science nor fight the law
+12 There is a contradiction here?	no	1
+13 victoria will beat him or meet him
+14 victoria will not beat him
+15 There is a contradiction here?	no	1
+1 kathryn will fall in love with kristin or lose my computer
+2 kathryn will not fall in love with kristin and kathryn wil not lose my computer
+3 There is a contradiction here?	yes	1
+4 chad will draw ahead of the other runners or grow up in jail
+5 chad will neither catch a white fish nor grow up in jail
+6 There is a contradiction here?	no	1
+7 terrence will make coffee or sleep for one day
+8 terrence will neither choose to live in turda nor sleep for one day
+9 There is a contradiction here?	no	1
+10 roberto will go away or hang up on me
+11 roberto will neither go away nor hang up on me
+12 There is a contradiction here?	yes	1
+13 wesley will swim out toward the icy boat or give jack a ashy bicycle
+14 dwayne will neither swim out toward the icy boat nor give jack a ashy bicycle
+15 There is a contradiction here?	no	1
+1 lydia will say nice things or fall in love with isabel
+2 lydia will neither dream of the playing with ryan nor fall in love with isabel
+3 There is a contradiction here?	no	1
+4 byron will stand in front of the crowd or dig a hole in the garden
+5 byron will neither stand in front of the crowd nor dig a hole in the garden
+6 There is a contradiction here?	yes	1
+7 byron will let me drive cindys green car or blow it
+8 byron will neither let me drive cindys green car nor dig a hole in brents backyard
+9 There is a contradiction here?	no	1
+10 jenny will lead me to kimberlys house or pay me
+11 jenny will neither lead me to kimberlys house nor hang up on reginald
+12 There is a contradiction here?	no	1
+13 greg will hurt her or leave barcelona for arad
+14 greg will neither hurt her nor build a computer
+15 There is a contradiction here?	no	1
+1 sharon will fly to clujnapoca or keep saying this was crazy
+2 sharon will neither fly to clujnapoca nor keep saying this was crazy
+3 There is a contradiction here?	yes	1
+4 jason will build an airplane or win the soccer match
+5 jason will not win the soccer match
+6 There is a contradiction here?	no	1
+7 richard will show ronnies old photos or burn bills house
+8 richard will neither show ronnies old photos nor burn bills house
+9 There is a contradiction here?	yes	1
+10 jay will go away or lend me some money a month before
+11 jay will not go away and jay wil not lend me some money a month before
+12 There is a contradiction here?	yes	1
+13 jessie will forget about marions past or freeze ricks bank account
+14 jessie will not forget about marions past
+15 There is a contradiction here?	no	1

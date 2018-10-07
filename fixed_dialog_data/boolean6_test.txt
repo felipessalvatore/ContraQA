@@ -1,0 +1,3000 @@
+1 pauline who is a hairdresser bought a macbook
+2 pauline who is a cleaner didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 kevin who is a technician bought a cup of coffee
+5 kevin who is a secretary didnt buy a cup of coffee
+6 There is a contradiction here?	no	1
+7 elaine who is a secretary saw the accident
+8 elaine isnt a secretary
+9 There is a contradiction here?	yes	1
+10 melvin who is a pilot bought a chilean wine
+11 melvin who is a chef didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 lindsey saw a boy running from a purple car
+14 lindsey didnt saw a boy running
+15 There is a contradiction here?	yes	1
+1 cathy saw ramona running from a blue bus
+2 cathy didnt saw ramona running
+3 There is a contradiction here?	yes	1
+4 dean who is a vet visit enrique
+5 dean harveys father didnt visit enrique
+6 There is a contradiction here?	no	1
+7 dale who is a painter visit gene
+8 dale didnt visit gene
+9 There is a contradiction here?	yes	1
+10 margarita who is a receptionist bought a cup of coffee
+11 margarita isnt a receptionist
+12 There is a contradiction here?	yes	1
+13 renee who is a fireman bought a pizza
+14 renee didnt buy a pizza
+15 There is a contradiction here?	yes	1
+1 elizabeth saw a boy running from joans car
+2 elizabeth didnt saw a boy running
+3 There is a contradiction here?	yes	1
+4 june saw a girl driving a salmon car
+5 june didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 barry who is a technician saw the car crash
+8 barry didnt saw the car crash
+9 There is a contradiction here?	yes	1
+10 kristine who is a butcher saw the new marvel movie from the russo brothers
+11 kristine bills mother didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 freddie who is a nurse bought a chilean wine
+14 freddie wilmas father didnt buy a chilean wine
+15 There is a contradiction here?	no	1
+1 felicia who is a barber saw the car crash
+2 felicia cecils mother didnt saw the car crash
+3 There is a contradiction here?	no	1
+4 eileen saw a boy driving a salmon bicycle
+5 eileen didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 daniel who is a musician saw the accident
+8 daniel who is a dentist didnt saw the accident
+9 There is a contradiction here?	no	1
+10 charlene who is a bartender bought a chilean wine
+11 charlene who is a chef didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 hugh who is a electrician saw the new marvel movie from the russo brothers
+14 hugh didnt saw the new marvel movie from the russo brothers
+15 There is a contradiction here?	yes	1
+1 erica saw a girl running from sylvias car
+2 erica didnt saw a girl running
+3 There is a contradiction here?	yes	1
+4 nancy who is a nurse visit kristen
+5 nancy isnt a nurse
+6 There is a contradiction here?	yes	1
+7 richard who is a lawyer visit clinton
+8 richard isnt a lawyer
+9 There is a contradiction here?	yes	1
+10 shannon who is a technician visit sally
+11 shannon didnt visit sally
+12 There is a contradiction here?	yes	1
+13 jim who is a baker visit cecilia
+14 jim isnt a baker
+15 There is a contradiction here?	yes	1
+1 kayla who is a flight attendant bought the new marvel movie from the russo brothers
+2 kayla didnt buy the new marvel movie from the russo brothers
+3 There is a contradiction here?	yes	1
+4 marian who is a barber visit marcia
+5 marian phylliss mother didnt visit marcia
+6 There is a contradiction here?	no	1
+7 nora saw hugh running from derricks car
+8 nora didnt saw hugh running
+9 There is a contradiction here?	yes	1
+10 alice who is a plumber saw a dog chasing a cat
+11 alice yvonnes mother didnt saw a dog chasing a cat
+12 There is a contradiction here?	no	1
+13 amy saw a boy driving rickys car
+14 amy didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 bradley who is a baker bought the new marvel movie from the russo brothers
+2 bradley isnt a baker
+3 There is a contradiction here?	yes	1
+4 kelly saw a boy running from a blue bus with a new engine
+5 kelly didnt saw a boy running from a parade car
+6 There is a contradiction here?	no	1
+7 sandra who is a plumber bought a pizza
+8 sandra isnt a plumber
+9 There is a contradiction here?	yes	1
+10 julio who is a technician saw a dog chasing a cat
+11 julio barrys father didnt saw a dog chasing a cat
+12 There is a contradiction here?	no	1
+13 glen who is a nurse visit curtis
+14 glen isnt a nurse
+15 There is a contradiction here?	yes	1
+1 april who is a lawyer saw a dog chasing a cat
+2 april isnt a lawyer
+3 There is a contradiction here?	yes	1
+4 georgia who is a bartender saw the accident
+5 georgia didnt saw the accident
+6 There is a contradiction here?	yes	1
+7 larry who is a carpenter visit sherry
+8 larry hazels father didnt visit sherry
+9 There is a contradiction here?	no	1
+10 cheryl saw a boy running from a parade car
+11 cheryl didnt saw a boy running from a mango bus with a new engine
+12 There is a contradiction here?	no	1
+13 maurice saw edith driving in vaslui
+14 maurice didnt saw edith driving
+15 There is a contradiction here?	yes	1
+1 sarah who is a pilot saw the car crash
+2 sarah didnt saw the car crash
+3 There is a contradiction here?	yes	1
+4 betty who is a lawyer saw the new marvel movie from the russo brothers
+5 betty didnt saw the new marvel movie from the russo brothers
+6 There is a contradiction here?	yes	1
+7 jan saw juana running from a special recently built bus
+8 jan didnt saw juana running from a black car
+9 There is a contradiction here?	no	1
+10 herman who is a carpenter visit delores
+11 herman who is a barber didnt visit delores
+12 There is a contradiction here?	no	1
+13 pearl saw a girl driving a salmon car
+14 pearl didnt saw a girl driving lawrences car
+15 There is a contradiction here?	no	1
+1 russell who is a butcher visit terry
+2 russell isnt a butcher
+3 There is a contradiction here?	yes	1
+4 joanna who is a nurse saw the accident
+5 joanna isnt a nurse
+6 There is a contradiction here?	yes	1
+7 adam who is a plumber visit molly
+8 adam who is a bartender didnt visit molly
+9 There is a contradiction here?	no	1
+10 dawn saw a girl running from a orange bus with a new engine
+11 dawn didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 earl who is a scientist visit janet
+14 earl isnt a scientist
+15 There is a contradiction here?	yes	1
+1 alan who is a bartender visit georgia
+2 alan lucys father didnt visit georgia
+3 There is a contradiction here?	no	1
+4 shirley who is a judge bought a chilean wine
+5 shirley isnt a judge
+6 There is a contradiction here?	yes	1
+7 charlene who is a flight attendant saw a strange add
+8 charlene isnt a flight attendant
+9 There is a contradiction here?	yes	1
+10 susan who is a vet visit viola
+11 susan isnt a vet
+12 There is a contradiction here?	yes	1
+13 gwendolyn saw justin driving a orange car
+14 gwendolyn didnt saw justin driving a purple bicycle
+15 There is a contradiction here?	no	1
+1 brad who is a accountant bought a pizza
+2 brad iriss father didnt buy a pizza
+3 There is a contradiction here?	no	1
+4 laura who is a lawyer visit elmer
+5 laura didnt visit elmer
+6 There is a contradiction here?	yes	1
+7 kristen who is a builder bought a cup of coffee
+8 kristen sheilas mother didnt buy a cup of coffee
+9 There is a contradiction here?	no	1
+10 gary saw a boy running from a yellow car
+11 gary didnt saw a boy running from a bus going to clujnapoca
+12 There is a contradiction here?	no	1
+13 annie who is a baker bought the new tesla roadster
+14 annie who is a technician didnt buy the new tesla roadster
+15 There is a contradiction here?	no	1
+1 felicia saw iris running from a special recently built bus
+2 felicia didnt saw iris running from a parade car
+3 There is a contradiction here?	no	1
+4 andre who is a lawyer bought a macbook
+5 andre debbies father didnt buy a macbook
+6 There is a contradiction here?	no	1
+7 maxine saw a girl running from a salmon bus
+8 maxine didnt saw a girl running from a bus going to slobozia
+9 There is a contradiction here?	no	1
+10 milton saw a boy running from a bus going to timisoara
+11 milton didnt saw a boy running from a white school bus
+12 There is a contradiction here?	no	1
+13 angie saw a boy driving dans car
+14 angie didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 lillie who is a bartender saw the new marvel movie from the russo brothers
+2 lillie who is a flight attendant didnt saw the new marvel movie from the russo brothers
+3 There is a contradiction here?	no	1
+4 leona who is a baker bought a pizza
+5 leona isnt a baker
+6 There is a contradiction here?	yes	1
+7 jo who is a painter visit arthur
+8 jo isnt a painter
+9 There is a contradiction here?	yes	1
+10 antoinette who is a receptionist visit kristine
+11 antoinette joels mother didnt visit kristine
+12 There is a contradiction here?	no	1
+13 chad saw a boy running from a gray school bus
+14 chad didnt saw a boy running
+15 There is a contradiction here?	yes	1
+1 martin saw harriet driving an electric gray bicycle
+2 martin didnt saw harriet driving
+3 There is a contradiction here?	yes	1
+4 wanda who is a technician visit hugh
+5 wanda didnt visit hugh
+6 There is a contradiction here?	yes	1
+7 maria who is a receptionist bought the new marvel movie from the russo brothers
+8 maria who is a cleaner didnt buy the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 christine who is a baker saw the city mayor
+11 christine allans mother didnt saw the city mayor
+12 There is a contradiction here?	no	1
+13 beatrice who is a barber saw a blue plane
+14 beatrice isnt a barber
+15 There is a contradiction here?	yes	1
+1 connie who is a fireman saw the new marvel movie from the russo brothers
+2 connie isnt a fireman
+3 There is a contradiction here?	yes	1
+4 tamara who is a vet visit joy
+5 tamara who is a electrician didnt visit joy
+6 There is a contradiction here?	no	1
+7 mildred saw a boy running from a lemon school bus
+8 mildred didnt saw a boy running
+9 There is a contradiction here?	yes	1
+10 blanche who is a vet visit margarita
+11 blanche who is a scientist didnt visit margarita
+12 There is a contradiction here?	no	1
+13 roland who is a baker saw a blue plane
+14 roland who is a chef didnt saw a blue plane
+15 There is a contradiction here?	no	1
+1 misty saw shannon running from a yellow school bus
+2 misty didnt saw shannon running from a special recently built bus
+3 There is a contradiction here?	no	1
+4 kurt who is a photographer bought the new marvel movie from the russo brothers
+5 kurt kellys father didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 shane who is a vet bought the new marvel movie from the russo brothers
+8 shane who is a dentist didnt buy the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 anita who is a baker saw a strange add
+11 anita who is a butcher didnt saw a strange add
+12 There is a contradiction here?	no	1
+13 alberta who is a cop saw the car crash
+14 alberta who is a chef didnt saw the car crash
+15 There is a contradiction here?	no	1
+1 mario who is a pilot bought a cup of coffee
+2 mario isnt a pilot
+3 There is a contradiction here?	yes	1
+4 arnold who is a technician saw the accident
+5 arnold didnt saw the accident
+6 There is a contradiction here?	yes	1
+7 kelly who is a scientist visit gertrude
+8 kelly eunices mother didnt visit gertrude
+9 There is a contradiction here?	no	1
+10 marlene who is a dentist saw a girl running
+11 marlene isnt a dentist
+12 There is a contradiction here?	yes	1
+13 sheryl saw tanya running from a black bus with a new engine
+14 sheryl didnt saw tanya running from a icy car
+15 There is a contradiction here?	no	1
+1 scott who is a tailor bought a macbook
+2 scott didnt buy a macbook
+3 There is a contradiction here?	yes	1
+4 kevin saw neil running from a mango car
+5 kevin didnt saw neil running from a green bus
+6 There is a contradiction here?	no	1
+7 alma saw guy driving jimmys bicycle
+8 alma didnt saw guy driving stellas new tesla roadster
+9 There is a contradiction here?	no	1
+10 gerald who is a carpenter bought the new tesla roadster
+11 gerald who is a journalist didnt buy the new tesla roadster
+12 There is a contradiction here?	no	1
+13 deborah who is a painter bought a macbook
+14 deborah didnt buy a macbook
+15 There is a contradiction here?	yes	1
+1 christine who is a electrician bought a macbook
+2 christine who is a baker didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 lucille saw terri running from a lemon bus
+5 lucille didnt saw terri running from a special recently built bus
+6 There is a contradiction here?	no	1
+7 hilda who is a baker saw a blue plane
+8 hilda who is a technician didnt saw a blue plane
+9 There is a contradiction here?	no	1
+10 derrick who is a cleaner saw the new marvel movie from the russo brothers
+11 derrick isnt a cleaner
+12 There is a contradiction here?	yes	1
+13 clayton who is a butcher bought a japanese novel
+14 clayton who is a nurse didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 john saw a girl running from a purple bus with a new engine
+2 john didnt saw a girl running from a special recently built bus
+3 There is a contradiction here?	no	1
+4 kelly who is a journalist bought a japanese novel
+5 kelly isnt a journalist
+6 There is a contradiction here?	yes	1
+7 valerie saw a girl running from a salmon car
+8 valerie didnt saw a girl running from amandas car
+9 There is a contradiction here?	no	1
+10 claudia who is a journalist bought a japanese novel
+11 claudia who is a judge didnt buy a japanese novel
+12 There is a contradiction here?	no	1
+13 jennifer saw a boy driving teds new tesla roadster
+14 jennifer didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 marion who is a hairdresser bought the new tesla roadster
+2 marion who is a receptionist didnt buy the new tesla roadster
+3 There is a contradiction here?	no	1
+4 richard who is a tailor bought the new marvel movie from the russo brothers
+5 richard irmas father didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 diane who is a builder saw a dog chasing a cat
+8 diane who is a journalist didnt saw a dog chasing a cat
+9 There is a contradiction here?	no	1
+10 marguerite saw a boy driving a salmon bicycle
+11 marguerite didnt saw a boy driving in slatina
+12 There is a contradiction here?	no	1
+13 hugh saw a boy running from a bus going to giurgiu
+14 hugh didnt saw a boy running
+15 There is a contradiction here?	yes	1
+1 carole who is a lawyer bought a macbook
+2 carole joannes mother didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 dana saw greg driving a icy bicycle
+5 dana didnt saw greg driving
+6 There is a contradiction here?	yes	1
+7 juan who is a lawyer visit alan
+8 juan isnt a lawyer
+9 There is a contradiction here?	yes	1
+10 charlie who is a receptionist saw the new marvel movie from the russo brothers
+11 charlie isnt a receptionist
+12 There is a contradiction here?	yes	1
+13 marian who is a secretary saw the car crash
+14 marian who is a flight attendant didnt saw the car crash
+15 There is a contradiction here?	no	1
+1 june who is a barber saw the accident
+2 june didnt saw the accident
+3 There is a contradiction here?	yes	1
+4 angel saw a boy running from jays car
+5 angel didnt saw a boy running
+6 There is a contradiction here?	yes	1
+7 kevin saw ida running from a parade car
+8 kevin didnt saw ida running
+9 There is a contradiction here?	yes	1
+10 irene who is a butcher saw the accident
+11 irene glorias mother didnt saw the accident
+12 There is a contradiction here?	no	1
+13 viola who is a butcher saw a girl running
+14 viola who is a tailor didnt saw a girl running
+15 There is a contradiction here?	no	1
+1 terry who is a receptionist saw the accident
+2 terry didnt saw the accident
+3 There is a contradiction here?	yes	1
+4 ted who is a receptionist visit benjamin
+5 ted isnt a receptionist
+6 There is a contradiction here?	yes	1
+7 bruce saw a boy driving leahs car
+8 bruce didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 patricia who is a engineer bought a chilean wine
+11 patricia didnt buy a chilean wine
+12 There is a contradiction here?	yes	1
+13 douglas who is a secretary saw the new marvel movie from the russo brothers
+14 douglas who is a dentist didnt saw the new marvel movie from the russo brothers
+15 There is a contradiction here?	no	1
+1 janice who is a receptionist bought a macbook
+2 janice pamelas mother didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 nicole who is a musician visit marilyn
+5 nicole didnt visit marilyn
+6 There is a contradiction here?	yes	1
+7 ted who is a nurse saw a dog chasing a cat
+8 ted who is a secretary didnt saw a dog chasing a cat
+9 There is a contradiction here?	no	1
+10 michelle who is a electrician saw the new tesla roadster
+11 michelle roberts mother didnt saw the new tesla roadster
+12 There is a contradiction here?	no	1
+13 molly saw a boy running from a bus going to clujnapoca
+14 molly didnt saw a boy running
+15 There is a contradiction here?	yes	1
+1 bernard saw virginia driving in dej
+2 bernard didnt saw virginia driving wades bicycle
+3 There is a contradiction here?	no	1
+4 marsha who is a vet visit june
+5 marsha didnt visit june
+6 There is a contradiction here?	yes	1
+7 audrey saw brittany running from a special recently built bus
+8 audrey didnt saw brittany running
+9 There is a contradiction here?	yes	1
+10 scott who is a nurse bought the new marvel movie from the russo brothers
+11 scott who is a receptionist didnt buy the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 mitchell who is a baker visit renee
+14 mitchell who is a cashier didnt visit renee
+15 There is a contradiction here?	no	1
+1 peter who is a lawyer saw the new marvel movie from the russo brothers
+2 peter didnt saw the new marvel movie from the russo brothers
+3 There is a contradiction here?	yes	1
+4 karen saw denise running from a salmon school bus
+5 karen didnt saw denise running
+6 There is a contradiction here?	yes	1
+7 karl who is a lawyer visit kristin
+8 karl didnt visit kristin
+9 There is a contradiction here?	yes	1
+10 zachary who is a barber bought a chilean wine
+11 zachary didnt buy a chilean wine
+12 There is a contradiction here?	yes	1
+13 pamela who is a accountant saw the new marvel movie from the russo brothers
+14 pamela isnt a accountant
+15 There is a contradiction here?	yes	1
+1 sandy who is a hairdresser bought a japanese novel
+2 sandy didnt buy a japanese novel
+3 There is a contradiction here?	yes	1
+4 emma who is a cashier visit isabel
+5 emma who is a plumber didnt visit isabel
+6 There is a contradiction here?	no	1
+7 frank who is a doctor bought a macbook
+8 frank isnt a doctor
+9 There is a contradiction here?	yes	1
+10 marian who is a plumber bought a japanese novel
+11 marian didnt buy a japanese novel
+12 There is a contradiction here?	yes	1
+13 harry who is a scientist bought a japanese novel
+14 harry sheryls father didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 susan who is a judge saw a dog chasing a cat
+2 susan isnt a judge
+3 There is a contradiction here?	yes	1
+4 donna who is a vet bought a pizza
+5 donna who is a fireman didnt buy a pizza
+6 There is a contradiction here?	no	1
+7 dwight saw rafael running from a green car
+8 dwight didnt saw rafael running from a mango bus
+9 There is a contradiction here?	no	1
+10 javier who is a hairdresser saw a girl running
+11 javier isnt a hairdresser
+12 There is a contradiction here?	yes	1
+13 roland who is a journalist bought the new marvel movie from the russo brothers
+14 roland isnt a journalist
+15 There is a contradiction here?	yes	1
+1 steve who is a plumber bought a japanese novel
+2 steve who is a dentist didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 edward who is a vet visit brandon
+5 edward georgias father didnt visit brandon
+6 There is a contradiction here?	no	1
+7 rick who is a builder saw the new marvel movie from the russo brothers
+8 rick who is a electrician didnt saw the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 terry who is a judge bought a chilean wine
+11 terry isnt a judge
+12 There is a contradiction here?	yes	1
+13 jordan who is a doctor saw a blue plane
+14 jordan isnt a doctor
+15 There is a contradiction here?	yes	1
+1 vincent saw a boy running from a green bus with a new engine
+2 vincent didnt saw a boy running from a bus going to slatina
+3 There is a contradiction here?	no	1
+4 edward who is a carpenter visit frances
+5 edward isnt a carpenter
+6 There is a contradiction here?	yes	1
+7 jim saw a boy running from a blue car
+8 jim didnt saw a boy running
+9 There is a contradiction here?	yes	1
+10 ted who is a secretary bought the new marvel movie from the russo brothers
+11 ted who is a cashier didnt buy the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 sally saw manuel driving an electric purple bicycle
+14 sally didnt saw manuel driving lauras new tesla roadster
+15 There is a contradiction here?	no	1
+1 jeffery who is a painter visit samuel
+2 jeffery didnt visit samuel
+3 There is a contradiction here?	yes	1
+4 ethel who is a butcher saw a dog chasing a cat
+5 ethel isnt a butcher
+6 There is a contradiction here?	yes	1
+7 tammy who is a dentist bought a cup of coffee
+8 tammy didnt buy a cup of coffee
+9 There is a contradiction here?	yes	1
+10 susie who is a flight attendant visit jeanne
+11 susie didnt visit jeanne
+12 There is a contradiction here?	yes	1
+13 bryan who is a chef bought a japanese novel
+14 bryan manuels father didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 katherine who is a butcher bought a chilean wine
+2 katherine isnt a butcher
+3 There is a contradiction here?	yes	1
+4 edith saw a boy driving a purple bicycle
+5 edith didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 thomas who is a journalist visit martin
+8 thomas genevas father didnt visit martin
+9 There is a contradiction here?	no	1
+10 robin who is a receptionist visit don
+11 robin who is a photographer didnt visit don
+12 There is a contradiction here?	no	1
+13 billy who is a cleaner bought the new tesla roadster
+14 billy didnt buy the new tesla roadster
+15 There is a contradiction here?	yes	1
+1 misty who is a plumber saw the new marvel movie from the russo brothers
+2 misty who is a lawyer didnt saw the new marvel movie from the russo brothers
+3 There is a contradiction here?	no	1
+4 nellie who is a cashier bought the new marvel movie from the russo brothers
+5 nellie christophers mother didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 maurice who is a nurse bought a pizza
+8 maurice beverlys father didnt buy a pizza
+9 There is a contradiction here?	no	1
+10 nelson saw alicia running from a bus going to oradea
+11 nelson didnt saw alicia running
+12 There is a contradiction here?	yes	1
+13 kyle who is a fireman bought a chilean wine
+14 kyle didnt buy a chilean wine
+15 There is a contradiction here?	yes	1
+1 candice who is a nurse saw a strange add
+2 candice isnt a nurse
+3 There is a contradiction here?	yes	1
+4 sheila who is a judge saw a dog chasing a cat
+5 sheila isnt a judge
+6 There is a contradiction here?	yes	1
+7 rebecca who is a receptionist bought a pizza
+8 rebecca isnt a receptionist
+9 There is a contradiction here?	yes	1
+10 isabel saw geneva running from a lemon car
+11 isabel didnt saw geneva running from a yellow school bus
+12 There is a contradiction here?	no	1
+13 mathew saw a boy running from a bus going to baia mare
+14 mathew didnt saw a boy running from a yellow car
+15 There is a contradiction here?	no	1
+1 dean saw marion driving in hunedoara
+2 dean didnt saw marion driving bobs car
+3 There is a contradiction here?	no	1
+4 ramon who is a accountant bought a chilean wine
+5 ramon didnt buy a chilean wine
+6 There is a contradiction here?	yes	1
+7 mattie who is a accountant saw the new marvel movie from the russo brothers
+8 mattie who is a cashier didnt saw the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 mary who is a plumber saw a dog chasing a cat
+11 mary seans mother didnt saw a dog chasing a cat
+12 There is a contradiction here?	no	1
+13 sara who is a scientist visit felicia
+14 sara didnt visit felicia
+15 There is a contradiction here?	yes	1
+1 leslie who is a flight attendant visit anthony
+2 leslie didnt visit anthony
+3 There is a contradiction here?	yes	1
+4 sara who is a painter bought the new tesla roadster
+5 sara isnt a painter
+6 There is a contradiction here?	yes	1
+7 harvey who is a painter saw a strange add
+8 harvey isnt a painter
+9 There is a contradiction here?	yes	1
+10 charlie who is a lawyer bought the new marvel movie from the russo brothers
+11 charlie isnt a lawyer
+12 There is a contradiction here?	yes	1
+13 sergio saw a boy driving a green car
+14 sergio didnt saw a boy driving paulas car
+15 There is a contradiction here?	no	1
+1 gina who is a engineer visit enrique
+2 gina didnt visit enrique
+3 There is a contradiction here?	yes	1
+4 willie saw a girl running from a bus going to deva
+5 willie didnt saw a girl running from a yellow bus with a new engine
+6 There is a contradiction here?	no	1
+7 shannon saw reginald driving in deva
+8 shannon didnt saw reginald driving debbies car
+9 There is a contradiction here?	no	1
+10 juan who is a flight attendant saw the car crash
+11 juan vincents father didnt saw the car crash
+12 There is a contradiction here?	no	1
+13 candice who is a baker saw the city mayor
+14 candice who is a nurse didnt saw the city mayor
+15 There is a contradiction here?	no	1
+1 naomi who is a receptionist saw the new tesla roadster
+2 naomi who is a lawyer didnt saw the new tesla roadster
+3 There is a contradiction here?	no	1
+4 sally saw a boy driving darrells new tesla roadster
+5 sally didnt saw a boy driving in mangalia
+6 There is a contradiction here?	no	1
+7 heidi who is a vet saw the accident
+8 heidi isnt a vet
+9 There is a contradiction here?	yes	1
+10 maurice who is a pilot bought a macbook
+11 maurice didnt buy a macbook
+12 There is a contradiction here?	yes	1
+13 helen who is a journalist bought the new marvel movie from the russo brothers
+14 helen who is a cleaner didnt buy the new marvel movie from the russo brothers
+15 There is a contradiction here?	no	1
+1 june who is a butcher bought a cup of coffee
+2 june didnt buy a cup of coffee
+3 There is a contradiction here?	yes	1
+4 gene who is a technician visit jacob
+5 gene armandos father didnt visit jacob
+6 There is a contradiction here?	no	1
+7 brian saw a boy driving an electric mango bicycle
+8 brian didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 randy saw a girl driving a lemon bicycle
+11 randy didnt saw a girl driving sues bicycle
+12 There is a contradiction here?	no	1
+13 christine who is a chef bought a macbook
+14 christine melissas mother didnt buy a macbook
+15 There is a contradiction here?	no	1
+1 doris who is a painter saw the new tesla roadster
+2 doris who is a pilot didnt saw the new tesla roadster
+3 There is a contradiction here?	no	1
+4 kathryn who is a nurse bought the new marvel movie from the russo brothers
+5 kathryn didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	yes	1
+7 eunice saw a girl running from a yellow school bus
+8 eunice didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 jimmie saw willie running from ruths car
+11 jimmie didnt saw willie running
+12 There is a contradiction here?	yes	1
+13 maureen who is a chef bought a chilean wine
+14 maureen didnt buy a chilean wine
+15 There is a contradiction here?	yes	1
+1 melinda who is a butcher visit marsha
+2 melinda didnt visit marsha
+3 There is a contradiction here?	yes	1
+4 mitchell who is a bartender visit kenneth
+5 mitchell carolines father didnt visit kenneth
+6 There is a contradiction here?	no	1
+7 shannon saw a girl driving carls new tesla roadster
+8 shannon didnt saw a girl driving
+9 There is a contradiction here?	yes	1
+10 sheryl who is a musician bought a macbook
+11 sheryl who is a journalist didnt buy a macbook
+12 There is a contradiction here?	no	1
+13 elizabeth saw jo running from a parade car
+14 elizabeth didnt saw jo running from a special recently built bus
+15 There is a contradiction here?	no	1
+1 lonnie who is a hairdresser bought the new tesla roadster
+2 lonnie isnt a hairdresser
+3 There is a contradiction here?	yes	1
+4 howard who is a doctor visit vanessa
+5 howard isnt a doctor
+6 There is a contradiction here?	yes	1
+7 carla who is a butcher visit lorraine
+8 carla isnt a butcher
+9 There is a contradiction here?	yes	1
+10 annie who is a cop visit angie
+11 annie isnt a cop
+12 There is a contradiction here?	yes	1
+13 lee saw a boy running from a orange bus with a new engine
+14 lee didnt saw a boy running from a black school bus
+15 There is a contradiction here?	no	1
+1 ellen who is a cop bought the new tesla roadster
+2 ellen who is a judge didnt buy the new tesla roadster
+3 There is a contradiction here?	no	1
+4 willard who is a nurse visit jacqueline
+5 willard joans father didnt visit jacqueline
+6 There is a contradiction here?	no	1
+7 sergio who is a cleaner saw the car crash
+8 sergio duanes father didnt saw the car crash
+9 There is a contradiction here?	no	1
+10 kristen who is a scientist bought a cup of coffee
+11 kristen didnt buy a cup of coffee
+12 There is a contradiction here?	yes	1
+13 delores who is a journalist saw a dog chasing a cat
+14 delores didnt saw a dog chasing a cat
+15 There is a contradiction here?	yes	1
+1 crystal who is a journalist visit herbert
+2 crystal who is a cop didnt visit herbert
+3 There is a contradiction here?	no	1
+4 shane who is a cashier saw a dog chasing a cat
+5 shane didnt saw a dog chasing a cat
+6 There is a contradiction here?	yes	1
+7 gabriel who is a tailor visit james
+8 gabriel didnt visit james
+9 There is a contradiction here?	yes	1
+10 caroline who is a nurse visit marcia
+11 caroline didnt visit marcia
+12 There is a contradiction here?	yes	1
+13 julia saw a boy running from a green bus
+14 julia didnt saw a boy running from a special recently built bus
+15 There is a contradiction here?	no	1
+1 shane who is a carpenter bought a japanese novel
+2 shane margies father didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 rosie who is a plumber bought a macbook
+5 rosie isnt a plumber
+6 There is a contradiction here?	yes	1
+7 daniel saw a girl driving in slatina
+8 daniel didnt saw a girl driving bonnies bicycle
+9 There is a contradiction here?	no	1
+10 dean who is a tailor saw the car crash
+11 dean terrances father didnt saw the car crash
+12 There is a contradiction here?	no	1
+13 teresa saw a boy driving sonias bicycle
+14 teresa didnt saw a boy driving an electric ashy bicycle
+15 There is a contradiction here?	no	1
+1 kimberly who is a receptionist visit emma
+2 kimberly didnt visit emma
+3 There is a contradiction here?	yes	1
+4 karen who is a chef bought a chilean wine
+5 karen who is a engineer didnt buy a chilean wine
+6 There is a contradiction here?	no	1
+7 gregory who is a doctor bought the new tesla roadster
+8 gregory who is a nurse didnt buy the new tesla roadster
+9 There is a contradiction here?	no	1
+10 kristen who is a pilot bought the new marvel movie from the russo brothers
+11 kristen didnt buy the new marvel movie from the russo brothers
+12 There is a contradiction here?	yes	1
+13 lena who is a lawyer bought the new tesla roadster
+14 lena didnt buy the new tesla roadster
+15 There is a contradiction here?	yes	1
+1 jason who is a judge visit colleen
+2 jason isnt a judge
+3 There is a contradiction here?	yes	1
+4 jared who is a electrician saw the accident
+5 jared isnt a electrician
+6 There is a contradiction here?	yes	1
+7 kathy saw a girl running from bens car
+8 kathy didnt saw a girl running from a ashy bus
+9 There is a contradiction here?	no	1
+10 josephine saw jill running from a parade car
+11 josephine didnt saw jill running
+12 There is a contradiction here?	yes	1
+13 marilyn who is a scientist visit willie
+14 marilyn isnt a scientist
+15 There is a contradiction here?	yes	1
+1 lauren who is a cashier saw the city mayor
+2 lauren who is a baker didnt saw the city mayor
+3 There is a contradiction here?	no	1
+4 regina who is a chef visit alexander
+5 regina who is a bartender didnt visit alexander
+6 There is a contradiction here?	no	1
+7 gladys who is a nurse bought a chilean wine
+8 gladys isnt a nurse
+9 There is a contradiction here?	yes	1
+10 eleanor saw a boy driving a yellow bicycle
+11 eleanor didnt saw a boy driving an electric salmon bicycle
+12 There is a contradiction here?	no	1
+13 charlene saw a girl driving a mango car
+14 charlene didnt saw a girl driving davids car
+15 There is a contradiction here?	no	1
+1 cassandra who is a scientist saw a strange add
+2 cassandra joes mother didnt saw a strange add
+3 There is a contradiction here?	no	1
+4 elaine saw virginia driving in bucharest
+5 elaine didnt saw virginia driving
+6 There is a contradiction here?	yes	1
+7 courtney who is a electrician bought the new tesla roadster
+8 courtney isnt a electrician
+9 There is a contradiction here?	yes	1
+10 patsy who is a journalist bought a chilean wine
+11 patsy deborahs mother didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 tim saw a girl driving terrances new tesla roadster
+14 tim didnt saw a girl driving a mango car
+15 There is a contradiction here?	no	1
+1 ellen who is a bartender saw the accident
+2 ellen terris mother didnt saw the accident
+3 There is a contradiction here?	no	1
+4 suzanne who is a cleaner saw the new tesla roadster
+5 suzanne isnt a cleaner
+6 There is a contradiction here?	yes	1
+7 herman who is a accountant saw the car crash
+8 herman who is a bartender didnt saw the car crash
+9 There is a contradiction here?	no	1
+10 jeffery who is a baker bought a chilean wine
+11 jeffery andres father didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 myrtle who is a plumber visit doris
+14 myrtle bruces mother didnt visit doris
+15 There is a contradiction here?	no	1
+1 kayla who is a technician bought a macbook
+2 kayla brittanys mother didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 viola who is a fireman saw the city mayor
+5 viola who is a doctor didnt saw the city mayor
+6 There is a contradiction here?	no	1
+7 dana who is a journalist visit erika
+8 dana isnt a journalist
+9 There is a contradiction here?	yes	1
+10 kristin who is a tailor bought a cup of coffee
+11 kristin didnt buy a cup of coffee
+12 There is a contradiction here?	yes	1
+13 raymond saw a boy driving jacquelines bicycle
+14 raymond didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 tim who is a nurse visit tony
+2 tim deannas father didnt visit tony
+3 There is a contradiction here?	no	1
+4 renee saw a girl driving an electric white bicycle
+5 renee didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 victor saw a boy running from a parade car
+8 victor didnt saw a boy running from a orange bus with a new engine
+9 There is a contradiction here?	no	1
+10 ron who is a cop bought a cup of coffee
+11 ron didnt buy a cup of coffee
+12 There is a contradiction here?	yes	1
+13 cody saw a boy driving terrys car
+14 cody didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 edith saw arthur driving pauls car
+2 edith didnt saw arthur driving a blue bicycle
+3 There is a contradiction here?	no	1
+4 norman saw a boy driving an electric purple bicycle
+5 norman didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 cassandra who is a hairdresser visit judy
+8 cassandra didnt visit judy
+9 There is a contradiction here?	yes	1
+10 wesley who is a judge bought a pizza
+11 wesley didnt buy a pizza
+12 There is a contradiction here?	yes	1
+13 angie who is a chef saw the new marvel movie from the russo brothers
+14 angie who is a vet didnt saw the new marvel movie from the russo brothers
+15 There is a contradiction here?	no	1
+1 jay who is a musician saw a dog chasing a cat
+2 jay isnt a musician
+3 There is a contradiction here?	yes	1
+4 gertrude who is a photographer bought the new marvel movie from the russo brothers
+5 gertrude who is a musician didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 verna saw a boy running from patricias car
+8 verna didnt saw a boy running from a parade car
+9 There is a contradiction here?	no	1
+10 dana who is a receptionist visit erik
+11 dana didnt visit erik
+12 There is a contradiction here?	yes	1
+13 natalie saw a girl running from kays car
+14 natalie didnt saw a girl running from a ashy bus with a new engine
+15 There is a contradiction here?	no	1
+1 oscar who is a electrician saw the car crash
+2 oscar who is a barber didnt saw the car crash
+3 There is a contradiction here?	no	1
+4 clayton who is a vet bought a pizza
+5 clayton isnt a vet
+6 There is a contradiction here?	yes	1
+7 alicia saw dennis driving a salmon car
+8 alicia didnt saw dennis driving
+9 There is a contradiction here?	yes	1
+10 alison saw a girl running from theodores car
+11 alison didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 christina who is a tailor bought the new tesla roadster
+14 christina joannes mother didnt buy the new tesla roadster
+15 There is a contradiction here?	no	1
+1 vernon who is a electrician saw the new marvel movie from the russo brothers
+2 vernon who is a hairdresser didnt saw the new marvel movie from the russo brothers
+3 There is a contradiction here?	no	1
+4 mike who is a doctor visit alfredo
+5 mike who is a cop didnt visit alfredo
+6 There is a contradiction here?	no	1
+7 travis who is a bartender bought the new tesla roadster
+8 travis johnnies father didnt buy the new tesla roadster
+9 There is a contradiction here?	no	1
+10 steven who is a tailor visit shelly
+11 steven susans father didnt visit shelly
+12 There is a contradiction here?	no	1
+13 nora saw jamie driving in tulcea
+14 nora didnt saw jamie driving elmers car
+15 There is a contradiction here?	no	1
+1 michele who is a journalist visit sara
+2 michele didnt visit sara
+3 There is a contradiction here?	yes	1
+4 renee who is a butcher bought the new tesla roadster
+5 renee tommys mother didnt buy the new tesla roadster
+6 There is a contradiction here?	no	1
+7 wanda who is a technician saw the new tesla roadster
+8 wanda isnt a technician
+9 There is a contradiction here?	yes	1
+10 marcus who is a doctor visit maurice
+11 marcus didnt visit maurice
+12 There is a contradiction here?	yes	1
+13 brandy who is a dentist saw the new tesla roadster
+14 brandy who is a painter didnt saw the new tesla roadster
+15 There is a contradiction here?	no	1
+1 yvette who is a secretary bought a cup of coffee
+2 yvette didnt buy a cup of coffee
+3 There is a contradiction here?	yes	1
+4 claire who is a painter bought a macbook
+5 claire felicias mother didnt buy a macbook
+6 There is a contradiction here?	no	1
+7 fernando who is a cashier bought the new marvel movie from the russo brothers
+8 fernando isnt a cashier
+9 There is a contradiction here?	yes	1
+10 helen saw a girl driving arnolds car
+11 helen didnt saw a girl driving
+12 There is a contradiction here?	yes	1
+13 gina who is a vet bought the new marvel movie from the russo brothers
+14 gina didnt buy the new marvel movie from the russo brothers
+15 There is a contradiction here?	yes	1
+1 julia who is a chef bought a pizza
+2 julia who is a cop didnt buy a pizza
+3 There is a contradiction here?	no	1
+4 harry who is a plumber bought the new marvel movie from the russo brothers
+5 harry isnt a plumber
+6 There is a contradiction here?	yes	1
+7 james who is a barber bought a japanese novel
+8 james isnt a barber
+9 There is a contradiction here?	yes	1
+10 cheryl saw dora driving a lemon bicycle
+11 cheryl didnt saw dora driving in lugoj
+12 There is a contradiction here?	no	1
+13 vernon saw martin running from a black school bus
+14 vernon didnt saw martin running
+15 There is a contradiction here?	yes	1
+1 janice saw a boy running from a parade car
+2 janice didnt saw a boy running from a bus going to craiova
+3 There is a contradiction here?	no	1
+4 jack saw a boy driving an electric salmon bicycle
+5 jack didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 kathleen saw denise running from a red school bus
+8 kathleen didnt saw denise running
+9 There is a contradiction here?	yes	1
+10 greg saw a boy driving in reghin
+11 greg didnt saw a boy driving
+12 There is a contradiction here?	yes	1
+13 kurt saw a girl driving an electric orange bicycle
+14 kurt didnt saw a girl driving
+15 There is a contradiction here?	yes	1
+1 tammy saw a boy driving a white bicycle
+2 tammy didnt saw a boy driving arnolds new tesla roadster
+3 There is a contradiction here?	no	1
+4 danielle who is a barber saw a girl running
+5 danielle donalds mother didnt saw a girl running
+6 There is a contradiction here?	no	1
+7 lewis saw a girl driving jessies bicycle
+8 lewis didnt saw a girl driving an electric blue bicycle
+9 There is a contradiction here?	no	1
+10 angel saw a boy running from a lemon school bus
+11 angel didnt saw a boy running from a gray bus
+12 There is a contradiction here?	no	1
+13 aaron saw a girl running from joels car
+14 aaron didnt saw a girl running from a yellow school bus
+15 There is a contradiction here?	no	1
+1 kristina who is a carpenter bought a cup of coffee
+2 kristina who is a cashier didnt buy a cup of coffee
+3 There is a contradiction here?	no	1
+4 mario saw myrtle running from a blue school bus
+5 mario didnt saw myrtle running from a green bus
+6 There is a contradiction here?	no	1
+7 ruth who is a bartender bought the new tesla roadster
+8 ruth didnt buy the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 bruce who is a journalist bought a cup of coffee
+11 bruce who is a electrician didnt buy a cup of coffee
+12 There is a contradiction here?	no	1
+13 franklin who is a fireman visit amelia
+14 franklin victors father didnt visit amelia
+15 There is a contradiction here?	no	1
+1 ida who is a journalist bought a macbook
+2 ida isnt a journalist
+3 There is a contradiction here?	yes	1
+4 dana who is a baker bought a japanese novel
+5 dana who is a bartender didnt buy a japanese novel
+6 There is a contradiction here?	no	1
+7 bertha who is a musician saw the new tesla roadster
+8 bertha andreas mother didnt saw the new tesla roadster
+9 There is a contradiction here?	no	1
+10 kyle saw julio driving an electric lemon bicycle
+11 kyle didnt saw julio driving a yellow car
+12 There is a contradiction here?	no	1
+13 roberto who is a secretary bought a cup of coffee
+14 roberto sergios father didnt buy a cup of coffee
+15 There is a contradiction here?	no	1
+1 kim saw a boy running from a parade car
+2 kim didnt saw a boy running from a orange school bus
+3 There is a contradiction here?	no	1
+4 philip who is a musician saw a strange add
+5 philip isnt a musician
+6 There is a contradiction here?	yes	1
+7 george who is a tailor visit gregory
+8 george didnt visit gregory
+9 There is a contradiction here?	yes	1
+10 tina saw julie driving sues new tesla roadster
+11 tina didnt saw julie driving
+12 There is a contradiction here?	yes	1
+13 natalie saw a boy driving a white bicycle
+14 natalie didnt saw a boy driving in bucharest
+15 There is a contradiction here?	no	1
+1 tracy who is a tailor visit amy
+2 tracy didnt visit amy
+3 There is a contradiction here?	yes	1
+4 barry who is a plumber saw a dog chasing a cat
+5 barry didnt saw a dog chasing a cat
+6 There is a contradiction here?	yes	1
+7 geneva who is a bartender visit vicki
+8 geneva douglass mother didnt visit vicki
+9 There is a contradiction here?	no	1
+10 felicia who is a dentist bought a chilean wine
+11 felicia who is a musician didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 allan saw a girl driving in vaslui
+14 allan didnt saw a girl driving
+15 There is a contradiction here?	yes	1
+1 lucille who is a electrician bought a macbook
+2 lucille roberts mother didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 eric who is a dentist visit harry
+5 eric isnt a dentist
+6 There is a contradiction here?	yes	1
+7 alison who is a photographer saw the new tesla roadster
+8 alison didnt saw the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 chester saw a boy driving darryls bicycle
+11 chester didnt saw a boy driving in mangalia
+12 There is a contradiction here?	no	1
+13 leroy who is a lawyer visit jessica
+14 leroy didnt visit jessica
+15 There is a contradiction here?	yes	1
+1 justin saw a boy driving minnies car
+2 justin didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 carolyn who is a lawyer saw the new tesla roadster
+5 carolyn didnt saw the new tesla roadster
+6 There is a contradiction here?	yes	1
+7 gwendolyn who is a baker bought the new tesla roadster
+8 gwendolyn isnt a baker
+9 There is a contradiction here?	yes	1
+10 james who is a plumber saw a strange add
+11 james didnt saw a strange add
+12 There is a contradiction here?	yes	1
+13 claire who is a cashier visit ella
+14 claire who is a bartender didnt visit ella
+15 There is a contradiction here?	no	1
+1 ashley who is a plumber visit lucille
+2 ashley who is a musician didnt visit lucille
+3 There is a contradiction here?	no	1
+4 carolyn who is a bartender visit mattie
+5 carolyn didnt visit mattie
+6 There is a contradiction here?	yes	1
+7 rafael who is a carpenter visit howard
+8 rafael isnt a carpenter
+9 There is a contradiction here?	yes	1
+10 verna saw a boy driving in deva
+11 verna didnt saw a boy driving
+12 There is a contradiction here?	yes	1
+13 daryl who is a photographer visit nathan
+14 daryl didnt visit nathan
+15 There is a contradiction here?	yes	1
+1 pamela who is a baker visit jared
+2 pamela isnt a baker
+3 There is a contradiction here?	yes	1
+4 ian saw renee driving vickies car
+5 ian didnt saw renee driving
+6 There is a contradiction here?	yes	1
+7 melvin saw jeffrey driving a purple bicycle
+8 melvin didnt saw jeffrey driving
+9 There is a contradiction here?	yes	1
+10 rose who is a cleaner bought the new marvel movie from the russo brothers
+11 rose who is a chef didnt buy the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 clyde saw a girl running from a purple bus
+14 clyde didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 stephanie saw a boy driving in baia mare
+2 stephanie didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 clyde who is a builder bought a cup of coffee
+5 clyde didnt buy a cup of coffee
+6 There is a contradiction here?	yes	1
+7 georgia who is a bartender saw the new marvel movie from the russo brothers
+8 georgia isnt a bartender
+9 There is a contradiction here?	yes	1
+10 jo saw a girl driving a salmon bicycle
+11 jo didnt saw a girl driving wades car
+12 There is a contradiction here?	no	1
+13 tiffany who is a photographer bought a japanese novel
+14 tiffany chriss mother didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 dolores who is a scientist bought the new tesla roadster
+2 dolores didnt buy the new tesla roadster
+3 There is a contradiction here?	yes	1
+4 bonnie who is a builder bought a japanese novel
+5 bonnie isnt a builder
+6 There is a contradiction here?	yes	1
+7 frank who is a plumber saw a strange add
+8 frank kellys father didnt saw a strange add
+9 There is a contradiction here?	no	1
+10 iris who is a painter bought the new tesla roadster
+11 iris edwards mother didnt buy the new tesla roadster
+12 There is a contradiction here?	no	1
+13 suzanne who is a judge visit tyrone
+14 suzanne didnt visit tyrone
+15 There is a contradiction here?	yes	1
+1 julian who is a dentist saw a girl running
+2 julian larrys father didnt saw a girl running
+3 There is a contradiction here?	no	1
+4 alfred who is a scientist bought a chilean wine
+5 alfred isnt a scientist
+6 There is a contradiction here?	yes	1
+7 juana who is a photographer bought the new marvel movie from the russo brothers
+8 juana didnt buy the new marvel movie from the russo brothers
+9 There is a contradiction here?	yes	1
+10 calvin who is a cleaner bought the new tesla roadster
+11 calvin didnt buy the new tesla roadster
+12 There is a contradiction here?	yes	1
+13 jimmy who is a hairdresser visit ernest
+14 jimmy craigs father didnt visit ernest
+15 There is a contradiction here?	no	1
+1 casey who is a judge bought the new marvel movie from the russo brothers
+2 casey isnt a judge
+3 There is a contradiction here?	yes	1
+4 ella saw a girl driving julias new tesla roadster
+5 ella didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 melanie saw sue running from a special recently built bus
+8 melanie didnt saw sue running
+9 There is a contradiction here?	yes	1
+10 brad saw a girl running from a salmon car
+11 brad didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 wayne who is a flight attendant bought a macbook
+14 wayne esthers father didnt buy a macbook
+15 There is a contradiction here?	no	1
+1 enrique who is a scientist bought the new tesla roadster
+2 enrique isnt a scientist
+3 There is a contradiction here?	yes	1
+4 joanne saw josephine driving kristis bicycle
+5 joanne didnt saw josephine driving colleens car
+6 There is a contradiction here?	no	1
+7 jimmie who is a judge saw the new tesla roadster
+8 jimmie isnt a judge
+9 There is a contradiction here?	yes	1
+10 betty who is a chef bought a pizza
+11 betty isnt a chef
+12 There is a contradiction here?	yes	1
+13 joseph who is a receptionist bought a macbook
+14 joseph who is a electrician didnt buy a macbook
+15 There is a contradiction here?	no	1
+1 richard who is a cashier bought the new tesla roadster
+2 richard isnt a cashier
+3 There is a contradiction here?	yes	1
+4 cody who is a pilot saw the car crash
+5 cody didnt saw the car crash
+6 There is a contradiction here?	yes	1
+7 alexander who is a hairdresser visit esther
+8 alexander didnt visit esther
+9 There is a contradiction here?	yes	1
+10 renee who is a cleaner saw a girl running
+11 renee jorges mother didnt saw a girl running
+12 There is a contradiction here?	no	1
+13 gregory saw a boy driving sonyas new tesla roadster
+14 gregory didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 jason who is a photographer visit kathy
+2 jason who is a tailor didnt visit kathy
+3 There is a contradiction here?	no	1
+4 edgar who is a engineer bought a macbook
+5 edgar isnt a engineer
+6 There is a contradiction here?	yes	1
+7 wade who is a baker saw a blue plane
+8 wade mamies father didnt saw a blue plane
+9 There is a contradiction here?	no	1
+10 sandy who is a engineer bought a chilean wine
+11 sandy didnt buy a chilean wine
+12 There is a contradiction here?	yes	1
+13 jessica who is a hairdresser visit toni
+14 jessica who is a doctor didnt visit toni
+15 There is a contradiction here?	no	1
+1 leslie who is a musician saw a strange add
+2 leslie vincents mother didnt saw a strange add
+3 There is a contradiction here?	no	1
+4 alberto saw a boy driving junes car
+5 alberto didnt saw a boy driving a black bicycle
+6 There is a contradiction here?	no	1
+7 caroline who is a secretary bought the new tesla roadster
+8 caroline who is a fireman didnt buy the new tesla roadster
+9 There is a contradiction here?	no	1
+10 juanita who is a scientist bought a chilean wine
+11 juanita isnt a scientist
+12 There is a contradiction here?	yes	1
+13 theodore saw a girl running from a green bus
+14 theodore didnt saw a girl running from a green car
+15 There is a contradiction here?	no	1
+1 alicia who is a butcher bought the new tesla roadster
+2 alicia didnt buy the new tesla roadster
+3 There is a contradiction here?	yes	1
+4 scott who is a painter bought a macbook
+5 scott who is a nurse didnt buy a macbook
+6 There is a contradiction here?	no	1
+7 karl who is a painter saw a blue plane
+8 karl who is a plumber didnt saw a blue plane
+9 There is a contradiction here?	no	1
+10 marie who is a musician saw a strange add
+11 marie rickys mother didnt saw a strange add
+12 There is a contradiction here?	no	1
+13 harvey who is a fireman bought a pizza
+14 harvey isnt a fireman
+15 There is a contradiction here?	yes	1
+1 alma who is a judge saw the new tesla roadster
+2 alma didnt saw the new tesla roadster
+3 There is a contradiction here?	yes	1
+4 bessie who is a musician saw a girl running
+5 bessie who is a cleaner didnt saw a girl running
+6 There is a contradiction here?	no	1
+7 sonia who is a technician visit tanya
+8 sonia lucys mother didnt visit tanya
+9 There is a contradiction here?	no	1
+10 mike saw a girl driving a red car
+11 mike didnt saw a girl driving in bucharest
+12 There is a contradiction here?	no	1
+13 gregory who is a doctor saw the city mayor
+14 gregory didnt saw the city mayor
+15 There is a contradiction here?	yes	1
+1 willard who is a dentist visit jeanne
+2 willard isnt a dentist
+3 There is a contradiction here?	yes	1
+4 isaac saw a girl driving a salmon bicycle
+5 isaac didnt saw a girl driving junes new tesla roadster
+6 There is a contradiction here?	no	1
+7 catherine who is a photographer bought a cup of coffee
+8 catherine who is a baker didnt buy a cup of coffee
+9 There is a contradiction here?	no	1
+10 mildred who is a cop visit brandon
+11 mildred isnt a cop
+12 There is a contradiction here?	yes	1
+13 rodney saw tim driving in lugoj
+14 rodney didnt saw tim driving a white bicycle
+15 There is a contradiction here?	no	1
+1 michelle who is a scientist visit walter
+2 michelle who is a musician didnt visit walter
+3 There is a contradiction here?	no	1
+4 bryan saw a girl driving almas car
+5 bryan didnt saw a girl driving a yellow car
+6 There is a contradiction here?	no	1
+7 nelson saw a boy running from a red car
+8 nelson didnt saw a boy running
+9 There is a contradiction here?	yes	1
+10 philip saw a girl driving terrys new tesla roadster
+11 philip didnt saw a girl driving
+12 There is a contradiction here?	yes	1
+13 billie saw elmer driving graces new tesla roadster
+14 billie didnt saw elmer driving a red car
+15 There is a contradiction here?	no	1
+1 emily saw samantha driving judiths car
+2 emily didnt saw samantha driving
+3 There is a contradiction here?	yes	1
+4 kelly saw a boy running from jimmies car
+5 kelly didnt saw a boy running
+6 There is a contradiction here?	yes	1
+7 stanley who is a cashier bought a cup of coffee
+8 stanley didnt buy a cup of coffee
+9 There is a contradiction here?	yes	1
+10 edna who is a technician bought a macbook
+11 edna didnt buy a macbook
+12 There is a contradiction here?	yes	1
+13 justin saw charlie running from a red school bus
+14 justin didnt saw charlie running from kents car
+15 There is a contradiction here?	no	1
+1 lee who is a musician visit tracy
+2 lee melissas mother didnt visit tracy
+3 There is a contradiction here?	no	1
+4 francis who is a lawyer bought a chilean wine
+5 francis isnt a lawyer
+6 There is a contradiction here?	yes	1
+7 christian who is a butcher saw a blue plane
+8 christian didnt saw a blue plane
+9 There is a contradiction here?	yes	1
+10 david saw hazel running from a special recently built bus
+11 david didnt saw hazel running from a yellow car
+12 There is a contradiction here?	no	1
+13 billy who is a dentist bought a japanese novel
+14 billy emmas father didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 jeremy who is a carpenter saw the car crash
+2 jeremy didnt saw the car crash
+3 There is a contradiction here?	yes	1
+4 verna who is a tailor visit robin
+5 verna who is a cashier didnt visit robin
+6 There is a contradiction here?	no	1
+7 ellen who is a technician visit julia
+8 ellen isnt a technician
+9 There is a contradiction here?	yes	1
+10 amy who is a dentist saw the car crash
+11 amy phillips mother didnt saw the car crash
+12 There is a contradiction here?	no	1
+13 leo who is a butcher saw a girl running
+14 leo didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 gerald saw a girl running from a lemon car
+2 gerald didnt saw a girl running from a ashy bus with a new engine
+3 There is a contradiction here?	no	1
+4 andrew saw a boy driving melanies bicycle
+5 andrew didnt saw a boy driving an electric ashy bicycle
+6 There is a contradiction here?	no	1
+7 nicholas saw lucy driving in slobozia
+8 nicholas didnt saw lucy driving
+9 There is a contradiction here?	yes	1
+10 nelson saw a boy driving robertas bicycle
+11 nelson didnt saw a boy driving
+12 There is a contradiction here?	yes	1
+13 jon who is a technician saw the new tesla roadster
+14 jon didnt saw the new tesla roadster
+15 There is a contradiction here?	yes	1
+1 mamie who is a pilot saw the city mayor
+2 mamie didnt saw the city mayor
+3 There is a contradiction here?	yes	1
+4 miguel who is a cleaner bought a japanese novel
+5 miguel didnt buy a japanese novel
+6 There is a contradiction here?	yes	1
+7 corey who is a chef visit ramon
+8 corey vincents father didnt visit ramon
+9 There is a contradiction here?	no	1
+10 cecilia who is a bartender bought a chilean wine
+11 cecilia who is a lawyer didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 ronnie saw a boy driving lauras car
+14 ronnie didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 tony who is a baker saw the city mayor
+2 tony didnt saw the city mayor
+3 There is a contradiction here?	yes	1
+4 william saw a girl running from a yellow bus
+5 william didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 adrian who is a technician visit jessie
+8 adrian who is a judge didnt visit jessie
+9 There is a contradiction here?	no	1
+10 misty who is a butcher bought a pizza
+11 misty didnt buy a pizza
+12 There is a contradiction here?	yes	1
+13 myrtle saw a girl driving a orange bicycle
+14 myrtle didnt saw a girl driving an electric white bicycle
+15 There is a contradiction here?	no	1
+1 leslie saw a boy driving an electric lemon bicycle
+2 leslie didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 jeffrey who is a builder bought a pizza
+5 jeffrey heathers father didnt buy a pizza
+6 There is a contradiction here?	no	1
+7 franklin saw a boy running from a blue bus with a new engine
+8 franklin didnt saw a boy running
+9 There is a contradiction here?	yes	1
+10 albert who is a fireman bought a japanese novel
+11 albert didnt buy a japanese novel
+12 There is a contradiction here?	yes	1
+13 adam who is a butcher bought a macbook
+14 adam who is a barber didnt buy a macbook
+15 There is a contradiction here?	no	1
+1 ramon who is a barber saw the new marvel movie from the russo brothers
+2 ramon who is a scientist didnt saw the new marvel movie from the russo brothers
+3 There is a contradiction here?	no	1
+4 brian who is a flight attendant saw a strange add
+5 brian charlies father didnt saw a strange add
+6 There is a contradiction here?	no	1
+7 anne who is a baker bought a chilean wine
+8 anne isnt a baker
+9 There is a contradiction here?	yes	1
+10 rosie who is a receptionist bought a cup of coffee
+11 rosie isnt a receptionist
+12 There is a contradiction here?	yes	1
+13 arnold saw nelson driving a yellow bicycle
+14 arnold didnt saw nelson driving
+15 There is a contradiction here?	yes	1
+1 stanley who is a dentist bought the new marvel movie from the russo brothers
+2 stanley didnt buy the new marvel movie from the russo brothers
+3 There is a contradiction here?	yes	1
+4 eduardo saw steven running from claudias car
+5 eduardo didnt saw steven running
+6 There is a contradiction here?	yes	1
+7 kathy who is a nurse saw a girl running
+8 kathy darryls mother didnt saw a girl running
+9 There is a contradiction here?	no	1
+10 helen who is a flight attendant bought a japanese novel
+11 helen isnt a flight attendant
+12 There is a contradiction here?	yes	1
+13 donna who is a journalist saw the accident
+14 donna who is a baker didnt saw the accident
+15 There is a contradiction here?	no	1
+1 sandra who is a musician visit barry
+2 sandra ellens mother didnt visit barry
+3 There is a contradiction here?	no	1
+4 tina who is a carpenter saw a dog chasing a cat
+5 tina isnt a carpenter
+6 There is a contradiction here?	yes	1
+7 salvador who is a vet bought the new marvel movie from the russo brothers
+8 salvador who is a technician didnt buy the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 judith who is a nurse saw the new marvel movie from the russo brothers
+11 judith who is a engineer didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 sean who is a tailor bought a japanese novel
+14 sean isnt a tailor
+15 There is a contradiction here?	yes	1
+1 violet who is a hairdresser bought a pizza
+2 violet who is a cleaner didnt buy a pizza
+3 There is a contradiction here?	no	1
+4 beverly saw misty driving an electric gray bicycle
+5 beverly didnt saw misty driving
+6 There is a contradiction here?	yes	1
+7 johnny who is a cop saw a blue plane
+8 johnny eunices father didnt saw a blue plane
+9 There is a contradiction here?	no	1
+10 joyce who is a flight attendant saw the new tesla roadster
+11 joyce didnt saw the new tesla roadster
+12 There is a contradiction here?	yes	1
+13 mitchell who is a doctor bought a pizza
+14 mitchell leslies father didnt buy a pizza
+15 There is a contradiction here?	no	1
+1 manuel saw mathew running from a bus going to baia mare
+2 manuel didnt saw mathew running
+3 There is a contradiction here?	yes	1
+4 lee who is a engineer bought the new tesla roadster
+5 lee randys mother didnt buy the new tesla roadster
+6 There is a contradiction here?	no	1
+7 tony who is a builder bought a chilean wine
+8 tony didnt buy a chilean wine
+9 There is a contradiction here?	yes	1
+10 annie saw a boy running from marguerites car
+11 annie didnt saw a boy running from a ashy bus
+12 There is a contradiction here?	no	1
+13 milton saw a boy driving a white bicycle
+14 milton didnt saw a boy driving dales new tesla roadster
+15 There is a contradiction here?	no	1
+1 darryl saw alexander driving a yellow bicycle
+2 darryl didnt saw alexander driving
+3 There is a contradiction here?	yes	1
+4 christian saw a boy driving in slatina
+5 christian didnt saw a boy driving miriams bicycle
+6 There is a contradiction here?	no	1
+7 casey who is a cop saw the accident
+8 casey ramons father didnt saw the accident
+9 There is a contradiction here?	no	1
+10 janice who is a accountant visit susan
+11 janice amelias mother didnt visit susan
+12 There is a contradiction here?	no	1
+13 teresa saw ricky driving hollys new tesla roadster
+14 teresa didnt saw ricky driving
+15 There is a contradiction here?	yes	1
+1 jennie who is a electrician saw the accident
+2 jennie didnt saw the accident
+3 There is a contradiction here?	yes	1
+4 wallace saw cheryl driving a gray car
+5 wallace didnt saw cheryl driving doras car
+6 There is a contradiction here?	no	1
+7 dustin who is a journalist saw a strange add
+8 dustin isnt a journalist
+9 There is a contradiction here?	yes	1
+10 marcus who is a nurse saw a dog chasing a cat
+11 marcus isnt a nurse
+12 There is a contradiction here?	yes	1
+13 dennis saw a girl running from a black car
+14 dennis didnt saw a girl running from fredericks car
+15 There is a contradiction here?	no	1
+1 joanne who is a lawyer bought the new marvel movie from the russo brothers
+2 joanne who is a chef didnt buy the new marvel movie from the russo brothers
+3 There is a contradiction here?	no	1
+4 daryl who is a pilot saw a girl running
+5 daryl edwards father didnt saw a girl running
+6 There is a contradiction here?	no	1
+7 monique who is a flight attendant saw a blue plane
+8 monique isnt a flight attendant
+9 There is a contradiction here?	yes	1
+10 james saw a boy running from a special recently built bus
+11 james didnt saw a boy running
+12 There is a contradiction here?	yes	1
+13 sandra who is a nurse visit danny
+14 sandra jaimes mother didnt visit danny
+15 There is a contradiction here?	no	1
+1 sherri who is a plumber visit derek
+2 sherri who is a journalist didnt visit derek
+3 There is a contradiction here?	no	1
+4 reginald saw darren driving luiss new tesla roadster
+5 reginald didnt saw darren driving
+6 There is a contradiction here?	yes	1
+7 calvin who is a engineer bought a pizza
+8 calvin ginas father didnt buy a pizza
+9 There is a contradiction here?	no	1
+10 gertrude who is a secretary saw the accident
+11 gertrude didnt saw the accident
+12 There is a contradiction here?	yes	1
+13 annette who is a builder visit gail
+14 annette candices mother didnt visit gail
+15 There is a contradiction here?	no	1
+1 geneva saw a boy driving maggies new tesla roadster
+2 geneva didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 jo who is a judge bought a japanese novel
+5 jo hollys mother didnt buy a japanese novel
+6 There is a contradiction here?	no	1
+7 howard saw a girl running from a bus going to slatina
+8 howard didnt saw a girl running from a parade car
+9 There is a contradiction here?	no	1
+10 june who is a plumber visit hector
+11 june dons mother didnt visit hector
+12 There is a contradiction here?	no	1
+13 kim saw a boy running from rubys car
+14 kim didnt saw a boy running from a special recently built bus
+15 There is a contradiction here?	no	1
+1 dustin who is a dentist bought the new tesla roadster
+2 dustin isnt a dentist
+3 There is a contradiction here?	yes	1
+4 roberta who is a musician saw the car crash
+5 roberta didnt saw the car crash
+6 There is a contradiction here?	yes	1
+7 kristin who is a dentist bought the new marvel movie from the russo brothers
+8 kristin isnt a dentist
+9 There is a contradiction here?	yes	1
+10 rafael who is a secretary saw a strange add
+11 rafael who is a cashier didnt saw a strange add
+12 There is a contradiction here?	no	1
+13 claudia who is a tailor bought a japanese novel
+14 claudia anthonys mother didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 eddie saw a boy running from a white car
+2 eddie didnt saw a boy running from a purple bus
+3 There is a contradiction here?	no	1
+4 valerie saw a girl driving a gray car
+5 valerie didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 raul who is a carpenter saw a dog chasing a cat
+8 raul isnt a carpenter
+9 There is a contradiction here?	yes	1
+10 allen who is a nurse saw the new marvel movie from the russo brothers
+11 allen jodis father didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 nathan who is a cop bought the new marvel movie from the russo brothers
+14 nathan josephines father didnt buy the new marvel movie from the russo brothers
+15 There is a contradiction here?	no	1
+1 nora who is a vet bought a macbook
+2 nora isnt a vet
+3 There is a contradiction here?	yes	1
+4 rachel who is a nurse saw the new marvel movie from the russo brothers
+5 rachel who is a accountant didnt saw the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 gordon who is a secretary visit stacy
+8 gordon lawrences father didnt visit stacy
+9 There is a contradiction here?	no	1
+10 kelly saw a boy running from a parade car
+11 kelly didnt saw a boy running
+12 There is a contradiction here?	yes	1
+13 velma who is a electrician bought the new marvel movie from the russo brothers
+14 velma didnt buy the new marvel movie from the russo brothers
+15 There is a contradiction here?	yes	1
+1 lillie who is a accountant bought a cup of coffee
+2 lillie who is a lawyer didnt buy a cup of coffee
+3 There is a contradiction here?	no	1
+4 lindsey who is a journalist visit christopher
+5 lindsey isnt a journalist
+6 There is a contradiction here?	yes	1
+7 ronnie who is a vet saw the new tesla roadster
+8 ronnie didnt saw the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 albert who is a scientist saw the accident
+11 albert bens father didnt saw the accident
+12 There is a contradiction here?	no	1
+13 eduardo who is a fireman saw the accident
+14 eduardo didnt saw the accident
+15 There is a contradiction here?	yes	1
+1 lucy who is a butcher bought a pizza
+2 lucy who is a engineer didnt buy a pizza
+3 There is a contradiction here?	no	1
+4 louise saw a boy running from a special recently built bus
+5 louise didnt saw a boy running from a lemon car
+6 There is a contradiction here?	no	1
+7 suzanne who is a nurse visit julio
+8 suzanne who is a bartender didnt visit julio
+9 There is a contradiction here?	no	1
+10 chad saw a boy driving tylers new tesla roadster
+11 chad didnt saw a boy driving
+12 There is a contradiction here?	yes	1
+13 jo saw vicki driving a red bicycle
+14 jo didnt saw vicki driving
+15 There is a contradiction here?	yes	1
+1 christine saw a boy driving a green bicycle
+2 christine didnt saw a boy driving lydias new tesla roadster
+3 There is a contradiction here?	no	1
+4 maurice saw cecil driving erics new tesla roadster
+5 maurice didnt saw cecil driving in bucharest
+6 There is a contradiction here?	no	1
+7 rhonda who is a hairdresser visit carl
+8 rhonda who is a builder didnt visit carl
+9 There is a contradiction here?	no	1
+10 julie who is a painter visit alan
+11 julie marions mother didnt visit alan
+12 There is a contradiction here?	no	1
+13 lee who is a judge bought a japanese novel
+14 lee didnt buy a japanese novel
+15 There is a contradiction here?	yes	1
+1 kurt saw a girl driving in giurgiu
+2 kurt didnt saw a girl driving
+3 There is a contradiction here?	yes	1
+4 alfred who is a barber saw a blue plane
+5 alfred who is a accountant didnt saw a blue plane
+6 There is a contradiction here?	no	1
+7 mitchell who is a engineer saw the car crash
+8 mitchell rogers father didnt saw the car crash
+9 There is a contradiction here?	no	1
+10 vickie who is a judge saw the accident
+11 vickie who is a bartender didnt saw the accident
+12 There is a contradiction here?	no	1
+13 thelma who is a accountant saw a dog chasing a cat
+14 thelma didnt saw a dog chasing a cat
+15 There is a contradiction here?	yes	1
+1 jeanne saw a girl driving a purple car
+2 jeanne didnt saw a girl driving derricks car
+3 There is a contradiction here?	no	1
+4 charlene who is a musician visit claudia
+5 charlene didnt visit claudia
+6 There is a contradiction here?	yes	1
+7 jose who is a builder bought a pizza
+8 jose isnt a builder
+9 There is a contradiction here?	yes	1
+10 leroy who is a tailor bought the new tesla roadster
+11 leroy lisas father didnt buy the new tesla roadster
+12 There is a contradiction here?	no	1
+13 rosie who is a pilot visit cassandra
+14 rosie didnt visit cassandra
+15 There is a contradiction here?	yes	1
+1 phillip who is a cleaner saw a blue plane
+2 phillip who is a baker didnt saw a blue plane
+3 There is a contradiction here?	no	1
+4 marc saw a boy driving an electric orange bicycle
+5 marc didnt saw a boy driving a red car
+6 There is a contradiction here?	no	1
+7 erik who is a cashier bought a chilean wine
+8 erik ritas father didnt buy a chilean wine
+9 There is a contradiction here?	no	1
+10 lois who is a scientist visit corey
+11 lois isnt a scientist
+12 There is a contradiction here?	yes	1
+13 arnold saw a girl driving wallaces bicycle
+14 arnold didnt saw a girl driving teds car
+15 There is a contradiction here?	no	1
+1 angel saw a girl driving a ashy car
+2 angel didnt saw a girl driving
+3 There is a contradiction here?	yes	1
+4 betty who is a dentist visit corey
+5 betty didnt visit corey
+6 There is a contradiction here?	yes	1
+7 samantha who is a scientist visit angie
+8 samantha didnt visit angie
+9 There is a contradiction here?	yes	1
+10 melody who is a baker bought a cup of coffee
+11 melody audreys mother didnt buy a cup of coffee
+12 There is a contradiction here?	no	1
+13 glenn who is a barber visit alexander
+14 glenn elmers father didnt visit alexander
+15 There is a contradiction here?	no	1
+1 joshua who is a bartender visit carmen
+2 joshua micheals father didnt visit carmen
+3 There is a contradiction here?	no	1
+4 randall who is a cashier saw the accident
+5 randall paulas father didnt saw the accident
+6 There is a contradiction here?	no	1
+7 marcia who is a bartender bought the new marvel movie from the russo brothers
+8 marcia who is a journalist didnt buy the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 wilma saw a girl running from a purple school bus
+11 wilma didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 vicki saw kristin driving an electric gray bicycle
+14 vicki didnt saw kristin driving francess car
+15 There is a contradiction here?	no	1
+1 harold saw a girl driving a yellow car
+2 harold didnt saw a girl driving carloss bicycle
+3 There is a contradiction here?	no	1
+4 manuel who is a fireman bought a cup of coffee
+5 manuel isnt a fireman
+6 There is a contradiction here?	yes	1
+7 nancy who is a bartender bought a japanese novel
+8 nancy nathaniels mother didnt buy a japanese novel
+9 There is a contradiction here?	no	1
+10 alfred saw a girl running from a icy bus with a new engine
+11 alfred didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 frank who is a lawyer bought the new marvel movie from the russo brothers
+14 frank kimberlys father didnt buy the new marvel movie from the russo brothers
+15 There is a contradiction here?	no	1
+1 hattie who is a electrician visit gail
+2 hattie who is a tailor didnt visit gail
+3 There is a contradiction here?	no	1
+4 patsy who is a builder visit terry
+5 patsy who is a bartender didnt visit terry
+6 There is a contradiction here?	no	1
+7 gwendolyn saw a girl running from a white school bus
+8 gwendolyn didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 priscilla saw margarita running from a special recently built bus
+11 priscilla didnt saw margarita running from glorias car
+12 There is a contradiction here?	no	1
+13 lisa who is a accountant visit lauren
+14 lisa who is a butcher didnt visit lauren
+15 There is a contradiction here?	no	1
+1 ada who is a musician saw a dog chasing a cat
+2 ada didnt saw a dog chasing a cat
+3 There is a contradiction here?	yes	1
+4 carrie saw ross driving an electric lemon bicycle
+5 carrie didnt saw ross driving warrens car
+6 There is a contradiction here?	no	1
+7 rosa who is a nurse saw a dog chasing a cat
+8 rosa didnt saw a dog chasing a cat
+9 There is a contradiction here?	yes	1
+10 lola saw thelma driving albertos new tesla roadster
+11 lola didnt saw thelma driving in mangalia
+12 There is a contradiction here?	no	1
+13 dianne who is a electrician bought a macbook
+14 dianne mikes mother didnt buy a macbook
+15 There is a contradiction here?	no	1
+1 nicholas who is a chef saw a dog chasing a cat
+2 nicholas who is a lawyer didnt saw a dog chasing a cat
+3 There is a contradiction here?	no	1
+4 ryan who is a scientist saw the new marvel movie from the russo brothers
+5 ryan isnt a scientist
+6 There is a contradiction here?	yes	1
+7 jessica who is a electrician visit sam
+8 jessica isnt a electrician
+9 There is a contradiction here?	yes	1
+10 adam who is a bartender bought the new tesla roadster
+11 adam junes father didnt buy the new tesla roadster
+12 There is a contradiction here?	no	1
+13 penny who is a cop saw the new tesla roadster
+14 penny isnt a cop
+15 There is a contradiction here?	yes	1
+1 richard saw a boy running from a blue bus with a new engine
+2 richard didnt saw a boy running
+3 There is a contradiction here?	yes	1
+4 loretta who is a builder visit peggy
+5 loretta isnt a builder
+6 There is a contradiction here?	yes	1
+7 billie saw a boy driving carolyns car
+8 billie didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 tracey saw a girl running from a green bus with a new engine
+11 tracey didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 troy who is a builder visit suzanne
+14 troy didnt visit suzanne
+15 There is a contradiction here?	yes	1
+1 melanie saw a girl driving in arad
+2 melanie didnt saw a girl driving
+3 There is a contradiction here?	yes	1
+4 erin who is a vet visit raymond
+5 erin isnt a vet
+6 There is a contradiction here?	yes	1
+7 danny saw a boy running from a special recently built bus
+8 danny didnt saw a boy running
+9 There is a contradiction here?	yes	1
+10 wallace saw a girl running from a purple school bus
+11 wallace didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 agnes who is a butcher visit norma
+14 agnes isnt a butcher
+15 There is a contradiction here?	yes	1
+1 yvette who is a accountant saw the city mayor
+2 yvette didnt saw the city mayor
+3 There is a contradiction here?	yes	1
+4 dennis saw a boy driving a gray bicycle
+5 dennis didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 marion who is a plumber bought the new tesla roadster
+8 marion didnt buy the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 helen saw a girl running from a special recently built bus
+11 helen didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 billy who is a baker saw the new marvel movie from the russo brothers
+14 billy isnt a baker
+15 There is a contradiction here?	yes	1
+1 beulah saw a girl driving gregorys new tesla roadster
+2 beulah didnt saw a girl driving
+3 There is a contradiction here?	yes	1
+4 sarah who is a tailor bought a macbook
+5 sarah who is a flight attendant didnt buy a macbook
+6 There is a contradiction here?	no	1
+7 david who is a musician bought a japanese novel
+8 david dales father didnt buy a japanese novel
+9 There is a contradiction here?	no	1
+10 marcus who is a butcher saw a strange add
+11 marcus who is a carpenter didnt saw a strange add
+12 There is a contradiction here?	no	1
+13 connie who is a fireman bought a macbook
+14 connie didnt buy a macbook
+15 There is a contradiction here?	yes	1
+1 tim who is a hairdresser bought a japanese novel
+2 tim marvins father didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 bessie who is a painter bought a cup of coffee
+5 bessie didnt buy a cup of coffee
+6 There is a contradiction here?	yes	1
+7 george saw a girl running from a special recently built bus
+8 george didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 valerie who is a plumber saw the new marvel movie from the russo brothers
+11 valerie marthas mother didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 herman saw sharon running from a orange bus
+14 herman didnt saw sharon running from a bus going to hunedoara
+15 There is a contradiction here?	no	1
+1 alicia who is a accountant visit jonathan
+2 alicia isnt a accountant
+3 There is a contradiction here?	yes	1
+4 marie who is a secretary saw a strange add
+5 marie didnt saw a strange add
+6 There is a contradiction here?	yes	1
+7 lucille saw a boy running from a parade car
+8 lucille didnt saw a boy running from a yellow bus with a new engine
+9 There is a contradiction here?	no	1
+10 jo saw a boy driving franciss car
+11 jo didnt saw a boy driving daryls bicycle
+12 There is a contradiction here?	no	1
+13 june saw a boy driving mistys bicycle
+14 june didnt saw a boy driving an electric yellow bicycle
+15 There is a contradiction here?	no	1
+1 ronnie saw a girl driving pauls car
+2 ronnie didnt saw a girl driving virginias bicycle
+3 There is a contradiction here?	no	1
+4 jill who is a carpenter saw a blue plane
+5 jill who is a technician didnt saw a blue plane
+6 There is a contradiction here?	no	1
+7 geneva who is a carpenter bought a japanese novel
+8 geneva isnt a carpenter
+9 There is a contradiction here?	yes	1
+10 ralph who is a journalist visit darren
+11 ralph christinas father didnt visit darren
+12 There is a contradiction here?	no	1
+13 greg who is a dentist bought the new tesla roadster
+14 greg isnt a dentist
+15 There is a contradiction here?	yes	1
+1 alfredo saw frank driving a green car
+2 alfredo didnt saw frank driving
+3 There is a contradiction here?	yes	1
+4 hilda who is a vet visit agnes
+5 hilda isnt a vet
+6 There is a contradiction here?	yes	1
+7 june who is a doctor saw a girl running
+8 june who is a dentist didnt saw a girl running
+9 There is a contradiction here?	no	1
+10 joyce saw a girl running from a salmon school bus
+11 joyce didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 brandon who is a tailor saw a blue plane
+14 brandon isnt a tailor
+15 There is a contradiction here?	yes	1
+1 anna who is a bartender visit robert
+2 anna didnt visit robert
+3 There is a contradiction here?	yes	1
+4 mark who is a tailor bought a cup of coffee
+5 mark tyrones father didnt buy a cup of coffee
+6 There is a contradiction here?	no	1
+7 phillip who is a judge visit shannon
+8 phillip isnt a judge
+9 There is a contradiction here?	yes	1
+10 jamie saw theodore driving dales bicycle
+11 jamie didnt saw theodore driving
+12 There is a contradiction here?	yes	1
+13 christopher who is a technician saw a strange add
+14 christopher didnt saw a strange add
+15 There is a contradiction here?	yes	1
+1 elsie saw diana running from a parade car
+2 elsie didnt saw diana running
+3 There is a contradiction here?	yes	1
+4 lindsey who is a musician visit maggie
+5 lindsey fayes mother didnt visit maggie
+6 There is a contradiction here?	no	1
+7 elizabeth who is a receptionist saw the accident
+8 elizabeth lesters mother didnt saw the accident
+9 There is a contradiction here?	no	1
+10 alan who is a technician saw a dog chasing a cat
+11 alan brents father didnt saw a dog chasing a cat
+12 There is a contradiction here?	no	1
+13 dorothy saw a girl running from a red school bus
+14 dorothy didnt saw a girl running from a blue bus
+15 There is a contradiction here?	no	1
+1 beth who is a engineer visit amanda
+2 beth didnt visit amanda
+3 There is a contradiction here?	yes	1
+4 janet who is a butcher bought a chilean wine
+5 janet isnt a butcher
+6 There is a contradiction here?	yes	1
+7 nicholas who is a fireman saw the new tesla roadster
+8 nicholas didnt saw the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 theresa saw a boy driving shirleys car
+11 theresa didnt saw a boy driving jimmys bicycle
+12 There is a contradiction here?	no	1
+13 dean who is a painter visit shawn
+14 dean didnt visit shawn
+15 There is a contradiction here?	yes	1
+1 fred saw maurice running from a special recently built bus
+2 fred didnt saw maurice running
+3 There is a contradiction here?	yes	1
+4 gloria saw debra driving in clujnapoca
+5 gloria didnt saw debra driving
+6 There is a contradiction here?	yes	1
+7 beulah saw ronnie running from noras car
+8 beulah didnt saw ronnie running
+9 There is a contradiction here?	yes	1
+10 mildred who is a photographer bought a macbook
+11 mildred kristinas mother didnt buy a macbook
+12 There is a contradiction here?	no	1
+13 jacob saw mamie running from a salmon bus
+14 jacob didnt saw mamie running
+15 There is a contradiction here?	yes	1
+1 molly who is a butcher bought a japanese novel
+2 molly isnt a butcher
+3 There is a contradiction here?	yes	1
+4 bradley who is a baker bought a chilean wine
+5 bradley didnt buy a chilean wine
+6 There is a contradiction here?	yes	1
+7 reginald who is a barber bought a pizza
+8 reginald who is a accountant didnt buy a pizza
+9 There is a contradiction here?	no	1
+10 suzanne who is a musician visit calvin
+11 suzanne naomis mother didnt visit calvin
+12 There is a contradiction here?	no	1
+13 hector who is a vet visit jean
+14 hector who is a bartender didnt visit jean
+15 There is a contradiction here?	no	1
+1 ian saw a boy driving a blue car
+2 ian didnt saw a boy driving in vaslui
+3 There is a contradiction here?	no	1
+4 james who is a scientist saw a strange add
+5 james isnt a scientist
+6 There is a contradiction here?	yes	1
+7 karen saw a boy driving alices new tesla roadster
+8 karen didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 terrence saw marshall driving herberts car
+11 terrence didnt saw marshall driving
+12 There is a contradiction here?	yes	1
+13 gabriel saw a boy driving ronnies bicycle
+14 gabriel didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 sheila who is a fireman bought a macbook
+2 sheila didnt buy a macbook
+3 There is a contradiction here?	yes	1
+4 lula saw a girl running from jimmies car
+5 lula didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 clyde who is a judge saw a dog chasing a cat
+8 clyde garys father didnt saw a dog chasing a cat
+9 There is a contradiction here?	no	1
+10 rafael saw a boy driving gordons bicycle
+11 rafael didnt saw a boy driving
+12 There is a contradiction here?	yes	1
+13 cindy saw a boy running from a special recently built bus
+14 cindy didnt saw a boy running from a ashy car
+15 There is a contradiction here?	no	1
+1 cody who is a baker bought a chilean wine
+2 cody isnt a baker
+3 There is a contradiction here?	yes	1
+4 gilbert saw heather driving antonios car
+5 gilbert didnt saw heather driving
+6 There is a contradiction here?	yes	1
+7 lori who is a fireman saw the new tesla roadster
+8 lori didnt saw the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 carrie saw don driving in bucharest
+11 carrie didnt saw don driving alans bicycle
+12 There is a contradiction here?	no	1
+13 matthew who is a bartender saw the car crash
+14 matthew isnt a bartender
+15 There is a contradiction here?	yes	1
+1 justin saw patrick driving ricks bicycle
+2 justin didnt saw patrick driving
+3 There is a contradiction here?	yes	1
+4 floyd who is a receptionist bought a pizza
+5 floyd didnt buy a pizza
+6 There is a contradiction here?	yes	1
+7 leah who is a carpenter visit olivia
+8 leah didnt visit olivia
+9 There is a contradiction here?	yes	1
+10 cody saw ricardo driving a mango car
+11 cody didnt saw ricardo driving in clujnapoca
+12 There is a contradiction here?	no	1
+13 melissa saw leonard running from a yellow bus with a new engine
+14 melissa didnt saw leonard running
+15 There is a contradiction here?	yes	1
+1 jimmy who is a journalist bought a japanese novel
+2 jimmy madelines father didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 allison saw a boy driving angels car
+5 allison didnt saw a boy driving a black car
+6 There is a contradiction here?	no	1
+7 lois who is a cleaner saw a dog chasing a cat
+8 lois didnt saw a dog chasing a cat
+9 There is a contradiction here?	yes	1
+10 barbara saw a boy running from sues car
+11 barbara didnt saw a boy running
+12 There is a contradiction here?	yes	1
+13 randall saw a girl running from a parade car
+14 randall didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 stacey saw a boy running from a bus going to dej
+2 stacey didnt saw a boy running
+3 There is a contradiction here?	yes	1
+4 candace who is a lawyer bought a pizza
+5 candace didnt buy a pizza
+6 There is a contradiction here?	yes	1
+7 joel saw a girl running from a icy bus with a new engine
+8 joel didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 margie who is a secretary bought a chilean wine
+11 margie isnt a secretary
+12 There is a contradiction here?	yes	1
+13 melinda saw a girl driving in slatina
+14 melinda didnt saw a girl driving a ashy car
+15 There is a contradiction here?	no	1
+1 seth who is a photographer saw the city mayor
+2 seth johns father didnt saw the city mayor
+3 There is a contradiction here?	no	1
+4 robin who is a dentist bought the new tesla roadster
+5 robin didnt buy the new tesla roadster
+6 There is a contradiction here?	yes	1
+7 cathy saw a boy running from a red bus
+8 cathy didnt saw a boy running from a yellow school bus
+9 There is a contradiction here?	no	1
+10 rhonda who is a nurse visit annie
+11 rhonda isnt a nurse
+12 There is a contradiction here?	yes	1
+13 barry saw a boy running from a black car
+14 barry didnt saw a boy running
+15 There is a contradiction here?	yes	1
+1 marcia saw a boy running from a bus going to mangalia
+2 marcia didnt saw a boy running
+3 There is a contradiction here?	yes	1
+4 lewis who is a butcher bought the new tesla roadster
+5 lewis who is a vet didnt buy the new tesla roadster
+6 There is a contradiction here?	no	1
+7 loretta saw julian driving an electric red bicycle
+8 loretta didnt saw julian driving lisas car
+9 There is a contradiction here?	no	1
+10 jeanette who is a cashier bought a macbook
+11 jeanette who is a cleaner didnt buy a macbook
+12 There is a contradiction here?	no	1
+13 myrtle saw toni driving an electric white bicycle
+14 myrtle didnt saw toni driving
+15 There is a contradiction here?	yes	1
+1 jorge saw a boy driving in craiova
+2 jorge didnt saw a boy driving a orange car
+3 There is a contradiction here?	no	1
+4 michele saw a girl driving an electric white bicycle
+5 michele didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 thomas saw alicia driving a mango car
+8 thomas didnt saw alicia driving an electric mango bicycle
+9 There is a contradiction here?	no	1
+10 isaac who is a builder saw a strange add
+11 isaac didnt saw a strange add
+12 There is a contradiction here?	yes	1
+13 cheryl who is a doctor saw the car crash
+14 cheryl didnt saw the car crash
+15 There is a contradiction here?	yes	1
+1 betty who is a carpenter saw a dog chasing a cat
+2 betty colleens mother didnt saw a dog chasing a cat
+3 There is a contradiction here?	no	1
+4 opal saw a girl driving marks car
+5 opal didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 marcia who is a journalist bought a cup of coffee
+8 marcia who is a engineer didnt buy a cup of coffee
+9 There is a contradiction here?	no	1
+10 russell who is a hairdresser saw the city mayor
+11 russell doras father didnt saw the city mayor
+12 There is a contradiction here?	no	1
+13 jill who is a baker bought a macbook
+14 jill who is a musician didnt buy a macbook
+15 There is a contradiction here?	no	1
+1 vera saw terry driving an electric black bicycle
+2 vera didnt saw terry driving in timisoara
+3 There is a contradiction here?	no	1
+4 jennie who is a barber saw a strange add
+5 jennie who is a plumber didnt saw a strange add
+6 There is a contradiction here?	no	1
+7 joan who is a accountant visit barry
+8 joan didnt visit barry
+9 There is a contradiction here?	yes	1
+10 francis saw delores running from a red bus with a new engine
+11 francis didnt saw delores running
+12 There is a contradiction here?	yes	1
+13 holly who is a chef visit carol
+14 holly curtiss mother didnt visit carol
+15 There is a contradiction here?	no	1
+1 troy who is a engineer saw the new tesla roadster
+2 troy kathryns father didnt saw the new tesla roadster
+3 There is a contradiction here?	no	1
+4 kirk who is a musician bought the new marvel movie from the russo brothers
+5 kirk marios father didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 blanche saw a girl running from a gray bus
+8 blanche didnt saw a girl running from steves car
+9 There is a contradiction here?	no	1
+10 dwight who is a barber saw the accident
+11 dwight didnt saw the accident
+12 There is a contradiction here?	yes	1
+13 keith who is a flight attendant bought a pizza
+14 keith didnt buy a pizza
+15 There is a contradiction here?	yes	1
+1 virginia who is a judge saw the accident
+2 virginia didnt saw the accident
+3 There is a contradiction here?	yes	1
+4 geraldine who is a photographer bought a cup of coffee
+5 geraldine raymonds mother didnt buy a cup of coffee
+6 There is a contradiction here?	no	1
+7 edith saw nicole driving a mango car
+8 edith didnt saw nicole driving franciss new tesla roadster
+9 There is a contradiction here?	no	1
+10 tracy who is a pilot visit lewis
+11 tracy who is a accountant didnt visit lewis
+12 There is a contradiction here?	no	1
+13 pamela who is a scientist visit judy
+14 pamela isnt a scientist
+15 There is a contradiction here?	yes	1
+1 marian who is a plumber saw a blue plane
+2 marian enriques mother didnt saw a blue plane
+3 There is a contradiction here?	no	1
+4 bill saw a boy running from a parade car
+5 bill didnt saw a boy running from a bus going to baia mare
+6 There is a contradiction here?	no	1
+7 lance who is a butcher bought the new tesla roadster
+8 lance who is a baker didnt buy the new tesla roadster
+9 There is a contradiction here?	no	1
+10 glenda who is a scientist saw the accident
+11 glenda rauls mother didnt saw the accident
+12 There is a contradiction here?	no	1
+13 shane saw a girl driving a lemon bicycle
+14 shane didnt saw a girl driving
+15 There is a contradiction here?	yes	1
+1 ada who is a carpenter bought the new tesla roadster
+2 ada isnt a carpenter
+3 There is a contradiction here?	yes	1
+4 gordon who is a receptionist bought a macbook
+5 gordon jennifers father didnt buy a macbook
+6 There is a contradiction here?	no	1
+7 ron saw a girl driving a lemon car
+8 ron didnt saw a girl driving bobbies new tesla roadster
+9 There is a contradiction here?	no	1
+10 tyler who is a vet bought the new tesla roadster
+11 tyler isnt a vet
+12 There is a contradiction here?	yes	1
+13 terri saw a boy running from a parade car
+14 terri didnt saw a boy running
+15 There is a contradiction here?	yes	1
+1 gabriel who is a bartender bought a japanese novel
+2 gabriel didnt buy a japanese novel
+3 There is a contradiction here?	yes	1
+4 chad saw a boy driving a green car
+5 chad didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 hattie who is a butcher visit justin
+8 hattie didnt visit justin
+9 There is a contradiction here?	yes	1
+10 leona who is a doctor saw a strange add
+11 leona randalls mother didnt saw a strange add
+12 There is a contradiction here?	no	1
+13 edgar who is a cleaner saw a girl running
+14 edgar didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 linda who is a receptionist bought the new tesla roadster
+2 linda christines mother didnt buy the new tesla roadster
+3 There is a contradiction here?	no	1
+4 lula who is a photographer saw the new tesla roadster
+5 lula isnt a photographer
+6 There is a contradiction here?	yes	1
+7 douglas who is a butcher bought a cup of coffee
+8 douglas alisons father didnt buy a cup of coffee
+9 There is a contradiction here?	no	1
+10 joanna saw ross running from helens car
+11 joanna didnt saw ross running from a black bus with a new engine
+12 There is a contradiction here?	no	1
+13 olga saw a girl driving paulines bicycle
+14 olga didnt saw a girl driving clintons new tesla roadster
+15 There is a contradiction here?	no	1
+1 lee saw a girl running from a mango bus
+2 lee didnt saw a girl running
+3 There is a contradiction here?	yes	1
+4 eileen saw a girl driving a red car
+5 eileen didnt saw a girl driving a orange bicycle
+6 There is a contradiction here?	no	1
+7 barbara who is a judge saw the city mayor
+8 barbara who is a flight attendant didnt saw the city mayor
+9 There is a contradiction here?	no	1
+10 elsie who is a lawyer saw a girl running
+11 elsie didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 harriet saw julio driving claudes car
+14 harriet didnt saw julio driving francess bicycle
+15 There is a contradiction here?	no	1
+1 kimberly saw rosemary running from brittanys car
+2 kimberly didnt saw rosemary running
+3 There is a contradiction here?	yes	1
+4 fred who is a journalist visit dianne
+5 fred marians father didnt visit dianne
+6 There is a contradiction here?	no	1
+7 carla saw rick running from a salmon bus with a new engine
+8 carla didnt saw rick running
+9 There is a contradiction here?	yes	1
+10 pedro who is a fireman visit corey
+11 pedro who is a cleaner didnt visit corey
+12 There is a contradiction here?	no	1
+13 howard who is a chef saw a dog chasing a cat
+14 howard eileens father didnt saw a dog chasing a cat
+15 There is a contradiction here?	no	1
+1 rose who is a bartender visit margarita
+2 rose freddies mother didnt visit margarita
+3 There is a contradiction here?	no	1
+4 mathew who is a receptionist saw the new marvel movie from the russo brothers
+5 mathew isnt a receptionist
+6 There is a contradiction here?	yes	1
+7 ellen who is a barber visit sarah
+8 ellen didnt visit sarah
+9 There is a contradiction here?	yes	1
+10 leon who is a lawyer saw a strange add
+11 leon who is a chef didnt saw a strange add
+12 There is a contradiction here?	no	1
+13 marion who is a pilot bought the new tesla roadster
+14 marion who is a judge didnt buy the new tesla roadster
+15 There is a contradiction here?	no	1
+1 wesley who is a plumber visit clayton
+2 wesley isnt a plumber
+3 There is a contradiction here?	yes	1
+4 dustin who is a judge bought the new marvel movie from the russo brothers
+5 dustin gilberts father didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 scott who is a fireman visit jill
+8 scott isnt a fireman
+9 There is a contradiction here?	yes	1
+10 greg saw a girl running from naomis car
+11 greg didnt saw a girl running from a lemon school bus
+12 There is a contradiction here?	no	1
+13 willie who is a fireman visit ralph
+14 willie who is a vet didnt visit ralph
+15 There is a contradiction here?	no	1
+1 nina who is a receptionist visit caroline
+2 nina who is a technician didnt visit caroline
+3 There is a contradiction here?	no	1
+4 brittany who is a fireman bought a cup of coffee
+5 brittany franciss mother didnt buy a cup of coffee
+6 There is a contradiction here?	no	1
+7 alfred saw a boy running from a white school bus
+8 alfred didnt saw a boy running from a blue bus
+9 There is a contradiction here?	no	1
+10 marlene who is a bartender visit randy
+11 marlene didnt visit randy
+12 There is a contradiction here?	yes	1
+13 daisy who is a doctor saw the car crash
+14 daisy inezs mother didnt saw the car crash
+15 There is a contradiction here?	no	1
+1 beverly saw a girl driving a red car
+2 beverly didnt saw a girl driving
+3 There is a contradiction here?	yes	1
+4 daryl who is a tailor saw a blue plane
+5 daryl isnt a tailor
+6 There is a contradiction here?	yes	1
+7 michele who is a fireman visit rosie
+8 michele sharons mother didnt visit rosie
+9 There is a contradiction here?	no	1
+10 brett who is a nurse bought a macbook
+11 brett didnt buy a macbook
+12 There is a contradiction here?	yes	1
+13 arnold who is a doctor visit eleanor
+14 arnold anitas father didnt visit eleanor
+15 There is a contradiction here?	no	1
+1 maurice saw a boy driving a white car
+2 maurice didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 sherry who is a hairdresser visit tracy
+5 sherry who is a dentist didnt visit tracy
+6 There is a contradiction here?	no	1
+7 marsha who is a plumber bought the new marvel movie from the russo brothers
+8 marsha didnt buy the new marvel movie from the russo brothers
+9 There is a contradiction here?	yes	1
+10 lola who is a carpenter bought a japanese novel
+11 lola didnt buy a japanese novel
+12 There is a contradiction here?	yes	1
+13 nicholas who is a butcher visit jacqueline
+14 nicholas didnt visit jacqueline
+15 There is a contradiction here?	yes	1
+1 candice saw jon driving rafaels new tesla roadster
+2 candice didnt saw jon driving
+3 There is a contradiction here?	yes	1
+4 dolores who is a bartender visit eddie
+5 dolores elaines mother didnt visit eddie
+6 There is a contradiction here?	no	1
+7 deanna who is a tailor saw a blue plane
+8 deanna who is a photographer didnt saw a blue plane
+9 There is a contradiction here?	no	1
+10 paula saw a girl running from a red bus with a new engine
+11 paula didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 laura saw a girl running from a green school bus
+14 laura didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 nora who is a cop bought a macbook
+2 nora isnt a cop
+3 There is a contradiction here?	yes	1
+4 lester saw a boy running from a bus going to timisoara
+5 lester didnt saw a boy running from a ashy school bus
+6 There is a contradiction here?	no	1
+7 deanna who is a vet saw a blue plane
+8 deanna isnt a vet
+9 There is a contradiction here?	yes	1
+10 joann who is a bartender bought a chilean wine
+11 joann who is a nurse didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 wade who is a carpenter bought the new marvel movie from the russo brothers
+14 wade isnt a carpenter
+15 There is a contradiction here?	yes	1
+1 pedro who is a engineer visit dean
+2 pedro kathryns father didnt visit dean
+3 There is a contradiction here?	no	1
+4 delores saw a girl running from a ashy bus
+5 delores didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 norma who is a engineer visit duane
+8 norma didnt visit duane
+9 There is a contradiction here?	yes	1
+10 barry who is a fireman visit bobby
+11 barry who is a dentist didnt visit bobby
+12 There is a contradiction here?	no	1
+13 sharon who is a hairdresser saw the new tesla roadster
+14 sharon who is a nurse didnt saw the new tesla roadster
+15 There is a contradiction here?	no	1
+1 ronald saw a girl driving calvins new tesla roadster
+2 ronald didnt saw a girl driving
+3 There is a contradiction here?	yes	1
+4 claire who is a photographer bought a pizza
+5 claire who is a lawyer didnt buy a pizza
+6 There is a contradiction here?	no	1
+7 andrea saw a girl running from a salmon bus with a new engine
+8 andrea didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 wayne who is a carpenter saw a strange add
+11 wayne didnt saw a strange add
+12 There is a contradiction here?	yes	1
+13 michael who is a journalist saw the city mayor
+14 michael lesters father didnt saw the city mayor
+15 There is a contradiction here?	no	1
+1 eileen who is a painter visit ron
+2 eileen jimmies mother didnt visit ron
+3 There is a contradiction here?	no	1
+4 eunice who is a hairdresser bought a pizza
+5 eunice didnt buy a pizza
+6 There is a contradiction here?	yes	1
+7 lula saw a boy driving jaimes new tesla roadster
+8 lula didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 ken who is a cop bought the new marvel movie from the russo brothers
+11 ken derricks father didnt buy the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 david who is a lawyer visit hattie
+14 david isnt a lawyer
+15 There is a contradiction here?	yes	1
+1 madeline who is a barber visit joyce
+2 madeline didnt visit joyce
+3 There is a contradiction here?	yes	1
+4 lee saw a boy running from a parade car
+5 lee didnt saw a boy running
+6 There is a contradiction here?	yes	1
+7 terry saw a girl driving a mango bicycle
+8 terry didnt saw a girl driving renes bicycle
+9 There is a contradiction here?	no	1
+10 carole who is a painter visit olga
+11 carole isnt a painter
+12 There is a contradiction here?	yes	1
+13 bradley who is a dentist visit irma
+14 bradley isnt a dentist
+15 There is a contradiction here?	yes	1
+1 russell who is a vet bought a pizza
+2 russell who is a electrician didnt buy a pizza
+3 There is a contradiction here?	no	1
+4 florence saw a girl driving fannies new tesla roadster
+5 florence didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 claude who is a painter saw the new tesla roadster
+8 claude who is a plumber didnt saw the new tesla roadster
+9 There is a contradiction here?	no	1
+10 jack who is a doctor bought a chilean wine
+11 jack rachels father didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 melinda who is a pilot visit sonia
+14 melinda isnt a pilot
+15 There is a contradiction here?	yes	1
+1 eric who is a butcher bought a pizza
+2 eric didnt buy a pizza
+3 There is a contradiction here?	yes	1
+4 guy who is a judge saw a dog chasing a cat
+5 guy didnt saw a dog chasing a cat
+6 There is a contradiction here?	yes	1
+7 jamie saw elaine driving felixs bicycle
+8 jamie didnt saw elaine driving daniels new tesla roadster
+9 There is a contradiction here?	no	1
+10 gerald who is a lawyer bought a macbook
+11 gerald isnt a lawyer
+12 There is a contradiction here?	yes	1
+13 melvin who is a flight attendant visit leslie
+14 melvin isnt a flight attendant
+15 There is a contradiction here?	yes	1
+1 anthony who is a secretary visit albert
+2 anthony isnt a secretary
+3 There is a contradiction here?	yes	1
+4 renee saw marilyn driving harolds bicycle
+5 renee didnt saw marilyn driving
+6 There is a contradiction here?	yes	1
+7 lonnie who is a tailor bought the new tesla roadster
+8 lonnie didnt buy the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 ella who is a lawyer saw the new tesla roadster
+11 ella who is a pilot didnt saw the new tesla roadster
+12 There is a contradiction here?	no	1
+13 vivian who is a painter saw a girl running
+14 vivian who is a dentist didnt saw a girl running
+15 There is a contradiction here?	no	1
+1 tina saw jeff driving loiss car
+2 tina didnt saw jeff driving
+3 There is a contradiction here?	yes	1
+4 tyler who is a cashier visit ruby
+5 tyler didnt visit ruby
+6 There is a contradiction here?	yes	1
+7 andy saw gail running from a gray school bus
+8 andy didnt saw gail running from a special recently built bus
+9 There is a contradiction here?	no	1
+10 naomi saw a girl running from a bus going to reghin
+11 naomi didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 dolores saw a boy driving a icy bicycle
+14 dolores didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 bernice who is a fireman bought a japanese novel
+2 bernice deloress mother didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 sean who is a journalist visit nellie
+5 sean didnt visit nellie
+6 There is a contradiction here?	yes	1
+7 jamie who is a cashier saw a blue plane
+8 jamie jeromes mother didnt saw a blue plane
+9 There is a contradiction here?	no	1
+10 blanche who is a doctor bought a cup of coffee
+11 blanche isnt a doctor
+12 There is a contradiction here?	yes	1
+13 emma who is a electrician bought a japanese novel
+14 emma didnt buy a japanese novel
+15 There is a contradiction here?	yes	1
+1 peter who is a photographer bought a pizza
+2 peter isnt a photographer
+3 There is a contradiction here?	yes	1
+4 shane who is a cashier saw a girl running
+5 shane didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 tanya who is a bartender saw the accident
+8 tanya didnt saw the accident
+9 There is a contradiction here?	yes	1
+10 diana saw antonio driving a icy car
+11 diana didnt saw antonio driving
+12 There is a contradiction here?	yes	1
+13 floyd saw a boy driving davids bicycle
+14 floyd didnt saw a boy driving in slatina
+15 There is a contradiction here?	no	1
+1 pauline who is a cleaner visit dorothy
+2 pauline didnt visit dorothy
+3 There is a contradiction here?	yes	1
+4 susan saw wayne running from steves car
+5 susan didnt saw wayne running from a bus going to slatina
+6 There is a contradiction here?	no	1
+7 paul saw a girl driving janes new tesla roadster
+8 paul didnt saw a girl driving in arad
+9 There is a contradiction here?	no	1
+10 stella saw carlos running from a parade car
+11 stella didnt saw carlos running from a orange school bus
+12 There is a contradiction here?	no	1
+13 joann who is a builder bought a japanese novel
+14 joann isnt a builder
+15 There is a contradiction here?	yes	1
+1 virginia who is a painter visit tommy
+2 virginia isnt a painter
+3 There is a contradiction here?	yes	1
+4 lloyd saw a boy running from a mango car
+5 lloyd didnt saw a boy running from a parade car
+6 There is a contradiction here?	no	1
+7 wesley saw vanessa running from joys car
+8 wesley didnt saw vanessa running from a parade car
+9 There is a contradiction here?	no	1
+10 dwight who is a baker visit cory
+11 dwight didnt visit cory
+12 There is a contradiction here?	yes	1
+13 wendy who is a engineer visit willie
+14 wendy isnt a engineer
+15 There is a contradiction here?	yes	1
+1 clinton saw a boy driving heathers car
+2 clinton didnt saw a boy driving a ashy bicycle
+3 There is a contradiction here?	no	1
+4 heather who is a cop bought a chilean wine
+5 heather who is a accountant didnt buy a chilean wine
+6 There is a contradiction here?	no	1
+7 alicia saw a girl driving belindas new tesla roadster
+8 alicia didnt saw a girl driving
+9 There is a contradiction here?	yes	1
+10 shawn who is a chef bought the new marvel movie from the russo brothers
+11 shawn who is a photographer didnt buy the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 darryl who is a cleaner saw the accident
+14 darryl jeromes father didnt saw the accident
+15 There is a contradiction here?	no	1
+1 brent who is a flight attendant visit isaac
+2 brent didnt visit isaac
+3 There is a contradiction here?	yes	1
+4 cheryl who is a cashier saw a girl running
+5 cheryl didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 monique saw a girl running from a icy school bus
+8 monique didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 arlene who is a dentist saw the new marvel movie from the russo brothers
+11 arlene tyrones mother didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 erin who is a painter bought a macbook
+14 erin johns mother didnt buy a macbook
+15 There is a contradiction here?	no	1
+1 mary who is a technician visit clyde
+2 mary thelmas mother didnt visit clyde
+3 There is a contradiction here?	no	1
+4 norman who is a vet bought a pizza
+5 norman didnt buy a pizza
+6 There is a contradiction here?	yes	1
+7 jonathan who is a receptionist visit linda
+8 jonathan who is a carpenter didnt visit linda
+9 There is a contradiction here?	no	1
+10 kathryn who is a engineer saw the new tesla roadster
+11 kathryn who is a flight attendant didnt saw the new tesla roadster
+12 There is a contradiction here?	no	1
+13 ellen who is a nurse bought a cup of coffee
+14 ellen isnt a nurse
+15 There is a contradiction here?	yes	1
+1 jeanne who is a doctor visit kirk
+2 jeanne isnt a doctor
+3 There is a contradiction here?	yes	1
+4 carla saw a girl driving leroys bicycle
+5 carla didnt saw a girl driving in blaj
+6 There is a contradiction here?	no	1
+7 virginia saw a girl running from a special recently built bus
+8 virginia didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 harold who is a plumber visit oscar
+11 harold didnt visit oscar
+12 There is a contradiction here?	yes	1
+13 enrique saw a girl running from a green bus
+14 enrique didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 alfred saw rene driving ednas car
+2 alfred didnt saw rene driving a mango bicycle
+3 There is a contradiction here?	no	1
+4 thomas saw darryl driving glendas new tesla roadster
+5 thomas didnt saw darryl driving
+6 There is a contradiction here?	yes	1
+7 cynthia saw a girl running from a bus going to reghin
+8 cynthia didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 rene who is a painter saw the new tesla roadster
+11 rene who is a lawyer didnt saw the new tesla roadster
+12 There is a contradiction here?	no	1
+13 jennifer saw a boy driving an electric purple bicycle
+14 jennifer didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 margie saw lonnie running from jonathans car
+2 margie didnt saw lonnie running from a blue school bus
+3 There is a contradiction here?	no	1
+4 wayne who is a hairdresser bought a japanese novel
+5 wayne who is a pilot didnt buy a japanese novel
+6 There is a contradiction here?	no	1
+7 patrick who is a fireman visit alan
+8 patrick isnt a fireman
+9 There is a contradiction here?	yes	1
+10 kenneth saw a girl running from a special recently built bus
+11 kenneth didnt saw a girl running from a orange school bus
+12 There is a contradiction here?	no	1
+13 gerald who is a technician saw the new tesla roadster
+14 gerald isnt a technician
+15 There is a contradiction here?	yes	1
+1 frederick who is a flight attendant visit phillip
+2 frederick didnt visit phillip
+3 There is a contradiction here?	yes	1
+4 cody saw sally running from a gray car
+5 cody didnt saw sally running from a parade car
+6 There is a contradiction here?	no	1
+7 julian who is a cop saw the accident
+8 julian guys father didnt saw the accident
+9 There is a contradiction here?	no	1
+10 vera saw a girl running from a gray bus with a new engine
+11 vera didnt saw a girl running from a bus going to lugoj
+12 There is a contradiction here?	no	1
+13 calvin saw a girl running from a gray school bus
+14 calvin didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 shawn saw a boy driving a ashy bicycle
+2 shawn didnt saw a boy driving an electric black bicycle
+3 There is a contradiction here?	no	1
+4 mathew who is a carpenter bought a pizza
+5 mathew melanies father didnt buy a pizza
+6 There is a contradiction here?	no	1
+7 wendy who is a journalist saw the accident
+8 wendy lances mother didnt saw the accident
+9 There is a contradiction here?	no	1
+10 faye who is a cop saw the new marvel movie from the russo brothers
+11 faye didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	yes	1
+13 pamela who is a doctor saw the accident
+14 pamela who is a cleaner didnt saw the accident
+15 There is a contradiction here?	no	1
+1 cora who is a vet saw a girl running
+2 cora didnt saw a girl running
+3 There is a contradiction here?	yes	1
+4 edwin saw a boy running from a special recently built bus
+5 edwin didnt saw a boy running
+6 There is a contradiction here?	yes	1
+7 kristine who is a carpenter visit joanna
+8 kristine isnt a carpenter
+9 There is a contradiction here?	yes	1
+10 tamara saw a girl running from a red school bus
+11 tamara didnt saw a girl running from a special recently built bus
+12 There is a contradiction here?	no	1
+13 jordan who is a bartender visit salvador
+14 jordan yvettes father didnt visit salvador
+15 There is a contradiction here?	no	1
+1 ben who is a pilot saw the new tesla roadster
+2 ben charlottes father didnt saw the new tesla roadster
+3 There is a contradiction here?	no	1
+4 casey who is a cop bought a pizza
+5 casey isnt a cop
+6 There is a contradiction here?	yes	1
+7 stacey saw marvin driving an electric green bicycle
+8 stacey didnt saw marvin driving sheryls new tesla roadster
+9 There is a contradiction here?	no	1
+10 cindy who is a photographer bought the new marvel movie from the russo brothers
+11 cindy didnt buy the new marvel movie from the russo brothers
+12 There is a contradiction here?	yes	1
+13 clara who is a baker visit nellie
+14 clara isnt a baker
+15 There is a contradiction here?	yes	1
+1 stanley who is a bartender bought a japanese novel
+2 stanley who is a plumber didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 angel saw a girl running from a bus going to dej
+5 angel didnt saw a girl running from a yellow school bus
+6 There is a contradiction here?	no	1
+7 dora saw a girl driving a gray bicycle
+8 dora didnt saw a girl driving
+9 There is a contradiction here?	yes	1
+10 blanche who is a plumber bought a japanese novel
+11 blanche who is a builder didnt buy a japanese novel
+12 There is a contradiction here?	no	1
+13 beatrice who is a bartender visit lee
+14 beatrice helens mother didnt visit lee
+15 There is a contradiction here?	no	1
+1 marion who is a chef bought a japanese novel
+2 marion jamies father didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 daniel who is a tailor visit oscar
+5 daniel isnt a tailor
+6 There is a contradiction here?	yes	1
+7 francis who is a cop visit isaac
+8 francis donalds father didnt visit isaac
+9 There is a contradiction here?	no	1
+10 ann saw a girl driving floyds car
+11 ann didnt saw a girl driving a mango car
+12 There is a contradiction here?	no	1
+13 priscilla who is a scientist visit bruce
+14 priscilla isnt a scientist
+15 There is a contradiction here?	yes	1
+1 charlie who is a lawyer visit erika
+2 charlie chesters father didnt visit erika
+3 There is a contradiction here?	no	1
+4 vincent saw a girl driving an electric gray bicycle
+5 vincent didnt saw a girl driving bobs new tesla roadster
+6 There is a contradiction here?	no	1
+7 ron saw salvador running from a bus going to reghin
+8 ron didnt saw salvador running
+9 There is a contradiction here?	yes	1
+10 jamie who is a accountant bought a pizza
+11 jamie isnt a accountant
+12 There is a contradiction here?	yes	1
+13 jackie saw willard driving a lemon car
+14 jackie didnt saw willard driving in blaj
+15 There is a contradiction here?	no	1
+1 madeline who is a barber visit lula
+2 madeline who is a receptionist didnt visit lula
+3 There is a contradiction here?	no	1
+4 kathy who is a doctor saw a strange add
+5 kathy who is a vet didnt saw a strange add
+6 There is a contradiction here?	no	1
+7 janet who is a flight attendant saw the new tesla roadster
+8 janet didnt saw the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 eunice who is a builder saw the new tesla roadster
+11 eunice didnt saw the new tesla roadster
+12 There is a contradiction here?	yes	1
+13 leon saw myrtle running from a white bus with a new engine
+14 leon didnt saw myrtle running from vanessas car
+15 There is a contradiction here?	no	1
+1 everett who is a dentist visit ellen
+2 everett didnt visit ellen
+3 There is a contradiction here?	yes	1
+4 cynthia who is a doctor bought the new marvel movie from the russo brothers
+5 cynthia denniss mother didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 stephen who is a butcher bought a cup of coffee
+8 stephen fernandos father didnt buy a cup of coffee
+9 There is a contradiction here?	no	1
+10 benjamin who is a hairdresser visit derrick
+11 benjamin nellies father didnt visit derrick
+12 There is a contradiction here?	no	1
+13 iris who is a hairdresser visit calvin
+14 iris didnt visit calvin
+15 There is a contradiction here?	yes	1
+1 bernice who is a journalist bought a cup of coffee
+2 bernice didnt buy a cup of coffee
+3 There is a contradiction here?	yes	1
+4 herman saw a girl running from franciscos car
+5 herman didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 jay saw a boy running from a icy bus
+8 jay didnt saw a boy running from maggies car
+9 There is a contradiction here?	no	1
+10 eugene who is a technician bought a japanese novel
+11 eugene didnt buy a japanese novel
+12 There is a contradiction here?	yes	1
+13 misty who is a receptionist bought the new tesla roadster
+14 misty didnt buy the new tesla roadster
+15 There is a contradiction here?	yes	1
+1 hugh who is a builder bought the new marvel movie from the russo brothers
+2 hugh isnt a builder
+3 There is a contradiction here?	yes	1
+4 ella who is a lawyer visit aaron
+5 ella rons mother didnt visit aaron
+6 There is a contradiction here?	no	1
+7 jeff who is a technician visit maria
+8 jeff who is a flight attendant didnt visit maria
+9 There is a contradiction here?	no	1
+10 allen who is a journalist visit marsha
+11 allen isnt a journalist
+12 There is a contradiction here?	yes	1
+13 lewis who is a tailor saw a blue plane
+14 lewis who is a plumber didnt saw a blue plane
+15 There is a contradiction here?	no	1
+1 raul who is a scientist visit cora
+2 raul who is a electrician didnt visit cora
+3 There is a contradiction here?	no	1
+4 kristy saw a boy running from a parade car
+5 kristy didnt saw a boy running from a special recently built bus
+6 There is a contradiction here?	no	1
+7 bernard saw a girl running from a special recently built bus
+8 bernard didnt saw a girl running from a parade car
+9 There is a contradiction here?	no	1
+10 debbie saw a boy running from a special recently built bus
+11 debbie didnt saw a boy running from a purple school bus
+12 There is a contradiction here?	no	1
+13 jeff who is a bartender visit curtis
+14 jeff isnt a bartender
+15 There is a contradiction here?	yes	1
+1 lois who is a journalist saw the new tesla roadster
+2 lois who is a nurse didnt saw the new tesla roadster
+3 There is a contradiction here?	no	1
+4 edward who is a cop visit michelle
+5 edward who is a receptionist didnt visit michelle
+6 There is a contradiction here?	no	1
+7 josephine who is a cop saw a dog chasing a cat
+8 josephine didnt saw a dog chasing a cat
+9 There is a contradiction here?	yes	1
+10 jacqueline who is a accountant saw the accident
+11 jacqueline eunices mother didnt saw the accident
+12 There is a contradiction here?	no	1
+13 sam who is a musician saw a blue plane
+14 sam didnt saw a blue plane
+15 There is a contradiction here?	yes	1
+1 daryl saw regina driving ellens bicycle
+2 daryl didnt saw regina driving
+3 There is a contradiction here?	yes	1
+4 julia who is a judge bought a pizza
+5 julia didnt buy a pizza
+6 There is a contradiction here?	yes	1
+7 diane who is a plumber visit margaret
+8 diane isnt a plumber
+9 There is a contradiction here?	yes	1
+10 jimmy who is a chef visit milton
+11 jimmy rickys father didnt visit milton
+12 There is a contradiction here?	no	1
+13 george who is a hairdresser bought a cup of coffee
+14 george who is a baker didnt buy a cup of coffee
+15 There is a contradiction here?	no	1
+1 sheryl who is a accountant saw a strange add
+2 sheryl isnt a accountant
+3 There is a contradiction here?	yes	1
+4 jessie saw a boy driving in bucharest
+5 jessie didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 jason saw a boy driving doriss new tesla roadster
+8 jason didnt saw a boy driving in blaj
+9 There is a contradiction here?	no	1
+10 andy who is a scientist saw a blue plane
+11 andy isnt a scientist
+12 There is a contradiction here?	yes	1
+13 juana saw a boy running from a parade car
+14 juana didnt saw a boy running
+15 There is a contradiction here?	yes	1
+1 minnie who is a hairdresser saw a dog chasing a cat
+2 minnie isnt a hairdresser
+3 There is a contradiction here?	yes	1
+4 rodney who is a pilot saw the new tesla roadster
+5 rodney amandas father didnt saw the new tesla roadster
+6 There is a contradiction here?	no	1
+7 marlene who is a pilot visit howard
+8 marlene crystals mother didnt visit howard
+9 There is a contradiction here?	no	1
+10 marshall who is a cleaner visit julian
+11 marshall isnt a cleaner
+12 There is a contradiction here?	yes	1
+13 sarah who is a accountant visit betty
+14 sarah isnt a accountant
+15 There is a contradiction here?	yes	1
+1 allan who is a cleaner saw the city mayor
+2 allan billies father didnt saw the city mayor
+3 There is a contradiction here?	no	1
+4 marlene saw ralph driving in slatina
+5 marlene didnt saw ralph driving
+6 There is a contradiction here?	yes	1
+7 dean who is a chef visit wendy
+8 dean isnt a chef
+9 There is a contradiction here?	yes	1
+10 charlotte who is a lawyer visit debra
+11 charlotte who is a cleaner didnt visit debra
+12 There is a contradiction here?	no	1
+13 virgil saw colleen driving jacquelines new tesla roadster
+14 virgil didnt saw colleen driving tanyas bicycle
+15 There is a contradiction here?	no	1
+1 joshua saw dawn running from a parade car
+2 joshua didnt saw dawn running from a black school bus
+3 There is a contradiction here?	no	1
+4 amanda who is a photographer bought the new marvel movie from the russo brothers
+5 amanda who is a pilot didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 kristina who is a nurse bought the new marvel movie from the russo brothers
+8 kristina isnt a nurse
+9 There is a contradiction here?	yes	1
+10 mae saw a girl driving in bucharest
+11 mae didnt saw a girl driving a blue bicycle
+12 There is a contradiction here?	no	1
+13 stacy saw travis driving allens new tesla roadster
+14 stacy didnt saw travis driving
+15 There is a contradiction here?	yes	1
+1 lindsay who is a baker saw the city mayor
+2 lindsay isnt a baker
+3 There is a contradiction here?	yes	1
+4 john who is a chef saw the accident
+5 john isnt a chef
+6 There is a contradiction here?	yes	1
+7 eugene saw norma running from a icy bus with a new engine
+8 eugene didnt saw norma running
+9 There is a contradiction here?	yes	1
+10 albert saw lewis driving in timisoara
+11 albert didnt saw lewis driving an electric white bicycle
+12 There is a contradiction here?	no	1
+13 melvin saw a boy running from a parade car
+14 melvin didnt saw a boy running from a bus going to bucharest
+15 There is a contradiction here?	no	1
+1 sergio saw alma driving mathews bicycle
+2 sergio didnt saw alma driving jessies car
+3 There is a contradiction here?	no	1
+4 rose who is a engineer visit tommy
+5 rose didnt visit tommy
+6 There is a contradiction here?	yes	1
+7 bruce saw a girl driving jacquelines car
+8 bruce didnt saw a girl driving
+9 There is a contradiction here?	yes	1
+10 carl who is a musician visit bernice
+11 carl beatrices father didnt visit bernice
+12 There is a contradiction here?	no	1
+13 casey saw linda running from a purple bus with a new engine
+14 casey didnt saw linda running from a black school bus
+15 There is a contradiction here?	no	1
+1 shelly who is a chef saw a strange add
+2 shelly dorothys mother didnt saw a strange add
+3 There is a contradiction here?	no	1
+4 darryl who is a tailor bought the new marvel movie from the russo brothers
+5 darryl didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	yes	1
+7 wayne who is a carpenter bought a macbook
+8 wayne isnt a carpenter
+9 There is a contradiction here?	yes	1
+10 jose who is a builder saw the car crash
+11 jose isnt a builder
+12 There is a contradiction here?	yes	1
+13 benjamin who is a plumber bought a japanese novel
+14 benjamin didnt buy a japanese novel
+15 There is a contradiction here?	yes	1
+1 cathy saw a boy driving kenneths new tesla roadster
+2 cathy didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 maria saw a boy running from a salmon bus with a new engine
+5 maria didnt saw a boy running from a icy bus
+6 There is a contradiction here?	no	1
+7 felix who is a hairdresser visit debbie
+8 felix irenes father didnt visit debbie
+9 There is a contradiction here?	no	1
+10 donald saw a girl running from a bus going to bucharest
+11 donald didnt saw a girl running
+12 There is a contradiction here?	yes	1
+13 marvin who is a technician visit beulah
+14 marvin who is a bartender didnt visit beulah
+15 There is a contradiction here?	no	1
+1 harold who is a barber bought a pizza
+2 harold didnt buy a pizza
+3 There is a contradiction here?	yes	1
+4 dorothy saw stephanie driving kirks car
+5 dorothy didnt saw stephanie driving
+6 There is a contradiction here?	yes	1
+7 rosemary who is a bartender saw a strange add
+8 rosemary didnt saw a strange add
+9 There is a contradiction here?	yes	1
+10 mitchell saw a girl driving in dej
+11 mitchell didnt saw a girl driving
+12 There is a contradiction here?	yes	1
+13 troy who is a builder bought the new tesla roadster
+14 troy isnt a builder
+15 There is a contradiction here?	yes	1
+1 calvin who is a plumber bought a japanese novel
+2 calvin isnt a plumber
+3 There is a contradiction here?	yes	1
+4 lynda who is a butcher bought a macbook
+5 lynda isnt a butcher
+6 There is a contradiction here?	yes	1
+7 fred who is a builder visit christian
+8 fred didnt visit christian
+9 There is a contradiction here?	yes	1
+10 roland who is a secretary bought a cup of coffee
+11 roland isnt a secretary
+12 There is a contradiction here?	yes	1
+13 pauline who is a doctor visit virgil
+14 pauline isnt a doctor
+15 There is a contradiction here?	yes	1
+1 john saw a boy running from a bus going to dej
+2 john didnt saw a boy running
+3 There is a contradiction here?	yes	1
+4 christine saw a girl driving an electric icy bicycle
+5 christine didnt saw a girl driving tonyas car
+6 There is a contradiction here?	no	1
+7 sidney who is a flight attendant visit nicole
+8 sidney cliffords father didnt visit nicole
+9 There is a contradiction here?	no	1
+10 clayton saw a boy driving ednas car
+11 clayton didnt saw a boy driving an electric mango bicycle
+12 There is a contradiction here?	no	1
+13 guy saw a boy driving an electric lemon bicycle
+14 guy didnt saw a boy driving a icy car
+15 There is a contradiction here?	no	1
+1 felicia saw a girl running from a green school bus
+2 felicia didnt saw a girl running from a special recently built bus
+3 There is a contradiction here?	no	1
+4 edward saw a boy running from a parade car
+5 edward didnt saw a boy running from a icy bus with a new engine
+6 There is a contradiction here?	no	1
+7 stanley who is a nurse saw the new marvel movie from the russo brothers
+8 stanley who is a pilot didnt saw the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 kathleen who is a scientist saw the new marvel movie from the russo brothers
+11 kathleen mollys mother didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 elsie saw a boy driving a ashy bicycle
+14 elsie didnt saw a boy driving
+15 There is a contradiction here?	yes	1
+1 clara saw a girl running from a lemon car
+2 clara didnt saw a girl running from ednas car
+3 There is a contradiction here?	no	1
+4 elizabeth saw a boy driving a green car
+5 elizabeth didnt saw a boy driving
+6 There is a contradiction here?	yes	1
+7 seth saw irene driving ediths bicycle
+8 seth didnt saw irene driving
+9 There is a contradiction here?	yes	1
+10 shelley who is a plumber saw the new tesla roadster
+11 shelley who is a cashier didnt saw the new tesla roadster
+12 There is a contradiction here?	no	1
+13 mark who is a musician saw a dog chasing a cat
+14 mark didnt saw a dog chasing a cat
+15 There is a contradiction here?	yes	1
+1 kristin saw louis running from a parade car
+2 kristin didnt saw louis running
+3 There is a contradiction here?	yes	1
+4 tracey who is a lawyer visit clifton
+5 tracey who is a flight attendant didnt visit clifton
+6 There is a contradiction here?	no	1
+7 ben who is a cop visit dave
+8 ben isnt a cop
+9 There is a contradiction here?	yes	1
+10 beth who is a nurse bought a macbook
+11 beth johnnys mother didnt buy a macbook
+12 There is a contradiction here?	no	1
+13 robert who is a doctor bought a pizza
+14 robert didnt buy a pizza
+15 There is a contradiction here?	yes	1

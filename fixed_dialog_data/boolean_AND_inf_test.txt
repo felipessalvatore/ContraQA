@@ -1,0 +1,3000 @@
+1 zachary is faithful and blanche is silly
+2 lynda is not inexpensive
+3 There is a contradiction here?	no	1
+4 debbie drank an orange juice and debbie bet on the wining horse
+5 harry didn t drink an orange juice
+6 There is a contradiction here?	no	1
+7 lynda went to blaj and lynda went to oradea
+8 lynda didn t go to oradea
+9 There is a contradiction here?	yes	1
+10 ken created a worried work of art and ken created a tender work of art
+11 ellen didn t create a tender work of art
+12 There is a contradiction here?	no	1
+13 rita said nice things and rita built an altar for emma
+14 rita didn t pay randy
+15 There is a contradiction here?	no	1
+1 clara saw a girl running from a lemon car
+2 clara didnt saw a girl running from ednas car
+3 There is a contradiction here?	no	1
+4 victor saw a boy running from a parade car
+5 victor didnt saw a boy running from a orange bus with a new engine
+6 There is a contradiction here?	no	1
+7 glenn read a paper and glenn burned some calories
+8 glenn didn t read a paper
+9 There is a contradiction here?	yes	1
+10 sally saw a boy driving darrells new tesla roadster
+11 sally didnt saw a boy driving in mangalia
+12 There is a contradiction here?	no	1
+13 kim went to slatina and kim went to slobozia
+14 kim didn t go to tulcea
+15 There is a contradiction here?	no	1
+1 lisa sent me a note and lisa went to deva
+2 ida didn t send me a note
+3 There is a contradiction here?	no	1
+4 billie is obedient and yvonne is clever
+5 yvonne is not obedient
+6 There is a contradiction here?	no	1
+7 margie who is a secretary bought a chilean wine
+8 margie isnt a secretary
+9 There is a contradiction here?	yes	1
+10 dorothy created a gifted work of art and dorothy created a helpless work of art
+11 nancy didn t create a helpless work of art
+12 There is a contradiction here?	no	1
+13 hattie who is a butcher visit justin
+14 hattie didnt visit justin
+15 There is a contradiction here?	yes	1
+1 tara created an unimportant work of art and tara created an important work of art
+2 tara didn t create an unimportant work of art
+3 There is a contradiction here?	yes	1
+4 tyler who is a cashier visit ruby
+5 tyler didnt visit ruby
+6 There is a contradiction here?	yes	1
+7 ella saw a girl driving julias new tesla roadster
+8 ella didnt saw a girl driving
+9 There is a contradiction here?	yes	1
+10 amber created a gentle work of art and amber created a witty work of art
+11 amber didn t create a gentle work of art
+12 There is a contradiction here?	yes	1
+13 claude created an agreeable work of art and claude created an uninterested work of art
+14 catherine didn t create an agreeable work of art
+15 There is a contradiction here?	no	1
+1 angela went to reghin and kelly went to reghin
+2 angela didn t go to reghin
+3 There is a contradiction here?	yes	1
+4 mildred saw a boy running from a lemon school bus
+5 mildred didnt saw a boy running
+6 There is a contradiction here?	yes	1
+7 debbie saw a boy running from a special recently built bus
+8 debbie didnt saw a boy running from a purple school bus
+9 There is a contradiction here?	no	1
+10 vickie led me to howard s house and vickie grew up
+11 vickie didn t buy a green car
+12 There is a contradiction here?	no	1
+13 tracey has traveled to craiova and tracey has traveled to blaj
+14 dale didn t travel to craiova
+15 There is a contradiction here?	no	1
+1 tara is easy and june is helpful
+2 june is not helpful
+3 There is a contradiction here?	yes	1
+4 elizabeth who is a receptionist saw the accident
+5 elizabeth lesters mother didnt saw the accident
+6 There is a contradiction here?	no	1
+7 stacey has visited craiova and stacey has visited mangalia
+8 marilyn didn t visit mangalia
+9 There is a contradiction here?	no	1
+10 edith created an unsightly work of art and edith created an agreeable work of art
+11 javier didn t create an agreeable work of art
+12 There is a contradiction here?	no	1
+13 brenda is agreeable and susie is hallowed
+14 susie is not agreeable
+15 There is a contradiction here?	no	1
+1 bill created an obedient work of art and bill created an unimportant work of art
+2 bill didn t create an obedient work of art
+3 There is a contradiction here?	yes	1
+4 monica created a rich work of art and monica created a better work of art
+5 todd didn t create a rich work of art
+6 There is a contradiction here?	no	1
+7 jared is wonderful and tonya is mushy
+8 tonya is not wonderful
+9 There is a contradiction here?	no	1
+10 lee is lively and derrick is happy
+11 lee is not lively
+12 There is a contradiction here?	yes	1
+13 debra chose this way of life and debra came at noon
+14 debra didn t swim out toward the red boat
+15 There is a contradiction here?	no	1
+1 suzanne created a stocky work of art and suzanne created a helpless work of art
+2 suzanne didn t create an unkempt work of art
+3 There is a contradiction here?	no	1
+4 danielle has traveled to arad and shane has traveled to arad
+5 shane didn t travel to baia mare
+6 There is a contradiction here?	no	1
+7 toni fell off and toni heard julian
+8 toni didn t fall off
+9 There is a contradiction here?	yes	1
+10 emma felt a strange and emma drew ahead of the other runners
+11 gladys didn t feel a strange
+12 There is a contradiction here?	no	1
+13 john read a paper and john won the game
+14 nathaniel didn t read a paper
+15 There is a contradiction here?	no	1
+1 stacy saw travis driving allens new tesla roadster
+2 stacy didnt saw travis driving
+3 There is a contradiction here?	yes	1
+4 steve created a nice work of art and steve created a purple work of art
+5 lester didn t create a purple work of art
+6 There is a contradiction here?	no	1
+7 molly is tender and george is poor
+8 george is not poor
+9 There is a contradiction here?	yes	1
+10 daryl who is a photographer visit nathan
+11 daryl didnt visit nathan
+12 There is a contradiction here?	yes	1
+13 alex blew it when he didn t invest in amazon and alex showed my new photos
+14 alex didn t blow it when he didn t invest in amazon
+15 There is a contradiction here?	yes	1
+1 erik who is a cashier bought a chilean wine
+2 erik ritas father didnt buy a chilean wine
+3 There is a contradiction here?	no	1
+4 megan created a careful work of art and megan created an elegant work of art
+5 melanie didn t create a careful work of art
+6 There is a contradiction here?	no	1
+7 antoinette who is a receptionist visit kristine
+8 antoinette joels mother didnt visit kristine
+9 There is a contradiction here?	no	1
+10 victor is helpful and wanda is shy
+11 wanda is not shy
+12 There is a contradiction here?	yes	1
+13 cynthia is powerful and daryl is helpful
+14 daryl is not helpful
+15 There is a contradiction here?	yes	1
+1 geraldine became the most important doctor in this town and geraldine swam out toward the ashy boat
+2 geraldine didn t swim out toward the ashy boat
+3 There is a contradiction here?	yes	1
+4 susan who is a vet visit viola
+5 susan isnt a vet
+6 There is a contradiction here?	yes	1
+7 kent created a lively work of art and kent created an eager work of art
+8 kent didn t create a lively work of art
+9 There is a contradiction here?	yes	1
+10 claire has visited deva and claire has visited oradea
+11 claire didn t visit oradea
+12 There is a contradiction here?	yes	1
+13 alfredo saw him and alfredo forgot about deborah s past
+14 linda didn t forget about deborah s past
+15 There is a contradiction here?	no	1
+1 marvin who is a technician visit beulah
+2 marvin who is a bartender didnt visit beulah
+3 There is a contradiction here?	no	1
+4 guadalupe went to vaslui and guadalupe went to reghin
+5 guadalupe didn t go to hunedoara
+6 There is a contradiction here?	no	1
+7 zachary went to baia mare and harold went to baia mare
+8 zachary didn t go to baia mare
+9 There is a contradiction here?	yes	1
+10 debra slept the night and debra dreamed of the being a judge
+11 debra didn t dream of the being a judge
+12 There is a contradiction here?	yes	1
+13 blanche is nice and geraldine is mushy
+14 geraldine is not nice
+15 There is a contradiction here?	no	1
+1 rhonda created a plump work of art and rhonda created a victorious work of art
+2 hilda didn t create a victorious work of art
+3 There is a contradiction here?	no	1
+4 andy who is a scientist saw a blue plane
+5 andy isnt a scientist
+6 There is a contradiction here?	yes	1
+7 shawn has visited reghin and shawn has visited giurgiu
+8 shawn didn t visit reghin
+9 There is a contradiction here?	yes	1
+10 alicia is zealous and melanie is dead
+11 melanie is not zealous
+12 There is a contradiction here?	no	1
+13 gwendolyn saw justin driving a orange car
+14 gwendolyn didnt saw justin driving a purple bicycle
+15 There is a contradiction here?	no	1
+1 stanley created a brave work of art and stanley created a wonderful work of art
+2 stanley didn t create a brave work of art
+3 There is a contradiction here?	yes	1
+4 virgil created an obedient work of art and virgil created a dazzling work of art
+5 ernest didn t create an obedient work of art
+6 There is a contradiction here?	no	1
+7 jeffery created a dazzling work of art and jeffery created an uptight work of art
+8 marshall didn t create a dazzling work of art
+9 There is a contradiction here?	no	1
+10 vivian has traveled to vaslui and vivian has traveled to giurgiu
+11 vivian didn t travel to vaslui
+12 There is a contradiction here?	yes	1
+13 claudia who is a tailor bought a japanese novel
+14 claudia anthonys mother didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 beatrice who is a bartender visit lee
+2 beatrice helens mother didnt visit lee
+3 There is a contradiction here?	no	1
+4 armando created a delightful work of art and armando created a wrong work of art
+5 armando didn t create a delightful work of art
+6 There is a contradiction here?	yes	1
+7 caroline who is a secretary bought the new tesla roadster
+8 caroline who is a fireman didnt buy the new tesla roadster
+9 There is a contradiction here?	no	1
+10 marion created a red work of art and marion created a witty work of art
+11 marion didn t create a red work of art
+12 There is a contradiction here?	yes	1
+13 blanche has visited dej and tanya has visited dej
+14 kathryn didn t visit dej
+15 There is a contradiction here?	no	1
+1 nellie created a stocky work of art and nellie created a happy work of art
+2 jackie didn t create a happy work of art
+3 There is a contradiction here?	no	1
+4 hattie created a jolly work of art and hattie created an itchy work of art
+5 hattie didn t create a jolly work of art
+6 There is a contradiction here?	yes	1
+7 lindsey is famous and glenda is better
+8 glenda is not better
+9 There is a contradiction here?	yes	1
+10 charlene created a mango work of art and charlene created an embarrassed work of art
+11 charlene didn t create a mango work of art
+12 There is a contradiction here?	yes	1
+13 martin is silly and kevin is brave
+14 tammy is rich
+15 There is a contradiction here?	no	1
+1 christine is thankful and rosemary is happy
+2 jerome is not poor
+3 There is a contradiction here?	no	1
+4 brett is zealous and nina is delightful
+5 darren is mushy
+6 There is a contradiction here?	no	1
+7 jacob went to oradea and alicia went to oradea
+8 alicia didn t go to dej
+9 There is a contradiction here?	no	1
+10 brian created a wonderful work of art and brian created a brave work of art
+11 brian didn t create a wonderful work of art
+12 There is a contradiction here?	yes	1
+13 marsha who is a plumber bought the new marvel movie from the russo brothers
+14 marsha didnt buy the new marvel movie from the russo brothers
+15 There is a contradiction here?	yes	1
+1 beverly got the money and beverly understood what ricardo comment about tulcea
+2 beverly didn t understand what ricardo comment about tulcea
+3 There is a contradiction here?	yes	1
+4 lucy went to cluj napoca and edgar went to cluj napoca
+5 lucy didn t go to cluj napoca
+6 There is a contradiction here?	yes	1
+7 eduardo who is a fireman saw the accident
+8 eduardo didnt saw the accident
+9 There is a contradiction here?	yes	1
+10 jose went to turda and jose went to baia mare
+11 betty didn t go to turda
+12 There is a contradiction here?	no	1
+13 kent dreamed of the playing with shelly and kent bent the rules of the soccer game
+14 kent didn t bend the rules of the soccer game
+15 There is a contradiction here?	yes	1
+1 paula created a dead work of art and paula created a calm work of art
+2 antonio didn t create a dead work of art
+3 There is a contradiction here?	no	1
+4 naomi is mealy and charles is wrong
+5 charles is not wrong
+6 There is a contradiction here?	yes	1
+7 angel has visited craiova and angel has visited bucharest
+8 angel didn t visit craiova
+9 There is a contradiction here?	yes	1
+10 cora created a victorious work of art and cora created a black work of art
+11 carole didn t create a black work of art
+12 There is a contradiction here?	no	1
+13 kimberly created a gorgeous work of art and kimberly created a bewildered work of art
+14 kimberly didn t create a gifted work of art
+15 There is a contradiction here?	no	1
+1 brett created a gentle work of art and brett created a fierce work of art
+2 brett didn t create a gentle work of art
+3 There is a contradiction here?	yes	1
+4 pauline has visited bucharest and diane has visited bucharest
+5 diane didn t visit craiova
+6 There is a contradiction here?	no	1
+7 clyde saw a girl running from a purple bus
+8 clyde didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 edwin is happy and genevieve is kind
+11 norman is not hallowed
+12 There is a contradiction here?	no	1
+13 antoinette is kind and agnes is delightful
+14 martha is careful
+15 There is a contradiction here?	no	1
+1 tim who is a hairdresser bought a japanese novel
+2 tim marvins father didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 wilma created a handsome work of art and wilma created a poor work of art
+5 wilma didn t create a handsome work of art
+6 There is a contradiction here?	yes	1
+7 wayne created an important work of art and wayne created an elegant work of art
+8 wayne didn t create an important work of art
+9 There is a contradiction here?	yes	1
+10 ronnie is better and iris is inexpensive
+11 iris is not inexpensive
+12 There is a contradiction here?	yes	1
+13 charlie who is a receptionist saw the new marvel movie from the russo brothers
+14 charlie isnt a receptionist
+15 There is a contradiction here?	yes	1
+1 cory has traveled to giurgiu and cory has traveled to hunedoara
+2 cory didn t travel to giurgiu
+3 There is a contradiction here?	yes	1
+4 marcus created an icy work of art and marcus created a beautiful work of art
+5 corey didn t create a beautiful work of art
+6 There is a contradiction here?	no	1
+7 seth who is a photographer saw the city mayor
+8 seth johns father didnt saw the city mayor
+9 There is a contradiction here?	no	1
+10 katherine met gladys and katherine ran from barcelona to baia mare
+11 katherine didn t meet gladys
+12 There is a contradiction here?	yes	1
+13 alicia has visited arad and matthew has visited arad
+14 matthew didn t visit slobozia
+15 There is a contradiction here?	no	1
+1 randall has visited lugoj and randall has visited cluj napoca
+2 randall didn t visit lugoj
+3 There is a contradiction here?	yes	1
+4 cassandra is calm and cassandra is powerful
+5 cassandra is not powerful
+6 There is a contradiction here?	no	1
+7 mattie who is a accountant saw the new marvel movie from the russo brothers
+8 mattie who is a cashier didnt saw the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 kristine rode the buffalo and kristine got me lying
+11 kristine didn t get me lying
+12 There is a contradiction here?	yes	1
+13 jacob saw mamie running from a salmon bus
+14 jacob didnt saw mamie running
+15 There is a contradiction here?	yes	1
+1 cynthia created a white work of art and cynthia created a happy work of art
+2 julia didn t create a white work of art
+3 There is a contradiction here?	no	1
+4 stephen is polite and julio is clever
+5 stephen is not clever
+6 There is a contradiction here?	no	1
+7 lynda created a glamorous work of art and lynda created an uninterested work of art
+8 lynda didn t create a glamorous work of art
+9 There is a contradiction here?	yes	1
+10 michelle heard kristine and michelle left me
+11 michelle didn t leave me
+12 There is a contradiction here?	yes	1
+13 nellie created an aggressive work of art and nellie created a calm work of art
+14 ramona didn t create an aggressive work of art
+15 There is a contradiction here?	no	1
+1 jean is nice and constance is gentle
+2 emma is dead
+3 There is a contradiction here?	no	1
+4 tamara got the money and tamara felt threatened
+5 tamara didn t break jamie s heart
+6 There is a contradiction here?	no	1
+7 beulah has traveled to reghin and beulah has traveled to dej
+8 beulah didn t travel to giurgiu
+9 There is a contradiction here?	no	1
+10 eddie saw a boy running from a white car
+11 eddie didnt saw a boy running from a purple bus
+12 There is a contradiction here?	no	1
+13 jordan built a computer and jordan won the game
+14 jordan didn t win the game
+15 There is a contradiction here?	yes	1
+1 joseph bet on the wining horse and joseph blew it when he didn t invest in amazon
+2 joseph didn t meet her
+3 There is a contradiction here?	no	1
+4 beth who is a nurse bought a macbook
+5 beth johnnys mother didnt buy a macbook
+6 There is a contradiction here?	no	1
+7 mitchell has visited bucharest and mitchell has visited dej
+8 mitchell didn t visit slobozia
+9 There is a contradiction here?	no	1
+10 sean has visited timisoara and felicia has visited timisoara
+11 sean didn t visit timisoara
+12 There is a contradiction here?	yes	1
+13 jason who is a photographer visit kathy
+14 jason who is a tailor didnt visit kathy
+15 There is a contradiction here?	no	1
+1 audrey created a white work of art and audrey created a drab work of art
+2 audrey didn t create an elegant work of art
+3 There is a contradiction here?	no	1
+4 claire who is a painter bought a macbook
+5 claire felicias mother didnt buy a macbook
+6 There is a contradiction here?	no	1
+7 marjorie is obedient and darrell is proud
+8 sue is not easy
+9 There is a contradiction here?	no	1
+10 nancy has traveled to vaslui and nancy has traveled to turda
+11 nancy didn t travel to turda
+12 There is a contradiction here?	yes	1
+13 karen is kind and jennifer is kind
+14 karen is not kind
+15 There is a contradiction here?	yes	1
+1 julie created a salmon work of art and julie created an orange work of art
+2 julie didn t create a gifted work of art
+3 There is a contradiction here?	no	1
+4 walter is nice and raul is agreeable
+5 walter is not nice
+6 There is a contradiction here?	yes	1
+7 joanne became jack best friend and joanne forgot about casey s past
+8 charlie didn t forget about casey s past
+9 There is a contradiction here?	no	1
+10 willie has visited deva and colleen has visited deva
+11 colleen didn t visit deva
+12 There is a contradiction here?	yes	1
+13 marvin is eager and valerie is faithful
+14 iris is not odd
+15 There is a contradiction here?	no	1
+1 emily lent me some money a month before and emily burned some calories
+2 emily didn t hurt me
+3 There is a contradiction here?	no	1
+4 thomas lent me some money and thomas won the game
+5 thomas didn t win the game
+6 There is a contradiction here?	yes	1
+7 marie who is a secretary saw a strange add
+8 marie didnt saw a strange add
+9 There is a contradiction here?	yes	1
+10 gregory who is a doctor saw the city mayor
+11 gregory didnt saw the city mayor
+12 There is a contradiction here?	yes	1
+13 craig is kind and raymond is wrong
+14 raymond is not kind
+15 There is a contradiction here?	no	1
+1 florence has traveled to cluj napoca and jonathan has traveled to cluj napoca
+2 jonathan didn t travel to cluj napoca
+3 There is a contradiction here?	no	1
+4 virgil gave dennis a green shirt and virgil hid behind a bush
+5 jesse didn t give dennis a green shirt
+6 There is a contradiction here?	no	1
+7 justin is lively and randall is jolly
+8 leslie is not careful
+9 There is a contradiction here?	no	1
+10 wallace saw cheryl driving a gray car
+11 wallace didnt saw cheryl driving doras car
+12 There is a contradiction here?	no	1
+13 amber created a witty work of art and amber created a glamorous work of art
+14 amber didn t create a fancy work of art
+15 There is a contradiction here?	no	1
+1 clayton created an ugly work of art and clayton created a mushy work of art
+2 jessica didn t create an ugly work of art
+3 There is a contradiction here?	no	1
+4 lance created a gorgeous work of art and lance created a jolly work of art
+5 vincent didn t create a jolly work of art
+6 There is a contradiction here?	no	1
+7 joyce created a nice work of art and joyce created an ugly work of art
+8 joyce didn t create an agreeable work of art
+9 There is a contradiction here?	no	1
+10 glen caught a gray fish and glen thought kevin was going to die
+11 glen didn t catch a gray fish
+12 There is a contradiction here?	yes	1
+13 mattie created a shy work of art and mattie created a fancy work of art
+14 mattie didn t create a shy work of art
+15 There is a contradiction here?	yes	1
+1 lydia created a better work of art and lydia created an obedient work of art
+2 lydia didn t create a beautiful work of art
+3 There is a contradiction here?	no	1
+4 barbara saw a boy running from sues car
+5 barbara didnt saw a boy running
+6 There is a contradiction here?	yes	1
+7 erica created a beautiful work of art and erica created a witty work of art
+8 erica didn t create a beautiful work of art
+9 There is a contradiction here?	yes	1
+10 juanita has traveled to cluj napoca and juanita has traveled to giurgiu
+11 bradley didn t travel to cluj napoca
+12 There is a contradiction here?	no	1
+13 eleanor is victorious and mae is kind
+14 eleanor is not victorious
+15 There is a contradiction here?	yes	1
+1 jeanette has visited mangalia and jeanette has visited dej
+2 chad didn t visit mangalia
+3 There is a contradiction here?	no	1
+4 jeanette is inexpensive and vicki is gifted
+5 vicki is not gifted
+6 There is a contradiction here?	yes	1
+7 jimmie created a wonderful work of art and jimmie created a thoughtless work of art
+8 melanie didn t create a thoughtless work of art
+9 There is a contradiction here?	no	1
+10 yvette has traveled to arad and bruce has traveled to arad
+11 bruce didn t travel to craiova
+12 There is a contradiction here?	no	1
+13 nelson has traveled to craiova and perry has traveled to craiova
+14 juana didn t travel to craiova
+15 There is a contradiction here?	no	1
+1 claudia created a scary work of art and claudia created a thankful work of art
+2 claudia didn t create a scary work of art
+3 There is a contradiction here?	yes	1
+4 audrey is faithful and jaime is polite
+5 florence is famous
+6 There is a contradiction here?	no	1
+7 stephen is delightful and kristen is rich
+8 stephen is not rich
+9 There is a contradiction here?	no	1
+10 rene is lively and adrian is uninterested
+11 adrian is not lively
+12 There is a contradiction here?	no	1
+13 ella heard me and ella woke up
+14 ella didn t wake up
+15 There is a contradiction here?	yes	1
+1 ray has visited tulcea and edwin has visited tulcea
+2 theodore didn t visit tulcea
+3 There is a contradiction here?	no	1
+4 olivia ran from me and olivia built a computer
+5 dorothy didn t ring from me
+6 There is a contradiction here?	no	1
+7 natalie lent me some money a month before and natalie hung up on me
+8 bernice didn t hang up on me
+9 There is a contradiction here?	no	1
+10 beverly created a defeated work of art and beverly created a happy work of art
+11 beverly didn t create a wonderful work of art
+12 There is a contradiction here?	no	1
+13 ann is witty and jonathan is polite
+14 travis is not tender
+15 There is a contradiction here?	no	1
+1 danielle has traveled to cluj napoca and leslie has traveled to cluj napoca
+2 misty didn t travel to cluj napoca
+3 There is a contradiction here?	no	1
+4 cathy has traveled to blaj and cathy has traveled to oradea
+5 amanda didn t travel to blaj
+6 There is a contradiction here?	no	1
+7 valerie created a fit work of art and valerie created an unsightly work of art
+8 valerie didn t create a fit work of art
+9 There is a contradiction here?	yes	1
+10 eric created a tender work of art and eric created a pitiful work of art
+11 eric didn t create a tender work of art
+12 There is a contradiction here?	yes	1
+13 juanita has visited blaj and lee has visited blaj
+14 juanita didn t visit blaj
+15 There is a contradiction here?	yes	1
+1 louise is agreeable and frances is rich
+2 frances is not agreeable
+3 There is a contradiction here?	no	1
+4 ron who is a cop bought a cup of coffee
+5 ron didnt buy a cup of coffee
+6 There is a contradiction here?	yes	1
+7 julian built an altar for renee and julian let use this pen
+8 vicki didn t build an altar for renee
+9 There is a contradiction here?	no	1
+10 rosemary slept the night and rosemary shut the door down
+11 corey didn t shut the door down
+12 There is a contradiction here?	no	1
+13 christine saw a boy driving a green bicycle
+14 christine didnt saw a boy driving lydias new tesla roadster
+15 There is a contradiction here?	no	1
+1 leon created a happy work of art and leon created a mushy work of art
+2 leon didn t create a happy work of art
+3 There is a contradiction here?	yes	1
+4 jack has visited oradea and jessie has visited oradea
+5 jessie didn t visit oradea
+6 There is a contradiction here?	yes	1
+7 bessie is dead and pamela is dead
+8 pamela is not dead
+9 There is a contradiction here?	yes	1
+10 gerald who is a carpenter bought the new tesla roadster
+11 gerald who is a journalist didnt buy the new tesla roadster
+12 There is a contradiction here?	no	1
+13 olivia created a nice work of art and olivia created a salmon work of art
+14 joann didn t create a nice work of art
+15 There is a contradiction here?	no	1
+1 donna who is a journalist saw the accident
+2 donna who is a baker didnt saw the accident
+3 There is a contradiction here?	no	1
+4 sabrina created an inexpensive work of art and sabrina created a grumpy work of art
+5 sabrina didn t create an inexpensive work of art
+6 There is a contradiction here?	yes	1
+7 norma is zealous and keith is helpful
+8 norma is not helpful
+9 There is a contradiction here?	no	1
+10 grace hit me and grace spoke to her about derrick
+11 grace didn t find her
+12 There is a contradiction here?	no	1
+13 dwight who is a baker visit cory
+14 dwight didnt visit cory
+15 There is a contradiction here?	yes	1
+1 doris has visited tulcea and doris has visited bucharest
+2 doris didn t visit tulcea
+3 There is a contradiction here?	yes	1
+4 shannon is important and terrence is uninterested
+5 terrence is not uninterested
+6 There is a contradiction here?	yes	1
+7 jeremy who is a carpenter saw the car crash
+8 jeremy didnt saw the car crash
+9 There is a contradiction here?	yes	1
+10 johnny had it all and johnny showed my new photos
+11 johnny didn t have it all
+12 There is a contradiction here?	yes	1
+13 danielle has visited mangalia and danielle has visited arad
+14 danielle didn t visit arad
+15 There is a contradiction here?	yes	1
+1 bruce created an agreeable work of art and bruce created a careful work of art
+2 bruce didn t create an agreeable work of art
+3 There is a contradiction here?	yes	1
+4 marcia went to baia mare and marcia went to timisoara
+5 marcia didn t go to baia mare
+6 There is a contradiction here?	yes	1
+7 mary is kind and morris is kind
+8 mary is not kind
+9 There is a contradiction here?	yes	1
+10 wendy who is a journalist saw the accident
+11 wendy lances mother didnt saw the accident
+12 There is a contradiction here?	no	1
+13 caroline went to cluj napoca and caroline went to turda
+14 caroline didn t go to turda
+15 There is a contradiction here?	yes	1
+1 ricky forgot about charles s past and ricky woke up
+2 ricky didn t forget about charles s past
+3 There is a contradiction here?	yes	1
+4 edward who is a carpenter visit frances
+5 edward isnt a carpenter
+6 There is a contradiction here?	yes	1
+7 wilma felt a strange and wilma spoke to her about jamie
+8 wilma didn t feel a strange
+9 There is a contradiction here?	yes	1
+10 eileen woke up and eileen won the soccer match
+11 delores didn t wake up
+12 There is a contradiction here?	no	1
+13 dwayne held him close and dwayne built a computer
+14 theodore didn t build a computer
+15 There is a contradiction here?	no	1
+1 sean made me change the way i wrote and sean spent all my money
+2 francis didn t spend all my money
+3 There is a contradiction here?	no	1
+4 darren created a dead work of art and darren created a dazzling work of art
+5 darren didn t create a dead work of art
+6 There is a contradiction here?	yes	1
+7 billie heard marion and billie had it all
+8 billie didn t hear marion
+9 There is a contradiction here?	yes	1
+10 sheryl hurt me and sheryl dreamed of the playing with max
+11 sheryl didn t hurt me
+12 There is a contradiction here?	yes	1
+13 nora created a silly work of art and nora created an uptight work of art
+14 ruby didn t create an uptight work of art
+15 There is a contradiction here?	no	1
+1 wilma told me jodi s secret and wilma grew up in jail
+2 wilma didn t grow up in jail
+3 There is a contradiction here?	yes	1
+4 brent has visited slobozia and marvin has visited slobozia
+5 marvin didn t visit deva
+6 There is a contradiction here?	no	1
+7 marjorie has visited mangalia and marjorie has visited bucharest
+8 jamie didn t visit mangalia
+9 There is a contradiction here?	no	1
+10 rita created a happy work of art and rita created a fancy work of art
+11 rita didn t create a happy work of art
+12 There is a contradiction here?	yes	1
+13 brandon created a dead work of art and brandon created an agreeable work of art
+14 ian didn t create a dead work of art
+15 There is a contradiction here?	no	1
+1 bessie went to bucharest and christine went to bucharest
+2 bessie didn t go to bucharest
+3 There is a contradiction here?	yes	1
+4 benjamin is kind and virginia is alive
+5 virginia is not kind
+6 There is a contradiction here?	no	1
+7 harvey created a silly work of art and harvey created a faithful work of art
+8 dale didn t create a silly work of art
+9 There is a contradiction here?	no	1
+10 milton has traveled to baia mare and fannie has traveled to baia mare
+11 mark didn t travel to baia mare
+12 There is a contradiction here?	no	1
+13 hector has visited reghin and leonard has visited reghin
+14 hector didn t visit reghin
+15 There is a contradiction here?	yes	1
+1 terrance chose this way of life and terrance laid down
+2 terrance didn t fly to slatina
+3 There is a contradiction here?	no	1
+4 erik created a gentle work of art and erik created a fancy work of art
+5 erik didn t create a gentle work of art
+6 There is a contradiction here?	yes	1
+7 bruce saw a boy driving leahs car
+8 bruce didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 leon created a clever work of art and leon created an inexpensive work of art
+11 leon didn t create a clever work of art
+12 There is a contradiction here?	yes	1
+13 charles wore a purple jacket and charles fought the law
+14 ashley didn t wear a purple jacket
+15 There is a contradiction here?	no	1
+1 peter who is a lawyer saw the new marvel movie from the russo brothers
+2 peter didnt saw the new marvel movie from the russo brothers
+3 There is a contradiction here?	yes	1
+4 peggy has traveled to cluj napoca and peggy has traveled to deva
+5 peggy didn t travel to cluj napoca
+6 There is a contradiction here?	yes	1
+7 tina is wrong and pedro is careful
+8 pedro is not careful
+9 There is a contradiction here?	yes	1
+10 brenda is nice and dennis is powerful
+11 brenda is not powerful
+12 There is a contradiction here?	no	1
+13 sabrina has traveled to lugoj and keith has traveled to lugoj
+14 sabrina didn t travel to lugoj
+15 There is a contradiction here?	yes	1
+1 edith saw arthur driving pauls car
+2 edith didnt saw arthur driving a blue bicycle
+3 There is a contradiction here?	no	1
+4 josephine who is a cop saw a dog chasing a cat
+5 josephine didnt saw a dog chasing a cat
+6 There is a contradiction here?	yes	1
+7 alison is delightful and susan is gentle
+8 rhonda is not hallowed
+9 There is a contradiction here?	no	1
+10 francis saw delores running from a red bus with a new engine
+11 francis didnt saw delores running
+12 There is a contradiction here?	yes	1
+13 harriet has visited cluj napoca and alison has visited cluj napoca
+14 alison didn t visit cluj napoca
+15 There is a contradiction here?	yes	1
+1 howard froze april s bank account and howard left me
+2 howard didn t leave me
+3 There is a contradiction here?	yes	1
+4 terry saw a girl driving a mango bicycle
+5 terry didnt saw a girl driving renes bicycle
+6 There is a contradiction here?	no	1
+7 deanna has visited giurgiu and deanna has visited slobozia
+8 deanna didn t visit slobozia
+9 There is a contradiction here?	yes	1
+10 eileen is proud and virginia is thankful
+11 katie is not wrong
+12 There is a contradiction here?	no	1
+13 tommy created a red work of art and tommy created a white work of art
+14 tommy didn t create an odd work of art
+15 There is a contradiction here?	no	1
+1 kristi created a clever work of art and kristi created a shapely work of art
+2 sue didn t create a shapely work of art
+3 There is a contradiction here?	no	1
+4 christine is obedient and eunice is happy
+5 christine is not obedient
+6 There is a contradiction here?	yes	1
+7 fred has traveled to oradea and fred has traveled to bucharest
+8 fred didn t travel to slatina
+9 There is a contradiction here?	no	1
+10 carla read the book about spiders and carla understood what fannie comment about bucharest
+11 zachary didn t understand what fannie comment about bucharest
+12 There is a contradiction here?	no	1
+13 philip thought irma was going to die and philip cut my hair
+14 philip didn t think irma was going to die
+15 There is a contradiction here?	yes	1
+1 kristina who is a nurse bought the new marvel movie from the russo brothers
+2 kristina isnt a nurse
+3 There is a contradiction here?	yes	1
+4 wilma saw a girl running from a purple school bus
+5 wilma didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 roland created a worried work of art and roland created a blue work of art
+8 roland didn t create a worried work of art
+9 There is a contradiction here?	yes	1
+10 brenda has traveled to deva and brenda has traveled to vaslui
+11 ida didn t travel to vaslui
+12 There is a contradiction here?	no	1
+13 ashley went to deva and ruby went to deva
+14 darlene didn t go to deva
+15 There is a contradiction here?	no	1
+1 joseph created an agreeable work of art and joseph created a plump work of art
+2 joseph didn t create an eager work of art
+3 There is a contradiction here?	no	1
+4 allison is eager and lucy is obedient
+5 minnie is wrong
+6 There is a contradiction here?	no	1
+7 irene woke up and irene brought me out of eddie s house
+8 irene didn t bring me out of eddie s house
+9 There is a contradiction here?	yes	1
+10 tonya is gentle and milton is witty
+11 katie is odd
+12 There is a contradiction here?	no	1
+13 harold went to bucharest and isaac went to bucharest
+14 harold didn t go to bucharest
+15 There is a contradiction here?	yes	1
+1 jacqueline created a clean work of art and jacqueline created an alive work of art
+2 chad didn t create a clean work of art
+3 There is a contradiction here?	no	1
+4 patsy is jolly and curtis is obedient
+5 edith is rich
+6 There is a contradiction here?	no	1
+7 tracy who is a tailor visit amy
+8 tracy didnt visit amy
+9 There is a contradiction here?	yes	1
+10 wendy who is a engineer visit willie
+11 wendy isnt a engineer
+12 There is a contradiction here?	yes	1
+13 alfredo has traveled to deva and alfredo has traveled to bucharest
+14 esther didn t travel to deva
+15 There is a contradiction here?	no	1
+1 nancy has traveled to blaj and nathan has traveled to blaj
+2 nancy didn t travel to blaj
+3 There is a contradiction here?	yes	1
+4 philip is delightful and gary is witty
+5 monica is not powerful
+6 There is a contradiction here?	no	1
+7 sergio who is a cleaner saw the car crash
+8 sergio duanes father didnt saw the car crash
+9 There is a contradiction here?	no	1
+10 sonia is calm and marc is alive
+11 sonia is not alive
+12 There is a contradiction here?	no	1
+13 lorraine brought me out of opal s house and lorraine chose this soccer team
+14 lorraine didn t choose this soccer team
+15 There is a contradiction here?	yes	1
+1 sandra has visited giurgiu and sandra has visited tulcea
+2 vivian didn t visit tulcea
+3 There is a contradiction here?	no	1
+4 ella has traveled to baia mare and ella has traveled to mangalia
+5 ella didn t travel to baia mare
+6 There is a contradiction here?	yes	1
+7 roberto is eager and linda is agreeable
+8 willie is clever
+9 There is a contradiction here?	no	1
+10 russell who is a butcher visit terry
+11 russell isnt a butcher
+12 There is a contradiction here?	yes	1
+13 cheryl created an important work of art and cheryl created a delightful work of art
+14 thelma didn t create an important work of art
+15 There is a contradiction here?	no	1
+1 kathy is wrong and alfred is odd
+2 alfred is not odd
+3 There is a contradiction here?	yes	1
+4 ramon created an ashy work of art and ramon created an inexpensive work of art
+5 ramon didn t create an ashy work of art
+6 There is a contradiction here?	yes	1
+7 jamie has traveled to mangalia and francis has traveled to mangalia
+8 jamie didn t travel to baia mare
+9 There is a contradiction here?	no	1
+10 leon saw myrtle running from a white bus with a new engine
+11 leon didnt saw myrtle running from vanessas car
+12 There is a contradiction here?	no	1
+13 cory swam out toward the icy boat and cory lent me some money a month before
+14 sara didn t lend me some money a month before
+15 There is a contradiction here?	no	1
+1 june who is a doctor saw a girl running
+2 june who is a dentist didnt saw a girl running
+3 There is a contradiction here?	no	1
+4 travis is wonderful and juanita is aggressive
+5 travis is not wonderful
+6 There is a contradiction here?	yes	1
+7 bobby created an ashy work of art and bobby created a witty work of art
+8 bobby didn t create an ashy work of art
+9 There is a contradiction here?	yes	1
+10 kenneth created a green work of art and kenneth created a scary work of art
+11 kenneth didn t create a green work of art
+12 There is a contradiction here?	yes	1
+13 shannon saw a girl driving carls new tesla roadster
+14 shannon didnt saw a girl driving
+15 There is a contradiction here?	yes	1
+1 marsha has visited reghin and marsha has visited hunedoara
+2 marsha didn t visit reghin
+3 There is a contradiction here?	yes	1
+4 kelly created an unimportant work of art and kelly created a gentle work of art
+5 kelly didn t create an unimportant work of art
+6 There is a contradiction here?	yes	1
+7 claude who is a painter saw the new tesla roadster
+8 claude who is a plumber didnt saw the new tesla roadster
+9 There is a contradiction here?	no	1
+10 melinda has traveled to slobozia and melinda has traveled to bucharest
+11 melinda didn t travel to slobozia
+12 There is a contradiction here?	yes	1
+13 eunice went to timisoara and eunice went to baia mare
+14 eunice didn t go to blaj
+15 There is a contradiction here?	no	1
+1 christine who is a electrician bought a macbook
+2 christine who is a baker didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 maria cut a tree and maria bet on the blue car
+5 roger didn t cut a tree
+6 There is a contradiction here?	no	1
+7 harriet created an orange work of art and harriet created an ashy work of art
+8 brandi didn t create an orange work of art
+9 There is a contradiction here?	no	1
+10 adrian who is a technician visit jessie
+11 adrian who is a judge didnt visit jessie
+12 There is a contradiction here?	no	1
+13 virginia saw a girl running from a special recently built bus
+14 virginia didnt saw a girl running
+15 There is a contradiction here?	yes	1
+1 brandy went to hunedoara and brandy went to timisoara
+2 michele didn t go to timisoara
+3 There is a contradiction here?	no	1
+4 catherine is famous and reginald is clever
+5 reginald is not clever
+6 There is a contradiction here?	yes	1
+7 glenn drew ahead of the other runners and glenn rode the buffalo
+8 cecil didn t ride the buffalo
+9 There is a contradiction here?	no	1
+10 ian saw renee driving vickies car
+11 ian didnt saw renee driving
+12 There is a contradiction here?	yes	1
+13 ida has visited tulcea and ida has visited bucharest
+14 jorge didn t visit tulcea
+15 There is a contradiction here?	no	1
+1 marlene who is a bartender visit randy
+2 marlene didnt visit randy
+3 There is a contradiction here?	yes	1
+4 thomas created an itchy work of art and thomas created a plump work of art
+5 thomas didn t create an itchy work of art
+6 There is a contradiction here?	yes	1
+7 edna has visited tulcea and monique has visited tulcea
+8 shirley didn t visit tulcea
+9 There is a contradiction here?	no	1
+10 jared went to giurgiu and jared went to hunedoara
+11 howard didn t go to giurgiu
+12 There is a contradiction here?	no	1
+13 sonia who is a technician visit tanya
+14 sonia lucys mother didnt visit tanya
+15 There is a contradiction here?	no	1
+1 kay wrote me a letter and kay led me to nicholas s house
+2 lee didn t write me a letter
+3 There is a contradiction here?	no	1
+4 rick created a short work of art and rick created a fancy work of art
+5 allison didn t create a fancy work of art
+6 There is a contradiction here?	no	1
+7 wallace laid his hands on her and wallace lost virginia s salmon car
+8 wanda didn t lay his hands on her
+9 There is a contradiction here?	no	1
+10 kathryn has traveled to arad and kathryn has traveled to dej
+11 kathryn didn t travel to arad
+12 There is a contradiction here?	yes	1
+13 keith has visited bucharest and patricia has visited bucharest
+14 keith didn t visit blaj
+15 There is a contradiction here?	no	1
+1 rafael wore a white hat and rafael caught a purple fish
+2 duane didn t catch a purple fish
+3 There is a contradiction here?	no	1
+4 willard met him and willard laid his hands on him
+5 willard didn t think i was helping dwayne
+6 There is a contradiction here?	no	1
+7 faye who is a cop saw the new marvel movie from the russo brothers
+8 faye didnt saw the new marvel movie from the russo brothers
+9 There is a contradiction here?	yes	1
+10 mario is kind and mitchell is witty
+11 mario is not kind
+12 There is a contradiction here?	yes	1
+13 holly stood in front of the crowd and holly blew it when he didn t invest in amazon
+14 holly didn t stand in front of the crowd
+15 There is a contradiction here?	yes	1
+1 eileen is calm and flora is kind
+2 eileen is not calm
+3 There is a contradiction here?	yes	1
+4 tyler is gentle and brenda is tender
+5 brenda is not gentle
+6 There is a contradiction here?	no	1
+7 alison held him close and alison fought me
+8 alison didn t fight me
+9 There is a contradiction here?	yes	1
+10 jane created a mealy work of art and jane created a mushy work of art
+11 jane didn t create a mealy work of art
+12 There is a contradiction here?	yes	1
+13 teresa saw a boy driving sonias bicycle
+14 teresa didnt saw a boy driving an electric ashy bicycle
+15 There is a contradiction here?	no	1
+1 eddie went to craiova and annie went to craiova
+2 eddie didn t go to craiova
+3 There is a contradiction here?	yes	1
+4 jeff went to deva and darren went to deva
+5 darren didn t go to deva
+6 There is a contradiction here?	yes	1
+7 irene is ambitious and terrence is zealous
+8 irene is not ambitious
+9 There is a contradiction here?	yes	1
+10 jeremy is ambitious and kyle is brave
+11 jeremy is not ambitious
+12 There is a contradiction here?	yes	1
+13 albert has visited bucharest and albert has visited oradea
+14 albert didn t visit mangalia
+15 There is a contradiction here?	no	1
+1 greg has traveled to reghin and greg has traveled to cluj napoca
+2 greg didn t travel to cluj napoca
+3 There is a contradiction here?	yes	1
+4 linda spent all my money and linda paid her
+5 linda didn t pay her
+6 There is a contradiction here?	yes	1
+7 holly who is a chef visit carol
+8 holly curtiss mother didnt visit carol
+9 There is a contradiction here?	no	1
+10 stephanie has traveled to giurgiu and kenneth has traveled to giurgiu
+11 stephanie didn t travel to giurgiu
+12 There is a contradiction here?	yes	1
+13 victor created a glamorous work of art and victor created an icy work of art
+14 ramon didn t create a glamorous work of art
+15 There is a contradiction here?	no	1
+1 lillie froze mike s bank account and lillie built an airplane
+2 greg didn t freeze mike s bank account
+3 There is a contradiction here?	no	1
+4 christina bent the lemon rod and christina bet on the wining horse
+5 peter didn t bet on the wining horse
+6 There is a contradiction here?	no	1
+7 hilda is proud and jeanne is gentle
+8 alison is not rich
+9 There is a contradiction here?	no	1
+10 reginald has traveled to slatina and luis has traveled to slatina
+11 albert didn t travel to slatina
+12 There is a contradiction here?	no	1
+13 maggie created an ashy work of art and maggie created a gifted work of art
+14 maggie didn t create an ashy work of art
+15 There is a contradiction here?	yes	1
+1 james created a red work of art and james created an easy work of art
+2 james didn t create a red work of art
+3 There is a contradiction here?	yes	1
+4 carmen has traveled to arad and connie has traveled to arad
+5 connie didn t travel to timisoara
+6 There is a contradiction here?	no	1
+7 deanna who is a tailor saw a blue plane
+8 deanna who is a photographer didnt saw a blue plane
+9 There is a contradiction here?	no	1
+10 bonnie has traveled to tulcea and erik has traveled to tulcea
+11 erik didn t travel to tulcea
+12 There is a contradiction here?	yes	1
+13 peter created a defeated work of art and peter created a happy work of art
+14 joyce didn t create a defeated work of art
+15 There is a contradiction here?	no	1
+1 eugene who is a technician bought a japanese novel
+2 eugene didnt buy a japanese novel
+3 There is a contradiction here?	yes	1
+4 danny has traveled to arad and jodi has traveled to arad
+5 tiffany didn t travel to arad
+6 There is a contradiction here?	no	1
+7 kristine forgave me and kristine dug a hole in the garden
+8 kristine didn t forgive me
+9 There is a contradiction here?	yes	1
+10 felicia who is a barber saw the car crash
+11 felicia cecils mother didnt saw the car crash
+12 There is a contradiction here?	no	1
+13 angela created an itchy work of art and angela created a short work of art
+14 joseph didn t create an itchy work of art
+15 There is a contradiction here?	no	1
+1 benjamin has visited mangalia and april has visited mangalia
+2 april didn t visit mangalia
+3 There is a contradiction here?	yes	1
+4 anita swam out toward the black boat and anita got me lying
+5 lindsey didn t get me lying
+6 There is a contradiction here?	no	1
+7 sonia is lively and karl is silly
+8 billy is not better
+9 There is a contradiction here?	no	1
+10 brian went to timisoara and kurt went to timisoara
+11 kurt didn t go to deva
+12 There is a contradiction here?	no	1
+13 louise saw a boy running from a special recently built bus
+14 louise didnt saw a boy running from a lemon car
+15 There is a contradiction here?	no	1
+1 pauline who is a hairdresser bought a macbook
+2 pauline who is a cleaner didnt buy a macbook
+3 There is a contradiction here?	no	1
+4 kent created a long work of art and kent created a better work of art
+5 courtney didn t create a better work of art
+6 There is a contradiction here?	no	1
+7 roberta created a black work of art and roberta created an unimportant work of art
+8 roberta didn t create a silly work of art
+9 There is a contradiction here?	no	1
+10 claude has visited timisoara and dorothy has visited timisoara
+11 dorothy didn t visit tulcea
+12 There is a contradiction here?	no	1
+13 fred went to vaslui and gladys went to vaslui
+14 fred didn t go to vaslui
+15 There is a contradiction here?	yes	1
+1 jamie went to tulcea and jamie went to reghin
+2 jamie didn t go to tulcea
+3 There is a contradiction here?	yes	1
+4 molly is eager and dave is wrong
+5 molly is not wrong
+6 There is a contradiction here?	no	1
+7 chris created a plain work of art and chris created an embarrassed work of art
+8 chris didn t create a plain work of art
+9 There is a contradiction here?	yes	1
+10 leona went to tulcea and leona went to slobozia
+11 leona didn t go to baia mare
+12 There is a contradiction here?	no	1
+13 ralph created a gentle work of art and ralph created a white work of art
+14 ralph didn t create a gentle work of art
+15 There is a contradiction here?	yes	1
+1 paul is jolly and jamie is odd
+2 jamie is not jolly
+3 There is a contradiction here?	no	1
+4 chester saw a boy driving darryls bicycle
+5 chester didnt saw a boy driving in mangalia
+6 There is a contradiction here?	no	1
+7 jordan who is a doctor saw a blue plane
+8 jordan isnt a doctor
+9 There is a contradiction here?	yes	1
+10 donna who is a vet bought a pizza
+11 donna who is a fireman didnt buy a pizza
+12 There is a contradiction here?	no	1
+13 maxine went to turda and jessie went to turda
+14 jessie didn t go to cluj napoca
+15 There is a contradiction here?	no	1
+1 justin has visited deva and justin has visited craiova
+2 delores didn t visit craiova
+3 There is a contradiction here?	no	1
+4 lee is important and rosie is better
+5 rosie is not better
+6 There is a contradiction here?	yes	1
+7 leroy fell in love with lynn and leroy sold ricky s house
+8 leroy didn t sell ricky s house
+9 There is a contradiction here?	yes	1
+10 belinda spoke to him about giurgiu and belinda sold dennis s house
+11 belinda didn t sell dennis s house
+12 There is a contradiction here?	yes	1
+13 anthony is dead and walter is shy
+14 walter is not shy
+15 There is a contradiction here?	yes	1
+1 anne has visited lugoj and mark has visited lugoj
+2 mark didn t visit lugoj
+3 There is a contradiction here?	yes	1
+4 herman saw sharon running from a orange bus
+5 herman didnt saw sharon running from a bus going to hunedoara
+6 There is a contradiction here?	no	1
+7 virginia is happy and janet is kind
+8 virginia is not happy
+9 There is a contradiction here?	yes	1
+10 clyde who is a builder bought a cup of coffee
+11 clyde didnt buy a cup of coffee
+12 There is a contradiction here?	yes	1
+13 sheryl created a worried work of art and sheryl created a hallowed work of art
+14 sheryl didn t create a worried work of art
+15 There is a contradiction here?	yes	1
+1 annette began laughing and annette kept eric s secret from me
+2 annette didn t keep eric s secret from me
+3 There is a contradiction here?	yes	1
+4 roger created a grumpy work of art and roger created a lazy work of art
+5 roger didn t create a grumpy work of art
+6 There is a contradiction here?	yes	1
+7 elmer led me to jorge s house and elmer went to dan s house
+8 elmer didn t burn some calories
+9 There is a contradiction here?	no	1
+10 marion went to deva and hattie went to deva
+11 ana didn t go to deva
+12 There is a contradiction here?	no	1
+13 alberto has traveled to slobozia and angel has traveled to slobozia
+14 angel didn t travel to slobozia
+15 There is a contradiction here?	yes	1
+1 sidney kept saying this was crazy and sidney understood what billie comment about bucharest
+2 felicia didn t keep saying this was crazy
+3 There is a contradiction here?	no	1
+4 ann heard my voice and ann began screaming
+5 ann didn t blow me off
+6 There is a contradiction here?	no	1
+7 andre who is a lawyer bought a macbook
+8 andre debbies father didnt buy a macbook
+9 There is a contradiction here?	no	1
+10 brian who is a flight attendant saw a strange add
+11 brian charlies father didnt saw a strange add
+12 There is a contradiction here?	no	1
+13 vincent saw a girl driving an electric gray bicycle
+14 vincent didnt saw a girl driving bobs new tesla roadster
+15 There is a contradiction here?	no	1
+1 sue has traveled to slatina and sue has traveled to mangalia
+2 sue didn t travel to slatina
+3 There is a contradiction here?	yes	1
+4 rachel has visited giurgiu and rachel has visited bucharest
+5 rachel didn t visit bucharest
+6 There is a contradiction here?	yes	1
+7 jerry left me waiting and jerry spoke to me
+8 jerry didn t leave me waiting
+9 There is a contradiction here?	yes	1
+10 jordan spent all my money and jordan wore a mango jacket
+11 jordan didn t take a summer job
+12 There is a contradiction here?	no	1
+13 everett created a thankful work of art and everett created a poor work of art
+14 everett didn t create a thankful work of art
+15 There is a contradiction here?	yes	1
+1 fannie created a tender work of art and fannie created a nice work of art
+2 fannie didn t create a tender work of art
+3 There is a contradiction here?	yes	1
+4 mildred rode the horse and mildred cut himself
+5 steven didn t ride the horse
+6 There is a contradiction here?	no	1
+7 manuel saw mathew running from a bus going to baia mare
+8 manuel didnt saw mathew running
+9 There is a contradiction here?	yes	1
+10 penny who is a cop saw the new tesla roadster
+11 penny isnt a cop
+12 There is a contradiction here?	yes	1
+13 kristi froze my account and kristi built an altar for cecilia
+14 kristi didn t freeze my account
+15 There is a contradiction here?	yes	1
+1 olga broke lawrence s heart and olga stood in front of the crowd
+2 olga didn t break lawrence s heart
+3 There is a contradiction here?	yes	1
+4 kathryn created a fancy work of art and kathryn created a gorgeous work of art
+5 kathryn didn t create a fancy work of art
+6 There is a contradiction here?	yes	1
+7 edgar created a calm work of art and edgar created a salmon work of art
+8 edgar didn t create a calm work of art
+9 There is a contradiction here?	yes	1
+10 mario is important and irma is tender
+11 irma is not tender
+12 There is a contradiction here?	yes	1
+13 earl told me everything and earl saw him
+14 derek didn t tell me everything
+15 There is a contradiction here?	no	1
+1 kay created a lemon work of art and kay created a panicky work of art
+2 kay didn t create a lemon work of art
+3 There is a contradiction here?	yes	1
+4 kyle is agreeable and fred is careful
+5 kyle is not careful
+6 There is a contradiction here?	no	1
+7 brett created a careful work of art and brett created a jolly work of art
+8 hazel didn t create a careful work of art
+9 There is a contradiction here?	no	1
+10 allison is polite and lisa is calm
+11 pearl is famous
+12 There is a contradiction here?	no	1
+13 janie has traveled to arad and gina has traveled to arad
+14 gina didn t travel to dej
+15 There is a contradiction here?	no	1
+1 terry created a clever work of art and terry created a happy work of art
+2 terry didn t create a mango work of art
+3 There is a contradiction here?	no	1
+4 sally created a fit work of art and sally created an ambitious work of art
+5 sally didn t create a fit work of art
+6 There is a contradiction here?	yes	1
+7 judith lost brittany s purple car and judith forgave me
+8 judith didn t say nice things
+9 There is a contradiction here?	no	1
+10 tanya created a red work of art and tanya created an obnoxious work of art
+11 jaime didn t create an obnoxious work of art
+12 There is a contradiction here?	no	1
+13 eleanor bet on the game and eleanor hung up on me
+14 eleanor didn t bet on the game
+15 There is a contradiction here?	yes	1
+1 todd has visited craiova and todd has visited slatina
+2 todd didn t visit blaj
+3 There is a contradiction here?	no	1
+4 lucille has visited timisoara and lucille has visited reghin
+5 lucille didn t visit timisoara
+6 There is a contradiction here?	yes	1
+7 samuel spent all my money and samuel built calvin s house
+8 samuel didn t build calvin s house
+9 There is a contradiction here?	yes	1
+10 adam is mealy and randy is clever
+11 randy is not clever
+12 There is a contradiction here?	yes	1
+13 kathleen is important and glen is vast
+14 glen is not vast
+15 There is a contradiction here?	yes	1
+1 carlos created a shy work of art and carlos created a mushy work of art
+2 louis didn t create a shy work of art
+3 There is a contradiction here?	no	1
+4 marion created a clean work of art and marion created a magnificent work of art
+5 rita didn t create a clean work of art
+6 There is a contradiction here?	no	1
+7 sean who is a tailor bought a japanese novel
+8 sean isnt a tailor
+9 There is a contradiction here?	yes	1
+10 ross created an alive work of art and ross created a salmon work of art
+11 ross didn t create a shapely work of art
+12 There is a contradiction here?	no	1
+13 elmer wrote me a letter and elmer grew up in jail
+14 elmer didn t burn verna s house
+15 There is a contradiction here?	no	1
+1 edna who is a technician bought a macbook
+2 edna didnt buy a macbook
+3 There is a contradiction here?	yes	1
+4 andrea created a careful work of art and andrea created a blue work of art
+5 cecilia didn t create a careful work of art
+6 There is a contradiction here?	no	1
+7 jeffery has visited blaj and yvonne has visited blaj
+8 hugh didn t visit blaj
+9 There is a contradiction here?	no	1
+10 sidney created a shapely work of art and sidney created a gentle work of art
+11 sidney didn t create a shapely work of art
+12 There is a contradiction here?	yes	1
+13 elaine took the yellow shirt out of the washer and elaine bought a ashy bicycle
+14 elaine didn t spend all my money
+15 There is a contradiction here?	no	1
+1 glenn went to slobozia and lance went to slobozia
+2 lance didn t go to slobozia
+3 There is a contradiction here?	yes	1
+4 herbert is happy and marcia is silly
+5 danny is hallowed
+6 There is a contradiction here?	no	1
+7 hazel knew about us and hazel did some good work
+8 hazel didn t forgive me
+9 There is a contradiction here?	no	1
+10 tracy is mealy and jose is powerful
+11 jose is not powerful
+12 There is a contradiction here?	yes	1
+13 amelia went to timisoara and amelia went to turda
+14 amelia didn t go to turda
+15 There is a contradiction here?	yes	1
+1 travis fought raymond and travis had a good week
+2 travis didn t teach math
+3 There is a contradiction here?	no	1
+4 gordon is thankful and alison is mealy
+5 gordon is not mealy
+6 There is a contradiction here?	no	1
+7 shirley is better and valerie is important
+8 valerie is not important
+9 There is a contradiction here?	yes	1
+10 leona who is a baker bought a pizza
+11 leona isnt a baker
+12 There is a contradiction here?	yes	1
+13 myrtle created a mango work of art and myrtle created an ashy work of art
+14 myrtle didn t create a mango work of art
+15 There is a contradiction here?	yes	1
+1 bertha created a happy work of art and bertha created a victorious work of art
+2 bertha didn t create a happy work of art
+3 There is a contradiction here?	yes	1
+4 cheryl saw dora driving a lemon bicycle
+5 cheryl didnt saw dora driving in lugoj
+6 There is a contradiction here?	no	1
+7 neil blew me off and neil wore a gray jacket
+8 neil didn t feel a strange
+9 There is a contradiction here?	no	1
+10 bobbie went to slatina and bobbie went to timisoara
+11 bobbie didn t go to slatina
+12 There is a contradiction here?	yes	1
+13 sue created a happy work of art and sue created a famous work of art
+14 sue didn t create a happy work of art
+15 There is a contradiction here?	yes	1
+1 vivian who is a painter saw a girl running
+2 vivian who is a dentist didnt saw a girl running
+3 There is a contradiction here?	no	1
+4 jeffrey created a green work of art and jeffrey created a flabby work of art
+5 megan didn t create a green work of art
+6 There is a contradiction here?	no	1
+7 arlene who is a dentist saw the new marvel movie from the russo brothers
+8 arlene tyrones mother didnt saw the new marvel movie from the russo brothers
+9 There is a contradiction here?	no	1
+10 janice is nice and jeremy is thankful
+11 stephen is not better
+12 There is a contradiction here?	no	1
+13 marc is nice and rodney is kind
+14 marc is not nice
+15 There is a contradiction here?	yes	1
+1 erica went to cluj napoca and kurt went to cluj napoca
+2 kurt didn t go to mangalia
+3 There is a contradiction here?	no	1
+4 seth broke the rules and seth knew antoinette s secret
+5 seth didn t know antoinette s secret
+6 There is a contradiction here?	yes	1
+7 erika swam out toward the green boat and erika showed my new photos
+8 erika didn t swim out toward the green boat
+9 There is a contradiction here?	yes	1
+10 julia laid his hands on him and julia bought a ashy car
+11 julia didn t lay his hands on him
+12 There is a contradiction here?	yes	1
+13 lee has visited dej and lee has visited bucharest
+14 lee didn t visit craiova
+15 There is a contradiction here?	no	1
+1 stanley who is a nurse saw the new marvel movie from the russo brothers
+2 stanley who is a pilot didnt saw the new marvel movie from the russo brothers
+3 There is a contradiction here?	no	1
+4 geneva chose this soccer team and geneva was a kind person
+5 geneva didn t choose this soccer team
+6 There is a contradiction here?	yes	1
+7 lois has traveled to blaj and alison has traveled to blaj
+8 lois didn t travel to blaj
+9 There is a contradiction here?	yes	1
+10 diana saw antonio driving a icy car
+11 diana didnt saw antonio driving
+12 There is a contradiction here?	yes	1
+13 phyllis has visited giurgiu and tanya has visited giurgiu
+14 marlene didn t visit giurgiu
+15 There is a contradiction here?	no	1
+1 janet began screaming and janet spoke to me
+2 marsha didn t begin screaming
+3 There is a contradiction here?	no	1
+4 jeanne held him close and jeanne froze paula s bank account
+5 jeanne didn t freeze paula s bank account
+6 There is a contradiction here?	yes	1
+7 jeffery created a blue work of art and jeffery created an inexpensive work of art
+8 jeffery didn t create a happy work of art
+9 There is a contradiction here?	no	1
+10 beulah has visited bucharest and kristy has visited bucharest
+11 beulah didn t visit bucharest
+12 There is a contradiction here?	yes	1
+13 leo created a hallowed work of art and leo created a polite work of art
+14 leo didn t create a hallowed work of art
+15 There is a contradiction here?	yes	1
+1 virginia grew up and virginia spoke to him about turda
+2 virginia didn t teach marjorie about songwriting
+3 There is a contradiction here?	no	1
+4 nina bought a watch and nina saw me
+5 nina didn t see me
+6 There is a contradiction here?	yes	1
+7 don created a kind work of art and don created an embarrassed work of art
+8 don didn t create a kind work of art
+9 There is a contradiction here?	yes	1
+10 wilma has traveled to reghin and wilma has traveled to slobozia
+11 wilma didn t travel to lugoj
+12 There is a contradiction here?	no	1
+13 sherri who is a plumber visit derek
+14 sherri who is a journalist didnt visit derek
+15 There is a contradiction here?	no	1
+1 lucy created an uninterested work of art and lucy created a better work of art
+2 lucy didn t create an easy work of art
+3 There is a contradiction here?	no	1
+4 kim has visited blaj and kim has visited vaslui
+5 kim didn t visit turda
+6 There is a contradiction here?	no	1
+7 alma found thisme and alma paid him
+8 alma didn t find thisme
+9 There is a contradiction here?	yes	1
+10 james brought me out of martha s house and james led me to dianne s house
+11 billy didn t bring me out of martha s house
+12 There is a contradiction here?	no	1
+13 annie who is a baker bought the new tesla roadster
+14 annie who is a technician didnt buy the new tesla roadster
+15 There is a contradiction here?	no	1
+1 nathaniel drank a bottle of wine and nathaniel stood in front of the crowd
+2 nathaniel didn t let this happen
+3 There is a contradiction here?	no	1
+4 marie is easy and ashley is careful
+5 ashley is not careful
+6 There is a contradiction here?	yes	1
+7 emma is thankful and katherine is unimportant
+8 katherine is not thankful
+9 There is a contradiction here?	no	1
+10 jeanette went to mangalia and jeanette went to timisoara
+11 jeanette didn t go to mangalia
+12 There is a contradiction here?	yes	1
+13 brittany wore a black jacket and brittany broke the record
+14 vickie didn t wear a black jacket
+15 There is a contradiction here?	no	1
+1 sonya created a scary work of art and sonya created an angry work of art
+2 sonya didn t create a scary work of art
+3 There is a contradiction here?	yes	1
+4 maxine saw a girl running from a salmon bus
+5 maxine didnt saw a girl running from a bus going to slobozia
+6 There is a contradiction here?	no	1
+7 johnny created a purple work of art and johnny created a wonderful work of art
+8 johnny didn t create a purple work of art
+9 There is a contradiction here?	yes	1
+10 leslie created a careful work of art and leslie created a thoughtless work of art
+11 leslie didn t create a careful work of art
+12 There is a contradiction here?	yes	1
+13 suzanne read the news and suzanne bought a watch
+14 suzanne didn t buy a watch
+15 There is a contradiction here?	yes	1
+1 dustin who is a judge bought the new marvel movie from the russo brothers
+2 dustin gilberts father didnt buy the new marvel movie from the russo brothers
+3 There is a contradiction here?	no	1
+4 rachel who is a nurse saw the new marvel movie from the russo brothers
+5 rachel who is a accountant didnt saw the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 leo has traveled to vaslui and rene has traveled to vaslui
+8 leo didn t travel to vaslui
+9 There is a contradiction here?	yes	1
+10 maggie went to bucharest and maggie went to slatina
+11 maggie didn t go to slatina
+12 There is a contradiction here?	yes	1
+13 marian who is a plumber saw a blue plane
+14 marian enriques mother didnt saw a blue plane
+15 There is a contradiction here?	no	1
+1 sharon is jolly and terry is careful
+2 terry is not jolly
+3 There is a contradiction here?	no	1
+4 thomas is happy and antonio is jolly
+5 lois is not alive
+6 There is a contradiction here?	no	1
+7 kyle saw julio driving an electric lemon bicycle
+8 kyle didnt saw julio driving a yellow car
+9 There is a contradiction here?	no	1
+10 clifton went to mangalia and alma went to mangalia
+11 iris didn t go to mangalia
+12 There is a contradiction here?	no	1
+13 nora who is a cop bought a macbook
+14 nora isnt a cop
+15 There is a contradiction here?	yes	1
+1 faye froze my account and faye heard my voice
+2 faye didn t freeze my account
+3 There is a contradiction here?	yes	1
+4 martha created a thoughtless work of art and martha created a purple work of art
+5 martha didn t create a thoughtless work of art
+6 There is a contradiction here?	yes	1
+7 isabel slept for one day and isabel drove awayto the bus stop
+8 elsie didn t sleep for one day
+9 There is a contradiction here?	no	1
+10 marie went to turda and kent went to turda
+11 kent didn t go to turda
+12 There is a contradiction here?	yes	1
+13 rhonda is witty and cecilia is eager
+14 rhonda is not witty
+15 There is a contradiction here?	yes	1
+1 tonya went to oradea and tonya went to cluj napoca
+2 tonya didn t go to cluj napoca
+3 There is a contradiction here?	yes	1
+4 cynthia saw a girl running from a bus going to reghin
+5 cynthia didnt saw a girl running
+6 There is a contradiction here?	yes	1
+7 betty who is a dentist visit corey
+8 betty didnt visit corey
+9 There is a contradiction here?	yes	1
+10 dustin has traveled to oradea and natasha has traveled to oradea
+11 dustin didn t travel to lugoj
+12 There is a contradiction here?	no	1
+13 sandy went to bucharest and sandy went to craiova
+14 sandy didn t go to craiova
+15 There is a contradiction here?	yes	1
+1 randy went to blaj and opal went to blaj
+2 joy didn t go to blaj
+3 There is a contradiction here?	no	1
+4 curtis has traveled to hunedoara and curtis has traveled to lugoj
+5 curtis didn t travel to bucharest
+6 There is a contradiction here?	no	1
+7 jose has traveled to turda and jose has traveled to slobozia
+8 jose didn t travel to bucharest
+9 There is a contradiction here?	no	1
+10 kristina has traveled to deva and bobbie has traveled to deva
+11 jay didn t travel to deva
+12 There is a contradiction here?	no	1
+13 claudia who is a journalist bought a japanese novel
+14 claudia who is a judge didnt buy a japanese novel
+15 There is a contradiction here?	no	1
+1 maria created a mealy work of art and maria created an important work of art
+2 maria didn t create a lively work of art
+3 There is a contradiction here?	no	1
+4 michelle began laughing and michelle froze my account
+5 michelle didn t understand what i said
+6 There is a contradiction here?	no	1
+7 kristine who is a carpenter visit joanna
+8 kristine isnt a carpenter
+9 There is a contradiction here?	yes	1
+10 valerie who is a plumber saw the new marvel movie from the russo brothers
+11 valerie marthas mother didnt saw the new marvel movie from the russo brothers
+12 There is a contradiction here?	no	1
+13 dustin who is a dentist bought the new tesla roadster
+14 dustin isnt a dentist
+15 There is a contradiction here?	yes	1
+1 annie who is a cop visit angie
+2 annie isnt a cop
+3 There is a contradiction here?	yes	1
+4 melissa created an obnoxious work of art and melissa created a yellow work of art
+5 melissa didn t create an obnoxious work of art
+6 There is a contradiction here?	yes	1
+7 shane saw a girl driving a lemon bicycle
+8 shane didnt saw a girl driving
+9 There is a contradiction here?	yes	1
+10 brandy saw me and brandy thought alfredo was going to die
+11 brandy didn t see me
+12 There is a contradiction here?	yes	1
+13 marian created an alive work of art and marian created an uptight work of art
+14 marian didn t create an alive work of art
+15 There is a contradiction here?	yes	1
+1 juana went to marjorie s house and juana came at midnight
+2 juana didn t come at midnight
+3 There is a contradiction here?	yes	1
+4 geraldine is brave and eduardo is lively
+5 geraldine is not brave
+6 There is a contradiction here?	yes	1
+7 reginald went to bucharest and reginald went to dej
+8 reginald didn t go to dej
+9 There is a contradiction here?	yes	1
+10 carla met elmer and carla spent all my money
+11 carla didn t spend all my money
+12 There is a contradiction here?	yes	1
+13 maryann lost theresa s green car and maryann knew about us
+14 arlene didn t lose theresa s green car
+15 There is a contradiction here?	no	1
+1 maryann created a proud work of art and maryann created a clever work of art
+2 maryann didn t create a proud work of art
+3 There is a contradiction here?	yes	1
+4 sonia hit me and sonia taught middle school science
+5 jesse didn t teach middle school science
+6 There is a contradiction here?	no	1
+7 brett let this happen and brett broke the rules
+8 floyd didn t break the rules
+9 There is a contradiction here?	no	1
+10 terry went to bucharest and terry went to oradea
+11 bill didn t go to oradea
+12 There is a contradiction here?	no	1
+13 joann sang a pop song and joann taught math
+14 gordon didn t sing a pop song
+15 There is a contradiction here?	no	1
+1 lula created an embarrassed work of art and lula created a bewildered work of art
+2 raymond didn t create a bewildered work of art
+3 There is a contradiction here?	no	1
+4 jodi cut a tree and jodi did it again
+5 jodi didn t cut a tree
+6 There is a contradiction here?	yes	1
+7 clara created a stocky work of art and clara created a wrong work of art
+8 clara didn t create a stocky work of art
+9 There is a contradiction here?	yes	1
+10 scott is gentle and dorothy is polite
+11 johnnie is not odd
+12 There is a contradiction here?	no	1
+13 kurt slept for one day and kurt led me to kristine s house
+14 warren didn t sleep for one day
+15 There is a contradiction here?	no	1
+1 norma created a scruffy work of art and norma created a famous work of art
+2 enrique didn t create a famous work of art
+3 There is a contradiction here?	no	1
+4 willie is obedient and ronnie is eager
+5 penny is gifted
+6 There is a contradiction here?	no	1
+7 joann who is a builder bought a japanese novel
+8 joann isnt a builder
+9 There is a contradiction here?	yes	1
+10 franklin created an obedient work of art and franklin created an agreeable work of art
+11 franklin didn t create a rich work of art
+12 There is a contradiction here?	no	1
+13 timothy chose to live in cluj napoca and timothy dug a hole in the garden
+14 timothy didn t choose to live in cluj napoca
+15 There is a contradiction here?	yes	1
+1 philip fought the law and philip lent me some money
+2 philip didn t lend me some money
+3 There is a contradiction here?	yes	1
+4 willie is silly and lula is vast
+5 lula is not silly
+6 There is a contradiction here?	no	1
+7 marian has visited turda and margaret has visited turda
+8 manuel didn t visit turda
+9 There is a contradiction here?	no	1
+10 ruth is jolly and tyrone is aggressive
+11 sandra is better
+12 There is a contradiction here?	no	1
+13 johnny created an ambitious work of art and johnny created a plump work of art
+14 johnny didn t create an ambitious work of art
+15 There is a contradiction here?	yes	1
+1 erik created a zealous work of art and erik created a thoughtless work of art
+2 norman didn t create a zealous work of art
+3 There is a contradiction here?	no	1
+4 melvin created a zealous work of art and melvin created a mealy work of art
+5 melvin didn t create a zealous work of art
+6 There is a contradiction here?	yes	1
+7 bernard saw a girl running from a special recently built bus
+8 bernard didnt saw a girl running from a parade car
+9 There is a contradiction here?	no	1
+10 willard who is a nurse visit jacqueline
+11 willard joans father didnt visit jacqueline
+12 There is a contradiction here?	no	1
+13 don went to tulcea and lee went to tulcea
+14 don didn t go to tulcea
+15 There is a contradiction here?	no	1
+1 curtis is jolly and blanche is gentle
+2 lauren is helpful
+3 There is a contradiction here?	no	1
+4 philip went to arad and dana went to arad
+5 dana didn t go to arad
+6 There is a contradiction here?	yes	1
+7 rose is silly and loretta is delightful
+8 rose is not silly
+9 There is a contradiction here?	yes	1
+10 clara created a mango work of art and clara created a powerful work of art
+11 clara didn t create a mango work of art
+12 There is a contradiction here?	yes	1
+13 molly is gentle and rose is aggressive
+14 norma is better
+15 There is a contradiction here?	no	1
+1 walter created an easy work of art and walter created a yellow work of art
+2 walter didn t create an easy work of art
+3 There is a contradiction here?	yes	1
+4 charlotte left me and charlotte showed beatrice s old photos
+5 doris didn t leave me
+6 There is a contradiction here?	no	1
+7 flora forgave olga and flora sang a pop song
+8 dolores didn t sing a pop song
+9 There is a contradiction here?	no	1
+10 ray created a clever work of art and ray created a delightful work of art
+11 violet didn t create a clever work of art
+12 There is a contradiction here?	no	1
+13 beverly saw a girl driving a red car
+14 beverly didnt saw a girl driving
+15 There is a contradiction here?	yes	1
+1 roberta who is a musician saw the car crash
+2 roberta didnt saw the car crash
+3 There is a contradiction here?	yes	1
+4 edgar is faithful and natasha is lively
+5 jimmy is not unimportant
+6 There is a contradiction here?	no	1
+7 sandra who is a nurse visit danny
+8 sandra jaimes mother didnt visit danny
+9 There is a contradiction here?	no	1
+10 willie created a drab work of art and willie created a silly work of art
+11 nelson didn t create a silly work of art
+12 There is a contradiction here?	no	1
+13 harry has traveled to deva and rita has traveled to deva
+14 rita didn t travel to deva
+15 There is a contradiction here?	yes	1
+1 wesley is gentle and joann is wonderful
+2 megan is uninterested
+3 There is a contradiction here?	no	1
+4 opal has traveled to blaj and hazel has traveled to blaj
+5 beulah didn t travel to blaj
+6 There is a contradiction here?	no	1
+7 andy has traveled to reghin and andy has traveled to giurgiu
+8 andy didn t travel to reghin
+9 There is a contradiction here?	yes	1
+10 isabel said funny things and isabel told me everything
+11 roger didn t say funny things
+12 There is a contradiction here?	no	1
+13 harold created a chubby work of art and harold created a gentle work of art
+14 harold didn t create a chubby work of art
+15 There is a contradiction here?	yes	1
+1 loretta shut the door down and loretta showed my new photos
+2 loretta didn t show my new photos
+3 There is a contradiction here?	yes	1
+4 gene is odd and justin is important
+5 justin is not important
+6 There is a contradiction here?	yes	1
+7 beatrice went to turda and jaime went to turda
+8 paula didn t go to turda
+9 There is a contradiction here?	no	1
+10 patrick is witty and patrick is happy
+11 francisco is hallowed
+12 There is a contradiction here?	no	1
+13 gabriel created an icy work of art and gabriel created a salmon work of art
+14 gabriel didn t create an icy work of art
+15 There is a contradiction here?	yes	1
+1 betty has visited slatina and cora has visited slatina
+2 betty didn t visit slatina
+3 There is a contradiction here?	yes	1
+4 todd has traveled to dej and todd has traveled to cluj napoca
+5 jason didn t travel to cluj napoca
+6 There is a contradiction here?	no	1
+7 ida is easy and sonya is uninterested
+8 sonya is not uninterested
+9 There is a contradiction here?	yes	1
+10 marvin created an unsightly work of art and marvin created a tender work of art
+11 marvin didn t create an unsightly work of art
+12 There is a contradiction here?	yes	1
+13 debbie became very important to me and debbie took office
+14 debbie didn t sell flora s house
+15 There is a contradiction here?	no	1
+1 fernando has traveled to oradea and fernando has traveled to tulcea
+2 fernando didn t travel to oradea
+3 There is a contradiction here?	yes	1
+4 randy created a blue work of art and randy created a gorgeous work of art
+5 theodore didn t create a gorgeous work of art
+6 There is a contradiction here?	no	1
+7 ryan is zealous and ralph is powerful
+8 ralph is not zealous
+9 There is a contradiction here?	no	1
+10 jack has visited dej and jack has visited blaj
+11 jack didn t visit blaj
+12 There is a contradiction here?	yes	1
+13 oscar paid me and oscar chose this way of life
+14 alberta didn t choose this way of life
+15 There is a contradiction here?	no	1
+1 connie forgave flora and connie sang a pop song
+2 sabrina didn t sing a pop song
+3 There is a contradiction here?	no	1
+4 ruth who is a bartender bought the new tesla roadster
+5 ruth didnt buy the new tesla roadster
+6 There is a contradiction here?	yes	1
+7 ron has traveled to slobozia and darrell has traveled to slobozia
+8 colleen didn t travel to slobozia
+9 There is a contradiction here?	no	1
+10 stacey saw a boy running from a bus going to dej
+11 stacey didnt saw a boy running
+12 There is a contradiction here?	yes	1
+13 mike did everything and mike built an altar for troy
+14 elizabeth didn t do everything
+15 There is a contradiction here?	no	1
+1 elizabeth saw a boy driving a green car
+2 elizabeth didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 ross created an ugly work of art and ross created a white work of art
+5 ross didn t create an ugly work of art
+6 There is a contradiction here?	yes	1
+7 tammy has visited giurgiu and stacy has visited giurgiu
+8 stacy didn t visit bucharest
+9 There is a contradiction here?	no	1
+10 barry created an obedient work of art and barry created a fancy work of art
+11 barry didn t create a poor work of art
+12 There is a contradiction here?	no	1
+13 annette created a clumsy work of art and annette created a white work of art
+14 annette didn t create a gentle work of art
+15 There is a contradiction here?	no	1
+1 georgia created a brave work of art and georgia created a happy work of art
+2 sam didn t create a happy work of art
+3 There is a contradiction here?	no	1
+4 douglas created a red work of art and douglas created a drab work of art
+5 velma didn t create a red work of art
+6 There is a contradiction here?	no	1
+7 holly created a famous work of art and holly created a yellow work of art
+8 holly didn t create a famous work of art
+9 There is a contradiction here?	yes	1
+10 wendy taught math and wendy said nice things
+11 wendy didn t say nice things
+12 There is a contradiction here?	yes	1
+13 lynn created a silly work of art and lynn created a purple work of art
+14 lynn didn t create a silly work of art
+15 There is a contradiction here?	yes	1
+1 lonnie who is a tailor bought the new tesla roadster
+2 lonnie didnt buy the new tesla roadster
+3 There is a contradiction here?	yes	1
+4 ted who is a secretary bought the new marvel movie from the russo brothers
+5 ted who is a cashier didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 ronnie created a clever work of art and ronnie created a mango work of art
+8 lillian didn t create a mango work of art
+9 There is a contradiction here?	no	1
+10 felicia did some good work and felicia drove the truck to dianne s house
+11 felicia didn t do some good work
+12 There is a contradiction here?	yes	1
+13 jared hurt me and jared understood what lillie comment about craiova
+14 jared didn t understand what lillie comment about craiova
+15 There is a contradiction here?	yes	1
+1 ronnie is kind and ralph is inexpensive
+2 ronnie is not inexpensive
+3 There is a contradiction here?	no	1
+4 samantha created a brave work of art and samantha created a black work of art
+5 samantha didn t create a brave work of art
+6 There is a contradiction here?	yes	1
+7 hector is calm and ida is obedient
+8 hector is not calm
+9 There is a contradiction here?	yes	1
+10 lucille is agreeable and rosa is polite
+11 mark is shy
+12 There is a contradiction here?	no	1
+13 byron has traveled to deva and darrell has traveled to deva
+14 darrell didn t travel to blaj
+15 There is a contradiction here?	no	1
+1 erik paid her and erik put the phone down
+2 erik didn t pay her
+3 There is a contradiction here?	yes	1
+4 shannon saw reginald driving in deva
+5 shannon didnt saw reginald driving debbies car
+6 There is a contradiction here?	no	1
+7 mitchell is tender and alberto is helpful
+8 alberto is not helpful
+9 There is a contradiction here?	yes	1
+10 laura who is a lawyer visit elmer
+11 laura didnt visit elmer
+12 There is a contradiction here?	yes	1
+13 kathryn who is a engineer saw the new tesla roadster
+14 kathryn who is a flight attendant didnt saw the new tesla roadster
+15 There is a contradiction here?	no	1
+1 tina threw everything out the window and tina chose this way of life
+2 tina didn t blow it
+3 There is a contradiction here?	no	1
+4 antonio is brave and derrick is agreeable
+5 antonio is not brave
+6 There is a contradiction here?	yes	1
+7 jordan created an itchy work of art and jordan created an uptight work of art
+8 jordan didn t create an itchy work of art
+9 There is a contradiction here?	yes	1
+10 gordon is powerful and margie is wrong
+11 margie is not wrong
+12 There is a contradiction here?	yes	1
+13 suzanne who is a cleaner saw the new tesla roadster
+14 suzanne isnt a cleaner
+15 There is a contradiction here?	yes	1
+1 cheryl who is a cashier saw a girl running
+2 cheryl didnt saw a girl running
+3 There is a contradiction here?	yes	1
+4 carol went to blaj and joy went to blaj
+5 carol didn t go to deva
+6 There is a contradiction here?	no	1
+7 patsy who is a builder visit terry
+8 patsy who is a bartender didnt visit terry
+9 There is a contradiction here?	no	1
+10 christopher who is a technician saw a strange add
+11 christopher didnt saw a strange add
+12 There is a contradiction here?	yes	1
+13 rita is jolly and cody is hallowed
+14 cody is not jolly
+15 There is a contradiction here?	no	1
+1 jessie is ambitious and rosie is jolly
+2 greg is not helpful
+3 There is a contradiction here?	no	1
+4 lillian drove awayto the bus stop and lillian burned some calories
+5 velma didn t burn some calories
+6 There is a contradiction here?	no	1
+7 jaime created a shapely work of art and jaime created a dazzling work of art
+8 toni didn t create a dazzling work of art
+9 There is a contradiction here?	no	1
+10 tim has traveled to baia mare and tim has traveled to giurgiu
+11 tim didn t travel to vaslui
+12 There is a contradiction here?	no	1
+13 ross is faithful and steve is powerful
+14 ross is not powerful
+15 There is a contradiction here?	no	1
+1 max forgave enrique and max understood what i said
+2 max didn t forgive enrique
+3 There is a contradiction here?	yes	1
+4 chad went to vaslui and javier went to vaslui
+5 chad didn t go to baia mare
+6 There is a contradiction here?	no	1
+7 leah put the phone down and leah had it all
+8 everett didn t have it all
+9 There is a contradiction here?	no	1
+10 doris hung up on me and doris built rita s house
+11 darrell didn t hang up on me
+12 There is a contradiction here?	no	1
+13 priscilla has traveled to mangalia and priscilla has traveled to oradea
+14 priscilla didn t travel to turda
+15 There is a contradiction here?	no	1
+1 suzanne who is a musician visit calvin
+2 suzanne naomis mother didnt visit calvin
+3 There is a contradiction here?	no	1
+4 erika is eager and heidi is alive
+5 erika is not alive
+6 There is a contradiction here?	no	1
+7 dolores is brave and carole is witty
+8 christina is uninterested
+9 There is a contradiction here?	no	1
+10 steven chose this way of life and steven sang a pop song
+11 lucille didn t choose this way of life
+12 There is a contradiction here?	no	1
+13 jeremy went to bucharest and jeremy went to craiova
+14 iris didn t go to bucharest
+15 There is a contradiction here?	no	1
+1 alberto forgot about amber s past and alberto ran from barcelona to turda
+2 wanda didn t forget about amber s past
+3 There is a contradiction here?	no	1
+4 marcia is brave and jaime is lively
+5 marcia is not brave
+6 There is a contradiction here?	yes	1
+7 luz is gentle and beatrice is kind
+8 leroy is clever
+9 There is a contradiction here?	no	1
+10 sheila sent me a letter and sheila bet on the game
+11 genevieve didn t bet on the game
+12 There is a contradiction here?	no	1
+13 herman went to arad and becky went to arad
+14 danny didn t go to arad
+15 There is a contradiction here?	no	1
+1 marc created a jealous work of art and marc created an ashy work of art
+2 marc didn t create a jealous work of art
+3 There is a contradiction here?	yes	1
+4 misty created a gifted work of art and misty created a flabby work of art
+5 misty didn t create a gifted work of art
+6 There is a contradiction here?	yes	1
+7 brian is gentle and verna is proud
+8 lillie is mushy
+9 There is a contradiction here?	no	1
+10 brittany bought a yellow bicycle and brittany sang a nice song
+11 brittany didn t buy a yellow bicycle
+12 There is a contradiction here?	yes	1
+13 carol is wonderful and felix is jolly
+14 calvin is not easy
+15 There is a contradiction here?	no	1
+1 louis is wonderful and amelia is thankful
+2 louis is not wonderful
+3 There is a contradiction here?	yes	1
+4 patsy is kind and carrie is delightful
+5 mathew is tender
+6 There is a contradiction here?	no	1
+7 jack who is a doctor bought a chilean wine
+8 jack rachels father didnt buy a chilean wine
+9 There is a contradiction here?	no	1
+10 kevin created an orange work of art and kevin created a yellow work of art
+11 kevin didn t create an unimportant work of art
+12 There is a contradiction here?	no	1
+13 janet created a quaint work of art and janet created a grumpy work of art
+14 janet didn t create a quaint work of art
+15 There is a contradiction here?	yes	1
+1 brad fell to the floor and brad taught middle school science
+2 marlene didn t fall to the floor
+3 There is a contradiction here?	no	1
+4 molly saw a boy running from a bus going to clujnapoca
+5 molly didnt saw a boy running
+6 There is a contradiction here?	yes	1
+7 bertha created an alive work of art and bertha created an eager work of art
+8 bertha didn t create an alive work of art
+9 There is a contradiction here?	yes	1
+10 lillian is proud and rose is aggressive
+11 leo is careful
+12 There is a contradiction here?	no	1
+13 gloria saw debra driving in clujnapoca
+14 gloria didnt saw debra driving
+15 There is a contradiction here?	yes	1
+1 daisy created a grumpy work of art and daisy created a calm work of art
+2 melody didn t create a calm work of art
+3 There is a contradiction here?	no	1
+4 natasha created a handsome work of art and natasha created an uninterested work of art
+5 natasha didn t create a handsome work of art
+6 There is a contradiction here?	yes	1
+7 naomi saw a girl running from a bus going to reghin
+8 naomi didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 melvin who is a pilot bought a chilean wine
+11 melvin who is a chef didnt buy a chilean wine
+12 There is a contradiction here?	no	1
+13 darlene has visited slobozia and darlene has visited timisoara
+14 belinda didn t visit timisoara
+15 There is a contradiction here?	no	1
+1 albert has visited vaslui and albert has visited slatina
+2 albert didn t visit oradea
+3 There is a contradiction here?	no	1
+4 renee who is a butcher bought the new tesla roadster
+5 renee tommys mother didnt buy the new tesla roadster
+6 There is a contradiction here?	no	1
+7 georgia created a helpful work of art and georgia created a fancy work of art
+8 georgia didn t create a helpful work of art
+9 There is a contradiction here?	yes	1
+10 sheryl went to bucharest and sheryl went to mangalia
+11 sheryl didn t go to oradea
+12 There is a contradiction here?	no	1
+13 ken told me april s secret and ken gave ramona a green bicycle
+14 raul didn t tell me april s secret
+15 There is a contradiction here?	no	1
+1 megan hung up on travis and megan spoke to him about mangalia
+2 samuel didn t hang up on travis
+3 There is a contradiction here?	no	1
+4 karen fell to the floor and karen bet on the gray car
+5 marshall didn t bet on the gray car
+6 There is a contradiction here?	no	1
+7 herbert is odd and joel is tender
+8 joel is not tender
+9 There is a contradiction here?	yes	1
+10 rose went to giurgiu and rose went to oradea
+11 rose didn t go to lugoj
+12 There is a contradiction here?	no	1
+13 jenny is shy and jimmie is wrong
+14 jimmie is not wrong
+15 There is a contradiction here?	yes	1
+1 jennifer saw a boy driving teds new tesla roadster
+2 jennifer didnt saw a boy driving
+3 There is a contradiction here?	yes	1
+4 craig has traveled to blaj and craig has traveled to arad
+5 craig didn t travel to hunedoara
+6 There is a contradiction here?	no	1
+7 minnie has traveled to turda and jackie has traveled to turda
+8 jackie didn t travel to turda
+9 There is a contradiction here?	yes	1
+10 raymond swam out toward the black boat and raymond read the book about spiders
+11 raymond didn t read the book about spiders
+12 There is a contradiction here?	yes	1
+13 barry sang a nice song and barry dreamed of running in bucharest
+14 lindsey didn t sing a nice song
+15 There is a contradiction here?	no	1
+1 sharon who is a hairdresser saw the new tesla roadster
+2 sharon who is a nurse didnt saw the new tesla roadster
+3 There is a contradiction here?	no	1
+4 juan who is a flight attendant saw the car crash
+5 juan vincents father didnt saw the car crash
+6 There is a contradiction here?	no	1
+7 alfredo blew it and alfredo forgave howard
+8 alfredo didn t forgive howard
+9 There is a contradiction here?	yes	1
+10 donna is shy and hector is powerful
+11 hector is not powerful
+12 There is a contradiction here?	yes	1
+13 harold has traveled to deva and shelley has traveled to deva
+14 harold didn t travel to deva
+15 There is a contradiction here?	yes	1
+1 leah went to lugoj and leah went to cluj napoca
+2 leah didn t go to lugoj
+3 There is a contradiction here?	yes	1
+4 dawn won the soccer match and dawn drank a bottle of water
+5 nora didn t win the soccer match
+6 There is a contradiction here?	no	1
+7 allan saw a girl driving in vaslui
+8 allan didnt saw a girl driving
+9 There is a contradiction here?	yes	1
+10 bruce saw a girl driving jacquelines car
+11 bruce didnt saw a girl driving
+12 There is a contradiction here?	yes	1
+13 calvin who is a plumber bought a japanese novel
+14 calvin isnt a plumber
+15 There is a contradiction here?	yes	1
+1 heidi who is a vet saw the accident
+2 heidi isnt a vet
+3 There is a contradiction here?	yes	1
+4 beulah created an eager work of art and beulah created a famous work of art
+5 beulah didn t create an eager work of art
+6 There is a contradiction here?	yes	1
+7 john saw a girl running from a purple bus with a new engine
+8 john didnt saw a girl running from a special recently built bus
+9 There is a contradiction here?	no	1
+10 stephen created an angry work of art and stephen created a plump work of art
+11 stephen didn t create a clever work of art
+12 There is a contradiction here?	no	1
+13 sharon created an important work of art and sharon created a tender work of art
+14 eleanor didn t create an important work of art
+15 There is a contradiction here?	no	1
+1 lillie went to mangalia and wanda went to mangalia
+2 lillie didn t go to mangalia
+3 There is a contradiction here?	yes	1
+4 thelma who is a accountant saw a dog chasing a cat
+5 thelma didnt saw a dog chasing a cat
+6 There is a contradiction here?	yes	1
+7 milton is victorious and frederick is careful
+8 milton is not careful
+9 There is a contradiction here?	no	1
+10 melinda saw a girl driving in slatina
+11 melinda didnt saw a girl driving a ashy car
+12 There is a contradiction here?	no	1
+13 pedro who is a engineer visit dean
+14 pedro kathryns father didnt visit dean
+15 There is a contradiction here?	no	1
+1 clara created a happy work of art and clara created an orange work of art
+2 clara didn t create a happy work of art
+3 There is a contradiction here?	yes	1
+4 pauline did some good work and pauline rode the horse
+5 pauline didn t do some good work
+6 There is a contradiction here?	yes	1
+7 guy is happy and flora is unimportant
+8 guy is not unimportant
+9 There is a contradiction here?	no	1
+10 jessie saw a boy driving in bucharest
+11 jessie didnt saw a boy driving
+12 There is a contradiction here?	yes	1
+13 cathy saw ramona running from a blue bus
+14 cathy didnt saw ramona running
+15 There is a contradiction here?	yes	1
+1 joyce threw everything out the window and joyce broke javier s heart
+2 david didn t throw everything out the window
+3 There is a contradiction here?	no	1
+4 shelly is alive and byron is easy
+5 byron is not easy
+6 There is a contradiction here?	yes	1
+7 katherine rode the buffalo and katherine told me everything
+8 katherine didn t ride the buffalo
+9 There is a contradiction here?	yes	1
+10 georgia who is a bartender saw the accident
+11 georgia didnt saw the accident
+12 There is a contradiction here?	yes	1
+13 karl created a stocky work of art and karl created a shy work of art
+14 karl didn t create an aggressive work of art
+15 There is a contradiction here?	no	1
+1 carmen created an unkempt work of art and carmen created a long work of art
+2 carmen didn t create an unkempt work of art
+3 There is a contradiction here?	yes	1
+4 rosemary has visited baia mare and rosemary has visited vaslui
+5 rosemary didn t visit vaslui
+6 There is a contradiction here?	yes	1
+7 leonard has traveled to timisoara and brandon has traveled to timisoara
+8 leonard didn t travel to cluj napoca
+9 There is a contradiction here?	no	1
+10 brandon has visited reghin and brandon has visited arad
+11 brandon didn t visit vaslui
+12 There is a contradiction here?	no	1
+13 leo is careful and wilma is poor
+14 wilma is not poor
+15 There is a contradiction here?	yes	1
+1 amy has traveled to tulcea and amy has traveled to oradea
+2 amy didn t travel to oradea
+3 There is a contradiction here?	yes	1
+4 tracy created an odd work of art and tracy created a defeated work of art
+5 tracy didn t create an odd work of art
+6 There is a contradiction here?	yes	1
+7 verna saw a boy driving in deva
+8 verna didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 george who is a tailor visit gregory
+11 george didnt visit gregory
+12 There is a contradiction here?	yes	1
+13 michele has visited dej and fannie has visited dej
+14 lois didn t visit dej
+15 There is a contradiction here?	no	1
+1 robert who is a doctor bought a pizza
+2 robert didnt buy a pizza
+3 There is a contradiction here?	yes	1
+4 bobby created an odd work of art and bobby created a drab work of art
+5 bobby didn t create a clever work of art
+6 There is a contradiction here?	no	1
+7 ted is agreeable and keith is lively
+8 ted is not agreeable
+9 There is a contradiction here?	yes	1
+10 harvey laid down and harvey sat on the mat
+11 glenn didn t lay down
+12 There is a contradiction here?	no	1
+13 rachel is gentle and bessie is alive
+14 rachel is not alive
+15 There is a contradiction here?	no	1
+1 joanne is ambitious and nellie is obedient
+2 joanne is not ambitious
+3 There is a contradiction here?	yes	1
+4 bessie is polite and don is tender
+5 bessie is not tender
+6 There is a contradiction here?	no	1
+7 ken went to bucharest and jan went to bucharest
+8 ken didn t go to bucharest
+9 There is a contradiction here?	yes	1
+10 susan has visited reghin and susan has visited blaj
+11 kayla didn t visit reghin
+12 There is a contradiction here?	no	1
+13 jo saw a boy driving franciss car
+14 jo didnt saw a boy driving daryls bicycle
+15 There is a contradiction here?	no	1
+1 katrina created a wrong work of art and katrina created a wonderful work of art
+2 michele didn t create a wrong work of art
+3 There is a contradiction here?	no	1
+4 gary has visited mangalia and donna has visited mangalia
+5 terri didn t visit mangalia
+6 There is a contradiction here?	no	1
+7 nathaniel has traveled to blaj and nellie has traveled to blaj
+8 nellie didn t travel to slobozia
+9 There is a contradiction here?	no	1
+10 beverly has visited deva and beverly has visited oradea
+11 beverly didn t visit deva
+12 There is a contradiction here?	yes	1
+13 rachel is lively and julio is faithful
+14 willard is dead
+15 There is a contradiction here?	no	1
+1 rodney went to slobozia and rodney went to slatina
+2 rodney didn t go to deva
+3 There is a contradiction here?	no	1
+4 clyde who is a judge saw a dog chasing a cat
+5 clyde garys father didnt saw a dog chasing a cat
+6 There is a contradiction here?	no	1
+7 agnes who is a butcher visit norma
+8 agnes isnt a butcher
+9 There is a contradiction here?	yes	1
+10 natasha went to timisoara and natasha went to arad
+11 natasha didn t go to cluj napoca
+12 There is a contradiction here?	no	1
+13 frank is ambitious and cheryl is faithful
+14 frank is not ambitious
+15 There is a contradiction here?	yes	1
+1 brandy is silly and rosemary is ambitious
+2 fred is rich
+3 There is a contradiction here?	no	1
+4 george hung up on jeffrey and george did some good work
+5 george didn t hang up on jeffrey
+6 There is a contradiction here?	yes	1
+7 beulah went to bernice s house and beulah won the game
+8 beulah didn t win the game
+9 There is a contradiction here?	yes	1
+10 felicia saw iris running from a special recently built bus
+11 felicia didnt saw iris running from a parade car
+12 There is a contradiction here?	no	1
+13 kimberly understood what gary comment about tulcea and kimberly hit him
+14 kimberly didn t understand what gary comment about tulcea
+15 There is a contradiction here?	yes	1
+1 shawn has traveled to giurgiu and joseph has traveled to giurgiu
+2 shawn didn t travel to giurgiu
+3 There is a contradiction here?	yes	1
+4 beth is wonderful and zachary is mealy
+5 beth is not mealy
+6 There is a contradiction here?	no	1
+7 johnny is witty and clifford is agreeable
+8 johnny is not witty
+9 There is a contradiction here?	yes	1
+10 wayne who is a carpenter bought a macbook
+11 wayne isnt a carpenter
+12 There is a contradiction here?	yes	1
+13 blanche who is a vet visit margarita
+14 blanche who is a scientist didnt visit margarita
+15 There is a contradiction here?	no	1
+1 derrick who is a cleaner saw the new marvel movie from the russo brothers
+2 derrick isnt a cleaner
+3 There is a contradiction here?	yes	1
+4 clarence met me and clarence laid his hands on him
+5 clarence didn t eat breakfast
+6 There is a contradiction here?	no	1
+7 kathleen saw denise running from a red school bus
+8 kathleen didnt saw denise running
+9 There is a contradiction here?	yes	1
+10 eunice created a worried work of art and eunice created an angry work of art
+11 kay didn t create a worried work of art
+12 There is a contradiction here?	no	1
+13 julia who is a chef bought a pizza
+14 julia who is a cop didnt buy a pizza
+15 There is a contradiction here?	no	1
+1 kelly is eager and stanley is delightful
+2 kelly is not eager
+3 There is a contradiction here?	yes	1
+4 kenneth went to bucharest and carmen went to bucharest
+5 carmen didn t go to bucharest
+6 There is a contradiction here?	yes	1
+7 lydia is obedient and corey is agreeable
+8 lydia is not obedient
+9 There is a contradiction here?	yes	1
+10 rachel is silly and joel is aggressive
+11 kyle is powerful
+12 There is a contradiction here?	no	1
+13 jessie created a kind work of art and jessie created an unkempt work of art
+14 eddie didn t create an unkempt work of art
+15 There is a contradiction here?	no	1
+1 theodore created a dazzling work of art and theodore created a vast work of art
+2 theodore didn t create a nice work of art
+3 There is a contradiction here?	no	1
+4 jill is wonderful and vanessa is kind
+5 monica is not alive
+6 There is a contradiction here?	no	1
+7 pearl saw a girl driving a salmon car
+8 pearl didnt saw a girl driving lawrences car
+9 There is a contradiction here?	no	1
+10 andrea went to timisoara and claudia went to timisoara
+11 kristine didn t go to timisoara
+12 There is a contradiction here?	no	1
+13 priscilla said funny things and priscilla spoke to him about deva
+14 priscilla didn t say funny things
+15 There is a contradiction here?	yes	1
+1 margie has traveled to slatina and erika has traveled to slatina
+2 margie didn t travel to baia mare
+3 There is a contradiction here?	no	1
+4 lindsey went to slobozia and lindsey went to hunedoara
+5 sarah didn t go to slobozia
+6 There is a contradiction here?	no	1
+7 monique fought me and monique laid his hands on her
+8 monique didn t lay his hands on her
+9 There is a contradiction here?	yes	1
+10 harry has traveled to bucharest and harry has traveled to giurgiu
+11 harry didn t travel to turda
+12 There is a contradiction here?	no	1
+13 herman dug a hole in paul s backyard and herman drove the truck to holly s house
+14 elizabeth didn t drive the truck to holly s house
+15 There is a contradiction here?	no	1
+1 wallace created a repulsive work of art and wallace created an aggressive work of art
+2 ramona didn t create an aggressive work of art
+3 There is a contradiction here?	no	1
+4 teresa created a mushy work of art and teresa created a worried work of art
+5 teresa didn t create a mushy work of art
+6 There is a contradiction here?	yes	1
+7 kathryn is polite and pamela is silly
+8 kathryn is not polite
+9 There is a contradiction here?	yes	1
+10 sabrina is calm and leonard is dead
+11 sabrina is not dead
+12 There is a contradiction here?	no	1
+13 eunice is lively and kristen is calm
+14 cecilia is not odd
+15 There is a contradiction here?	no	1
+1 kent went to bucharest and wilma went to bucharest
+2 randall didn t go to bucharest
+3 There is a contradiction here?	no	1
+4 nicole is eager and dora is happy
+5 geraldine is dead
+6 There is a contradiction here?	no	1
+7 nancy is odd and bruce is uninterested
+8 bruce is not uninterested
+9 There is a contradiction here?	yes	1
+10 joseph caught a mango fish and joseph swam out toward the purple boat
+11 dean didn t catch a mango fish
+12 There is a contradiction here?	no	1
+13 marvin created a silly work of art and marvin created an orange work of art
+14 marvin didn t create a silly work of art
+15 There is a contradiction here?	yes	1
+1 colleen created a mango work of art and colleen created a skinny work of art
+2 colleen didn t create an obedient work of art
+3 There is a contradiction here?	no	1
+4 myrtle is thankful and jennie is dead
+5 jennie is not thankful
+6 There is a contradiction here?	no	1
+7 peggy has visited arad and peggy has visited lugoj
+8 blanche didn t visit lugoj
+9 There is a contradiction here?	no	1
+10 ada who is a carpenter bought the new tesla roadster
+11 ada isnt a carpenter
+12 There is a contradiction here?	yes	1
+13 kathryn who is a nurse bought the new marvel movie from the russo brothers
+14 kathryn didnt buy the new marvel movie from the russo brothers
+15 There is a contradiction here?	yes	1
+1 adam created an itchy work of art and adam created an obnoxious work of art
+2 adrian didn t create an obnoxious work of art
+3 There is a contradiction here?	no	1
+4 isaac created a yellow work of art and isaac created an uninterested work of art
+5 anthony didn t create an uninterested work of art
+6 There is a contradiction here?	no	1
+7 shane who is a cashier saw a girl running
+8 shane didnt saw a girl running
+9 There is a contradiction here?	yes	1
+10 jimmy who is a journalist bought a japanese novel
+11 jimmy madelines father didnt buy a japanese novel
+12 There is a contradiction here?	no	1
+13 dianne is witty and christina is poor
+14 christina is not witty
+15 There is a contradiction here?	no	1
+1 charlene is tender and martha is unimportant
+2 martha is not unimportant
+3 There is a contradiction here?	yes	1
+4 natasha has visited timisoara and madeline has visited timisoara
+5 madeline didn t visit timisoara
+6 There is a contradiction here?	yes	1
+7 edward has visited slatina and edward has visited blaj
+8 edward didn t visit timisoara
+9 There is a contradiction here?	no	1
+10 dwayne created a green work of art and dwayne created a rich work of art
+11 dwayne didn t create a green work of art
+12 There is a contradiction here?	yes	1
+13 rachel led me to billie s house and rachel lost my computer
+14 rachel didn t bet on the black car
+15 There is a contradiction here?	no	1
+1 kristin who is a dentist bought the new marvel movie from the russo brothers
+2 kristin isnt a dentist
+3 There is a contradiction here?	yes	1
+4 anita is better and clyde is unimportant
+5 clyde is not unimportant
+6 There is a contradiction here?	yes	1
+7 frances has traveled to tulcea and jack has traveled to tulcea
+8 ray didn t travel to tulcea
+9 There is a contradiction here?	no	1
+10 cora showed my new photos and cora paid her
+11 cora didn t show my new photos
+12 There is a contradiction here?	yes	1
+13 jeremy is victorious and megan is hallowed
+14 megan is not victorious
+15 There is a contradiction here?	no	1
+1 ida has visited timisoara and vivian has visited timisoara
+2 ida didn t visit timisoara
+3 There is a contradiction here?	yes	1
+4 ted found what i was looking for and ted woke up
+5 ted didn t put the phone down
+6 There is a contradiction here?	no	1
+7 jacqueline taught middle school science and jacqueline drew ahead of the other runners
+8 melanie didn t teach middle school science
+9 There is a contradiction here?	no	1
+10 robert met melinda and robert drew ahead of the other runners
+11 janie didn t draw ahead of the other runners
+12 There is a contradiction here?	no	1
+13 natasha created an angry work of art and natasha created a skinny work of art
+14 lillian didn t create a skinny work of art
+15 There is a contradiction here?	no	1
+1 jacob is victorious and lloyd is better
+2 lloyd is not victorious
+3 There is a contradiction here?	no	1
+4 dora went to craiova and dora went to mangalia
+5 dora didn t go to mangalia
+6 There is a contradiction here?	yes	1
+7 sheryl who is a musician bought a macbook
+8 sheryl who is a journalist didnt buy a macbook
+9 There is a contradiction here?	no	1
+10 harry created a jealous work of art and harry created a bald work of art
+11 louis didn t create a jealous work of art
+12 There is a contradiction here?	no	1
+13 travis went to deva and travis went to craiova
+14 travis didn t go to deva
+15 There is a contradiction here?	yes	1
+1 don created a stocky work of art and don created an agreeable work of art
+2 don didn t create a worried work of art
+3 There is a contradiction here?	no	1
+4 kayla is ambitious and victor is faithful
+5 kayla is not ambitious
+6 There is a contradiction here?	yes	1
+7 stephanie has traveled to baia mare and monica has traveled to baia mare
+8 monica didn t travel to baia mare
+9 There is a contradiction here?	yes	1
+10 zachary went to mangalia and joann went to mangalia
+11 zachary didn t go to mangalia
+12 There is a contradiction here?	yes	1
+13 shelley is kind and amelia is odd
+14 shelley is not odd
+15 There is a contradiction here?	no	1
+1 judy lost the purple car in tulcea and judy dug a hole
+2 tina didn t dig a hole
+3 There is a contradiction here?	no	1
+4 lisa bet on the wining horse and lisa spoke to her about verna
+5 susie didn t bet on the wining horse
+6 There is a contradiction here?	no	1
+7 louis has traveled to slatina and marjorie has traveled to slatina
+8 veronica didn t travel to slatina
+9 There is a contradiction here?	no	1
+10 thomas went to oradea and roger went to oradea
+11 roger didn t go to bucharest
+12 There is a contradiction here?	no	1
+13 eddie has traveled to vaslui and brent has traveled to vaslui
+14 lee didn t travel to vaslui
+15 There is a contradiction here?	no	1
+1 allen created a bald work of art and allen created a beautiful work of art
+2 frank didn t create a bald work of art
+3 There is a contradiction here?	no	1
+4 courtney is ambitious and brenda is zealous
+5 courtney is not ambitious
+6 There is a contradiction here?	yes	1
+7 beulah swam out toward the black boat and beulah built a computer
+8 beulah didn t build a computer
+9 There is a contradiction here?	yes	1
+10 linda created a fit work of art and linda created an unimportant work of art
+11 linda didn t create a fit work of art
+12 There is a contradiction here?	yes	1
+13 jessie went to timisoara and jessie went to giurgiu
+14 jaime didn t go to timisoara
+15 There is a contradiction here?	no	1
+1 cassandra created a dead work of art and cassandra created a shy work of art
+2 cassandra didn t create a wonderful work of art
+3 There is a contradiction here?	no	1
+4 leona created a mysterious work of art and leona created a defeated work of art
+5 leona didn t create a mysterious work of art
+6 There is a contradiction here?	yes	1
+7 ada sang a pop song and ada came at midnight
+8 eugene didn t sing a pop song
+9 There is a contradiction here?	no	1
+10 maureen who is a chef bought a chilean wine
+11 maureen didnt buy a chilean wine
+12 There is a contradiction here?	yes	1
+13 richard paid me and richard built an airplane
+14 richard didn t pay me
+15 There is a contradiction here?	yes	1
+1 brandi went to reghin and brandi went to lugoj
+2 brandi didn t go to lugoj
+3 There is a contradiction here?	yes	1
+4 russell has visited slatina and russell has visited bucharest
+5 thelma didn t visit bucharest
+6 There is a contradiction here?	no	1
+7 eduardo has visited lugoj and jessica has visited lugoj
+8 phyllis didn t visit lugoj
+9 There is a contradiction here?	no	1
+10 amber created a stocky work of art and amber created a dead work of art
+11 amber didn t create an angry work of art
+12 There is a contradiction here?	no	1
+13 reginald who is a barber bought a pizza
+14 reginald who is a accountant didnt buy a pizza
+15 There is a contradiction here?	no	1
+1 judy chose to live in bucharest and judy spoke to me
+2 cora didn t choose to live in bucharest
+3 There is a contradiction here?	no	1
+4 deanna is wrong and vickie is alive
+5 vickie is not alive
+6 There is a contradiction here?	yes	1
+7 dolores threw everything out the window and dolores sent me a note
+8 dolores didn t send me a note
+9 There is a contradiction here?	yes	1
+10 melinda created an ashy work of art and melinda created a mysterious work of art
+11 beulah didn t create a mysterious work of art
+12 There is a contradiction here?	no	1
+13 darlene created a hallowed work of art and darlene created a lemon work of art
+14 darlene didn t create a hallowed work of art
+15 There is a contradiction here?	yes	1
+1 shannon created a rich work of art and shannon created a plain work of art
+2 shannon didn t create a poor work of art
+3 There is a contradiction here?	no	1
+4 franklin created a helpful work of art and franklin created an angry work of art
+5 franklin didn t create a helpful work of art
+6 There is a contradiction here?	yes	1
+7 tyrone is obedient and nora is mealy
+8 nora is not obedient
+9 There is a contradiction here?	no	1
+10 vincent cut my hair and vincent drew ahead of the other runners
+11 vincent didn t draw ahead of the other runners
+12 There is a contradiction here?	yes	1
+13 gwendolyn created a fancy work of art and gwendolyn created a better work of art
+14 gwendolyn didn t create a fancy work of art
+15 There is a contradiction here?	yes	1
+1 melanie wrote me a letter and melanie rode the horse
+2 lena didn t write me a letter
+3 There is a contradiction here?	no	1
+4 kathy went to craiova and monique went to craiova
+5 melvin didn t go to craiova
+6 There is a contradiction here?	no	1
+7 sara is mealy and gary is famous
+8 gary is not famous
+9 There is a contradiction here?	yes	1
+10 lucy froze my account and lucy forgot about debbie s past
+11 lucy didn t forget about debbie s past
+12 There is a contradiction here?	yes	1
+13 eunice went to oradea and eunice went to slobozia
+14 eunice didn t go to bucharest
+15 There is a contradiction here?	no	1
+1 vera is famous and lorraine is important
+2 lorraine is not important
+3 There is a contradiction here?	yes	1
+4 mike is happy and joan is inexpensive
+5 mike is not inexpensive
+6 There is a contradiction here?	no	1
+7 roy has traveled to timisoara and roy has traveled to deva
+8 roy didn t travel to deva
+9 There is a contradiction here?	yes	1
+10 yvette created a black work of art and yvette created a quaint work of art
+11 yvette didn t create a panicky work of art
+12 There is a contradiction here?	no	1
+13 johnny who is a cop saw a blue plane
+14 johnny eunices father didnt saw a blue plane
+15 There is a contradiction here?	no	1
+1 gene taught brandi about songwriting and gene felt a strange
+2 gene didn t teach brandi about songwriting
+3 There is a contradiction here?	yes	1
+4 scott created an alive work of art and scott created a handsome work of art
+5 scott didn t create a defeated work of art
+6 There is a contradiction here?	no	1
+7 brittany created a gorgeous work of art and brittany created a bald work of art
+8 joyce didn t create a bald work of art
+9 There is a contradiction here?	no	1
+10 dennis cut my hair and dennis sold lorraine s bicycle
+11 dennis didn t cut my hair
+12 There is a contradiction here?	yes	1
+13 frank who is a doctor bought a macbook
+14 frank isnt a doctor
+15 There is a contradiction here?	yes	1
+1 jonathan is calm and jeanette is alive
+2 jeanette is not calm
+3 There is a contradiction here?	no	1
+4 ray knew felicia s secret and ray understood what ryan comment about blaj
+5 carmen didn t understand what ryan comment about blaj
+6 There is a contradiction here?	no	1
+7 felix created a proud work of art and felix created a quaint work of art
+8 felix didn t create a proud work of art
+9 There is a contradiction here?	yes	1
+10 ashley who is a plumber visit lucille
+11 ashley who is a musician didnt visit lucille
+12 There is a contradiction here?	no	1
+13 erica bought a ashy bicycle and erica lent me some money
+14 erica didn t lend me some money
+15 There is a contradiction here?	yes	1
+1 tiffany is polite and robert is eager
+2 matthew is important
+3 There is a contradiction here?	no	1
+4 emma is lively and fannie is easy
+5 fannie is not lively
+6 There is a contradiction here?	no	1
+7 melvin has traveled to blaj and melvin has traveled to vaslui
+8 melvin didn t travel to blaj
+9 There is a contradiction here?	yes	1
+10 wesley has traveled to vaslui and walter has traveled to vaslui
+11 walter didn t travel to vaslui
+12 There is a contradiction here?	yes	1
+13 margaret is brave and madeline is wonderful
+14 gail is better
+15 There is a contradiction here?	no	1
+1 willie beat her and willie bought a watch
+2 annette didn t beat her
+3 There is a contradiction here?	no	1
+4 joann thought i was living in timisoara and joann dug a hole in the garden
+5 joann didn t think i was living in timisoara
+6 There is a contradiction here?	yes	1
+7 raul has traveled to timisoara and raul has traveled to tulcea
+8 raul didn t travel to mangalia
+9 There is a contradiction here?	no	1
+10 jerome hit me and jerome built a computer
+11 jerome didn t hit me
+12 There is a contradiction here?	yes	1
+13 marcus who is a butcher saw a strange add
+14 marcus who is a carpenter didnt saw a strange add
+15 There is a contradiction here?	no	1
+1 philip who is a musician saw a strange add
+2 philip isnt a musician
+3 There is a contradiction here?	yes	1
+4 christina who is a tailor bought the new tesla roadster
+5 christina joannes mother didnt buy the new tesla roadster
+6 There is a contradiction here?	no	1
+7 diana created a poor work of art and diana created an ambitious work of art
+8 evelyn didn t create an ambitious work of art
+9 There is a contradiction here?	no	1
+10 stanley is alive and rafael is famous
+11 rafael is not famous
+12 There is a contradiction here?	yes	1
+13 vanessa won the game and vanessa sang a pop song
+14 vanessa didn t win the game
+15 There is a contradiction here?	yes	1
+1 javier drove the truck to wade s house and javier paid him
+2 brent didn t pay him
+3 There is a contradiction here?	no	1
+4 leo stood up to carrie and leo hit her
+5 leo didn t stand up to carrie
+6 There is a contradiction here?	yes	1
+7 leslie is important and ricky is tender
+8 ricky is not tender
+9 There is a contradiction here?	yes	1
+10 charles forgot about sonia s hobby and charles bet on the game
+11 charles didn t cut himself
+12 There is a contradiction here?	no	1
+13 delores laid down and delores came at night
+14 delores didn t teach victoria about songwriting
+15 There is a contradiction here?	no	1
+1 marie created a clumsy work of art and marie created a green work of art
+2 crystal didn t create a clumsy work of art
+3 There is a contradiction here?	no	1
+4 tracy is polite and kimberly is helpful
+5 kimberly is not polite
+6 There is a contradiction here?	no	1
+7 yolanda created an eager work of art and yolanda created a fancy work of art
+8 yolanda didn t create an eager work of art
+9 There is a contradiction here?	yes	1
+10 deborah lost maurice s white car and deborah heard chris
+11 deborah didn t lose maurice s white car
+12 There is a contradiction here?	yes	1
+13 shirley hurt him and shirley gave sara a white car
+14 shirley didn t hurt him
+15 There is a contradiction here?	yes	1
+1 janie created an easy work of art and janie created a beautiful work of art
+2 janie didn t create an easy work of art
+3 There is a contradiction here?	yes	1
+4 kathy is wonderful and jerome is jolly
+5 jorge is inexpensive
+6 There is a contradiction here?	no	1
+7 albert who is a scientist saw the accident
+8 albert bens father didnt saw the accident
+9 There is a contradiction here?	no	1
+10 toni is delightful and pauline is wonderful
+11 cora is careful
+12 There is a contradiction here?	no	1
+13 jordan who is a bartender visit salvador
+14 jordan yvettes father didnt visit salvador
+15 There is a contradiction here?	no	1
+1 gina created a calm work of art and gina created a pitiful work of art
+2 eunice didn t create a calm work of art
+3 There is a contradiction here?	no	1
+4 bernard created an odd work of art and bernard created an uninterested work of art
+5 bernard didn t create an odd work of art
+6 There is a contradiction here?	yes	1
+7 kim has traveled to cluj napoca and clarence has traveled to cluj napoca
+8 clarence didn t travel to cluj napoca
+9 There is a contradiction here?	yes	1
+10 blanche went to reghin and blanche drew ahead of the other runners
+11 blanche didn t bring me out of brenda s house
+12 There is a contradiction here?	no	1
+13 vera went to slatina and candice went to slatina
+14 vera didn t go to slatina
+15 There is a contradiction here?	yes	1
+1 sandy who is a hairdresser bought a japanese novel
+2 sandy didnt buy a japanese novel
+3 There is a contradiction here?	yes	1
+4 glenda got me lying and glenda bought a watch
+5 glenda didn t buy a watch
+6 There is a contradiction here?	yes	1
+7 elsie created a clever work of art and elsie created a jolly work of art
+8 elsie didn t create a clever work of art
+9 There is a contradiction here?	yes	1
+10 sabrina created a flabby work of art and sabrina created a jolly work of art
+11 sabrina didn t create an unimportant work of art
+12 There is a contradiction here?	no	1
+13 melvin saw jeffrey driving a purple bicycle
+14 melvin didnt saw jeffrey driving
+15 There is a contradiction here?	yes	1
+1 gerald saw a girl running from a lemon car
+2 gerald didnt saw a girl running from a ashy bus with a new engine
+3 There is a contradiction here?	no	1
+4 lena rode the buffalo and lena sent me a note
+5 lena didn t beat him
+6 There is a contradiction here?	no	1
+7 milton saw a boy running from a bus going to timisoara
+8 milton didnt saw a boy running from a white school bus
+9 There is a contradiction here?	no	1
+10 russell gave richard a black shirt and russell was a fan of candace s work
+11 franklin wasn t a fan of candace s work
+12 There is a contradiction here?	no	1
+13 john went to hunedoara and john went to bucharest
+14 john didn t go to hunedoara
+15 There is a contradiction here?	yes	1
+1 irene went to bucharest and norman went to bucharest
+2 norman didn t go to bucharest
+3 There is a contradiction here?	yes	1
+4 marian who is a plumber bought a japanese novel
+5 marian didnt buy a japanese novel
+6 There is a contradiction here?	yes	1
+7 josephine is lively and natalie is victorious
+8 josephine is not lively
+9 There is a contradiction here?	yes	1
+10 jeremy spoke to him about giurgiu and jeremy cut a tree
+11 jeremy didn t drink a bottle of water
+12 There is a contradiction here?	no	1
+13 alma is gentle and greg is calm
+14 alma is not gentle
+15 There is a contradiction here?	yes	1
+1 sylvia is lively and gerald is eager
+2 kimberly is not clever
+3 There is a contradiction here?	no	1
+4 amy is calm and tamara is zealous
+5 ricardo is not gifted
+6 There is a contradiction here?	no	1
+7 gladys hit me and gladys forgave me
+8 ethel didn t forgive me
+9 There is a contradiction here?	no	1
+10 sally went to bucharest and sally went to mangalia
+11 roy didn t go to bucharest
+12 There is a contradiction here?	no	1
+13 lindsey had a good week and lindsey felt threatened
+14 lindsey didn t have a good week
+15 There is a contradiction here?	yes	1
+1 bob has visited mangalia and bob has visited bucharest
+2 bob didn t visit reghin
+3 There is a contradiction here?	no	1
+4 gina went to bucharest and gina went to giurgiu
+5 gina didn t go to tulcea
+6 There is a contradiction here?	no	1
+7 howard who is a chef saw a dog chasing a cat
+8 howard eileens father didnt saw a dog chasing a cat
+9 There is a contradiction here?	no	1
+10 amber created a bald work of art and amber created a worried work of art
+11 amber didn t create a bald work of art
+12 There is a contradiction here?	yes	1
+13 jodi sang a nice song and jodi told me corey s secret
+14 jodi didn t tell me corey s secret
+15 There is a contradiction here?	yes	1
+1 jo who is a judge bought a japanese novel
+2 jo hollys mother didnt buy a japanese novel
+3 There is a contradiction here?	no	1
+4 justin created an uptight work of art and justin created a repulsive work of art
+5 justin didn t create an uptight work of art
+6 There is a contradiction here?	yes	1
+7 manuel created a brave work of art and manuel created a gifted work of art
+8 norman didn t create a gifted work of art
+9 There is a contradiction here?	no	1
+10 lori went to turda and stephanie went to turda
+11 lori didn t go to turda
+12 There is a contradiction here?	yes	1
+13 cindy saw a boy running from a special recently built bus
+14 cindy didnt saw a boy running from a ashy car
+15 There is a contradiction here?	no	1
+1 dora has traveled to baia mare and betty has traveled to baia mare
+2 jackie didn t travel to baia mare
+3 There is a contradiction here?	no	1
+4 virgil froze henry s bank account and virgil cut a tree
+5 virgil didn t think i was helping johnnie
+6 There is a contradiction here?	no	1
+7 glenn read the book about spiders and glenn lost my computer
+8 glenn didn t read the book about spiders
+9 There is a contradiction here?	yes	1
+10 diane who is a builder saw a dog chasing a cat
+11 diane who is a journalist didnt saw a dog chasing a cat
+12 There is a contradiction here?	no	1
+13 geraldine is zealous and jeanette is victorious
+14 geraldine is not zealous
+15 There is a contradiction here?	yes	1
+1 sheryl is polite and marsha is jolly
+2 philip is not rich
+3 There is a contradiction here?	no	1
+4 kurt saw a girl driving an electric orange bicycle
+5 kurt didnt saw a girl driving
+6 There is a contradiction here?	yes	1
+7 guy who is a judge saw a dog chasing a cat
+8 guy didnt saw a dog chasing a cat
+9 There is a contradiction here?	yes	1
+10 jon who is a technician saw the new tesla roadster
+11 jon didnt saw the new tesla roadster
+12 There is a contradiction here?	yes	1
+13 kristin is happy and harold is calm
+14 becky is famous
+15 There is a contradiction here?	no	1
+1 morris hit him and morris brought me out of olivia s house
+2 carol didn t bring me out of olivia s house
+3 There is a contradiction here?	no	1
+4 rodney has traveled to slatina and rodney has traveled to giurgiu
+5 rodney didn t travel to bucharest
+6 There is a contradiction here?	no	1
+7 opal created a faithful work of art and opal created a green work of art
+8 jill didn t create a faithful work of art
+9 There is a contradiction here?	no	1
+10 marion has visited mangalia and marion has visited vaslui
+11 marion didn t visit dej
+12 There is a contradiction here?	no	1
+13 troy felt a strange and troy threw everything out the window
+14 troy didn t feel a strange
+15 There is a contradiction here?	yes	1
+1 lori who is a fireman saw the new tesla roadster
+2 lori didnt saw the new tesla roadster
+3 There is a contradiction here?	yes	1
+4 karl held me back and karl drew ahead of the other runners
+5 karl didn t hold me back
+6 There is a contradiction here?	yes	1
+7 albert went to giurgiu and ramona went to giurgiu
+8 timothy didn t go to giurgiu
+9 There is a contradiction here?	no	1
+10 keith is gentle and sally is lively
+11 norman is not easy
+12 There is a contradiction here?	no	1
+13 gwendolyn who is a baker bought the new tesla roadster
+14 gwendolyn isnt a baker
+15 There is a contradiction here?	yes	1
+1 kim saw a boy running from a parade car
+2 kim didnt saw a boy running from a orange school bus
+3 There is a contradiction here?	no	1
+4 marlene created a wrong work of art and marlene created a clean work of art
+5 marlene didn t create a wrong work of art
+6 There is a contradiction here?	yes	1
+7 javier spent all my money and javier came at midnight
+8 javier didn t spend all my money
+9 There is a contradiction here?	yes	1
+10 patrick created a better work of art and patrick created a clean work of art
+11 steven didn t create a clean work of art
+12 There is a contradiction here?	no	1
+13 sabrina created a zealous work of art and sabrina created a victorious work of art
+14 fred didn t create a victorious work of art
+15 There is a contradiction here?	no	1
+1 alfred saw a girl running from a icy bus with a new engine
+2 alfred didnt saw a girl running
+3 There is a contradiction here?	yes	1
+4 cody flew to vaslui and cody understood what i said
+5 cody didn t sleep for one day
+6 There is a contradiction here?	no	1
+7 sue taught melvin about songwriting and sue began screaming
+8 billie didn t teach melvin about songwriting
+9 There is a contradiction here?	no	1
+10 pamela created a yellow work of art and pamela created a jealous work of art
+11 pamela didn t create a yellow work of art
+12 There is a contradiction here?	yes	1
+13 barbara wore a salmon hat and barbara showed david s old photos
+14 henry didn t show david s old photos
+15 There is a contradiction here?	no	1
+1 herman flew to arad and herman thought barry was going to die
+2 herman didn t take a summer job
+3 There is a contradiction here?	no	1
+4 jacqueline forgave alberta and jacqueline held me back
+5 edith didn t hold me back
+6 There is a contradiction here?	no	1
+7 patrick has visited slatina and patrick has visited deva
+8 patrick didn t visit lugoj
+9 There is a contradiction here?	no	1
+10 jack has visited hunedoara and jack has visited lugoj
+11 jack didn t visit lugoj
+12 There is a contradiction here?	yes	1
+13 katie has visited slatina and katie has visited reghin
+14 eric didn t visit slatina
+15 There is a contradiction here?	no	1
+1 diane is agreeable and esther is easy
+2 diane is not easy
+3 There is a contradiction here?	no	1
+4 rodney sang a nice song and rodney knew rene s secret
+5 rodney didn t sing a nice song
+6 There is a contradiction here?	yes	1
+7 isaac saw a girl driving a salmon bicycle
+8 isaac didnt saw a girl driving junes new tesla roadster
+9 There is a contradiction here?	no	1
+10 sergio created an alive work of art and sergio created a black work of art
+11 brian didn t create an alive work of art
+12 There is a contradiction here?	no	1
+13 janet is obedient and verna is alive
+14 verna is not obedient
+15 There is a contradiction here?	no	1
+1 mario saw myrtle running from a blue school bus
+2 mario didnt saw myrtle running from a green bus
+3 There is a contradiction here?	no	1
+4 kristi created a poor work of art and kristi created a vast work of art
+5 kristi didn t create a gorgeous work of art
+6 There is a contradiction here?	no	1
+7 herbert ate a steak and herbert led me to christy s house
+8 joyce didn t eat a steak
+9 There is a contradiction here?	no	1
+10 enrique who is a scientist bought the new tesla roadster
+11 enrique isnt a scientist
+12 There is a contradiction here?	yes	1
+13 jared has traveled to arad and sharon has traveled to arad
+14 ethel didn t travel to arad
+15 There is a contradiction here?	no	1
+1 angie has traveled to blaj and grace has traveled to blaj
+2 stella didn t travel to blaj
+3 There is a contradiction here?	no	1
+4 nellie who is a cashier bought the new marvel movie from the russo brothers
+5 nellie christophers mother didnt buy the new marvel movie from the russo brothers
+6 There is a contradiction here?	no	1
+7 stanley created an uptight work of art and stanley created a plump work of art
+8 mildred didn t create a plump work of art
+9 There is a contradiction here?	no	1
+10 don is happy and isabel is hallowed
+11 isabel is not happy
+12 There is a contradiction here?	no	1
+13 jan is eager and jesus is easy
+14 jan is not easy
+15 There is a contradiction here?	no	1
+1 lena is eager and franklin is witty
+2 lena is not eager
+3 There is a contradiction here?	yes	1
+4 cecilia is aggressive and lee is nice
+5 ryan is inexpensive
+6 There is a contradiction here?	no	1
+7 dolores who is a scientist bought the new tesla roadster
+8 dolores didnt buy the new tesla roadster
+9 There is a contradiction here?	yes	1
+10 robert created a black work of art and robert created a thankful work of art
+11 bobby didn t create a thankful work of art
+12 There is a contradiction here?	no	1
+13 tyler is victorious and sara is helpful
+14 sara is not victorious
+15 There is a contradiction here?	no	1
+1 patrick is happy and paul is thankful
+2 ralph is not shy
+3 There is a contradiction here?	no	1
+4 grace is silly and harry is polite
+5 valerie is not careful
+6 There is a contradiction here?	no	1
+7 jack won the game and jack fought the law
+8 jack didn t lose priscilla s salmon car
+9 There is a contradiction here?	no	1
+10 leona created a salmon work of art and leona created a delightful work of art
+11 leona didn t create a salmon work of art
+12 There is a contradiction here?	yes	1
+13 agnes swam out toward the green boat and agnes did everything
+14 agnes didn t swim out toward the green boat
+15 There is a contradiction here?	yes	1
+1 charlene saw a girl driving a mango car
+2 charlene didnt saw a girl driving davids car
+3 There is a contradiction here?	no	1
+4 lauren created a purple work of art and lauren created a grumpy work of art
+5 lauren didn t create a purple work of art
+6 There is a contradiction here?	yes	1
+7 lee is delightful and leslie is victorious
+8 lee is not delightful
+9 There is a contradiction here?	yes	1
+10 albert saw lewis driving in timisoara
+11 albert didnt saw lewis driving an electric white bicycle
+12 There is a contradiction here?	no	1
+13 james is ambitious and jo is witty
+14 james is not ambitious
+15 There is a contradiction here?	yes	1
+1 stanley who is a cashier bought a cup of coffee
+2 stanley didnt buy a cup of coffee
+3 There is a contradiction here?	yes	1
+4 franklin put april in charge and franklin beat us a lot
+5 franklin didn t beat us a lot
+6 There is a contradiction here?	yes	1
+7 vernon has traveled to baia mare and darryl has traveled to baia mare
+8 darryl didn t travel to giurgiu
+9 There is a contradiction here?	no	1
+10 john who is a chef saw the accident
+11 john isnt a chef
+12 There is a contradiction here?	yes	1
+13 claire went to arad and claire went to timisoara
+14 claire didn t go to timisoara
+15 There is a contradiction here?	yes	1
+1 philip is delightful and bruce is happy
+2 philip is not delightful
+3 There is a contradiction here?	yes	1
+4 judith created an uptight work of art and judith created a happy work of art
+5 judith didn t create an uptight work of art
+6 There is a contradiction here?	yes	1
+7 karen saw a boy driving alices new tesla roadster
+8 karen didnt saw a boy driving
+9 There is a contradiction here?	yes	1
+10 judith forgot about teresa s past and judith grew up in jail
+11 violet didn t forget about teresa s past
+12 There is a contradiction here?	no	1
+13 leonard bet on the game and leonard ate breakfast
+14 leonard didn t bet on the game
+15 There is a contradiction here?	yes	1

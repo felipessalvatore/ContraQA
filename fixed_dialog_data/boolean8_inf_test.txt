@@ -1,0 +1,249 @@
+1 jessica went to reghin or jessica went to dej
+2 jessica didn t go to reghin
+3 There is a contradiction here?	no	1
+4 korea republic is in the geopolitical position of sweden or argentina is in the geopolitical position of sweden
+5 neither korea republic nor russia are in the geopolitical position of sweden
+6 There is a contradiction here?	no	1
+7 victoria went to giurgiu or victoria went to mangalia
+8 victoria didn t go to giurgiu and victoria didn t go to mangalia
+9 There is a contradiction here?	yes	1
+10 mexico is in the geopolitical position of serbia or iran is in the geopolitical position of serbia
+11 neither mexico nor iran are in the geopolitical position of serbia
+12 There is a contradiction here?	yes	1
+13 panama is in the geopolitical position of tunisia or nigeria is in the geopolitical position of tunisia
+14 neither panama nor nigeria are in the geopolitical position of tunisia
+15 There is a contradiction here?	yes	1
+1 france is in the geopolitical position of denmark or croatia is in the geopolitical position of denmark
+2 france isn t in the geopolitical position of denmark
+3 There is a contradiction here?	no	1
+4 spain won the last world cup or poland won the last world cup
+5 neither spain nor poland won the last world cup
+6 There is a contradiction here?	yes	1
+7 lloyd went to blaj or lloyd went to lugoj
+8 lloyd went to neither reghin nor lugoj
+9 There is a contradiction here?	no	1
+10 brazil won the last world cup or saudi arabia won the last world cup
+11 brazil didn t win the last world cup and saudi arabia didn t win the last world cup
+12 There is a contradiction here?	yes	1
+13 rosie has traveled to oradea or rosie has traveled to deva
+14 rosie didn t travel to oradea and rosie didn t travel to deva
+15 There is a contradiction here?	yes	1
+1 colombia is in the geopolitical position of mexico or japan is in the geopolitical position of mexico
+2 colombia isn t in the geopolitical position of mexico and japan isn t in the geopolitical position of mexico
+3 There is a contradiction here?	yes	1
+4 poland is in the geopolitical position of uruguay or france is in the geopolitical position of uruguay
+5 poland isn t in the geopolitical position of uruguay and france isn t in the geopolitical position of uruguay
+6 There is a contradiction here?	yes	1
+7 uruguay won the last world cup or brazil won the last world cup
+8 neither korea republic nor uruguay won the last world cup
+9 There is a contradiction here?	no	1
+10 mexico got to the quarter finals last year or iran got to the quarter finals last year
+11 mexico didn t get to the quarter finals last year and iran didn t get to the quarter finals last year
+12 There is a contradiction here?	yes	1
+13 saudi arabia won the last world cup or uruguay won the last world cup
+14 uruguay didn t win the last world cup
+15 There is a contradiction here?	no	1
+1 uruguay is in the geopolitical position of argentina or poland is in the geopolitical position of argentina
+2 uruguay isn t in the geopolitical position of argentina and poland isn t in the geopolitical position of argentina
+3 There is a contradiction here?	yes	1
+4 poland got to the quarter finals last year or mexico got to the quarter finals last year
+5 neither poland nor panama got to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 serbia is in the geopolitical position of panama or croatia is in the geopolitical position of panama
+8 croatia isn t in the geopolitical position of panama
+9 There is a contradiction here?	no	1
+10 jane went to hunedoara or jane went to bucharest
+11 jane didn t go to hunedoara and jane didn t go to bucharest
+12 There is a contradiction here?	yes	1
+13 peru got to the quarter finals last year or colombia got to the quarter finals last year
+14 peru didn t get to the quarter finals last year and colombia didn t get to the quarter finals last year
+15 There is a contradiction here?	yes	1
+1 serbia won the last world cup or tunisia won the last world cup
+2 serbia didn t win the last world cup
+3 There is a contradiction here?	no	1
+4 gertrude has traveled to slobozia or gertrude has traveled to slatina
+5 eleanor traveled to neither slobozia nor slatina
+6 There is a contradiction here?	no	1
+7 arnold has visited cluj napoca or arnold has visited dej
+8 arnold didn t visit cluj napoca and arnold didn t visit dej
+9 There is a contradiction here?	yes	1
+10 tony went to tulcea or tony went to mangalia
+11 tony didn t go to tulcea and tony didn t go to mangalia
+12 There is a contradiction here?	yes	1
+13 nigeria won the last world cup or iran won the last world cup
+14 neither nigeria nor argentina won the last world cup
+15 There is a contradiction here?	no	1
+1 serbia is in the geopolitical position of morocco or egypt is in the geopolitical position of morocco
+2 serbia isn t in the geopolitical position of morocco and egypt isn t in the geopolitical position of morocco
+3 There is a contradiction here?	yes	1
+4 russia is in the geopolitical position of morocco or colombia is in the geopolitical position of morocco
+5 neither russia nor colombia are in the geopolitical position of morocco
+6 There is a contradiction here?	yes	1
+7 marcia has visited reghin or marcia has visited lugoj
+8 marcia didn t visit reghin
+9 There is a contradiction here?	no	1
+10 francisco has visited blaj or francisco has visited dej
+11 francisco didn t visit blaj and francisco didn t visit dej
+12 There is a contradiction here?	yes	1
+13 russia is in the geopolitical position of korea republic or saudi arabia is in the geopolitical position of korea republic
+14 neither russia nor saudi arabia are in the geopolitical position of korea republic
+15 There is a contradiction here?	yes	1
+1 norman went to reghin or norman went to vaslui
+2 norman didn t go to vaslui
+3 There is a contradiction here?	no	1
+4 colombia won the last world cup or panama won the last world cup
+5 neither colombia nor panama won the last world cup
+6 There is a contradiction here?	yes	1
+7 sam has visited craiova or sam has visited bucharest
+8 sam visited neither craiova nor bucharest
+9 There is a contradiction here?	yes	1
+10 crystal has visited timisoara or crystal has visited blaj
+11 maxine visited neither timisoara nor blaj
+12 There is a contradiction here?	no	1
+13 ted went to hunedoara or ted went to turda
+14 ted went to neither slatina nor turda
+15 There is a contradiction here?	no	1
+1 croatia is in the geopolitical position of iran or mexico is in the geopolitical position of iran
+2 croatia isn t in the geopolitical position of iran and mexico isn t in the geopolitical position of iran
+3 There is a contradiction here?	yes	1
+4 brazil got to the quarter finals last year or tunisia got to the quarter finals last year
+5 brazil didn t get to the quarter finals last year and tunisia didn t get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 argentina won the last world cup or england won the last world cup
+8 argentina didn t win the last world cup
+9 There is a contradiction here?	no	1
+10 danielle went to reghin or danielle went to mangalia
+11 danielle didn t go to reghin
+12 There is a contradiction here?	no	1
+13 jan has visited bucharest or jan has visited baia mare
+14 amanda visited neither bucharest nor baia mare
+15 There is a contradiction here?	no	1
+1 brian went to lugoj or brian went to mangalia
+2 darlene went to neither lugoj nor mangalia
+3 There is a contradiction here?	no	1
+4 susan has visited bucharest or susan has visited oradea
+5 susan didn t visit bucharest and susan didn t visit oradea
+6 There is a contradiction here?	yes	1
+7 germany got to the quarter finals last year or belgium got to the quarter finals last year
+8 neither germany nor belgium got to the quarter finals last year
+9 There is a contradiction here?	yes	1
+10 poland won the last world cup or switzerland won the last world cup
+11 poland didn t win the last world cup and switzerland didn t win the last world cup
+12 There is a contradiction here?	yes	1
+13 egypt got to the quarter finals last year or japan got to the quarter finals last year
+14 egypt didn t get to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 amanda went to deva or amanda went to vaslui
+2 amanda didn t go to deva and amanda didn t go to vaslui
+3 There is a contradiction here?	yes	1
+4 japan got to the quarter finals last year or uruguay got to the quarter finals last year
+5 neither japan nor uruguay got to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 mildred has visited vaslui or mildred has visited dej
+8 mildred didn t visit vaslui and mildred didn t visit dej
+9 There is a contradiction here?	yes	1
+10 nathaniel went to deva or nathaniel went to bucharest
+11 karl went to neither deva nor bucharest
+12 There is a contradiction here?	no	1
+13 belgium got to the quarter finals last year or iran got to the quarter finals last year
+14 belgium didn t get to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 maxine went to vaslui or maxine went to deva
+2 maxine went to neither mangalia nor deva
+3 There is a contradiction here?	no	1
+4 ada has visited reghin or ada has visited blaj
+5 ada didn t visit blaj
+6 There is a contradiction here?	no	1
+7 jennie has visited vaslui or jennie has visited turda
+8 jennie visited neither vaslui nor turda
+9 There is a contradiction here?	yes	1
+10 catherine went to reghin or catherine went to bucharest
+11 catherine didn t go to reghin
+12 There is a contradiction here?	no	1
+13 mexico won the last world cup or saudi arabia won the last world cup
+14 neither mexico nor saudi arabia won the last world cup
+15 There is a contradiction here?	yes	1
+1 korea republic got to the quarter finals last year or england got to the quarter finals last year
+2 korea republic didn t get to the quarter finals last year
+3 There is a contradiction here?	no	1
+4 france won the last world cup or brazil won the last world cup
+5 france didn t win the last world cup and brazil didn t win the last world cup
+6 There is a contradiction here?	yes	1
+7 morocco is in the geopolitical position of france or brazil is in the geopolitical position of france
+8 neither morocco nor japan are in the geopolitical position of france
+9 There is a contradiction here?	no	1
+10 morocco won the last world cup or spain won the last world cup
+11 neither morocco nor spain won the last world cup
+12 There is a contradiction here?	yes	1
+13 argentina got to the quarter finals last year or uruguay got to the quarter finals last year
+14 neither egypt nor argentina got to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 peru won the last world cup or england won the last world cup
+2 neither peru nor england won the last world cup
+3 There is a contradiction here?	yes	1
+4 clarence has visited reghin or clarence has visited lugoj
+5 clarence didn t visit lugoj
+6 There is a contradiction here?	no	1
+7 portugal won the last world cup or korea republic won the last world cup
+8 portugal didn t win the last world cup
+9 There is a contradiction here?	no	1
+10 saudi arabia won the last world cup or senegal won the last world cup
+11 saudi arabia didn t win the last world cup and senegal didn t win the last world cup
+12 There is a contradiction here?	yes	1
+13 juana went to reghin or juana went to hunedoara
+14 juana didn t go to reghin
+15 There is a contradiction here?	no	1
+1 clarence went to dej or clarence went to turda
+2 clarence didn t go to dej and clarence didn t go to turda
+3 There is a contradiction here?	yes	1
+4 alfredo has traveled to reghin or alfredo has traveled to dej
+5 monique traveled to neither reghin nor dej
+6 There is a contradiction here?	no	1
+7 shannon has traveled to reghin or shannon has traveled to tulcea
+8 shannon didn t travel to reghin
+9 There is a contradiction here?	no	1
+10 france won the last world cup or korea republic won the last world cup
+11 france didn t win the last world cup and korea republic didn t win the last world cup
+12 There is a contradiction here?	yes	1
+13 spain is in the geopolitical position of senegal or poland is in the geopolitical position of senegal
+14 neither spain nor poland are in the geopolitical position of senegal
+15 There is a contradiction here?	yes	1
+1 dianne has visited reghin or dianne has visited vaslui
+2 dianne didn t visit reghin
+3 There is a contradiction here?	no	1
+4 denmark is in the geopolitical position of france or australia is in the geopolitical position of france
+5 neither croatia nor denmark are in the geopolitical position of france
+6 There is a contradiction here?	no	1
+7 dorothy has traveled to turda or dorothy has traveled to arad
+8 herman traveled to neither turda nor arad
+9 There is a contradiction here?	no	1
+10 jorge has visited slobozia or jorge has visited tulcea
+11 jorge didn t visit slobozia and jorge didn t visit tulcea
+12 There is a contradiction here?	yes	1
+13 josephine went to tulcea or josephine went to bucharest
+14 josephine went to neither giurgiu nor bucharest
+15 There is a contradiction here?	no	1
+1 switzerland got to the quarter finals last year or panama got to the quarter finals last year
+2 panama didn t get to the quarter finals last year
+3 There is a contradiction here?	no	1
+4 ada went to blaj or ada went to lugoj
+5 ada didn t go to blaj and ada didn t go to lugoj
+6 There is a contradiction here?	yes	1
+7 poland won the last world cup or spain won the last world cup
+8 spain didn t win the last world cup
+9 There is a contradiction here?	no	1
+10 julia went to reghin or julia went to bucharest
+11 julia didn t go to reghin
+12 There is a contradiction here?	no	1
+13 darlene has visited timisoara or darlene has visited turda
+14 darlene didn t visit timisoara and darlene didn t visit turda
+15 There is a contradiction here?	yes	1
+1 england won the last world cup or belgium won the last world cup
+2 belgium didn t win the last world cup
+3 There is a contradiction here?	no	1
+4 poland got to the quarter finals last year or senegal got to the quarter finals last year
+5 senegal didn t get to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 switzerland won the last world cup or england won the last world cup
+8 switzerland didn t win the last world cup
+9 There is a contradiction here?	no	1

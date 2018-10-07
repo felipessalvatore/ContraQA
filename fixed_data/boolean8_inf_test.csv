@@ -1,0 +1,84 @@
+sentence1,sentence2,label
+jessica went to reghin or jessica went to dej,jessica didn t go to reghin,0
+korea republic is in the geopolitical position of sweden or argentina is in the geopolitical position of sweden,neither korea republic nor russia are in the geopolitical position of sweden,0
+victoria went to giurgiu or victoria went to mangalia,victoria didn t go to giurgiu and victoria didn t go to mangalia,1
+mexico is in the geopolitical position of serbia or iran is in the geopolitical position of serbia,neither mexico nor iran are in the geopolitical position of serbia,1
+panama is in the geopolitical position of tunisia or nigeria is in the geopolitical position of tunisia,neither panama nor nigeria are in the geopolitical position of tunisia,1
+france is in the geopolitical position of denmark or croatia is in the geopolitical position of denmark,france isn t in the geopolitical position of denmark,0
+spain won the last world cup or poland won the last world cup,neither spain nor poland won the last world cup,1
+lloyd went to blaj or lloyd went to lugoj,lloyd went to neither reghin nor lugoj,0
+brazil won the last world cup or saudi arabia won the last world cup,brazil didn t win the last world cup and saudi arabia didn t win the last world cup,1
+rosie has traveled to oradea or rosie has traveled to deva,rosie didn t travel to oradea and rosie didn t travel to deva,1
+colombia is in the geopolitical position of mexico or japan is in the geopolitical position of mexico,colombia isn t in the geopolitical position of mexico and japan isn t in the geopolitical position of mexico,1
+poland is in the geopolitical position of uruguay or france is in the geopolitical position of uruguay,poland isn t in the geopolitical position of uruguay and france isn t in the geopolitical position of uruguay,1
+uruguay won the last world cup or brazil won the last world cup,neither korea republic nor uruguay won the last world cup,0
+mexico got to the quarter finals last year or iran got to the quarter finals last year,mexico didn t get to the quarter finals last year and iran didn t get to the quarter finals last year,1
+saudi arabia won the last world cup or uruguay won the last world cup,uruguay didn t win the last world cup,0
+uruguay is in the geopolitical position of argentina or poland is in the geopolitical position of argentina,uruguay isn t in the geopolitical position of argentina and poland isn t in the geopolitical position of argentina,1
+poland got to the quarter finals last year or mexico got to the quarter finals last year,neither poland nor panama got to the quarter finals last year,0
+serbia is in the geopolitical position of panama or croatia is in the geopolitical position of panama,croatia isn t in the geopolitical position of panama,0
+jane went to hunedoara or jane went to bucharest,jane didn t go to hunedoara and jane didn t go to bucharest,1
+peru got to the quarter finals last year or colombia got to the quarter finals last year,peru didn t get to the quarter finals last year and colombia didn t get to the quarter finals last year,1
+serbia won the last world cup or tunisia won the last world cup,serbia didn t win the last world cup,0
+gertrude has traveled to slobozia or gertrude has traveled to slatina,eleanor traveled to neither slobozia nor slatina,0
+arnold has visited cluj napoca or arnold has visited dej,arnold didn t visit cluj napoca and arnold didn t visit dej,1
+tony went to tulcea or tony went to mangalia,tony didn t go to tulcea and tony didn t go to mangalia,1
+nigeria won the last world cup or iran won the last world cup,neither nigeria nor argentina won the last world cup,0
+serbia is in the geopolitical position of morocco or egypt is in the geopolitical position of morocco,serbia isn t in the geopolitical position of morocco and egypt isn t in the geopolitical position of morocco,1
+russia is in the geopolitical position of morocco or colombia is in the geopolitical position of morocco,neither russia nor colombia are in the geopolitical position of morocco,1
+marcia has visited reghin or marcia has visited lugoj,marcia didn t visit reghin,0
+francisco has visited blaj or francisco has visited dej,francisco didn t visit blaj and francisco didn t visit dej,1
+russia is in the geopolitical position of korea republic or saudi arabia is in the geopolitical position of korea republic,neither russia nor saudi arabia are in the geopolitical position of korea republic,1
+norman went to reghin or norman went to vaslui,norman didn t go to vaslui,0
+colombia won the last world cup or panama won the last world cup,neither colombia nor panama won the last world cup,1
+sam has visited craiova or sam has visited bucharest,sam visited neither craiova nor bucharest,1
+crystal has visited timisoara or crystal has visited blaj,maxine visited neither timisoara nor blaj,0
+ted went to hunedoara or ted went to turda,ted went to neither slatina nor turda,0
+croatia is in the geopolitical position of iran or mexico is in the geopolitical position of iran,croatia isn t in the geopolitical position of iran and mexico isn t in the geopolitical position of iran,1
+brazil got to the quarter finals last year or tunisia got to the quarter finals last year,brazil didn t get to the quarter finals last year and tunisia didn t get to the quarter finals last year,1
+argentina won the last world cup or england won the last world cup,argentina didn t win the last world cup,0
+danielle went to reghin or danielle went to mangalia,danielle didn t go to reghin,0
+jan has visited bucharest or jan has visited baia mare,amanda visited neither bucharest nor baia mare,0
+brian went to lugoj or brian went to mangalia,darlene went to neither lugoj nor mangalia,0
+susan has visited bucharest or susan has visited oradea,susan didn t visit bucharest and susan didn t visit oradea,1
+germany got to the quarter finals last year or belgium got to the quarter finals last year,neither germany nor belgium got to the quarter finals last year,1
+poland won the last world cup or switzerland won the last world cup,poland didn t win the last world cup and switzerland didn t win the last world cup,1
+egypt got to the quarter finals last year or japan got to the quarter finals last year,egypt didn t get to the quarter finals last year,0
+amanda went to deva or amanda went to vaslui,amanda didn t go to deva and amanda didn t go to vaslui,1
+japan got to the quarter finals last year or uruguay got to the quarter finals last year,neither japan nor uruguay got to the quarter finals last year,1
+mildred has visited vaslui or mildred has visited dej,mildred didn t visit vaslui and mildred didn t visit dej,1
+nathaniel went to deva or nathaniel went to bucharest,karl went to neither deva nor bucharest,0
+belgium got to the quarter finals last year or iran got to the quarter finals last year,belgium didn t get to the quarter finals last year,0
+maxine went to vaslui or maxine went to deva,maxine went to neither mangalia nor deva,0
+ada has visited reghin or ada has visited blaj,ada didn t visit blaj,0
+jennie has visited vaslui or jennie has visited turda,jennie visited neither vaslui nor turda,1
+catherine went to reghin or catherine went to bucharest,catherine didn t go to reghin,0
+mexico won the last world cup or saudi arabia won the last world cup,neither mexico nor saudi arabia won the last world cup,1
+korea republic got to the quarter finals last year or england got to the quarter finals last year,korea republic didn t get to the quarter finals last year,0
+france won the last world cup or brazil won the last world cup,france didn t win the last world cup and brazil didn t win the last world cup,1
+morocco is in the geopolitical position of france or brazil is in the geopolitical position of france,neither morocco nor japan are in the geopolitical position of france,0
+morocco won the last world cup or spain won the last world cup,neither morocco nor spain won the last world cup,1
+argentina got to the quarter finals last year or uruguay got to the quarter finals last year,neither egypt nor argentina got to the quarter finals last year,0
+peru won the last world cup or england won the last world cup,neither peru nor england won the last world cup,1
+clarence has visited reghin or clarence has visited lugoj,clarence didn t visit lugoj,0
+portugal won the last world cup or korea republic won the last world cup,portugal didn t win the last world cup,0
+saudi arabia won the last world cup or senegal won the last world cup,saudi arabia didn t win the last world cup and senegal didn t win the last world cup,1
+juana went to reghin or juana went to hunedoara,juana didn t go to reghin,0
+clarence went to dej or clarence went to turda,clarence didn t go to dej and clarence didn t go to turda,1
+alfredo has traveled to reghin or alfredo has traveled to dej,monique traveled to neither reghin nor dej,0
+shannon has traveled to reghin or shannon has traveled to tulcea,shannon didn t travel to reghin,0
+france won the last world cup or korea republic won the last world cup,france didn t win the last world cup and korea republic didn t win the last world cup,1
+spain is in the geopolitical position of senegal or poland is in the geopolitical position of senegal,neither spain nor poland are in the geopolitical position of senegal,1
+dianne has visited reghin or dianne has visited vaslui,dianne didn t visit reghin,0
+denmark is in the geopolitical position of france or australia is in the geopolitical position of france,neither croatia nor denmark are in the geopolitical position of france,0
+dorothy has traveled to turda or dorothy has traveled to arad,herman traveled to neither turda nor arad,0
+jorge has visited slobozia or jorge has visited tulcea,jorge didn t visit slobozia and jorge didn t visit tulcea,1
+josephine went to tulcea or josephine went to bucharest,josephine went to neither giurgiu nor bucharest,0
+switzerland got to the quarter finals last year or panama got to the quarter finals last year,panama didn t get to the quarter finals last year,0
+ada went to blaj or ada went to lugoj,ada didn t go to blaj and ada didn t go to lugoj,1
+poland won the last world cup or spain won the last world cup,spain didn t win the last world cup,0
+julia went to reghin or julia went to bucharest,julia didn t go to reghin,0
+darlene has visited timisoara or darlene has visited turda,darlene didn t visit timisoara and darlene didn t visit turda,1
+england won the last world cup or belgium won the last world cup,belgium didn t win the last world cup,0
+poland got to the quarter finals last year or senegal got to the quarter finals last year,senegal didn t get to the quarter finals last year,0
+switzerland won the last world cup or england won the last world cup,switzerland didn t win the last world cup,0

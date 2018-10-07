@@ -1,0 +1,3000 @@
+1 jared created an ashy and witty work of art
+2 alexander didnt create an ashy work of art
+3 There is a contradiction here?	no	1
+4 patricia created a calm and icy work of art
+5 patricia didnt create a calm work of art
+6 There is a contradiction here?	yes	1
+7 elsie created a beautiful and gorgeous work of art
+8 juana didnt create a beautiful work of art
+9 There is a contradiction here?	no	1
+10 herbert created a mysterious and worried work of art
+11 herbert didnt create a mysterious work of art
+12 There is a contradiction here?	yes	1
+13 janice created an easy and agreeable work of art
+14 janice didnt create an easy work of art
+15 There is a contradiction here?	yes	1
+1 marcia created an easy and glamorous work of art
+2 ruth didnt create a glamorous work of art
+3 There is a contradiction here?	no	1
+4 jonathan created a polite and elegant work of art
+5 jonathan didnt create a polite work of art
+6 There is a contradiction here?	yes	1
+7 amber created a witty and glamorous work of art
+8 amber didnt create a fancy work of art
+9 There is a contradiction here?	no	1
+10 fred created a white and green work of art
+11 fred didnt create a blue work of art
+12 There is a contradiction here?	no	1
+13 tim created a poor and scary work of art
+14 tim didnt create a poor work of art
+15 There is a contradiction here?	yes	1
+1 philip created a powerful and nervous work of art
+2 philip didnt create a powerful work of art
+3 There is a contradiction here?	yes	1
+4 charlie created a handsome and poor work of art
+5 charlie didnt create a handsome work of art
+6 There is a contradiction here?	yes	1
+7 clara created a stocky and wrong work of art
+8 clara didnt create a stocky work of art
+9 There is a contradiction here?	yes	1
+10 bobby created an ashy and witty work of art
+11 bobby didnt create an ashy work of art
+12 There is a contradiction here?	yes	1
+13 lorraine created a chubby and repulsive work of art
+14 lorraine didnt create a chubby work of art
+15 There is a contradiction here?	yes	1
+1 laurie created a lively and helpful work of art
+2 laurie didnt create a kind work of art
+3 There is a contradiction here?	no	1
+4 bonnie created a zealous and clever work of art
+5 andy didnt create a clever work of art
+6 There is a contradiction here?	no	1
+7 gabriel created a clever and quaint work of art
+8 sheila didnt create a quaint work of art
+9 There is a contradiction here?	no	1
+10 rene created a handsome and magnificent work of art
+11 rene didnt create a handsome work of art
+12 There is a contradiction here?	yes	1
+13 jamie created a defeated and thoughtless work of art
+14 edward didnt create a thoughtless work of art
+15 There is a contradiction here?	no	1
+1 lee created an alive and rich work of art
+2 lee didnt create a kind work of art
+3 There is a contradiction here?	no	1
+4 clinton created a mango and dead work of art
+5 clinton didnt create a mango work of art
+6 There is a contradiction here?	yes	1
+7 florence created a nervous and jolly work of art
+8 robin didnt create a nervous work of art
+9 There is a contradiction here?	no	1
+10 angela created a handsome and fierce work of art
+11 angela didnt create a handsome work of art
+12 There is a contradiction here?	yes	1
+13 marlene created a wrong and clean work of art
+14 marlene didnt create a wrong work of art
+15 There is a contradiction here?	yes	1
+1 victoria created a fierce and important work of art
+2 victoria didnt create a happy work of art
+3 There is a contradiction here?	no	1
+4 roland created a quaint and obnoxious work of art
+5 roland didnt create a quaint work of art
+6 There is a contradiction here?	yes	1
+7 georgia created a helpful and fancy work of art
+8 georgia didnt create a helpful work of art
+9 There is a contradiction here?	yes	1
+10 sherry created a happy and inexpensive work of art
+11 ruby didnt create a happy work of art
+12 There is a contradiction here?	no	1
+13 cynthia created a white and happy work of art
+14 julia didnt create a white work of art
+15 There is a contradiction here?	no	1
+1 evelyn created a delightful and mango work of art
+2 pamela didnt create a mango work of art
+3 There is a contradiction here?	no	1
+4 joy created a happy and drab work of art
+5 priscilla didnt create a happy work of art
+6 There is a contradiction here?	no	1
+7 vincent created an alive and clean work of art
+8 eileen didnt create an alive work of art
+9 There is a contradiction here?	no	1
+10 marvin created a beautiful and ashy work of art
+11 tracy didnt create a beautiful work of art
+12 There is a contradiction here?	no	1
+13 james created a red and easy work of art
+14 james didnt create a red work of art
+15 There is a contradiction here?	yes	1
+1 maria created a calm and ugly work of art
+2 maria didnt create a calm work of art
+3 There is a contradiction here?	yes	1
+4 jeffery created a rich and white work of art
+5 jeffery didnt create a rich work of art
+6 There is a contradiction here?	yes	1
+7 vanessa created an icy and dazzling work of art
+8 theresa didnt create a dazzling work of art
+9 There is a contradiction here?	no	1
+10 eleanor created a gorgeous and powerful work of art
+11 eleanor didnt create a gorgeous work of art
+12 There is a contradiction here?	yes	1
+13 debbie created an angry and victorious work of art
+14 debbie didnt create an angry work of art
+15 There is a contradiction here?	yes	1
+1 barbara created an aggressive and gray work of art
+2 barbara didnt create an aggressive work of art
+3 There is a contradiction here?	yes	1
+4 juanita created a fit and shapely work of art
+5 juanita didnt create a proud work of art
+6 There is a contradiction here?	no	1
+7 dana created a green and alive work of art
+8 dana didnt create a green work of art
+9 There is a contradiction here?	yes	1
+10 mamie created a pitiful and white work of art
+11 mamie didnt create a pitiful work of art
+12 There is a contradiction here?	yes	1
+13 gina created a clean and attractive work of art
+14 gina didnt create a scruffy work of art
+15 There is a contradiction here?	no	1
+1 jeffrey created a worried and odd work of art
+2 felicia didnt create an odd work of art
+3 There is a contradiction here?	no	1
+4 miguel created a lively and clever work of art
+5 miguel didnt create a lively work of art
+6 There is a contradiction here?	yes	1
+7 milton created an elegant and wrong work of art
+8 dorothy didnt create a wrong work of art
+9 There is a contradiction here?	no	1
+10 ricardo created a salmon and famous work of art
+11 ricardo didnt create a scruffy work of art
+12 There is a contradiction here?	no	1
+13 bobby created an odd and drab work of art
+14 bobby didnt create a clever work of art
+15 There is a contradiction here?	no	1
+1 nina created a grumpy and embarrassed work of art
+2 joyce didnt create an embarrassed work of art
+3 There is a contradiction here?	no	1
+4 guadalupe created a glamorous and poor work of art
+5 guadalupe didnt create a glamorous work of art
+6 There is a contradiction here?	yes	1
+7 kent created a muscular and clean work of art
+8 tonya didnt create a clean work of art
+9 There is a contradiction here?	no	1
+10 sabrina created a zealous and victorious work of art
+11 fred didnt create a victorious work of art
+12 There is a contradiction here?	no	1
+13 ralph created an ugly and uninterested work of art
+14 ralph didnt create an ugly work of art
+15 There is a contradiction here?	yes	1
+1 mike created a flabby and vast work of art
+2 daniel didnt create a vast work of art
+3 There is a contradiction here?	no	1
+4 jessie created a salmon and calm work of art
+5 stacey didnt create a salmon work of art
+6 There is a contradiction here?	no	1
+7 ray created a hallowed and short work of art
+8 ray didnt create a hallowed work of art
+9 There is a contradiction here?	yes	1
+10 lorraine created an important and shapely work of art
+11 kristin didnt create an important work of art
+12 There is a contradiction here?	no	1
+13 eunice created a delightful and important work of art
+14 eunice didnt create a delightful work of art
+15 There is a contradiction here?	yes	1
+1 felicia created an unsightly and agreeable work of art
+2 felicia didnt create an unsightly work of art
+3 There is a contradiction here?	yes	1
+4 laura created a mysterious and obnoxious work of art
+5 freddie didnt create an obnoxious work of art
+6 There is a contradiction here?	no	1
+7 jeffery created a blue and inexpensive work of art
+8 jeffery didnt create a happy work of art
+9 There is a contradiction here?	no	1
+10 elizabeth created a lively and scruffy work of art
+11 elizabeth didnt create a lively work of art
+12 There is a contradiction here?	yes	1
+13 linda created a fit and unimportant work of art
+14 linda didnt create a fit work of art
+15 There is a contradiction here?	yes	1
+1 harold created a chubby and gentle work of art
+2 harold didnt create a chubby work of art
+3 There is a contradiction here?	yes	1
+4 derek created an elegant and lazy work of art
+5 melanie didnt create a lazy work of art
+6 There is a contradiction here?	no	1
+7 martha created a thoughtless and purple work of art
+8 martha didnt create a thoughtless work of art
+9 There is a contradiction here?	yes	1
+10 karl created a stocky and shy work of art
+11 karl didnt create an aggressive work of art
+12 There is a contradiction here?	no	1
+13 jeffrey created a green and flabby work of art
+14 megan didnt create a green work of art
+15 There is a contradiction here?	no	1
+1 charlotte created a lively and unkempt work of art
+2 charlotte didnt create a mushy work of art
+3 There is a contradiction here?	no	1
+4 lynda created a short and better work of art
+5 verna didnt create a short work of art
+6 There is a contradiction here?	no	1
+7 ernest created a pitiful and blue work of art
+8 ernest didnt create a pitiful work of art
+9 There is a contradiction here?	yes	1
+10 ralph created a gentle and white work of art
+11 ralph didnt create a gentle work of art
+12 There is a contradiction here?	yes	1
+13 juan created a wrong and worried work of art
+14 juan didnt create a wrong work of art
+15 There is a contradiction here?	yes	1
+1 caroline created a jolly and itchy work of art
+2 caroline didnt create a brave work of art
+3 There is a contradiction here?	no	1
+4 sabrina created an inexpensive and grumpy work of art
+5 sabrina didnt create an inexpensive work of art
+6 There is a contradiction here?	yes	1
+7 natasha created an agreeable and obedient work of art
+8 delores didnt create an agreeable work of art
+9 There is a contradiction here?	no	1
+10 daisy created an unsightly and fierce work of art
+11 jimmie didnt create a fierce work of art
+12 There is a contradiction here?	no	1
+13 jamie created a hallowed and red work of art
+14 jamie didnt create a hallowed work of art
+15 There is a contradiction here?	yes	1
+1 roland created an ashy and plain work of art
+2 roland didnt create an angry work of art
+3 There is a contradiction here?	no	1
+4 andrea created a careful and blue work of art
+5 cecilia didnt create a careful work of art
+6 There is a contradiction here?	no	1
+7 ricardo created a clever and ugly work of art
+8 mary didnt create a clever work of art
+9 There is a contradiction here?	no	1
+10 arnold created a black and wonderful work of art
+11 arnold didnt create a black work of art
+12 There is a contradiction here?	yes	1
+13 belinda created an easy and clever work of art
+14 belinda didnt create a lazy work of art
+15 There is a contradiction here?	no	1
+1 joyce created an ashy and short work of art
+2 joyce didnt create an ashy work of art
+3 There is a contradiction here?	yes	1
+4 philip created a yellow and plain work of art
+5 mario didnt create a plain work of art
+6 There is a contradiction here?	no	1
+7 erik created an inexpensive and silly work of art
+8 erik didnt create an inexpensive work of art
+9 There is a contradiction here?	yes	1
+10 enrique created an eager and brave work of art
+11 chad didnt create a brave work of art
+12 There is a contradiction here?	no	1
+13 terrance created a skinny and chubby work of art
+14 terrance didnt create a skinny work of art
+15 There is a contradiction here?	yes	1
+1 ramon created a beautiful and salmon work of art
+2 ramon didnt create a beautiful work of art
+3 There is a contradiction here?	yes	1
+4 yvonne created a kind and obedient work of art
+5 dustin didnt create an obedient work of art
+6 There is a contradiction here?	no	1
+7 phyllis created a silly and repulsive work of art
+8 phyllis didnt create a silly work of art
+9 There is a contradiction here?	yes	1
+10 jimmie created a wonderful and thoughtless work of art
+11 melanie didnt create a thoughtless work of art
+12 There is a contradiction here?	no	1
+13 sonia created a gifted and lemon work of art
+14 angie didnt create a lemon work of art
+15 There is a contradiction here?	no	1
+1 nicholas created an itchy and short work of art
+2 nicholas didnt create an itchy work of art
+3 There is a contradiction here?	yes	1
+4 jesus created an obnoxious and unsightly work of art
+5 jesus didnt create a grumpy work of art
+6 There is a contradiction here?	no	1
+7 lynda created a glamorous and uninterested work of art
+8 lynda didnt create a glamorous work of art
+9 There is a contradiction here?	yes	1
+10 jill created a shapely and gifted work of art
+11 glenn didnt create a shapely work of art
+12 There is a contradiction here?	no	1
+13 claudia created a scary and thankful work of art
+14 claudia didnt create a scary work of art
+15 There is a contradiction here?	yes	1
+1 felix created a proud and quaint work of art
+2 felix didnt create a proud work of art
+3 There is a contradiction here?	yes	1
+4 alison created a plain and grumpy work of art
+5 alison didnt create a plain work of art
+6 There is a contradiction here?	yes	1
+7 jessie created an unsightly and wonderful work of art
+8 jessie didnt create a magnificent work of art
+9 There is a contradiction here?	no	1
+10 iris created a wrong and elegant work of art
+11 mildred didnt create a wrong work of art
+12 There is a contradiction here?	no	1
+13 katrina created a wrong and wonderful work of art
+14 michele didnt create a wrong work of art
+15 There is a contradiction here?	no	1
+1 clinton created a silly and fit work of art
+2 nora didnt create a fit work of art
+3 There is a contradiction here?	no	1
+4 dorothy created a silly and flabby work of art
+5 dorothy didnt create a silly work of art
+6 There is a contradiction here?	yes	1
+7 belinda created a dead and wonderful work of art
+8 belinda didnt create a zealous work of art
+9 There is a contradiction here?	no	1
+10 stacy created a dead and unkempt work of art
+11 stacy didnt create a dead work of art
+12 There is a contradiction here?	yes	1
+13 felicia created a better and clumsy work of art
+14 felicia didnt create a better work of art
+15 There is a contradiction here?	yes	1
+1 paula created a dead and calm work of art
+2 antonio didnt create a dead work of art
+3 There is a contradiction here?	no	1
+4 jodi created a bald and green work of art
+5 jodi didnt create a wonderful work of art
+6 There is a contradiction here?	no	1
+7 samuel created a zealous and gray work of art
+8 samuel didnt create a zealous work of art
+9 There is a contradiction here?	yes	1
+10 tracy created a calm and embarrassed work of art
+11 tracy didnt create a calm work of art
+12 There is a contradiction here?	yes	1
+13 brandi created a proud and fancy work of art
+14 brandi didnt create a proud work of art
+15 There is a contradiction here?	yes	1
+1 floyd created a beautiful and witty work of art
+2 floyd didnt create a beautiful work of art
+3 There is a contradiction here?	yes	1
+4 steve created a helpless and handsome work of art
+5 steve didnt create a helpless work of art
+6 There is a contradiction here?	yes	1
+7 evelyn created a nice and blue work of art
+8 evelyn didnt create a nice work of art
+9 There is a contradiction here?	yes	1
+10 claude created a dazzling and lemon work of art
+11 nicole didnt create a dazzling work of art
+12 There is a contradiction here?	no	1
+13 raymond created a vast and better work of art
+14 raymond didnt create a vast work of art
+15 There is a contradiction here?	yes	1
+1 andre created an uninterested and powerful work of art
+2 andre didnt create an uninterested work of art
+3 There is a contradiction here?	yes	1
+4 erik created a zealous and thoughtless work of art
+5 norman didnt create a zealous work of art
+6 There is a contradiction here?	no	1
+7 myrtle created a mango and ashy work of art
+8 myrtle didnt create a mango work of art
+9 There is a contradiction here?	yes	1
+10 julie created an uptight and fancy work of art
+11 julie didnt create an uptight work of art
+12 There is a contradiction here?	yes	1
+13 edward created a happy and ugly work of art
+14 edward didnt create a happy work of art
+15 There is a contradiction here?	yes	1
+1 rita created a worried and ashy work of art
+2 donna didnt create a worried work of art
+3 There is a contradiction here?	no	1
+4 jackie created an unimportant and powerful work of art
+5 jackie didnt create an unimportant work of art
+6 There is a contradiction here?	yes	1
+7 sam created a zealous and itchy work of art
+8 cassandra didnt create an itchy work of art
+9 There is a contradiction here?	no	1
+10 bertha created a defeated and fit work of art
+11 salvador didnt create a defeated work of art
+12 There is a contradiction here?	no	1
+13 roger created a grumpy and lazy work of art
+14 roger didnt create a grumpy work of art
+15 There is a contradiction here?	yes	1
+1 sharon created a bewildered and uptight work of art
+2 sharon didnt create a magnificent work of art
+3 There is a contradiction here?	no	1
+4 clarence created a muscular and angry work of art
+5 arthur didnt create an angry work of art
+6 There is a contradiction here?	no	1
+7 max created an obedient and defeated work of art
+8 max didnt create an unkempt work of art
+9 There is a contradiction here?	no	1
+10 eva created a victorious and helpful work of art
+11 eva didnt create a victorious work of art
+12 There is a contradiction here?	yes	1
+13 leon created a tender and fierce work of art
+14 leon didnt create a tender work of art
+15 There is a contradiction here?	yes	1
+1 floyd created an uninterested and chubby work of art
+2 lori didnt create an uninterested work of art
+3 There is a contradiction here?	no	1
+4 courtney created an elegant and glamorous work of art
+5 valerie didnt create an elegant work of art
+6 There is a contradiction here?	no	1
+7 bill created a fierce and mango work of art
+8 bill didnt create a fierce work of art
+9 There is a contradiction here?	yes	1
+10 norma created a rich and long work of art
+11 norma didnt create a handsome work of art
+12 There is a contradiction here?	no	1
+13 ernest created an unimportant and agreeable work of art
+14 ernest didnt create an unimportant work of art
+15 There is a contradiction here?	yes	1
+1 cheryl created a skinny and delightful work of art
+2 cheryl didnt create a skinny work of art
+3 There is a contradiction here?	yes	1
+4 jaime created a shapely and dazzling work of art
+5 toni didnt create a dazzling work of art
+6 There is a contradiction here?	no	1
+7 leon created a clever and inexpensive work of art
+8 leon didnt create a clever work of art
+9 There is a contradiction here?	yes	1
+10 kevin created an orange and yellow work of art
+11 kevin didnt create an unimportant work of art
+12 There is a contradiction here?	no	1
+13 tracy created an odd and defeated work of art
+14 tracy didnt create an odd work of art
+15 There is a contradiction here?	yes	1
+1 curtis created a poor and bald work of art
+2 curtis didnt create a poor work of art
+3 There is a contradiction here?	yes	1
+4 annette created a clumsy and white work of art
+5 annette didnt create a gentle work of art
+6 There is a contradiction here?	no	1
+7 tyrone created a nervous and scruffy work of art
+8 duane didnt create a scruffy work of art
+9 There is a contradiction here?	no	1
+10 tara created an inexpensive and uninterested work of art
+11 lucy didnt create an uninterested work of art
+12 There is a contradiction here?	no	1
+13 ada created a shy and proud work of art
+14 ada didnt create a plain work of art
+15 There is a contradiction here?	no	1
+1 allen created a bald and beautiful work of art
+2 frank didnt create a bald work of art
+3 There is a contradiction here?	no	1
+4 yvette created a black and quaint work of art
+5 yvette didnt create a panicky work of art
+6 There is a contradiction here?	no	1
+7 elsie created an attractive and unkempt work of art
+8 elsie didnt create an attractive work of art
+9 There is a contradiction here?	yes	1
+10 sara created a mysterious and better work of art
+11 clarence didnt create a mysterious work of art
+12 There is a contradiction here?	no	1
+13 leah created a hallowed and fierce work of art
+14 leah didnt create a hallowed work of art
+15 There is a contradiction here?	yes	1
+1 verna created an orange and obnoxious work of art
+2 verna didnt create a bewildered work of art
+3 There is a contradiction here?	no	1
+4 victoria created a fancy and panicky work of art
+5 victoria didnt create a fancy work of art
+6 There is a contradiction here?	yes	1
+7 sylvia created a quaint and jealous work of art
+8 kirk didnt create a jealous work of art
+9 There is a contradiction here?	no	1
+10 marvin created a tender and elegant work of art
+11 marvin didnt create a tender work of art
+12 There is a contradiction here?	yes	1
+13 adrian created a salmon and nervous work of art
+14 adrian didnt create a salmon work of art
+15 There is a contradiction here?	yes	1
+1 june created a purple and itchy work of art
+2 june didnt create a purple work of art
+3 There is a contradiction here?	yes	1
+4 jared created a jolly and plump work of art
+5 jared didnt create a jolly work of art
+6 There is a contradiction here?	yes	1
+7 jerome created a victorious and lazy work of art
+8 irma didnt create a lazy work of art
+9 There is a contradiction here?	no	1
+10 peter created an angry and helpful work of art
+11 peter didnt create an angry work of art
+12 There is a contradiction here?	yes	1
+13 jimmie created a blue and plump work of art
+14 jimmie didnt create a scruffy work of art
+15 There is a contradiction here?	no	1
+1 armando created a delightful and wrong work of art
+2 armando didnt create a delightful work of art
+3 There is a contradiction here?	yes	1
+4 reginald created an ambitious and shy work of art
+5 katie didnt create an ambitious work of art
+6 There is a contradiction here?	no	1
+7 allen created an ashy and gray work of art
+8 allen didnt create a defeated work of art
+9 There is a contradiction here?	no	1
+10 jeffrey created a clean and ugly work of art
+11 jeffrey didnt create a clean work of art
+12 There is a contradiction here?	yes	1
+13 jacob created a scary and panicky work of art
+14 sergio didnt create a scary work of art
+15 There is a contradiction here?	no	1
+1 chester created an unkempt and embarrassed work of art
+2 frank didnt create an embarrassed work of art
+3 There is a contradiction here?	no	1
+4 ted created a black and clumsy work of art
+5 ted didnt create a black work of art
+6 There is a contradiction here?	yes	1
+7 lynn created a grumpy and important work of art
+8 lynn didnt create a happy work of art
+9 There is a contradiction here?	no	1
+10 janet created an unsightly and poor work of art
+11 byron didnt create an unsightly work of art
+12 There is a contradiction here?	no	1
+13 joyce created a nice and ugly work of art
+14 joyce didnt create an agreeable work of art
+15 There is a contradiction here?	no	1
+1 tracy created a powerful and orange work of art
+2 tracy didnt create an easy work of art
+3 There is a contradiction here?	no	1
+4 ben created an unkempt and brave work of art
+5 earl didnt create an unkempt work of art
+6 There is a contradiction here?	no	1
+7 susan created a scruffy and lively work of art
+8 susan didnt create a scruffy work of art
+9 There is a contradiction here?	yes	1
+10 rosie created an important and glamorous work of art
+11 ron didnt create a glamorous work of art
+12 There is a contradiction here?	no	1
+13 alberto created a stocky and vast work of art
+14 alberto didnt create a stocky work of art
+15 There is a contradiction here?	yes	1
+1 judith created an uptight and happy work of art
+2 judith didnt create an uptight work of art
+3 There is a contradiction here?	yes	1
+4 ruby created a helpful and purple work of art
+5 ruby didnt create a helpful work of art
+6 There is a contradiction here?	yes	1
+7 loretta created an ugly and pitiful work of art
+8 jordan didnt create an ugly work of art
+9 There is a contradiction here?	no	1
+10 darryl created an eager and panicky work of art
+11 mabel didnt create an eager work of art
+12 There is a contradiction here?	no	1
+13 samuel created an angry and clever work of art
+14 samuel didnt create an angry work of art
+15 There is a contradiction here?	yes	1
+1 lawrence created a mushy and delightful work of art
+2 lawrence didnt create a mushy work of art
+3 There is a contradiction here?	yes	1
+4 brett created a gentle and fierce work of art
+5 brett didnt create a gentle work of art
+6 There is a contradiction here?	yes	1
+7 norman created a fancy and quaint work of art
+8 norman didnt create a fancy work of art
+9 There is a contradiction here?	yes	1
+10 morris created a brave and mealy work of art
+11 sue didnt create a mealy work of art
+12 There is a contradiction here?	no	1
+13 michele created a wrong and salmon work of art
+14 christina didnt create a wrong work of art
+15 There is a contradiction here?	no	1
+1 leslie created a powerful and blue work of art
+2 leslie didnt create a powerful work of art
+3 There is a contradiction here?	yes	1
+4 tiffany created a dazzling and mealy work of art
+5 virgil didnt create a dazzling work of art
+6 There is a contradiction here?	no	1
+7 jeremy created a lazy and orange work of art
+8 roger didnt create a lazy work of art
+9 There is a contradiction here?	no	1
+10 robert created a clumsy and wrong work of art
+11 robert didnt create a clumsy work of art
+12 There is a contradiction here?	yes	1
+13 june created a thankful and clean work of art
+14 june didnt create a thankful work of art
+15 There is a contradiction here?	yes	1
+1 kathryn created a fancy and gorgeous work of art
+2 kathryn didnt create a fancy work of art
+3 There is a contradiction here?	yes	1
+4 victor created a glamorous and icy work of art
+5 ramon didnt create a glamorous work of art
+6 There is a contradiction here?	no	1
+7 irma created a glamorous and fit work of art
+8 irma didnt create a glamorous work of art
+9 There is a contradiction here?	yes	1
+10 faye created a plump and clumsy work of art
+11 faye didnt create a scary work of art
+12 There is a contradiction here?	no	1
+13 jesus created a gray and beautiful work of art
+14 jesus didnt create a gray work of art
+15 There is a contradiction here?	yes	1
+1 gary created a fit and skinny work of art
+2 rosemary didnt create a fit work of art
+3 There is a contradiction here?	no	1
+4 jennie created a red and better work of art
+5 kathryn didnt create a red work of art
+6 There is a contradiction here?	no	1
+7 henry created a thoughtless and grumpy work of art
+8 rebecca didnt create a thoughtless work of art
+9 There is a contradiction here?	no	1
+10 jordan created an itchy and uptight work of art
+11 jordan didnt create an itchy work of art
+12 There is a contradiction here?	yes	1
+13 gloria created a white and yellow work of art
+14 gloria didnt create a white work of art
+15 There is a contradiction here?	yes	1
+1 irma created a white and victorious work of art
+2 ralph didnt create a victorious work of art
+3 There is a contradiction here?	no	1
+4 howard created a worried and muscular work of art
+5 howard didnt create a worried work of art
+6 There is a contradiction here?	yes	1
+7 jenny created an agreeable and delightful work of art
+8 jenny didnt create an agreeable work of art
+9 There is a contradiction here?	yes	1
+10 michele created a happy and shapely work of art
+11 michele didnt create a happy work of art
+12 There is a contradiction here?	yes	1
+13 diane created a calm and vast work of art
+14 keith didnt create a vast work of art
+15 There is a contradiction here?	no	1
+1 morris created an inexpensive and vast work of art
+2 tonya didnt create a vast work of art
+3 There is a contradiction here?	no	1
+4 debbie created a wonderful and helpless work of art
+5 debbie didnt create a skinny work of art
+6 There is a contradiction here?	no	1
+7 norma created a grumpy and attractive work of art
+8 norma didnt create a grumpy work of art
+9 There is a contradiction here?	yes	1
+10 loretta created a shy and obedient work of art
+11 loretta didnt create a shy work of art
+12 There is a contradiction here?	yes	1
+13 clayton created a glamorous and unsightly work of art
+14 clayton didnt create a plain work of art
+15 There is a contradiction here?	no	1
+1 marion created a red and witty work of art
+2 marion didnt create a red work of art
+3 There is a contradiction here?	yes	1
+4 vernon created a zealous and thankful work of art
+5 vernon didnt create a grumpy work of art
+6 There is a contradiction here?	no	1
+7 willard created an ugly and grumpy work of art
+8 willard didnt create an ugly work of art
+9 There is a contradiction here?	yes	1
+10 heather created a famous and clumsy work of art
+11 sidney didnt create a clumsy work of art
+12 There is a contradiction here?	no	1
+13 juan created a green and clever work of art
+14 lindsey didnt create a green work of art
+15 There is a contradiction here?	no	1
+1 joann created an agreeable and thoughtless work of art
+2 joann didnt create an agreeable work of art
+3 There is a contradiction here?	yes	1
+4 sean created a plain and clever work of art
+5 sean didnt create a plain work of art
+6 There is a contradiction here?	yes	1
+7 chris created an important and purple work of art
+8 chris didnt create an important work of art
+9 There is a contradiction here?	yes	1
+10 candace created an important and grumpy work of art
+11 phyllis didnt create an important work of art
+12 There is a contradiction here?	no	1
+13 heidi created a drab and lively work of art
+14 heidi didnt create an orange work of art
+15 There is a contradiction here?	no	1
+1 sonya created a scary and angry work of art
+2 sonya didnt create a scary work of art
+3 There is a contradiction here?	yes	1
+4 kristi created a clever and shapely work of art
+5 sue didnt create a shapely work of art
+6 There is a contradiction here?	no	1
+7 jon created an itchy and uptight work of art
+8 jon didnt create an itchy work of art
+9 There is a contradiction here?	yes	1
+10 lynn created a silly and purple work of art
+11 lynn didnt create a silly work of art
+12 There is a contradiction here?	yes	1
+13 randall created a zealous and black work of art
+14 randall didnt create a zealous work of art
+15 There is a contradiction here?	yes	1
+1 suzanne created a stocky and helpless work of art
+2 suzanne didnt create an unkempt work of art
+3 There is a contradiction here?	no	1
+4 eunice created an orange and angry work of art
+5 anne didnt create an angry work of art
+6 There is a contradiction here?	no	1
+7 kristi created a fierce and shy work of art
+8 sidney didnt create a fierce work of art
+9 There is a contradiction here?	no	1
+10 thomas created a happy and clumsy work of art
+11 nina didnt create a happy work of art
+12 There is a contradiction here?	no	1
+13 alvin created an embarrassed and jealous work of art
+14 alvin didnt create an obnoxious work of art
+15 There is a contradiction here?	no	1
+1 clayton created an ugly and mushy work of art
+2 jessica didnt create an ugly work of art
+3 There is a contradiction here?	no	1
+4 jay created a thankful and defeated work of art
+5 eileen didnt create a thankful work of art
+6 There is a contradiction here?	no	1
+7 perry created a gifted and gray work of art
+8 rafael didnt create a gray work of art
+9 There is a contradiction here?	no	1
+10 theresa created an orange and polite work of art
+11 clifton didnt create an orange work of art
+12 There is a contradiction here?	no	1
+13 bruce created an agreeable and careful work of art
+14 bruce didnt create an agreeable work of art
+15 There is a contradiction here?	yes	1
+1 joanne created an icy and mango work of art
+2 joanne didnt create a tender work of art
+3 There is a contradiction here?	no	1
+4 franklin created a helpful and angry work of art
+5 franklin didnt create a helpful work of art
+6 There is a contradiction here?	yes	1
+7 rhonda created a plump and victorious work of art
+8 hilda didnt create a victorious work of art
+9 There is a contradiction here?	no	1
+10 margaret created a stocky and shy work of art
+11 margaret didnt create a stocky work of art
+12 There is a contradiction here?	yes	1
+13 arnold created a witty and lively work of art
+14 arnold didnt create a witty work of art
+15 There is a contradiction here?	yes	1
+1 billy created a clumsy and dead work of art
+2 gloria didnt create a clumsy work of art
+3 There is a contradiction here?	no	1
+4 sheryl created a worried and hallowed work of art
+5 sheryl didnt create a worried work of art
+6 There is a contradiction here?	yes	1
+7 manuel created a skinny and shapely work of art
+8 hilda didnt create a shapely work of art
+9 There is a contradiction here?	no	1
+10 everett created a thankful and poor work of art
+11 everett didnt create a thankful work of art
+12 There is a contradiction here?	yes	1
+13 gina created a calm and pitiful work of art
+14 eunice didnt create a calm work of art
+15 There is a contradiction here?	no	1
+1 elsie created a clever and jolly work of art
+2 elsie didnt create a clever work of art
+3 There is a contradiction here?	yes	1
+4 joanne created a jealous and scary work of art
+5 joanne didnt create a witty work of art
+6 There is a contradiction here?	no	1
+7 duane created a muscular and embarrassed work of art
+8 cecilia didnt create a muscular work of art
+9 There is a contradiction here?	no	1
+10 dan created a mushy and silly work of art
+11 dan didnt create a mushy work of art
+12 There is a contradiction here?	yes	1
+13 andre created a long and glamorous work of art
+14 miguel didnt create a glamorous work of art
+15 There is a contradiction here?	no	1
+1 vincent created a gentle and quaint work of art
+2 vincent didnt create a gentle work of art
+3 There is a contradiction here?	yes	1
+4 juan created a clever and vast work of art
+5 norman didnt create a clever work of art
+6 There is a contradiction here?	no	1
+7 kristi created a kind and thoughtless work of art
+8 jorge didnt create a thoughtless work of art
+9 There is a contradiction here?	no	1
+10 cora created a victorious and black work of art
+11 carole didnt create a black work of art
+12 There is a contradiction here?	no	1
+13 thomas created an itchy and plump work of art
+14 thomas didnt create an itchy work of art
+15 There is a contradiction here?	yes	1
+1 willie created an alive and quaint work of art
+2 willie didnt create an alive work of art
+3 There is a contradiction here?	yes	1
+4 nellie created a stocky and happy work of art
+5 jackie didnt create a happy work of art
+6 There is a contradiction here?	no	1
+7 claude created an uninterested and gorgeous work of art
+8 claude didnt create an uninterested work of art
+9 There is a contradiction here?	yes	1
+10 jeffery created a dazzling and uptight work of art
+11 marshall didnt create a dazzling work of art
+12 There is a contradiction here?	no	1
+13 kelly created an uptight and famous work of art
+14 kelly didnt create an uptight work of art
+15 There is a contradiction here?	yes	1
+1 janet created a wonderful and clumsy work of art
+2 candice didnt create a clumsy work of art
+3 There is a contradiction here?	no	1
+4 kyle created a purple and icy work of art
+5 kyle didnt create a purple work of art
+6 There is a contradiction here?	yes	1
+7 sharon created an important and tender work of art
+8 eleanor didnt create an important work of art
+9 There is a contradiction here?	no	1
+10 valerie created a fit and unsightly work of art
+11 valerie didnt create a fit work of art
+12 There is a contradiction here?	yes	1
+13 darlene created a wonderful and bald work of art
+14 dale didnt create a bald work of art
+15 There is a contradiction here?	no	1
+1 katie created a wrong and long work of art
+2 katie didnt create a wrong work of art
+3 There is a contradiction here?	yes	1
+4 suzanne created a vast and silly work of art
+5 judy didnt create a silly work of art
+6 There is a contradiction here?	no	1
+7 lori created a dazzling and jealous work of art
+8 rebecca didnt create a jealous work of art
+9 There is a contradiction here?	no	1
+10 verna created a polite and stocky work of art
+11 nora didnt create a polite work of art
+12 There is a contradiction here?	no	1
+13 ricky created a kind and brave work of art
+14 ricky didnt create a kind work of art
+15 There is a contradiction here?	yes	1
+1 franklin created an obedient and agreeable work of art
+2 franklin didnt create a rich work of art
+3 There is a contradiction here?	no	1
+4 byron created a fierce and fit work of art
+5 lydia didnt create a fierce work of art
+6 There is a contradiction here?	no	1
+7 dennis created a magnificent and fit work of art
+8 dennis didnt create a magnificent work of art
+9 There is a contradiction here?	yes	1
+10 cecil created a careful and happy work of art
+11 sidney didnt create a happy work of art
+12 There is a contradiction here?	no	1
+13 yolanda created a powerful and yellow work of art
+14 hazel didnt create a yellow work of art
+15 There is a contradiction here?	no	1
+1 wanda created a thankful and salmon work of art
+2 wanda didnt create a thankful work of art
+3 There is a contradiction here?	yes	1
+4 leslie created a careful and thoughtless work of art
+5 leslie didnt create a careful work of art
+6 There is a contradiction here?	yes	1
+7 bertha created an alive and eager work of art
+8 bertha didnt create an alive work of art
+9 There is a contradiction here?	yes	1
+10 stanley created a brave and wonderful work of art
+11 stanley didnt create a brave work of art
+12 There is a contradiction here?	yes	1
+13 allison created a tender and mysterious work of art
+14 olivia didnt create a mysterious work of art
+15 There is a contradiction here?	no	1
+1 ray created an angry and yellow work of art
+2 ray didnt create an angry work of art
+3 There is a contradiction here?	yes	1
+4 perry created a kind and ugly work of art
+5 perry didnt create a quaint work of art
+6 There is a contradiction here?	no	1
+7 kristen created a lemon and drab work of art
+8 harry didnt create a drab work of art
+9 There is a contradiction here?	no	1
+10 april created a fierce and quaint work of art
+11 travis didnt create a fierce work of art
+12 There is a contradiction here?	no	1
+13 stephanie created a muscular and delightful work of art
+14 stephanie didnt create a muscular work of art
+15 There is a contradiction here?	yes	1
+1 bryan created a mushy and happy work of art
+2 bryan didnt create a mushy work of art
+3 There is a contradiction here?	yes	1
+4 leslie created a faithful and ambitious work of art
+5 leslie didnt create a faithful work of art
+6 There is a contradiction here?	yes	1
+7 willie created a drab and silly work of art
+8 nelson didnt create a silly work of art
+9 There is a contradiction here?	no	1
+10 carla created a salmon and kind work of art
+11 carla didnt create a salmon work of art
+12 There is a contradiction here?	yes	1
+13 don created a stocky and agreeable work of art
+14 don didnt create a worried work of art
+15 There is a contradiction here?	no	1
+1 john created a black and witty work of art
+2 john didnt create a black work of art
+3 There is a contradiction here?	yes	1
+4 teresa created a mushy and worried work of art
+5 teresa didnt create a mushy work of art
+6 There is a contradiction here?	yes	1
+7 bernice created a polite and poor work of art
+8 bernice didnt create a polite work of art
+9 There is a contradiction here?	yes	1
+10 susie created a gifted and unkempt work of art
+11 susie didnt create a victorious work of art
+12 There is a contradiction here?	no	1
+13 francis created a plain and long work of art
+14 francis didnt create a plain work of art
+15 There is a contradiction here?	yes	1
+1 randy created a blue and gorgeous work of art
+2 theodore didnt create a gorgeous work of art
+3 There is a contradiction here?	no	1
+4 linda created a bewildered and dead work of art
+5 teresa didnt create a bewildered work of art
+6 There is a contradiction here?	no	1
+7 gladys created an agreeable and plain work of art
+8 gladys didnt create an agreeable work of art
+9 There is a contradiction here?	yes	1
+10 isabel created an unsightly and nice work of art
+11 gregory didnt create a nice work of art
+12 There is a contradiction here?	no	1
+13 madeline created a worried and vast work of art
+14 madeline didnt create a worried work of art
+15 There is a contradiction here?	yes	1
+1 georgia created a nervous and plump work of art
+2 georgia didnt create a nervous work of art
+3 There is a contradiction here?	yes	1
+4 kyle created a bald and happy work of art
+5 kyle didnt create a bald work of art
+6 There is a contradiction here?	yes	1
+7 steve created a muscular and gentle work of art
+8 steve didnt create a muscular work of art
+9 There is a contradiction here?	yes	1
+10 paula created an unkempt and clean work of art
+11 paula didnt create a mealy work of art
+12 There is a contradiction here?	no	1
+13 rodney created a beautiful and bewildered work of art
+14 connie didnt create a beautiful work of art
+15 There is a contradiction here?	no	1
+1 marvin created an unsightly and tender work of art
+2 marvin didnt create an unsightly work of art
+3 There is a contradiction here?	yes	1
+4 tamara created an unkempt and thoughtless work of art
+5 tamara didnt create an unkempt work of art
+6 There is a contradiction here?	yes	1
+7 diane created a stocky and kind work of art
+8 diane didnt create a stocky work of art
+9 There is a contradiction here?	yes	1
+10 tammy created a gray and nervous work of art
+11 tammy didnt create a gray work of art
+12 There is a contradiction here?	yes	1
+13 brad created a glamorous and helpless work of art
+14 brad didnt create a glamorous work of art
+15 There is a contradiction here?	yes	1
+1 katie created an eager and obnoxious work of art
+2 katie didnt create an eager work of art
+3 There is a contradiction here?	yes	1
+4 clara created a happy and orange work of art
+5 clara didnt create a happy work of art
+6 There is a contradiction here?	yes	1
+7 jorge created a gentle and clumsy work of art
+8 jorge didnt create a gentle work of art
+9 There is a contradiction here?	yes	1
+10 tom created a salmon and gorgeous work of art
+11 tom didnt create a salmon work of art
+12 There is a contradiction here?	yes	1
+13 marcus created an icy and beautiful work of art
+14 corey didnt create a beautiful work of art
+15 There is a contradiction here?	no	1
+1 christy created a hallowed and stocky work of art
+2 jordan didnt create a hallowed work of art
+3 There is a contradiction here?	no	1
+4 chad created a mysterious and defeated work of art
+5 ruben didnt create a mysterious work of art
+6 There is a contradiction here?	no	1
+7 mario created an orange and fit work of art
+8 mario didnt create an orange work of art
+9 There is a contradiction here?	yes	1
+10 edgar created a calm and salmon work of art
+11 edgar didnt create a calm work of art
+12 There is a contradiction here?	yes	1
+13 tara created an unimportant and important work of art
+14 tara didnt create an unimportant work of art
+15 There is a contradiction here?	yes	1
+1 marion created a dazzling and ambitious work of art
+2 renee didnt create an ambitious work of art
+3 There is a contradiction here?	no	1
+4 daryl created a scruffy and magnificent work of art
+5 patsy didnt create a magnificent work of art
+6 There is a contradiction here?	no	1
+7 marion created an easy and angry work of art
+8 marion didnt create an easy work of art
+9 There is a contradiction here?	yes	1
+10 eddie created a purple and mushy work of art
+11 ricardo didnt create a mushy work of art
+12 There is a contradiction here?	no	1
+13 billie created an agreeable and shapely work of art
+14 billie didnt create an agreeable work of art
+15 There is a contradiction here?	yes	1
+1 lois created an elegant and drab work of art
+2 jacob didnt create a drab work of art
+3 There is a contradiction here?	no	1
+4 chris created a fancy and short work of art
+5 chris didnt create a fancy work of art
+6 There is a contradiction here?	yes	1
+7 gwendolyn created a fancy and better work of art
+8 gwendolyn didnt create a fancy work of art
+9 There is a contradiction here?	yes	1
+10 ramona created a kind and flabby work of art
+11 ramona didnt create a kind work of art
+12 There is a contradiction here?	yes	1
+13 judy created a silly and orange work of art
+14 matthew didnt create a silly work of art
+15 There is a contradiction here?	no	1
+1 cathy created an uninterested and fit work of art
+2 todd didnt create an uninterested work of art
+3 There is a contradiction here?	no	1
+4 ryan created a dead and gorgeous work of art
+5 ryan didnt create a dead work of art
+6 There is a contradiction here?	yes	1
+7 mike created a short and mealy work of art
+8 gina didnt create a mealy work of art
+9 There is a contradiction here?	no	1
+10 miguel created a gorgeous and lemon work of art
+11 miguel didnt create a salmon work of art
+12 There is a contradiction here?	no	1
+13 herbert created a magnificent and dazzling work of art
+14 herbert didnt create a magnificent work of art
+15 There is a contradiction here?	yes	1
+1 geneva created a tender and mealy work of art
+2 geneva didnt create a tender work of art
+3 There is a contradiction here?	yes	1
+4 clyde created a lively and bewildered work of art
+5 clyde didnt create a lively work of art
+6 There is a contradiction here?	yes	1
+7 renee created a rich and bald work of art
+8 victor didnt create a bald work of art
+9 There is a contradiction here?	no	1
+10 jimmy created a salmon and poor work of art
+11 jimmy didnt create a salmon work of art
+12 There is a contradiction here?	yes	1
+13 melissa created an obnoxious and yellow work of art
+14 melissa didnt create an obnoxious work of art
+15 There is a contradiction here?	yes	1
+1 ryan created an easy and agreeable work of art
+2 ryan didnt create an inexpensive work of art
+3 There is a contradiction here?	no	1
+4 nina created an obedient and gifted work of art
+5 jodi didnt create a gifted work of art
+6 There is a contradiction here?	no	1
+7 barry created an obedient and fancy work of art
+8 barry didnt create a poor work of art
+9 There is a contradiction here?	no	1
+10 jennie created a worried and white work of art
+11 jennie didnt create a worried work of art
+12 There is a contradiction here?	yes	1
+13 alvin created a skinny and powerful work of art
+14 alvin didnt create a beautiful work of art
+15 There is a contradiction here?	no	1
+1 hazel created a lemon and panicky work of art
+2 hazel didnt create a lemon work of art
+3 There is a contradiction here?	yes	1
+4 monica created a rich and better work of art
+5 todd didnt create a rich work of art
+6 There is a contradiction here?	no	1
+7 gina created a defeated and plump work of art
+8 joel didnt create a defeated work of art
+9 There is a contradiction here?	no	1
+10 edgar created an unimportant and icy work of art
+11 gordon didnt create an icy work of art
+12 There is a contradiction here?	no	1
+13 esther created an angry and shy work of art
+14 esther didnt create a dead work of art
+15 There is a contradiction here?	no	1
+1 kay created a proud and worried work of art
+2 caroline didnt create a worried work of art
+3 There is a contradiction here?	no	1
+4 beulah created an eager and famous work of art
+5 beulah didnt create an eager work of art
+6 There is a contradiction here?	yes	1
+7 miriam created a witty and skinny work of art
+8 miriam didnt create an alive work of art
+9 There is a contradiction here?	no	1
+10 madeline created a clean and gorgeous work of art
+11 madeline didnt create a clean work of art
+12 There is a contradiction here?	yes	1
+13 megan created a defeated and helpless work of art
+14 megan didnt create a defeated work of art
+15 There is a contradiction here?	yes	1
+1 beth created an ambitious and attractive work of art
+2 jesus didnt create an attractive work of art
+3 There is a contradiction here?	no	1
+4 judy created an unkempt and itchy work of art
+5 ralph didnt create an itchy work of art
+6 There is a contradiction here?	no	1
+7 constance created a careful and lazy work of art
+8 constance didnt create a worried work of art
+9 There is a contradiction here?	no	1
+10 sylvia created a delightful and mango work of art
+11 minnie didnt create a mango work of art
+12 There is a contradiction here?	no	1
+13 joel created a nervous and mysterious work of art
+14 franklin didnt create a nervous work of art
+15 There is a contradiction here?	no	1
+1 rosemary created a chubby and gorgeous work of art
+2 rosemary didnt create an itchy work of art
+3 There is a contradiction here?	no	1
+4 melvin created a handsome and red work of art
+5 melvin didnt create a handsome work of art
+6 There is a contradiction here?	yes	1
+7 louis created a dazzling and witty work of art
+8 irma didnt create a witty work of art
+9 There is a contradiction here?	no	1
+10 dianne created a proud and scary work of art
+11 dianne didnt create a proud work of art
+12 There is a contradiction here?	yes	1
+13 floyd created a hallowed and drab work of art
+14 floyd didnt create a hallowed work of art
+15 There is a contradiction here?	yes	1
+1 antonio created an alive and jolly work of art
+2 antonio didnt create a helpful work of art
+3 There is a contradiction here?	no	1
+4 juana created an ambitious and eager work of art
+5 juana didnt create an ambitious work of art
+6 There is a contradiction here?	yes	1
+7 jeremy created a green and gray work of art
+8 kenneth didnt create a gray work of art
+9 There is a contradiction here?	no	1
+10 harvey created a silly and faithful work of art
+11 dale didnt create a silly work of art
+12 There is a contradiction here?	no	1
+13 kimberly created a poor and brave work of art
+14 kimberly didnt create a poor work of art
+15 There is a contradiction here?	yes	1
+1 hilda created an uptight and powerful work of art
+2 david didnt create an uptight work of art
+3 There is a contradiction here?	no	1
+4 marc created a jealous and ashy work of art
+5 marc didnt create a jealous work of art
+6 There is a contradiction here?	yes	1
+7 tracy created an unkempt and bewildered work of art
+8 tracy didnt create an unkempt work of art
+9 There is a contradiction here?	yes	1
+10 myrtle created a careful and panicky work of art
+11 myrtle didnt create an attractive work of art
+12 There is a contradiction here?	no	1
+13 regina created a red and handsome work of art
+14 regina didnt create a red work of art
+15 There is a contradiction here?	yes	1
+1 beth created a purple and scruffy work of art
+2 alfredo didnt create a purple work of art
+3 There is a contradiction here?	no	1
+4 terrance created an ashy and drab work of art
+5 terrance didnt create an ashy work of art
+6 There is a contradiction here?	yes	1
+7 claude created a fancy and plain work of art
+8 charlene didnt create a fancy work of art
+9 There is a contradiction here?	no	1
+10 thomas created a bald and mealy work of art
+11 thomas didnt create a bald work of art
+12 There is a contradiction here?	yes	1
+13 katie created a stocky and agreeable work of art
+14 katie didnt create a stocky work of art
+15 There is a contradiction here?	yes	1
+1 marion created a helpless and bald work of art
+2 marion didnt create a lively work of art
+3 There is a contradiction here?	no	1
+4 eric created a tender and pitiful work of art
+5 eric didnt create a tender work of art
+6 There is a contradiction here?	yes	1
+7 eunice created a worried and angry work of art
+8 kay didnt create a worried work of art
+9 There is a contradiction here?	no	1
+10 maurice created a helpless and unkempt work of art
+11 delores didnt create a helpless work of art
+12 There is a contradiction here?	no	1
+13 darrell created a gifted and dead work of art
+14 leo didnt create a gifted work of art
+15 There is a contradiction here?	no	1
+1 dean created an aggressive and zealous work of art
+2 dean didnt create an aggressive work of art
+3 There is a contradiction here?	yes	1
+4 jonathan created a poor and mushy work of art
+5 jonathan didnt create a poor work of art
+6 There is a contradiction here?	yes	1
+7 darren created a dead and dazzling work of art
+8 darren didnt create a dead work of art
+9 There is a contradiction here?	yes	1
+10 alan created a jolly and poor work of art
+11 alan didnt create a jolly work of art
+12 There is a contradiction here?	yes	1
+13 elsie created a happy and dazzling work of art
+14 marion didnt create a dazzling work of art
+15 There is a contradiction here?	no	1
+1 nicole created a glamorous and plump work of art
+2 nicole didnt create a glamorous work of art
+3 There is a contradiction here?	yes	1
+4 alberta created a black and dazzling work of art
+5 alberta didnt create a black work of art
+6 There is a contradiction here?	yes	1
+7 yvonne created an attractive and itchy work of art
+8 micheal didnt create an itchy work of art
+9 There is a contradiction here?	no	1
+10 shane created an ugly and embarrassed work of art
+11 johnnie didnt create an ugly work of art
+12 There is a contradiction here?	no	1
+13 doris created an agreeable and alive work of art
+14 doris didnt create a worried work of art
+15 There is a contradiction here?	no	1
+1 tanya created a red and obnoxious work of art
+2 jaime didnt create an obnoxious work of art
+3 There is a contradiction here?	no	1
+4 joshua created a handsome and famous work of art
+5 joshua didnt create a handsome work of art
+6 There is a contradiction here?	yes	1
+7 juana created a chubby and calm work of art
+8 juana didnt create a chubby work of art
+9 There is a contradiction here?	yes	1
+10 charlene created a mango and embarrassed work of art
+11 charlene didnt create a mango work of art
+12 There is a contradiction here?	yes	1
+13 angela created an itchy and short work of art
+14 joseph didnt create an itchy work of art
+15 There is a contradiction here?	no	1
+1 nellie created an aggressive and calm work of art
+2 ramona didnt create an aggressive work of art
+3 There is a contradiction here?	no	1
+4 sally created a thoughtless and angry work of art
+5 sally didnt create a thoughtless work of art
+6 There is a contradiction here?	yes	1
+7 julian created a dead and flabby work of art
+8 julian didnt create a dead work of art
+9 There is a contradiction here?	yes	1
+10 brent created a famous and fancy work of art
+11 brent didnt create a muscular work of art
+12 There is a contradiction here?	no	1
+13 sergio created a dead and long work of art
+14 sergio didnt create a dead work of art
+15 There is a contradiction here?	yes	1
+1 ryan created a lazy and attractive work of art
+2 ryan didnt create a muscular work of art
+3 There is a contradiction here?	no	1
+4 jeanne created a happy and polite work of art
+5 joel didnt create a happy work of art
+6 There is a contradiction here?	no	1
+7 monique created a fierce and pitiful work of art
+8 monique didnt create a fierce work of art
+9 There is a contradiction here?	yes	1
+10 allen created a nice and dazzling work of art
+11 allen didnt create a nice work of art
+12 There is a contradiction here?	yes	1
+13 claude created an agreeable and uninterested work of art
+14 catherine didnt create an agreeable work of art
+15 There is a contradiction here?	no	1
+1 gloria created an orange and lemon work of art
+2 gloria didnt create an orange work of art
+3 There is a contradiction here?	yes	1
+4 edward created a mysterious and aggressive work of art
+5 edward didnt create a wrong work of art
+6 There is a contradiction here?	no	1
+7 christine created a clumsy and better work of art
+8 christine didnt create a clumsy work of art
+9 There is a contradiction here?	yes	1
+10 manuel created a flabby and wonderful work of art
+11 manuel didnt create a flabby work of art
+12 There is a contradiction here?	yes	1
+13 gail created a mushy and magnificent work of art
+14 carlos didnt create a magnificent work of art
+15 There is a contradiction here?	no	1
+1 tanya created a drab and purple work of art
+2 tanya didnt create a drab work of art
+3 There is a contradiction here?	yes	1
+4 mattie created a shy and fancy work of art
+5 mattie didnt create a shy work of art
+6 There is a contradiction here?	yes	1
+7 kay created a pitiful and defeated work of art
+8 kay didnt create an alive work of art
+9 There is a contradiction here?	no	1
+10 clara created a mango and powerful work of art
+11 clara didnt create a mango work of art
+12 There is a contradiction here?	yes	1
+13 amber created a bald and worried work of art
+14 amber didnt create a bald work of art
+15 There is a contradiction here?	yes	1
+1 sally created a calm and fit work of art
+2 carolyn didnt create a calm work of art
+3 There is a contradiction here?	no	1
+4 april created a green and bewildered work of art
+5 april didnt create a worried work of art
+6 There is a contradiction here?	no	1
+7 joy created a white and mango work of art
+8 joy didnt create a white work of art
+9 There is a contradiction here?	yes	1
+10 rick created a short and fancy work of art
+11 allison didnt create a fancy work of art
+12 There is a contradiction here?	no	1
+13 sally created a chubby and scruffy work of art
+14 connie didnt create a chubby work of art
+15 There is a contradiction here?	no	1
+1 charlie created a gentle and ugly work of art
+2 charlie didnt create a gentle work of art
+3 There is a contradiction here?	yes	1
+4 brittany created an aggressive and rich work of art
+5 brittany didnt create an aggressive work of art
+6 There is a contradiction here?	yes	1
+7 elsie created a delightful and agreeable work of art
+8 elsie didnt create a delightful work of art
+9 There is a contradiction here?	yes	1
+10 julie created an uptight and salmon work of art
+11 allison didnt create a salmon work of art
+12 There is a contradiction here?	no	1
+13 alma created a powerful and famous work of art
+14 natalie didnt create a famous work of art
+15 There is a contradiction here?	no	1
+1 amy created a skinny and defeated work of art
+2 amy didnt create a nervous work of art
+3 There is a contradiction here?	no	1
+4 wade created an obedient and alive work of art
+5 daryl didnt create an alive work of art
+6 There is a contradiction here?	no	1
+7 melvin created a clumsy and easy work of art
+8 melvin didnt create a clumsy work of art
+9 There is a contradiction here?	yes	1
+10 erica created a gifted and jolly work of art
+11 erica didnt create a gifted work of art
+12 There is a contradiction here?	yes	1
+13 keith created an alive and vast work of art
+14 keith didnt create an alive work of art
+15 There is a contradiction here?	yes	1
+1 marsha created a shy and nervous work of art
+2 leslie didnt create a shy work of art
+3 There is a contradiction here?	no	1
+4 armando created a silly and ugly work of art
+5 armando didnt create a silly work of art
+6 There is a contradiction here?	yes	1
+7 jonathan created a famous and stocky work of art
+8 jonathan didnt create a famous work of art
+9 There is a contradiction here?	yes	1
+10 melissa created a mango and aggressive work of art
+11 melissa didnt create a mango work of art
+12 There is a contradiction here?	yes	1
+13 nancy created a glamorous and bald work of art
+14 nancy didnt create a glamorous work of art
+15 There is a contradiction here?	yes	1
+1 samuel created an uptight and happy work of art
+2 michele didnt create a happy work of art
+3 There is a contradiction here?	no	1
+4 julian created a stocky and helpful work of art
+5 william didnt create a stocky work of art
+6 There is a contradiction here?	no	1
+7 opal created a faithful and green work of art
+8 jill didnt create a faithful work of art
+9 There is a contradiction here?	no	1
+10 kent created a long and better work of art
+11 courtney didnt create a better work of art
+12 There is a contradiction here?	no	1
+13 herbert created a nice and vast work of art
+14 herbert didnt create a nice work of art
+15 There is a contradiction here?	yes	1
+1 walter created an easy and yellow work of art
+2 walter didnt create an easy work of art
+3 There is a contradiction here?	yes	1
+4 janie created a worried and plain work of art
+5 janie didnt create a worried work of art
+6 There is a contradiction here?	yes	1
+7 diane created a bald and jealous work of art
+8 jesse didnt create a bald work of art
+9 There is a contradiction here?	no	1
+10 jerry created a helpful and unimportant work of art
+11 terri didnt create a helpful work of art
+12 There is a contradiction here?	no	1
+13 leon created a panicky and easy work of art
+14 ben didnt create a panicky work of art
+15 There is a contradiction here?	no	1
+1 cynthia created a thoughtless and gifted work of art
+2 cynthia didnt create a thoughtless work of art
+3 There is a contradiction here?	yes	1
+4 samantha created a zealous and defeated work of art
+5 samantha didnt create a zealous work of art
+6 There is a contradiction here?	yes	1
+7 steve created an icy and panicky work of art
+8 chester didnt create an icy work of art
+9 There is a contradiction here?	no	1
+10 monique created a beautiful and hallowed work of art
+11 monique didnt create a beautiful work of art
+12 There is a contradiction here?	yes	1
+13 kristine created an obedient and kind work of art
+14 kristine didnt create an obedient work of art
+15 There is a contradiction here?	yes	1
+1 sheila created a handsome and purple work of art
+2 sheila didnt create a drab work of art
+3 There is a contradiction here?	no	1
+4 ronnie created a clever and mango work of art
+5 lillian didnt create a mango work of art
+6 There is a contradiction here?	no	1
+7 ashley created a mysterious and powerful work of art
+8 kim didnt create a mysterious work of art
+9 There is a contradiction here?	no	1
+10 tammy created an unsightly and fierce work of art
+11 tammy didnt create an unsightly work of art
+12 There is a contradiction here?	yes	1
+13 minnie created a salmon and defeated work of art
+14 minnie didnt create a salmon work of art
+15 There is a contradiction here?	yes	1
+1 sidney created a shapely and gentle work of art
+2 sidney didnt create a shapely work of art
+3 There is a contradiction here?	yes	1
+4 marie created a clumsy and green work of art
+5 crystal didnt create a clumsy work of art
+6 There is a contradiction here?	no	1
+7 candice created a gifted and quaint work of art
+8 candice didnt create a gifted work of art
+9 There is a contradiction here?	yes	1
+10 randall created a quaint and red work of art
+11 randall didnt create an elegant work of art
+12 There is a contradiction here?	no	1
+13 leon created a happy and mushy work of art
+14 leon didnt create a happy work of art
+15 There is a contradiction here?	yes	1
+1 alexander created a famous and white work of art
+2 alexander didnt create a famous work of art
+3 There is a contradiction here?	yes	1
+4 anthony created a blue and ambitious work of art
+5 anthony didnt create a blue work of art
+6 There is a contradiction here?	yes	1
+7 chester created a powerful and short work of art
+8 shane didnt create a powerful work of art
+9 There is a contradiction here?	no	1
+10 johnny created a purple and wonderful work of art
+11 johnny didnt create a purple work of art
+12 There is a contradiction here?	yes	1
+13 teresa created a tender and jealous work of art
+14 teresa didnt create a magnificent work of art
+15 There is a contradiction here?	no	1
+1 clayton created an uptight and inexpensive work of art
+2 clayton didnt create an uptight work of art
+3 There is a contradiction here?	yes	1
+4 charles created a scary and nice work of art
+5 charles didnt create an agreeable work of art
+6 There is a contradiction here?	no	1
+7 danielle created a calm and quaint work of art
+8 daniel didnt create a calm work of art
+9 There is a contradiction here?	no	1
+10 monica created a dead and muscular work of art
+11 monica didnt create a dead work of art
+12 There is a contradiction here?	yes	1
+13 anne created a calm and dead work of art
+14 gordon didnt create a dead work of art
+15 There is a contradiction here?	no	1
+1 daisy created a grumpy and calm work of art
+2 melody didnt create a calm work of art
+3 There is a contradiction here?	no	1
+4 eileen created an icy and attractive work of art
+5 eileen didnt create an icy work of art
+6 There is a contradiction here?	yes	1
+7 roger created a chubby and unkempt work of art
+8 roger didnt create a chubby work of art
+9 There is a contradiction here?	yes	1
+10 frank created a rich and gifted work of art
+11 frank didnt create a rich work of art
+12 There is a contradiction here?	yes	1
+13 willie created a gorgeous and clumsy work of art
+14 belinda didnt create a clumsy work of art
+15 There is a contradiction here?	no	1
+1 dwayne created a nice and plain work of art
+2 geneva didnt create a plain work of art
+3 There is a contradiction here?	no	1
+4 belinda created a famous and skinny work of art
+5 belinda didnt create a hallowed work of art
+6 There is a contradiction here?	no	1
+7 travis created a short and ugly work of art
+8 viola didnt create a short work of art
+9 There is a contradiction here?	no	1
+10 bill created a wrong and tender work of art
+11 bill didnt create a wrong work of art
+12 There is a contradiction here?	yes	1
+13 mike created an icy and handsome work of art
+14 mike didnt create an icy work of art
+15 There is a contradiction here?	yes	1
+1 dianne created a helpless and rich work of art
+2 dianne didnt create a helpless work of art
+3 There is a contradiction here?	yes	1
+4 ramona created a mushy and obedient work of art
+5 seth didnt create a mushy work of art
+6 There is a contradiction here?	no	1
+7 sarah created an uptight and brave work of art
+8 sarah didnt create an uptight work of art
+9 There is a contradiction here?	yes	1
+10 arthur created a flabby and mango work of art
+11 bryan didnt create a mango work of art
+12 There is a contradiction here?	no	1
+13 candice created a worried and ugly work of art
+14 candice didnt create a worried work of art
+15 There is a contradiction here?	yes	1
+1 violet created a green and drab work of art
+2 violet didnt create a flabby work of art
+3 There is a contradiction here?	no	1
+4 milton created a lemon and scruffy work of art
+5 milton didnt create a lemon work of art
+6 There is a contradiction here?	yes	1
+7 jennie created a gentle and purple work of art
+8 jennie didnt create a short work of art
+9 There is a contradiction here?	no	1
+10 bessie created a lively and plump work of art
+11 bessie didnt create a lively work of art
+12 There is a contradiction here?	yes	1
+13 jessie created a tender and dazzling work of art
+14 leon didnt create a dazzling work of art
+15 There is a contradiction here?	no	1
+1 constance created an unimportant and uninterested work of art
+2 constance didnt create a gorgeous work of art
+3 There is a contradiction here?	no	1
+4 georgia created a brave and happy work of art
+5 sam didnt create a happy work of art
+6 There is a contradiction here?	no	1
+7 danny created an obnoxious and defeated work of art
+8 danny didnt create a magnificent work of art
+9 There is a contradiction here?	no	1
+10 keith created a faithful and pitiful work of art
+11 keith didnt create a faithful work of art
+12 There is a contradiction here?	yes	1
+13 marshall created a clean and pitiful work of art
+14 marshall didnt create a clean work of art
+15 There is a contradiction here?	yes	1
+1 richard created an icy and hallowed work of art
+2 richard didnt create an icy work of art
+3 There is a contradiction here?	yes	1
+4 marie created an attractive and salmon work of art
+5 marcia didnt create a salmon work of art
+6 There is a contradiction here?	no	1
+7 rick created a calm and brave work of art
+8 lonnie didnt create a calm work of art
+9 There is a contradiction here?	no	1
+10 jordan created a helpless and thoughtless work of art
+11 rosa didnt create a thoughtless work of art
+12 There is a contradiction here?	no	1
+13 brian created a scary and poor work of art
+14 brian didnt create a scary work of art
+15 There is a contradiction here?	yes	1
+1 marvin created an ashy and thankful work of art
+2 marvin didnt create an ashy work of art
+3 There is a contradiction here?	yes	1
+4 carl created a jolly and uptight work of art
+5 reginald didnt create an uptight work of art
+6 There is a contradiction here?	no	1
+7 penny created an uninterested and green work of art
+8 penny didnt create an uninterested work of art
+9 There is a contradiction here?	yes	1
+10 brittany created a gorgeous and bald work of art
+11 joyce didnt create a bald work of art
+12 There is a contradiction here?	no	1
+13 alma created a clever and shy work of art
+14 sonia didnt create a shy work of art
+15 There is a contradiction here?	no	1
+1 theresa created a delightful and elegant work of art
+2 theresa didnt create a delightful work of art
+3 There is a contradiction here?	yes	1
+4 matthew created a better and zealous work of art
+5 joshua didnt create a zealous work of art
+6 There is a contradiction here?	no	1
+7 sally created a fit and ambitious work of art
+8 sally didnt create a fit work of art
+9 There is a contradiction here?	yes	1
+10 roberto created a shapely and silly work of art
+11 roberto didnt create a shapely work of art
+12 There is a contradiction here?	yes	1
+13 dana created a fit and beautiful work of art
+14 dennis didnt create a fit work of art
+15 There is a contradiction here?	no	1
+1 leah created a wrong and eager work of art
+2 leah didnt create a wrong work of art
+3 There is a contradiction here?	yes	1
+4 cathy created an ugly and silly work of art
+5 cathy didnt create an ugly work of art
+6 There is a contradiction here?	yes	1
+7 juana created a tender and thoughtless work of art
+8 juana didnt create a tender work of art
+9 There is a contradiction here?	yes	1
+10 sharon created a nervous and inexpensive work of art
+11 sharon didnt create a drab work of art
+12 There is a contradiction here?	no	1
+13 alex created an odd and nice work of art
+14 alex didnt create a worried work of art
+15 There is a contradiction here?	no	1
+1 diana created a poor and ambitious work of art
+2 evelyn didnt create an ambitious work of art
+3 There is a contradiction here?	no	1
+4 melinda created an ashy and mysterious work of art
+5 beulah didnt create a mysterious work of art
+6 There is a contradiction here?	no	1
+7 ramona created a quaint and alive work of art
+8 ramona didnt create a lively work of art
+9 There is a contradiction here?	no	1
+10 ray created a clever and delightful work of art
+11 violet didnt create a clever work of art
+12 There is a contradiction here?	no	1
+13 calvin created a rich and nervous work of art
+14 harvey didnt create a rich work of art
+15 There is a contradiction here?	no	1
+1 eduardo created a worried and hallowed work of art
+2 eduardo didnt create a worried work of art
+3 There is a contradiction here?	yes	1
+4 genevieve created a rich and powerful work of art
+5 genevieve didnt create a rich work of art
+6 There is a contradiction here?	yes	1
+7 amelia created a gifted and handsome work of art
+8 jack didnt create a handsome work of art
+9 There is a contradiction here?	no	1
+10 erin created a dazzling and unsightly work of art
+11 erin didnt create a dazzling work of art
+12 There is a contradiction here?	yes	1
+13 clyde created a proud and defeated work of art
+14 clyde didnt create a proud work of art
+15 There is a contradiction here?	yes	1
+1 fannie created a magnificent and red work of art
+2 leo didnt create a red work of art
+3 There is a contradiction here?	no	1
+4 peter created a green and gentle work of art
+5 peter didnt create an orange work of art
+6 There is a contradiction here?	no	1
+7 billy created an unsightly and ashy work of art
+8 billy didnt create an unsightly work of art
+9 There is a contradiction here?	yes	1
+10 stacey created a gorgeous and handsome work of art
+11 jacob didnt create a gorgeous work of art
+12 There is a contradiction here?	no	1
+13 madeline created a clever and witty work of art
+14 justin didnt create a witty work of art
+15 There is a contradiction here?	no	1
+1 ruth created an important and defeated work of art
+2 ruth didnt create an important work of art
+3 There is a contradiction here?	yes	1
+4 tim created a purple and chubby work of art
+5 tim didnt create a purple work of art
+6 There is a contradiction here?	yes	1
+7 peter created a defeated and happy work of art
+8 joyce didnt create a defeated work of art
+9 There is a contradiction here?	no	1
+10 patrick created a blue and flabby work of art
+11 patrick didnt create a blue work of art
+12 There is a contradiction here?	yes	1
+13 flora created a scruffy and zealous work of art
+14 flora didnt create a polite work of art
+15 There is a contradiction here?	no	1
+1 judy created a gray and itchy work of art
+2 judy didnt create a gray work of art
+3 There is a contradiction here?	yes	1
+4 dean created an ambitious and happy work of art
+5 hector didnt create an ambitious work of art
+6 There is a contradiction here?	no	1
+7 stacy created a plump and famous work of art
+8 stacy didnt create a plump work of art
+9 There is a contradiction here?	yes	1
+10 zachary created a skinny and bewildered work of art
+11 zachary didnt create a skinny work of art
+12 There is a contradiction here?	yes	1
+13 ron created a beautiful and gentle work of art
+14 jorge didnt create a gentle work of art
+15 There is a contradiction here?	no	1
+1 virginia created a dazzling and wrong work of art
+2 marie didnt create a wrong work of art
+3 There is a contradiction here?	no	1
+4 eileen created a mango and itchy work of art
+5 carmen didnt create a mango work of art
+6 There is a contradiction here?	no	1
+7 hugh created a jolly and aggressive work of art
+8 joe didnt create an aggressive work of art
+9 There is a contradiction here?	no	1
+10 marlene created a gifted and vast work of art
+11 danny didnt create a gifted work of art
+12 There is a contradiction here?	no	1
+13 marsha created an attractive and drab work of art
+14 marsha didnt create an attractive work of art
+15 There is a contradiction here?	yes	1
+1 clarence created a proud and lemon work of art
+2 geneva didnt create a proud work of art
+3 There is a contradiction here?	no	1
+4 delores created an eager and panicky work of art
+5 delores didnt create an eager work of art
+6 There is a contradiction here?	yes	1
+7 guy created a witty and happy work of art
+8 guy didnt create a shapely work of art
+9 There is a contradiction here?	no	1
+10 donald created a flabby and shapely work of art
+11 donald didnt create a flabby work of art
+12 There is a contradiction here?	yes	1
+13 colleen created a mango and skinny work of art
+14 colleen didnt create an obedient work of art
+15 There is a contradiction here?	no	1
+1 jamie created a clever and magnificent work of art
+2 jamie didnt create a clever work of art
+3 There is a contradiction here?	yes	1
+4 jennifer created a lemon and drab work of art
+5 jennifer didnt create a lemon work of art
+6 There is a contradiction here?	yes	1
+7 marcia created a handsome and gorgeous work of art
+8 sally didnt create a handsome work of art
+9 There is a contradiction here?	no	1
+10 misty created a gifted and flabby work of art
+11 misty didnt create a gifted work of art
+12 There is a contradiction here?	yes	1
+13 sabrina created a flabby and jolly work of art
+14 sabrina didnt create an unimportant work of art
+15 There is a contradiction here?	no	1
+1 marlene created a quaint and ugly work of art
+2 marlene didnt create a gentle work of art
+3 There is a contradiction here?	no	1
+4 randall created an unkempt and fierce work of art
+5 randall didnt create an unkempt work of art
+6 There is a contradiction here?	yes	1
+7 kay created a lemon and panicky work of art
+8 kay didnt create a lemon work of art
+9 There is a contradiction here?	yes	1
+10 jacqueline created a flabby and powerful work of art
+11 lois didnt create a powerful work of art
+12 There is a contradiction here?	no	1
+13 leon created an obnoxious and fierce work of art
+14 leon didnt create an obnoxious work of art
+15 There is a contradiction here?	yes	1
+1 lloyd created a mysterious and magnificent work of art
+2 lloyd didnt create an icy work of art
+3 There is a contradiction here?	no	1
+4 ross created a gifted and icy work of art
+5 ross didnt create a gifted work of art
+6 There is a contradiction here?	yes	1
+7 steve created a nice and purple work of art
+8 lester didnt create a purple work of art
+9 There is a contradiction here?	no	1
+10 juana created an inexpensive and eager work of art
+11 juana didnt create an inexpensive work of art
+12 There is a contradiction here?	yes	1
+13 raymond created a salmon and careful work of art
+14 raymond didnt create a salmon work of art
+15 There is a contradiction here?	yes	1
+1 jessie created a long and scary work of art
+2 rose didnt create a scary work of art
+3 There is a contradiction here?	no	1
+4 earl created a thoughtless and clean work of art
+5 earl didnt create a thoughtless work of art
+6 There is a contradiction here?	yes	1
+7 rosa created a plump and lemon work of art
+8 rosa didnt create a plump work of art
+9 There is a contradiction here?	yes	1
+10 douglas created a red and drab work of art
+11 velma didnt create a red work of art
+12 There is a contradiction here?	no	1
+13 donna created a quaint and lively work of art
+14 donna didnt create a muscular work of art
+15 There is a contradiction here?	no	1
+1 rosie created a bald and powerful work of art
+2 rosie didnt create a bald work of art
+3 There is a contradiction here?	yes	1
+4 shannon created a delightful and mealy work of art
+5 shannon didnt create a delightful work of art
+6 There is a contradiction here?	yes	1
+7 christina created a quaint and clean work of art
+8 christina didnt create a quaint work of art
+9 There is a contradiction here?	yes	1
+10 brandon created an obnoxious and uninterested work of art
+11 brandon didnt create an obnoxious work of art
+12 There is a contradiction here?	yes	1
+13 marian created an alive and uptight work of art
+14 marian didnt create an alive work of art
+15 There is a contradiction here?	yes	1
+1 ken created a worried and tender work of art
+2 ellen didnt create a tender work of art
+3 There is a contradiction here?	no	1
+4 yolanda created a mushy and flabby work of art
+5 yolanda didnt create a mushy work of art
+6 There is a contradiction here?	yes	1
+7 monica created a beautiful and unsightly work of art
+8 monica didnt create a beautiful work of art
+9 There is a contradiction here?	yes	1
+10 claire created a short and plain work of art
+11 claire didnt create a short work of art
+12 There is a contradiction here?	yes	1
+13 terrence created a plump and salmon work of art
+14 terrence didnt create a plump work of art
+15 There is a contradiction here?	yes	1
+1 gwendolyn created an angry and repulsive work of art
+2 jack didnt create an angry work of art
+3 There is a contradiction here?	no	1
+4 cassandra created a blue and witty work of art
+5 jill didnt create a blue work of art
+6 There is a contradiction here?	no	1
+7 carlos created a shy and mushy work of art
+8 louis didnt create a shy work of art
+9 There is a contradiction here?	no	1
+10 cassandra created a dead and shy work of art
+11 cassandra didnt create a wonderful work of art
+12 There is a contradiction here?	no	1
+13 wilma created a handsome and poor work of art
+14 wilma didnt create a handsome work of art
+15 There is a contradiction here?	yes	1
+1 valerie created a careful and fit work of art
+2 valerie didnt create a careful work of art
+3 There is a contradiction here?	yes	1
+4 clinton created a jealous and calm work of art
+5 clinton didnt create a jealous work of art
+6 There is a contradiction here?	yes	1
+7 ruby created an embarrassed and pitiful work of art
+8 ruby didnt create a powerful work of art
+9 There is a contradiction here?	no	1
+10 leona created a mysterious and defeated work of art
+11 leona didnt create a mysterious work of art
+12 There is a contradiction here?	yes	1
+13 glenda created a quaint and ashy work of art
+14 glenda didnt create a mushy work of art
+15 There is a contradiction here?	no	1
+1 johnny created an ambitious and plump work of art
+2 johnny didnt create an ambitious work of art
+3 There is a contradiction here?	yes	1
+4 mamie created a lazy and jealous work of art
+5 mamie didnt create a lazy work of art
+6 There is a contradiction here?	yes	1
+7 harry created a jealous and bald work of art
+8 louis didnt create a jealous work of art
+9 There is a contradiction here?	no	1
+10 lillian created a grumpy and jealous work of art
+11 lillian didnt create a plump work of art
+12 There is a contradiction here?	no	1
+13 alma created a black and unimportant work of art
+14 alma didnt create a black work of art
+15 There is a contradiction here?	yes	1
+1 marvin created a silly and orange work of art
+2 marvin didnt create a silly work of art
+3 There is a contradiction here?	yes	1
+4 leslie created a nice and beautiful work of art
+5 samantha didnt create a nice work of art
+6 There is a contradiction here?	no	1
+7 carmen created a happy and thoughtless work of art
+8 carmen didnt create a happy work of art
+9 There is a contradiction here?	yes	1
+10 alison created an ashy and purple work of art
+11 alison didnt create an ashy work of art
+12 There is a contradiction here?	yes	1
+13 jose created a happy and mushy work of art
+14 gary didnt create a mushy work of art
+15 There is a contradiction here?	no	1
+1 colleen created a stocky and uninterested work of art
+2 colleen didnt create a yellow work of art
+3 There is a contradiction here?	no	1
+4 jason created a poor and jealous work of art
+5 jason didnt create a poor work of art
+6 There is a contradiction here?	yes	1
+7 janie created an easy and beautiful work of art
+8 janie didnt create an easy work of art
+9 There is a contradiction here?	yes	1
+10 marshall created a pitiful and helpless work of art
+11 marshall didnt create a pitiful work of art
+12 There is a contradiction here?	yes	1
+13 andre created a gray and uptight work of art
+14 andre didnt create a gray work of art
+15 There is a contradiction here?	yes	1
+1 amanda created a clumsy and scary work of art
+2 erika didnt create a clumsy work of art
+3 There is a contradiction here?	no	1
+4 morris created a handsome and mysterious work of art
+5 morris didnt create a handsome work of art
+6 There is a contradiction here?	yes	1
+7 maryann created an ashy and odd work of art
+8 george didnt create an ashy work of art
+9 There is a contradiction here?	no	1
+10 marshall created a nervous and chubby work of art
+11 marshall didnt create a nervous work of art
+12 There is a contradiction here?	yes	1
+13 beth created a famous and fit work of art
+14 beth didnt create a quaint work of art
+15 There is a contradiction here?	no	1
+1 jerome created a magnificent and dead work of art
+2 jerome didnt create a magnificent work of art
+3 There is a contradiction here?	yes	1
+4 diana created a quaint and gorgeous work of art
+5 rosemary didnt create a quaint work of art
+6 There is a contradiction here?	no	1
+7 calvin created a long and powerful work of art
+8 constance didnt create a powerful work of art
+9 There is a contradiction here?	no	1
+10 renee created a salmon and stocky work of art
+11 kathleen didnt create a salmon work of art
+12 There is a contradiction here?	no	1
+13 clara created an alive and wonderful work of art
+14 clara didnt create a jealous work of art
+15 There is a contradiction here?	no	1
+1 wendy created a flabby and better work of art
+2 wendy didnt create a pitiful work of art
+3 There is a contradiction here?	no	1
+4 juan created a clever and shy work of art
+5 carol didnt create a clever work of art
+6 There is a contradiction here?	no	1
+7 robert created a black and thankful work of art
+8 bobby didnt create a thankful work of art
+9 There is a contradiction here?	no	1
+10 tanya created an easy and important work of art
+11 molly didnt create an important work of art
+12 There is a contradiction here?	no	1
+13 dean created a grumpy and vast work of art
+14 loretta didnt create a vast work of art
+15 There is a contradiction here?	no	1
+1 marshall created a lazy and drab work of art
+2 marshall didnt create a lazy work of art
+3 There is a contradiction here?	yes	1
+4 norma created a scruffy and famous work of art
+5 enrique didnt create a famous work of art
+6 There is a contradiction here?	no	1
+7 kristine created a chubby and victorious work of art
+8 kristine didnt create a chubby work of art
+9 There is a contradiction here?	yes	1
+10 christy created a worried and plain work of art
+11 christy didnt create a worried work of art
+12 There is a contradiction here?	yes	1
+13 vernon created an odd and red work of art
+14 willie didnt create a red work of art
+15 There is a contradiction here?	no	1
+1 karen created a long and grumpy work of art
+2 earl didnt create a long work of art
+3 There is a contradiction here?	no	1
+4 joseph created an agreeable and plump work of art
+5 joseph didnt create an eager work of art
+6 There is a contradiction here?	no	1
+7 carla created a black and agreeable work of art
+8 carla didnt create a poor work of art
+9 There is a contradiction here?	no	1
+10 maria created a rich and poor work of art
+11 maria didnt create an uninterested work of art
+12 There is a contradiction here?	no	1
+13 maggie created an ashy and gifted work of art
+14 maggie didnt create an ashy work of art
+15 There is a contradiction here?	yes	1
+1 amber created an uninterested and orange work of art
+2 sergio didnt create an uninterested work of art
+3 There is a contradiction here?	no	1
+4 jenny created a dead and uptight work of art
+5 zachary didnt create an uptight work of art
+6 There is a contradiction here?	no	1
+7 walter created a chubby and shy work of art
+8 anna didnt create a chubby work of art
+9 There is a contradiction here?	no	1
+10 roland created a worried and blue work of art
+11 roland didnt create a worried work of art
+12 There is a contradiction here?	yes	1
+13 olivia created a nice and salmon work of art
+14 joann didnt create a nice work of art
+15 There is a contradiction here?	no	1
+1 melody created an eager and obedient work of art
+2 melody didnt create an eager work of art
+3 There is a contradiction here?	yes	1
+4 ross created an ugly and white work of art
+5 ross didnt create an ugly work of art
+6 There is a contradiction here?	yes	1
+7 eleanor created a handsome and chubby work of art
+8 eleanor didnt create a handsome work of art
+9 There is a contradiction here?	yes	1
+10 julie created a gray and pitiful work of art
+11 aaron didnt create a pitiful work of art
+12 There is a contradiction here?	no	1
+13 nora created a brave and chubby work of art
+14 nora didnt create a brave work of art
+15 There is a contradiction here?	yes	1
+1 annie created a mysterious and clever work of art
+2 annie didnt create a wonderful work of art
+3 There is a contradiction here?	no	1
+4 phillip created a flabby and mango work of art
+5 phillip didnt create a flabby work of art
+6 There is a contradiction here?	yes	1
+7 manuel created a brave and gifted work of art
+8 norman didnt create a gifted work of art
+9 There is a contradiction here?	no	1
+10 brian created a wonderful and brave work of art
+11 brian didnt create a wonderful work of art
+12 There is a contradiction here?	yes	1
+13 dana created an itchy and helpless work of art
+14 erika didnt create an itchy work of art
+15 There is a contradiction here?	no	1
+1 louise created a dazzling and ashy work of art
+2 louise didnt create a dazzling work of art
+3 There is a contradiction here?	yes	1
+4 vicki created an odd and famous work of art
+5 vicki didnt create an odd work of art
+6 There is a contradiction here?	yes	1
+7 nicole created a fancy and brave work of art
+8 nicole didnt create a fancy work of art
+9 There is a contradiction here?	yes	1
+10 jacob created an aggressive and poor work of art
+11 jacob didnt create an aggressive work of art
+12 There is a contradiction here?	yes	1
+13 dustin created a mysterious and unimportant work of art
+14 catherine didnt create an unimportant work of art
+15 There is a contradiction here?	no	1
+1 jessie created a green and helpful work of art
+2 jessie didnt create a green work of art
+3 There is a contradiction here?	yes	1
+4 hector created a clever and delightful work of art
+5 hector didnt create a clever work of art
+6 There is a contradiction here?	yes	1
+7 pearl created a green and happy work of art
+8 eduardo didnt create a happy work of art
+9 There is a contradiction here?	no	1
+10 andy created a careful and delightful work of art
+11 troy didnt create a careful work of art
+12 There is a contradiction here?	no	1
+13 pamela created a yellow and jealous work of art
+14 pamela didnt create a yellow work of art
+15 There is a contradiction here?	yes	1
+1 judy created a glamorous and ugly work of art
+2 judy didnt create a glamorous work of art
+3 There is a contradiction here?	yes	1
+4 nancy created a mushy and victorious work of art
+5 barbara didnt create a victorious work of art
+6 There is a contradiction here?	no	1
+7 allen created a clean and blue work of art
+8 allen didnt create a clean work of art
+9 There is a contradiction here?	yes	1
+10 jane created a mealy and mushy work of art
+11 jane didnt create a mealy work of art
+12 There is a contradiction here?	yes	1
+13 peter created a plump and unimportant work of art
+14 elmer didnt create a plump work of art
+15 There is a contradiction here?	no	1
+1 darren created a red and short work of art
+2 darren didnt create a red work of art
+3 There is a contradiction here?	yes	1
+4 theodore created a dazzling and vast work of art
+5 theodore didnt create a nice work of art
+6 There is a contradiction here?	no	1
+7 janice created a long and clean work of art
+8 lena didnt create a clean work of art
+9 There is a contradiction here?	no	1
+10 judy created a victorious and wonderful work of art
+11 becky didnt create a wonderful work of art
+12 There is a contradiction here?	no	1
+13 jamie created a gorgeous and zealous work of art
+14 gordon didnt create a zealous work of art
+15 There is a contradiction here?	no	1
+1 francisco created a chubby and happy work of art
+2 francisco didnt create a chubby work of art
+3 There is a contradiction here?	yes	1
+4 katie created a jealous and plump work of art
+5 alberta didnt create a jealous work of art
+6 There is a contradiction here?	no	1
+7 raymond created a helpless and thoughtless work of art
+8 samantha didnt create a helpless work of art
+9 There is a contradiction here?	no	1
+10 verna created a thoughtless and fancy work of art
+11 marie didnt create a fancy work of art
+12 There is a contradiction here?	no	1
+13 hazel created an eager and long work of art
+14 harvey didnt create a long work of art
+15 There is a contradiction here?	no	1
+1 myrtle created a short and muscular work of art
+2 melissa didnt create a short work of art
+3 There is a contradiction here?	no	1
+4 george created a plain and muscular work of art
+5 olga didnt create a plain work of art
+6 There is a contradiction here?	no	1
+7 glenn created a helpful and muscular work of art
+8 glenn didnt create a bewildered work of art
+9 There is a contradiction here?	no	1
+10 eva created an embarrassed and powerful work of art
+11 eva didnt create an alive work of art
+12 There is a contradiction here?	no	1
+13 maria created a mealy and important work of art
+14 maria didnt create a lively work of art
+15 There is a contradiction here?	no	1
+1 audrey created a white and drab work of art
+2 audrey didnt create an elegant work of art
+3 There is a contradiction here?	no	1
+4 dwayne created a green and rich work of art
+5 dwayne didnt create a green work of art
+6 There is a contradiction here?	yes	1
+7 bonnie created a clumsy and stocky work of art
+8 bonnie didnt create a clumsy work of art
+9 There is a contradiction here?	yes	1
+10 fred created an obedient and helpful work of art
+11 fred didnt create an obedient work of art
+12 There is a contradiction here?	yes	1
+13 steven created a kind and powerful work of art
+14 steven didnt create a kind work of art
+15 There is a contradiction here?	yes	1
+1 diane created a black and careful work of art
+2 diane didnt create a hallowed work of art
+3 There is a contradiction here?	no	1
+4 derrick created a careful and hallowed work of art
+5 derrick didnt create a careful work of art
+6 There is a contradiction here?	yes	1
+7 maggie created a kind and better work of art
+8 ana didnt create a better work of art
+9 There is a contradiction here?	no	1
+10 marcia created an attractive and faithful work of art
+11 warren didnt create an attractive work of art
+12 There is a contradiction here?	no	1
+13 fernando created an icy and salmon work of art
+14 joseph didnt create a salmon work of art
+15 There is a contradiction here?	no	1
+1 natasha created a handsome and uninterested work of art
+2 natasha didnt create a handsome work of art
+3 There is a contradiction here?	yes	1
+4 jacqueline created a repulsive and tender work of art
+5 jacqueline didnt create a repulsive work of art
+6 There is a contradiction here?	yes	1
+7 anna created a fierce and skinny work of art
+8 ben didnt create a fierce work of art
+9 There is a contradiction here?	no	1
+10 connie created a gentle and easy work of art
+11 connie didnt create an unsightly work of art
+12 There is a contradiction here?	no	1
+13 tammy created a zealous and fancy work of art
+14 shelley didnt create a zealous work of art
+15 There is a contradiction here?	no	1
+1 kelly created an unimportant and gentle work of art
+2 kelly didnt create an unimportant work of art
+3 There is a contradiction here?	yes	1
+4 misty created a green and white work of art
+5 angie didnt create a green work of art
+6 There is a contradiction here?	no	1
+7 travis created a vast and ambitious work of art
+8 travis didnt create a blue work of art
+9 There is a contradiction here?	no	1
+10 jerry created a powerful and dead work of art
+11 jerry didnt create a powerful work of art
+12 There is a contradiction here?	yes	1
+13 vicki created a black and uptight work of art
+14 francisco didnt create an uptight work of art
+15 There is a contradiction here?	no	1
+1 maryann created a proud and clever work of art
+2 maryann didnt create a proud work of art
+3 There is a contradiction here?	yes	1
+4 beverly created a defeated and happy work of art
+5 beverly didnt create a wonderful work of art
+6 There is a contradiction here?	no	1
+7 russell created a chubby and repulsive work of art
+8 russell didnt create a chubby work of art
+9 There is a contradiction here?	yes	1
+10 willard created a nervous and scary work of art
+11 willard didnt create a kind work of art
+12 There is a contradiction here?	no	1
+13 carole created a shy and agreeable work of art
+14 carole didnt create a shy work of art
+15 There is a contradiction here?	yes	1
+1 katherine created a defeated and lazy work of art
+2 katherine didnt create a defeated work of art
+3 There is a contradiction here?	yes	1
+4 jeremy created a careful and uptight work of art
+5 jeremy didnt create a careful work of art
+6 There is a contradiction here?	yes	1
+7 brian created a gorgeous and nervous work of art
+8 brian didnt create a gorgeous work of art
+9 There is a contradiction here?	yes	1
+10 clayton created a plain and clean work of art
+11 rita didnt create a clean work of art
+12 There is a contradiction here?	no	1
+13 ann created an ugly and skinny work of art
+14 ann didnt create an ugly work of art
+15 There is a contradiction here?	yes	1
+1 hilda created a red and white work of art
+2 steven didnt create a red work of art
+3 There is a contradiction here?	no	1
+4 maurice created a muscular and uptight work of art
+5 maurice didnt create a wonderful work of art
+6 There is a contradiction here?	no	1
+7 hilda created a kind and famous work of art
+8 ted didnt create a famous work of art
+9 There is a contradiction here?	no	1
+10 leo created a hallowed and polite work of art
+11 leo didnt create a hallowed work of art
+12 There is a contradiction here?	yes	1
+13 katherine created an uninterested and tender work of art
+14 katherine didnt create an uninterested work of art
+15 There is a contradiction here?	yes	1
+1 melvin created a fierce and odd work of art
+2 ian didnt create a fierce work of art
+3 There is a contradiction here?	no	1
+4 brenda created a wonderful and jolly work of art
+5 brenda didnt create a wonderful work of art
+6 There is a contradiction here?	yes	1
+7 stacy created a mango and wrong work of art
+8 stacy didnt create a mango work of art
+9 There is a contradiction here?	yes	1
+10 janice created a salmon and shapely work of art
+11 janice didnt create an ugly work of art
+12 There is a contradiction here?	no	1
+13 bill created an obedient and unimportant work of art
+14 bill didnt create an obedient work of art
+15 There is a contradiction here?	yes	1
+1 ella created a fierce and purple work of art
+2 wade didnt create a fierce work of art
+3 There is a contradiction here?	no	1
+4 jorge created a helpful and wonderful work of art
+5 jorge didnt create a happy work of art
+6 There is a contradiction here?	no	1
+7 anna created a beautiful and dazzling work of art
+8 anna didnt create a beautiful work of art
+9 There is a contradiction here?	yes	1
+10 james created an ashy and alive work of art
+11 james didnt create an ashy work of art
+12 There is a contradiction here?	yes	1
+13 patrick created a better and clean work of art
+14 steven didnt create a clean work of art
+15 There is a contradiction here?	no	1
+1 justin created an uptight and repulsive work of art
+2 justin didnt create an uptight work of art
+3 There is a contradiction here?	yes	1
+4 holly created a famous and yellow work of art
+5 holly didnt create a famous work of art
+6 There is a contradiction here?	yes	1
+7 amber created a stocky and dead work of art
+8 amber didnt create an angry work of art
+9 There is a contradiction here?	no	1
+10 kelly created a shapely and green work of art
+11 kelly didnt create a shapely work of art
+12 There is a contradiction here?	yes	1
+13 fernando created a blue and careful work of art
+14 fernando didnt create a blue work of art
+15 There is a contradiction here?	yes	1
+1 oscar created a jolly and unimportant work of art
+2 patrick didnt create a jolly work of art
+3 There is a contradiction here?	no	1
+4 justin created an unimportant and gray work of art
+5 justin didnt create an unimportant work of art
+6 There is a contradiction here?	yes	1
+7 bradley created an ashy and odd work of art
+8 bradley didnt create an eager work of art
+9 There is a contradiction here?	no	1
+10 adam created an itchy and obnoxious work of art
+11 adrian didnt create an obnoxious work of art
+12 There is a contradiction here?	no	1
+13 sherri created a powerful and fancy work of art
+14 leah didnt create a powerful work of art
+15 There is a contradiction here?	no	1
+1 scott created an alive and handsome work of art
+2 scott didnt create a defeated work of art
+3 There is a contradiction here?	no	1
+4 cody created a jealous and important work of art
+5 jimmie didnt create an important work of art
+6 There is a contradiction here?	no	1
+7 johnny created a better and short work of art
+8 johnny didnt create a better work of art
+9 There is a contradiction here?	yes	1
+10 wallace created a repulsive and aggressive work of art
+11 ramona didnt create an aggressive work of art
+12 There is a contradiction here?	no	1
+13 monica created a gorgeous and kind work of art
+14 monica didnt create a gorgeous work of art
+15 There is a contradiction here?	yes	1
+1 sonia created a shapely and better work of art
+2 sonia didnt create a red work of art
+3 There is a contradiction here?	no	1
+4 bonnie created a lemon and attractive work of art
+5 stephanie didnt create a lemon work of art
+6 There is a contradiction here?	no	1
+7 ralph created a victorious and easy work of art
+8 ralph didnt create a victorious work of art
+9 There is a contradiction here?	yes	1
+10 donna created a fit and powerful work of art
+11 donna didnt create a fit work of art
+12 There is a contradiction here?	yes	1
+13 guy created an icy and magnificent work of art
+14 guy didnt create an icy work of art
+15 There is a contradiction here?	yes	1
+1 arthur created a worried and ashy work of art
+2 arthur didnt create a worried work of art
+3 There is a contradiction here?	yes	1
+4 maureen created a white and worried work of art
+5 maureen didnt create a white work of art
+6 There is a contradiction here?	yes	1
+7 sue created a happy and famous work of art
+8 sue didnt create a happy work of art
+9 There is a contradiction here?	yes	1
+10 jim created a mango and better work of art
+11 jim didnt create a mango work of art
+12 There is a contradiction here?	yes	1
+13 darryl created a quaint and victorious work of art
+14 darryl didnt create a quaint work of art
+15 There is a contradiction here?	yes	1
+1 tracy created an uninterested and short work of art
+2 michele didnt create an uninterested work of art
+3 There is a contradiction here?	no	1
+4 darren created a pitiful and zealous work of art
+5 darren didnt create a pitiful work of art
+6 There is a contradiction here?	yes	1
+7 fannie created a tender and nice work of art
+8 fannie didnt create a tender work of art
+9 There is a contradiction here?	yes	1
+10 leona created a thankful and repulsive work of art
+11 edward didnt create a repulsive work of art
+12 There is a contradiction here?	no	1
+13 charles created a thoughtless and victorious work of art
+14 charles didnt create an uptight work of art
+15 There is a contradiction here?	no	1
+1 jon created a quaint and ambitious work of art
+2 jon didnt create a quaint work of art
+3 There is a contradiction here?	yes	1
+4 vernon created a red and kind work of art
+5 vernon didnt create a glamorous work of art
+6 There is a contradiction here?	no	1
+7 rosie created a plain and muscular work of art
+8 gwendolyn didnt create a plain work of art
+9 There is a contradiction here?	no	1
+10 marc created an elegant and kind work of art
+11 marc didnt create an elegant work of art
+12 There is a contradiction here?	yes	1
+13 rita created a happy and fancy work of art
+14 rita didnt create a happy work of art
+15 There is a contradiction here?	yes	1
+1 tamara created a flabby and scruffy work of art
+2 tamara didnt create a yellow work of art
+3 There is a contradiction here?	no	1
+4 delores created a proud and stocky work of art
+5 jeffrey didnt create a stocky work of art
+6 There is a contradiction here?	no	1
+7 ted created a blue and shy work of art
+8 ted didnt create a polite work of art
+9 There is a contradiction here?	no	1
+10 brenda created a clever and important work of art
+11 brenda didnt create a clever work of art
+12 There is a contradiction here?	yes	1
+13 lance created a gorgeous and ashy work of art
+14 ethel didnt create a gorgeous work of art
+15 There is a contradiction here?	no	1
+1 terri created a gorgeous and dead work of art
+2 hazel didnt create a dead work of art
+3 There is a contradiction here?	no	1
+4 chris created a plain and embarrassed work of art
+5 chris didnt create a plain work of art
+6 There is a contradiction here?	yes	1
+7 enrique created a helpful and quaint work of art
+8 enrique didnt create a helpful work of art
+9 There is a contradiction here?	yes	1
+10 harriet created an orange and ashy work of art
+11 brandi didnt create an orange work of art
+12 There is a contradiction here?	no	1
+13 jimmy created a nice and mango work of art
+14 jimmy didnt create a famous work of art
+15 There is a contradiction here?	no	1
+1 lonnie created a magnificent and panicky work of art
+2 justin didnt create a panicky work of art
+3 There is a contradiction here?	no	1
+4 jackie created a clumsy and odd work of art
+5 jackie didnt create a clumsy work of art
+6 There is a contradiction here?	yes	1
+7 leona created a salmon and delightful work of art
+8 leona didnt create a salmon work of art
+9 There is a contradiction here?	yes	1
+10 virgil created a defeated and easy work of art
+11 christine didnt create a defeated work of art
+12 There is a contradiction here?	no	1
+13 george created a polite and pitiful work of art
+14 george didnt create a polite work of art
+15 There is a contradiction here?	yes	1
+1 sergio created an alive and black work of art
+2 brian didnt create an alive work of art
+3 There is a contradiction here?	no	1
+4 jordan created a repulsive and worried work of art
+5 jordan didnt create a repulsive work of art
+6 There is a contradiction here?	yes	1
+7 stephen created an angry and plump work of art
+8 stephen didnt create a clever work of art
+9 There is a contradiction here?	no	1
+10 ray created a dazzling and nervous work of art
+11 ray didnt create a dazzling work of art
+12 There is a contradiction here?	yes	1
+13 dolores created a clever and fierce work of art
+14 dolores didnt create a clever work of art
+15 There is a contradiction here?	yes	1
+1 katie created an ugly and calm work of art
+2 katie didnt create a gorgeous work of art
+3 There is a contradiction here?	no	1
+4 salvador created a lively and drab work of art
+5 salvador didnt create a nice work of art
+6 There is a contradiction here?	no	1
+7 glenda created a lively and obnoxious work of art
+8 catherine didnt create a lively work of art
+9 There is a contradiction here?	no	1
+10 lois created a red and nice work of art
+11 louise didnt create a nice work of art
+12 There is a contradiction here?	no	1
+13 karen created a glamorous and gorgeous work of art
+14 karen didnt create a brave work of art
+15 There is a contradiction here?	no	1
+1 victoria created an itchy and wrong work of art
+2 victoria didnt create an itchy work of art
+3 There is a contradiction here?	yes	1
+4 jeanne created an obnoxious and vast work of art
+5 jeanne didnt create an obnoxious work of art
+6 There is a contradiction here?	yes	1
+7 georgia created a lazy and zealous work of art
+8 georgia didnt create an icy work of art
+9 There is a contradiction here?	no	1
+10 anthony created a thoughtless and short work of art
+11 anthony didnt create a flabby work of art
+12 There is a contradiction here?	no	1
+13 minnie created a faithful and vast work of art
+14 minnie didnt create a lively work of art
+15 There is a contradiction here?	no	1
+1 susan created a scary and helpful work of art
+2 suzanne didnt create a helpful work of art
+3 There is a contradiction here?	no	1
+4 janie created a gorgeous and happy work of art
+5 janie didnt create a gorgeous work of art
+6 There is a contradiction here?	yes	1
+7 steven created a yellow and blue work of art
+8 harriet didnt create a blue work of art
+9 There is a contradiction here?	no	1
+10 tommy created a red and white work of art
+11 tommy didnt create an odd work of art
+12 There is a contradiction here?	no	1
+13 opal created an agreeable and flabby work of art
+14 opal didnt create an agreeable work of art
+15 There is a contradiction here?	yes	1
+1 kyle created an uptight and drab work of art
+2 francisco didnt create an uptight work of art
+3 There is a contradiction here?	no	1
+4 ana created a dazzling and flabby work of art
+5 ana didnt create an easy work of art
+6 There is a contradiction here?	no	1
+7 claude created a helpless and bewildered work of art
+8 claude didnt create a helpless work of art
+9 There is a contradiction here?	yes	1
+10 debra created a panicky and thankful work of art
+11 debra didnt create a panicky work of art
+12 There is a contradiction here?	yes	1
+13 catherine created an attractive and aggressive work of art
+14 catherine didnt create an ugly work of art
+15 There is a contradiction here?	no	1
+1 sally created a pitiful and fancy work of art
+2 lucille didnt create a fancy work of art
+3 There is a contradiction here?	no	1
+4 dave created a thoughtless and gentle work of art
+5 dave didnt create a thoughtless work of art
+6 There is a contradiction here?	yes	1
+7 mike created a defeated and purple work of art
+8 mike didnt create a defeated work of art
+9 There is a contradiction here?	yes	1
+10 roberta created a black and unimportant work of art
+11 roberta didnt create a silly work of art
+12 There is a contradiction here?	no	1
+13 andrew created a dazzling and repulsive work of art
+14 carolyn didnt create a repulsive work of art
+15 There is a contradiction here?	no	1
+1 gordon created an unimportant and mushy work of art
+2 gordon didnt create an unimportant work of art
+3 There is a contradiction here?	yes	1
+4 gloria created a glamorous and eager work of art
+5 ian didnt create a glamorous work of art
+6 There is a contradiction here?	no	1
+7 herbert created a quaint and wrong work of art
+8 nathan didnt create a wrong work of art
+9 There is a contradiction here?	no	1
+10 amber created a wonderful and flabby work of art
+11 amber didnt create a wonderful work of art
+12 There is a contradiction here?	yes	1
+13 samuel created an elegant and plump work of art
+14 chester didnt create a plump work of art
+15 There is a contradiction here?	no	1
+1 travis created a panicky and ambitious work of art
+2 travis didnt create a panicky work of art
+3 There is a contradiction here?	yes	1
+4 florence created an attractive and drab work of art
+5 andy didnt create an attractive work of art
+6 There is a contradiction here?	no	1
+7 christine created a pitiful and jolly work of art
+8 christine didnt create a shy work of art
+9 There is a contradiction here?	no	1
+10 candace created a clean and helpless work of art
+11 candace didnt create a clean work of art
+12 There is a contradiction here?	yes	1
+13 chester created a flabby and silly work of art
+14 chester didnt create a flabby work of art
+15 There is a contradiction here?	yes	1
+1 maxine created an obnoxious and lively work of art
+2 maxine didnt create an obnoxious work of art
+3 There is a contradiction here?	yes	1
+4 larry created a pitiful and rich work of art
+5 larry didnt create a pitiful work of art
+6 There is a contradiction here?	yes	1
+7 hattie created a helpful and vast work of art
+8 hattie didnt create a helpful work of art
+9 There is a contradiction here?	yes	1
+10 susie created a proud and careful work of art
+11 susie didnt create a jealous work of art
+12 There is a contradiction here?	no	1
+13 norma created a grumpy and wonderful work of art
+14 norma didnt create a grumpy work of art
+15 There is a contradiction here?	yes	1
+1 wayne created an important and elegant work of art
+2 wayne didnt create an important work of art
+3 There is a contradiction here?	yes	1
+4 jean created a red and obedient work of art
+5 jean didnt create a red work of art
+6 There is a contradiction here?	yes	1
+7 wade created a blue and silly work of art
+8 wade didnt create a blue work of art
+9 There is a contradiction here?	yes	1
+10 clyde created a brave and proud work of art
+11 jason didnt create a brave work of art
+12 There is a contradiction here?	no	1
+13 joy created a bewildered and white work of art
+14 randall didnt create a bewildered work of art
+15 There is a contradiction here?	no	1
+1 hattie created a jolly and itchy work of art
+2 hattie didnt create a jolly work of art
+3 There is a contradiction here?	yes	1
+4 virgil created a jolly and nervous work of art
+5 virgil didnt create a jolly work of art
+6 There is a contradiction here?	yes	1
+7 laurie created a mealy and drab work of art
+8 laurie didnt create a mealy work of art
+9 There is a contradiction here?	yes	1
+10 craig created a powerful and wonderful work of art
+11 laura didnt create a powerful work of art
+12 There is a contradiction here?	no	1
+13 alberto created an eager and nice work of art
+14 alberto didnt create an eager work of art
+15 There is a contradiction here?	yes	1
+1 natasha created an angry and skinny work of art
+2 lillian didnt create a skinny work of art
+3 There is a contradiction here?	no	1
+4 christian created a dead and mango work of art
+5 stanley didnt create a dead work of art
+6 There is a contradiction here?	no	1
+7 leo created a clean and uptight work of art
+8 leo didnt create a clean work of art
+9 There is a contradiction here?	yes	1
+10 rebecca created a defeated and chubby work of art
+11 rebecca didnt create a defeated work of art
+12 There is a contradiction here?	yes	1
+13 viola created a plain and helpless work of art
+14 viola didnt create a plain work of art
+15 There is a contradiction here?	yes	1
+1 lindsey created a panicky and nervous work of art
+2 lindsay didnt create a nervous work of art
+3 There is a contradiction here?	no	1
+4 juan created a mango and silly work of art
+5 juan didnt create a mango work of art
+6 There is a contradiction here?	yes	1
+7 brittany created a famous and gifted work of art
+8 brittany didnt create a famous work of art
+9 There is a contradiction here?	yes	1
+10 tyrone created a fit and glamorous work of art
+11 tyrone didnt create a fit work of art
+12 There is a contradiction here?	yes	1
+13 melvin created a zealous and mealy work of art
+14 melvin didnt create a zealous work of art
+15 There is a contradiction here?	yes	1
+1 doris created a mushy and uninterested work of art
+2 doris didnt create a mushy work of art
+3 There is a contradiction here?	yes	1
+4 velma created a quaint and jealous work of art
+5 velma didnt create a quaint work of art
+6 There is a contradiction here?	yes	1
+7 lula created an embarrassed and bewildered work of art
+8 raymond didnt create a bewildered work of art
+9 There is a contradiction here?	no	1
+10 terry created a clever and happy work of art
+11 terry didnt create a mango work of art
+12 There is a contradiction here?	no	1
+13 cheryl created an important and delightful work of art
+14 thelma didnt create an important work of art
+15 There is a contradiction here?	no	1
+1 stacy created an unsightly and quaint work of art
+2 stacy didnt create an unsightly work of art
+3 There is a contradiction here?	yes	1
+4 roberta created a purple and defeated work of art
+5 roberta didnt create a purple work of art
+6 There is a contradiction here?	yes	1
+7 lance created a gorgeous and jolly work of art
+8 vincent didnt create a jolly work of art
+9 There is a contradiction here?	no	1
+10 christopher created a muscular and clumsy work of art
+11 christopher didnt create a muscular work of art
+12 There is a contradiction here?	yes	1
+13 ella created a panicky and uptight work of art
+14 eunice didnt create a panicky work of art
+15 There is a contradiction here?	no	1
+1 eva created a wonderful and drab work of art
+2 jan didnt create a wonderful work of art
+3 There is a contradiction here?	no	1
+4 jaime created a nervous and kind work of art
+5 margaret didnt create a kind work of art
+6 There is a contradiction here?	no	1
+7 candace created a gentle and beautiful work of art
+8 robert didnt create a gentle work of art
+9 There is a contradiction here?	no	1
+10 elizabeth created a hallowed and magnificent work of art
+11 bessie didnt create a magnificent work of art
+12 There is a contradiction here?	no	1
+13 hugh created a clever and grumpy work of art
+14 hugh didnt create a clever work of art
+15 There is a contradiction here?	yes	1
+1 yolanda created an eager and fancy work of art
+2 yolanda didnt create an eager work of art
+3 There is a contradiction here?	yes	1
+4 christy created a blue and victorious work of art
+5 christy didnt create a blue work of art
+6 There is a contradiction here?	yes	1
+7 kimberly created a gorgeous and bewildered work of art
+8 kimberly didnt create a gifted work of art
+9 There is a contradiction here?	no	1
+10 arlene created a handsome and worried work of art
+11 travis didnt create a worried work of art
+12 There is a contradiction here?	no	1
+13 adam created a defeated and helpless work of art
+14 adam didnt create a quaint work of art
+15 There is a contradiction here?	no	1
+1 armando created a drab and stocky work of art
+2 ronnie didnt create a stocky work of art
+3 There is a contradiction here?	no	1
+4 marvin created a mysterious and dead work of art
+5 marilyn didnt create a dead work of art
+6 There is a contradiction here?	no	1
+7 luz created a silly and mealy work of art
+8 samantha didnt create a mealy work of art
+9 There is a contradiction here?	no	1
+10 edith created an unsightly and agreeable work of art
+11 javier didnt create an agreeable work of art
+12 There is a contradiction here?	no	1
+13 clinton created an obnoxious and famous work of art
+14 clinton didnt create an obnoxious work of art
+15 There is a contradiction here?	yes	1
+1 nora created a silly and uptight work of art
+2 ruby didnt create an uptight work of art
+3 There is a contradiction here?	no	1
+4 ella created an orange and powerful work of art
+5 ella didnt create an orange work of art
+6 There is a contradiction here?	yes	1
+7 carl created an important and unimportant work of art
+8 lori didnt create an important work of art
+9 There is a contradiction here?	no	1
+10 fred created a gorgeous and defeated work of art
+11 fred didnt create a gorgeous work of art
+12 There is a contradiction here?	yes	1
+13 dean created a drab and happy work of art
+14 tim didnt create a drab work of art
+15 There is a contradiction here?	no	1
+1 stella created a salmon and thoughtless work of art
+2 ralph didnt create a thoughtless work of art
+3 There is a contradiction here?	no	1
+4 brett created a careful and jolly work of art
+5 hazel didnt create a careful work of art
+6 There is a contradiction here?	no	1
+7 erik created a gentle and fancy work of art
+8 erik didnt create a gentle work of art
+9 There is a contradiction here?	yes	1
+10 leroy created a tender and aggressive work of art
+11 sidney didnt create a tender work of art
+12 There is a contradiction here?	no	1
+13 ramon created an ashy and inexpensive work of art
+14 ramon didnt create an ashy work of art
+15 There is a contradiction here?	yes	1
+1 jesse created an ugly and chubby work of art
+2 cheryl didnt create an ugly work of art
+3 There is a contradiction here?	no	1
+4 albert created a chubby and beautiful work of art
+5 gwendolyn didnt create a beautiful work of art
+6 There is a contradiction here?	no	1
+7 martin created a mushy and easy work of art
+8 mario didnt create an easy work of art
+9 There is a contradiction here?	no	1
+10 tim created a clever and gifted work of art
+11 maxine didnt create a clever work of art
+12 There is a contradiction here?	no	1
+13 megan created a careful and elegant work of art
+14 melanie didnt create a careful work of art
+15 There is a contradiction here?	no	1
+1 sheryl created a polite and attractive work of art
+2 sheryl didnt create a polite work of art
+3 There is a contradiction here?	yes	1
+4 sandy created a polite and lemon work of art
+5 sandy didnt create a polite work of art
+6 There is a contradiction here?	yes	1
+7 theresa created a blue and embarrassed work of art
+8 theresa didnt create a blue work of art
+9 There is a contradiction here?	yes	1
+10 ruby created a better and red work of art
+11 ruby didnt create a grumpy work of art
+12 There is a contradiction here?	no	1
+13 brandon created a dead and agreeable work of art
+14 ian didnt create a dead work of art
+15 There is a contradiction here?	no	1
+1 fred created a salmon and calm work of art
+2 fred didnt create a salmon work of art
+3 There is a contradiction here?	yes	1
+4 april created a fit and quaint work of art
+5 randall didnt create a fit work of art
+6 There is a contradiction here?	no	1
+7 jamie created a black and mushy work of art
+8 jamie didnt create an elegant work of art
+9 There is a contradiction here?	no	1
+10 jimmy created an orange and flabby work of art
+11 jimmy didnt create an orange work of art
+12 There is a contradiction here?	yes	1
+13 gabriel created an icy and salmon work of art
+14 gabriel didnt create an icy work of art
+15 There is a contradiction here?	yes	1
+1 katrina created a red and plain work of art
+2 katrina didnt create a rich work of art
+3 There is a contradiction here?	no	1
+4 ted created an unimportant and chubby work of art
+5 ted didnt create an unimportant work of art
+6 There is a contradiction here?	yes	1
+7 agnes created an odd and nice work of art
+8 agnes didnt create a dazzling work of art
+9 There is a contradiction here?	no	1
+10 pamela created an unkempt and better work of art
+11 pamela didnt create an unkempt work of art
+12 There is a contradiction here?	yes	1
+13 don created a kind and embarrassed work of art
+14 don didnt create a kind work of art
+15 There is a contradiction here?	yes	1
+1 mathew created a magnificent and rich work of art
+2 mathew didnt create a magnificent work of art
+3 There is a contradiction here?	yes	1
+4 jessica created a panicky and stocky work of art
+5 jessica didnt create a panicky work of art
+6 There is a contradiction here?	yes	1
+7 tamara created a glamorous and scruffy work of art
+8 tamara didnt create a glamorous work of art
+9 There is a contradiction here?	yes	1
+10 kristy created a zealous and attractive work of art
+11 neil didnt create a zealous work of art
+12 There is a contradiction here?	no	1
+13 josephine created an itchy and victorious work of art
+14 josephine didnt create an itchy work of art
+15 There is a contradiction here?	yes	1
+1 sandy created a better and icy work of art
+2 sandy didnt create a better work of art
+3 There is a contradiction here?	yes	1
+4 naomi created an aggressive and alive work of art
+5 naomi didnt create an agreeable work of art
+6 There is a contradiction here?	no	1
+7 tiffany created a mealy and wonderful work of art
+8 tiffany didnt create a dazzling work of art
+9 There is a contradiction here?	no	1
+10 jimmie created a purple and faithful work of art
+11 jimmie didnt create a purple work of art
+12 There is a contradiction here?	yes	1
+13 ella created a clean and short work of art
+14 herbert didnt create a clean work of art
+15 There is a contradiction here?	no	1
+1 monique created a rich and obedient work of art
+2 ruben didnt create an obedient work of art
+3 There is a contradiction here?	no	1
+4 josephine created a drab and elegant work of art
+5 brandy didnt create an elegant work of art
+6 There is a contradiction here?	no	1
+7 rachel created an important and poor work of art
+8 rachel didnt create an important work of art
+9 There is a contradiction here?	yes	1
+10 freddie created a flabby and long work of art
+11 tiffany didnt create a long work of art
+12 There is a contradiction here?	no	1
+13 isaac created a yellow and uninterested work of art
+14 anthony didnt create an uninterested work of art
+15 There is a contradiction here?	no	1
+1 kristi created a poor and vast work of art
+2 kristi didnt create a gorgeous work of art
+3 There is a contradiction here?	no	1
+4 lindsey created a beautiful and defeated work of art
+5 lindsey didnt create a beautiful work of art
+6 There is a contradiction here?	yes	1
+7 jeffrey created a bald and powerful work of art
+8 jeffrey didnt create a bewildered work of art
+9 There is a contradiction here?	no	1
+10 martha created a brave and helpless work of art
+11 martha didnt create a brave work of art
+12 There is a contradiction here?	yes	1
+13 cheryl created a purple and better work of art
+14 cheryl didnt create a purple work of art
+15 There is a contradiction here?	yes	1
+1 lauren created a purple and grumpy work of art
+2 lauren didnt create a purple work of art
+3 There is a contradiction here?	yes	1
+4 lucy created an inexpensive and bewildered work of art
+5 terrance didnt create an inexpensive work of art
+6 There is a contradiction here?	no	1
+7 aaron created a green and flabby work of art
+8 miriam didnt create a flabby work of art
+9 There is a contradiction here?	no	1
+10 erica created a beautiful and witty work of art
+11 erica didnt create a beautiful work of art
+12 There is a contradiction here?	yes	1
+13 melinda created a defeated and nervous work of art
+14 melinda didnt create a defeated work of art
+15 There is a contradiction here?	yes	1
+1 marsha created a beautiful and odd work of art
+2 dwight didnt create an odd work of art
+3 There is a contradiction here?	no	1
+4 ross created an alive and salmon work of art
+5 ross didnt create a shapely work of art
+6 There is a contradiction here?	no	1
+7 julie created a salmon and orange work of art
+8 julie didnt create a gifted work of art
+9 There is a contradiction here?	no	1
+10 frank created a powerful and alive work of art
+11 frank didnt create a powerful work of art
+12 There is a contradiction here?	yes	1
+13 joann created a careful and tender work of art
+14 joann didnt create a careful work of art
+15 There is a contradiction here?	yes	1
+1 brittany created a mysterious and scruffy work of art
+2 brittany didnt create a mysterious work of art
+3 There is a contradiction here?	yes	1
+4 carmen created an unkempt and long work of art
+5 carmen didnt create an unkempt work of art
+6 There is a contradiction here?	yes	1
+7 todd created a gorgeous and attractive work of art
+8 todd didnt create a white work of art
+9 There is a contradiction here?	no	1
+10 donald created a helpful and black work of art
+11 donald didnt create a helpful work of art
+12 There is a contradiction here?	yes	1
+13 vickie created a short and fit work of art
+14 dean didnt create a short work of art
+15 There is a contradiction here?	no	1
+1 hattie created a helpless and handsome work of art
+2 hattie didnt create a poor work of art
+3 There is a contradiction here?	no	1
+4 kristi created an agreeable and plump work of art
+5 kristi didnt create an agreeable work of art
+6 There is a contradiction here?	yes	1
+7 yvette created a bewildered and inexpensive work of art
+8 yvette didnt create a plain work of art
+9 There is a contradiction here?	no	1
+10 dorothy created a gifted and helpless work of art
+11 nancy didnt create a helpless work of art
+12 There is a contradiction here?	no	1
+13 lindsay created a bald and lemon work of art
+14 lindsay didnt create a bald work of art
+15 There is a contradiction here?	yes	1
+1 mitchell created a gorgeous and lively work of art
+2 mitchell didnt create an angry work of art
+3 There is a contradiction here?	no	1
+4 terry created a dead and repulsive work of art
+5 kathleen didnt create a repulsive work of art
+6 There is a contradiction here?	no	1
+7 melanie created a gorgeous and thoughtless work of art
+8 albert didnt create a thoughtless work of art
+9 There is a contradiction here?	no	1
+10 rachel created an odd and obedient work of art
+11 rachel didnt create an attractive work of art
+12 There is a contradiction here?	no	1
+13 willie created a fancy and gorgeous work of art
+14 kristen didnt create a gorgeous work of art
+15 There is a contradiction here?	no	1
+1 kelly created a gifted and lazy work of art
+2 kelly didnt create a gifted work of art
+3 There is a contradiction here?	yes	1
+4 terrence created a thoughtless and thankful work of art
+5 matthew didnt create a thankful work of art
+6 There is a contradiction here?	no	1
+7 ernest created an inexpensive and orange work of art
+8 marc didnt create an orange work of art
+9 There is a contradiction here?	no	1
+10 roberto created a red and mushy work of art
+11 roberto didnt create a red work of art
+12 There is a contradiction here?	yes	1
+13 lydia created a better and obedient work of art
+14 lydia didnt create a beautiful work of art
+15 There is a contradiction here?	no	1
+1 dana created a fierce and quaint work of art
+2 dana didnt create a fierce work of art
+3 There is a contradiction here?	yes	1
+4 jacqueline created a clean and alive work of art
+5 chad didnt create a clean work of art
+6 There is a contradiction here?	no	1
+7 nora created a kind and unsightly work of art
+8 jeremy didnt create a kind work of art
+9 There is a contradiction here?	no	1
+10 bertha created a happy and victorious work of art
+11 bertha didnt create a happy work of art
+12 There is a contradiction here?	yes	1
+13 molly created a brave and handsome work of art
+14 molly didnt create a brave work of art
+15 There is a contradiction here?	yes	1
+1 heidi created a wonderful and tender work of art
+2 heidi didnt create a wonderful work of art
+3 There is a contradiction here?	yes	1
+4 stanley created an uptight and plump work of art
+5 mildred didnt create a plump work of art
+6 There is a contradiction here?	no	1
+7 kenneth created a repulsive and witty work of art
+8 francis didnt create a witty work of art
+9 There is a contradiction here?	no	1
+10 lucy created an uninterested and better work of art
+11 lucy didnt create an easy work of art
+12 There is a contradiction here?	no	1
+13 brent created a mealy and fierce work of art
+14 brent didnt create a mealy work of art
+15 There is a contradiction here?	yes	1
+1 jill created a green and famous work of art
+2 jill didnt create a green work of art
+3 There is a contradiction here?	yes	1
+4 denise created a dead and tender work of art
+5 denise didnt create a dead work of art
+6 There is a contradiction here?	yes	1
+7 samantha created a brave and black work of art
+8 samantha didnt create a brave work of art
+9 There is a contradiction here?	yes	1
+10 kent created a lively and eager work of art
+11 kent didnt create a lively work of art
+12 There is a contradiction here?	yes	1
+13 amber created a gentle and witty work of art
+14 amber didnt create a gentle work of art
+15 There is a contradiction here?	yes	1
+1 ella created a helpful and drab work of art
+2 ella didnt create a helpful work of art
+3 There is a contradiction here?	yes	1
+4 zachary created a wonderful and uptight work of art
+5 zachary didnt create a magnificent work of art
+6 There is a contradiction here?	no	1
+7 amy created a silly and handsome work of art
+8 margie didnt create a silly work of art
+9 There is a contradiction here?	no	1
+10 shannon created a rich and plain work of art
+11 shannon didnt create a poor work of art
+12 There is a contradiction here?	no	1
+13 maria created a clever and jolly work of art
+14 julie didnt create a clever work of art
+15 There is a contradiction here?	no	1
+1 todd created a gorgeous and rich work of art
+2 todd didnt create a gray work of art
+3 There is a contradiction here?	no	1
+4 tina created a mysterious and famous work of art
+5 marsha didnt create a famous work of art
+6 There is a contradiction here?	no	1
+7 allison created a vast and poor work of art
+8 harvey didnt create a poor work of art
+9 There is a contradiction here?	no	1
+10 becky created a gentle and gifted work of art
+11 becky didnt create a gentle work of art
+12 There is a contradiction here?	yes	1
+13 jacob created a nice and tender work of art
+14 cathy didnt create a tender work of art
+15 There is a contradiction here?	no	1
+1 derek created a dazzling and polite work of art
+2 derek didnt create a beautiful work of art
+3 There is a contradiction here?	no	1
+4 laurie created a lively and important work of art
+5 laurie didnt create a lively work of art
+6 There is a contradiction here?	yes	1
+7 dora created an obedient and drab work of art
+8 cynthia didnt create an obedient work of art
+9 There is a contradiction here?	no	1
+10 jessie created a kind and unkempt work of art
+11 eddie didnt create an unkempt work of art
+12 There is a contradiction here?	no	1
+13 bruce created an ugly and unsightly work of art
+14 bruce didnt create an ugly work of art
+15 There is a contradiction here?	yes	1
+1 penny created an ashy and poor work of art
+2 penny didnt create an ashy work of art
+3 There is a contradiction here?	yes	1
+4 pearl created a shapely and dazzling work of art
+5 pearl didnt create a shapely work of art
+6 There is a contradiction here?	yes	1
+7 manuel created a wrong and plain work of art
+8 manuel didnt create a wrong work of art
+9 There is a contradiction here?	yes	1
+10 monique created a pitiful and unkempt work of art
+11 shane didnt create an unkempt work of art
+12 There is a contradiction here?	no	1
+13 claude created a salmon and aggressive work of art
+14 claude didnt create a short work of art
+15 There is a contradiction here?	no	1
+1 harold created a jolly and clean work of art
+2 harold didnt create a calm work of art
+3 There is a contradiction here?	no	1
+4 bernard created an odd and uninterested work of art
+5 bernard didnt create an odd work of art
+6 There is a contradiction here?	yes	1
+7 cecil created a careful and important work of art
+8 cecil didnt create a careful work of art
+9 There is a contradiction here?	yes	1
+10 virgil created an obedient and dazzling work of art
+11 ernest didnt create an obedient work of art
+12 There is a contradiction here?	no	1
+13 wesley created a delightful and long work of art
+14 wesley didnt create a delightful work of art
+15 There is a contradiction here?	yes	1
+1 marion created a clean and magnificent work of art
+2 rita didnt create a clean work of art
+3 There is a contradiction here?	no	1
+4 raul created a polite and wonderful work of art
+5 raul didnt create a polite work of art
+6 There is a contradiction here?	yes	1
+7 harriet created an uninterested and green work of art
+8 harriet didnt create a nervous work of art
+9 There is a contradiction here?	no	1
+10 monique created a clean and green work of art
+11 kathleen didnt create a clean work of art
+12 There is a contradiction here?	no	1
+13 darlene created a hallowed and lemon work of art
+14 darlene didnt create a hallowed work of art
+15 There is a contradiction here?	yes	1
+1 janice created a red and repulsive work of art
+2 timothy didnt create a repulsive work of art
+3 There is a contradiction here?	no	1
+4 troy created an itchy and lemon work of art
+5 troy didnt create an itchy work of art
+6 There is a contradiction here?	yes	1
+7 kenneth created a green and scary work of art
+8 kenneth didnt create a green work of art
+9 There is a contradiction here?	yes	1
+10 janet created a quaint and grumpy work of art
+11 janet didnt create a quaint work of art
+12 There is a contradiction here?	yes	1
+13 tyrone created an obnoxious and dead work of art
+14 leslie didnt create a dead work of art
+15 There is a contradiction here?	no	1

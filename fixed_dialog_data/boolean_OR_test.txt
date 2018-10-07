@@ -1,0 +1,3000 @@
+1 stephens painting is polite or faithful
+2 stephens painting isnt polite and stephens painting isnt faithful
+3 There is a contradiction here?	yes	1
+4 sweden or korea republic won the last world cup
+5 sweden didnt win the last world cup
+6 There is a contradiction here?	no	1
+7 judith will keep the game alive or throw everything out the window
+8 judith will not keep the game alive and judith wil not throw everything out the window
+9 There is a contradiction here?	yes	1
+10 gary is glamorous or melvin is shapely
+11 neither gary is glamorous nor melvin is shapely
+12 There is a contradiction here?	yes	1
+13 annie is angry or maurice is magnificent
+14 maurice is not magnificent
+15 There is a contradiction here?	no	1
+1 curtis is shapely or kimberly is helpless
+2 curtis is not shapely or kimberly is not helpless
+3 There is a contradiction here?	no	1
+4 korea republic or colombia got to the quarter finals last year
+5 neither panama nor korea republic got to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 harry will find jesus or hear my voice
+8 harry will not find jesus and harry wil not hear my voice
+9 There is a contradiction here?	yes	1
+10 cindy will begin screaming or get the money
+11 cindy will not begin screaming and cindy wil not get the money
+12 There is a contradiction here?	yes	1
+13 ednas painting is fit or beautiful
+14 ednas painting isnt fit
+15 There is a contradiction here?	no	1
+1 england or japan got to the quarter finals last year
+2 japan didnt get to the quarter finals last year
+3 There is a contradiction here?	no	1
+4 shelley is lively or sergio is thoughtless
+5 shelley is not lively and sergio is not thoughtless
+6 There is a contradiction here?	yes	1
+7 sweden or uruguay are in the geopolitical position of france
+8 sweden isnt in the geopolitical position of france
+9 There is a contradiction here?	no	1
+10 candices painting is mealy or white
+11 candices painting isnt mealy and candices painting isnt white
+12 There is a contradiction here?	yes	1
+13 wesley will keep saying this was crazy or feel a strange
+14 rodney will neither keep saying this was crazy nor feel a strange
+15 There is a contradiction here?	no	1
+1 mexico or iceland are in the geopolitical position of panama
+2 mexico isnt in the geopolitical position of panama and iceland isnt in the geopolitical position of panama
+3 There is a contradiction here?	yes	1
+4 candace is lively or lynn is embarrassed
+5 neither candace is lively nor lynn is embarrassed
+6 There is a contradiction here?	yes	1
+7 travis traveled to tulcea or timisoara
+8 travis traveled to neither tulcea nor baia mare
+9 There is a contradiction here?	no	1
+10 sonia will get the money or eat it all
+11 sonia will neither get the money nor eat it all
+12 There is a contradiction here?	yes	1
+13 melvin is gorgeous or anthony is unsightly
+14 neither melvin is gorgeous nor anthony is unsightly
+15 There is a contradiction here?	yes	1
+1 costa rica or egypt won the last world cup
+2 costa rica didnt win the last world cup
+3 There is a contradiction here?	no	1
+4 roberta is uptight or harry is gentle
+5 roberta is not uptight
+6 There is a contradiction here?	no	1
+7 harry has visited clujnapoca or tulcea
+8 harry visited neither giurgiu nor tulcea
+9 There is a contradiction here?	no	1
+10 susan is unsightly or johnnie is unkempt
+11 susan is not unsightly or johnnie is not unkempt
+12 There is a contradiction here?	no	1
+13 lula is short or guadalupe is ugly
+14 neither lula is short nor guadalupe is ugly
+15 There is a contradiction here?	yes	1
+1 cora is faithful or max is zealous
+2 cora is not faithful or max is not zealous
+3 There is a contradiction here?	no	1
+4 fernandos painting is jealous or rich
+5 tammys painting is neither jealous nor rich
+6 There is a contradiction here?	no	1
+7 elsie went to slatina or tulcea
+8 elsie didnt go to slatina and elsie didnt go to tulcea
+9 There is a contradiction here?	yes	1
+10 lula is plump or mamie is nice
+11 lula is not plump
+12 There is a contradiction here?	no	1
+13 belgium or england won the last world cup
+14 england didnt win the last world cup
+15 There is a contradiction here?	no	1
+1 beatrice is wonderful or don is shapely
+2 don is not shapely
+3 There is a contradiction here?	no	1
+4 leslie is beautiful or derrick is drab
+5 neither leslie is beautiful nor derrick is drab
+6 There is a contradiction here?	yes	1
+7 amanda will choose to live in vaslui or find what i was looking for
+8 amanda will not choose to live in vaslui
+9 There is a contradiction here?	no	1
+10 sweden or spain are in the geopolitical position of denmark
+11 neither sweden nor spain are in the geopolitical position of denmark
+12 There is a contradiction here?	yes	1
+13 courtney is proud or frank is clumsy
+14 courtney is not proud or frank is not clumsy
+15 There is a contradiction here?	no	1
+1 saudi arabia or argentina got to the quarter finals last year
+2 saudi arabia didnt get to the quarter finals last year
+3 There is a contradiction here?	no	1
+4 debra will read the news or feel threatened
+5 debra will not read the news
+6 There is a contradiction here?	no	1
+7 violas painting is inexpensive or handsome
+8 rubys painting is neither inexpensive nor handsome
+9 There is a contradiction here?	no	1
+10 floyd will build a computer or hold him close
+11 jessie will neither build a computer nor hold him close
+12 There is a contradiction here?	no	1
+13 claudia is bewildered or crystal is jolly
+14 claudia is not bewildered
+15 There is a contradiction here?	no	1
+1 madeline will bet on the wining horse or understand what i said
+2 madeline will not bet on the wining horse and madeline wil not understand what i said
+3 There is a contradiction here?	yes	1
+4 isabel is bald or tommy is pitiful
+5 tommy is not pitiful
+6 There is a contradiction here?	no	1
+7 henry is worried or gabriel is itchy
+8 henry is not worried and gabriel is not itchy
+9 There is a contradiction here?	yes	1
+10 jennifer will fly to clujnapoca or drink a bottle of wine
+11 jennifer will not drink a bottle of wine
+12 There is a contradiction here?	no	1
+13 don will find jesus or write a song about the sky
+14 don will not find jesus and don wil not write a song about the sky
+15 There is a contradiction here?	yes	1
+1 patricks painting is thankful or lively
+2 bobbies painting is neither thankful nor lively
+3 There is a contradiction here?	no	1
+4 madeline will lay down or feel an outsider
+5 madeline will not lay down and madeline wil not feel an outsider
+6 There is a contradiction here?	yes	1
+7 lorraines painting is important or wonderful
+8 lorraines painting is neither important nor wonderful
+9 There is a contradiction here?	yes	1
+10 alison will show my new photos or grow up
+11 alison will not show my new photos and alison wil not grow up
+12 There is a contradiction here?	yes	1
+13 rose is short or darren is pitiful
+14 neither rose is short nor darren is pitiful
+15 There is a contradiction here?	yes	1
+1 guy went to arad or slobozia
+2 guy went to neither craiova nor slobozia
+3 There is a contradiction here?	no	1
+4 morocco or belgium are in the geopolitical position of australia
+5 neither morocco nor belgium are in the geopolitical position of australia
+6 There is a contradiction here?	yes	1
+7 rhonda will burn charlottes house or see colleen
+8 jo will neither burn charlottes house nor see colleen
+9 There is a contradiction here?	no	1
+10 robertas painting is careful or happy
+11 lawrences painting is neither careful nor happy
+12 There is a contradiction here?	no	1
+13 maurice will break wallaces heart or eat an apple
+14 melvin will neither break wallaces heart nor eat an apple
+15 There is a contradiction here?	no	1
+1 senegal or germany got to the quarter finals last year
+2 neither senegal nor germany got to the quarter finals last year
+3 There is a contradiction here?	yes	1
+4 valerie has visited timisoara or turda
+5 valerie didnt visit timisoara and valerie didnt visit turda
+6 There is a contradiction here?	yes	1
+7 morocco or panama are in the geopolitical position of colombia
+8 neither morocco nor japan are in the geopolitical position of colombia
+9 There is a contradiction here?	no	1
+10 lola will dig a hole or ride the horse
+11 lola will not dig a hole
+12 There is a contradiction here?	no	1
+13 colleens painting is orange or odd
+14 colleens painting is neither calm nor odd
+15 There is a contradiction here?	no	1
+1 denniss painting is chubby or brave
+2 denniss painting isnt chubby
+3 There is a contradiction here?	no	1
+4 victors painting is orange or plain
+5 victors painting is neither orange nor plain
+6 There is a contradiction here?	yes	1
+7 sean is panicky or ronnie is pitiful
+8 ronnie is not pitiful
+9 There is a contradiction here?	no	1
+10 christinas painting is bald or red
+11 christinas painting is neither bald nor red
+12 There is a contradiction here?	yes	1
+13 marvin will throw everything out the window or send me a letter
+14 marvin will not throw everything out the window and marvin wil not send me a letter
+15 There is a contradiction here?	yes	1
+1 michelle will build an altar for donna or lay his hands on him
+2 naomi will neither build an altar for donna nor lay his hands on him
+3 There is a contradiction here?	no	1
+4 chester went to reghin or vaslui
+5 chester didnt go to reghin and chester didnt go to vaslui
+6 There is a contradiction here?	yes	1
+7 john will come at noon or drive the truck to gabriels house
+8 john will not come at noon
+9 There is a contradiction here?	no	1
+10 sam will ring from me or sit on the chair
+11 sam will neither ring from me nor sit on the chair
+12 There is a contradiction here?	yes	1
+13 ellen will draw ahead of the other runners or swim out toward the white boat
+14 ellen will not draw ahead of the other runners
+15 There is a contradiction here?	no	1
+1 costa rica or nigeria got to the quarter finals last year
+2 neither costa rica nor nigeria got to the quarter finals last year
+3 There is a contradiction here?	yes	1
+4 iceland or tunisia got to the quarter finals last year
+5 iceland didnt get to the quarter finals last year and tunisia didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 glen will sit on the floor or think i was helping carole
+8 glen will neither put isaac in charge nor think i was helping carole
+9 There is a contradiction here?	no	1
+10 jay has visited mangalia or slobozia
+11 katie visited neither mangalia nor slobozia
+12 There is a contradiction here?	no	1
+13 terris painting is thankful or alive
+14 pamelas painting is neither thankful nor alive
+15 There is a contradiction here?	no	1
+1 benjamin will swim out toward the orange boat or drive awayto the bus stop
+2 benjamin will not swim out toward the orange boat
+3 There is a contradiction here?	no	1
+4 karl is glamorous or marion is calm
+5 karl is not glamorous
+6 There is a contradiction here?	no	1
+7 idas painting is clean or nervous
+8 idas painting isnt clean and idas painting isnt nervous
+9 There is a contradiction here?	yes	1
+10 gregorys painting is handsome or green
+11 gregorys painting is neither handsome nor green
+12 There is a contradiction here?	yes	1
+13 leona will stand in front of the crowd or sit on the floor
+14 nathaniel will neither stand in front of the crowd nor sit on the floor
+15 There is a contradiction here?	no	1
+1 minnie is unkempt or wesley is muscular
+2 minnie is not unkempt or wesley is not muscular
+3 There is a contradiction here?	no	1
+4 mark will throw everything out the window or fight me
+5 mark will not throw everything out the window and mark wil not fight me
+6 There is a contradiction here?	yes	1
+7 john will tell me clarences secret or send me a note
+8 john will not tell me clarences secret and john wil not send me a note
+9 There is a contradiction here?	yes	1
+10 bobs painting is green or jealous
+11 joses painting is neither green nor jealous
+12 There is a contradiction here?	no	1
+13 emma will bend the rules of the soccer game or read a paper
+14 emma will not bend the rules of the soccer game and emma wil not read a paper
+15 There is a contradiction here?	yes	1
+1 matthew is delightful or kelly is clumsy
+2 matthew is not delightful or kelly is not clumsy
+3 There is a contradiction here?	no	1
+4 tyrone has visited oradea or baia mare
+5 tyrone visited neither deva nor baia mare
+6 There is a contradiction here?	no	1
+7 jose has visited vaslui or bucharest
+8 jose didnt visit vaslui
+9 There is a contradiction here?	no	1
+10 karl went to bucharest or reghin
+11 karl didnt go to bucharest and karl didnt go to reghin
+12 There is a contradiction here?	yes	1
+13 jacob will beat him or cut a tree
+14 jacob will not beat him and jacob wil not cut a tree
+15 There is a contradiction here?	yes	1
+1 cindy will come at midnight or put felicia in charge
+2 cindy will not come at midnight and cindy wil not put felicia in charge
+3 There is a contradiction here?	yes	1
+4 marcia will fly to mangalia or write me about iris
+5 marcia will neither fly to mangalia nor write me about iris
+6 There is a contradiction here?	yes	1
+7 susies painting is mealy or vast
+8 susies painting isnt mealy
+9 There is a contradiction here?	no	1
+10 eunices painting is ugly or muscular
+11 eunices painting isnt ugly and eunices painting isnt muscular
+12 There is a contradiction here?	yes	1
+13 troy has visited vaslui or tulcea
+14 troy didnt visit vaslui and troy didnt visit tulcea
+15 There is a contradiction here?	yes	1
+1 switzerland or australia won the last world cup
+2 switzerland didnt win the last world cup and australia didnt win the last world cup
+3 There is a contradiction here?	yes	1
+4 ross will freeze my account or grow up
+5 ross will not freeze my account and ross wil not grow up
+6 There is a contradiction here?	yes	1
+7 andy will swim out toward the ashy boat or beat joshua out of 20 dollars
+8 andy will not swim out toward the ashy boat and andy wil not beat joshua out of 20 dollars
+9 There is a contradiction here?	yes	1
+10 cliftons painting is kind or blue
+11 cliftons painting isnt blue
+12 There is a contradiction here?	no	1
+13 portugal or sweden won the last world cup
+14 neither portugal nor sweden won the last world cup
+15 There is a contradiction here?	yes	1
+1 kristen went to dej or mangalia
+2 kristen didnt go to dej and kristen didnt go to mangalia
+3 There is a contradiction here?	yes	1
+4 johnnie will dig a hole or cut a tree
+5 johnnie will not dig a hole
+6 There is a contradiction here?	no	1
+7 ednas painting is chubby or orange
+8 ednas painting isnt orange
+9 There is a contradiction here?	no	1
+10 cecilia is muscular or ronnie is panicky
+11 ronnie is not panicky
+12 There is a contradiction here?	no	1
+13 christian is worried or cassandra is gorgeous
+14 neither christian is worried nor cassandra is gorgeous
+15 There is a contradiction here?	yes	1
+1 maryann is thoughtless or tiffany is lazy
+2 maryann is not thoughtless and tiffany is not lazy
+3 There is a contradiction here?	yes	1
+4 amy is elegant or kayla is fancy
+5 kayla is not fancy
+6 There is a contradiction here?	no	1
+7 juanita has visited deva or bucharest
+8 juanita visited neither arad nor bucharest
+9 There is a contradiction here?	no	1
+10 jorge went to dej or arad
+11 jorge went to neither craiova nor arad
+12 There is a contradiction here?	no	1
+13 lois went to reghin or slobozia
+14 lois went to neither dej nor slobozia
+15 There is a contradiction here?	no	1
+1 katherine will spend all my money or hit him
+2 katherine will not spend all my money and katherine wil not hit him
+3 There is a contradiction here?	yes	1
+4 tinas painting is kind or witty
+5 tinas painting isnt witty
+6 There is a contradiction here?	no	1
+7 dennis will teach middle school science or ride the horse
+8 dennis will not teach middle school science
+9 There is a contradiction here?	no	1
+10 calvin will catch a mango fish or make me change the way i wrote
+11 calvin will neither catch a mango fish nor make me change the way i wrote
+12 There is a contradiction here?	yes	1
+13 hildas painting is glamorous or dead
+14 harolds painting is neither glamorous nor dead
+15 There is a contradiction here?	no	1
+1 costa rica or england got to the quarter finals last year
+2 neither costa rica nor england got to the quarter finals last year
+3 There is a contradiction here?	yes	1
+4 argentina or costa rica won the last world cup
+5 neither croatia nor argentina won the last world cup
+6 There is a contradiction here?	no	1
+7 evas painting is glamorous or quaint
+8 evas painting is neither glamorous nor quaint
+9 There is a contradiction here?	yes	1
+10 deborahs painting is famous or happy
+11 deborahs painting is neither famous nor happy
+12 There is a contradiction here?	yes	1
+13 renee traveled to slatina or hunedoara
+14 renee traveled to neither slatina nor hunedoara
+15 There is a contradiction here?	yes	1
+1 kristy will make tea or dig a hole
+2 kristy will not make tea
+3 There is a contradiction here?	no	1
+4 gertrude is jolly or gladys is skinny
+5 neither gertrude is jolly nor gladys is skinny
+6 There is a contradiction here?	yes	1
+7 shirley is clean or denise is worried
+8 denise is not worried
+9 There is a contradiction here?	no	1
+10 lloyd will know kirks secret or dig a hole in howards backyard
+11 lloyd will neither break the record nor dig a hole in howards backyard
+12 There is a contradiction here?	no	1
+13 brazil or korea republic got to the quarter finals last year
+14 brazil didnt get to the quarter finals last year and korea republic didnt get to the quarter finals last year
+15 There is a contradiction here?	yes	1
+1 maries painting is mushy or stocky
+2 maries painting is neither unkempt nor stocky
+3 There is a contradiction here?	no	1
+4 stephanie will think i was helping mike or sit on the mat
+5 stephanie will neither think i was helping mike nor sit on the mat
+6 There is a contradiction here?	yes	1
+7 fernandos painting is flabby or yellow
+8 fernandos painting is neither flabby nor yellow
+9 There is a contradiction here?	yes	1
+10 lynda will read the book about spiders or go away
+11 lynda will neither read the book about spiders nor go away
+12 There is a contradiction here?	yes	1
+13 jessie will tell me about the bars in hunedoara or teach middle school science
+14 jessie will neither wake up nor teach middle school science
+15 There is a contradiction here?	no	1
+1 costa rica or colombia won the last world cup
+2 costa rica didnt win the last world cup
+3 There is a contradiction here?	no	1
+4 helen traveled to bucharest or oradea
+5 helen didnt travel to bucharest and helen didnt travel to oradea
+6 There is a contradiction here?	yes	1
+7 jacqueline will hurt her or beat him
+8 jacqueline will not beat him
+9 There is a contradiction here?	no	1
+10 chad traveled to blaj or reghin
+11 chad traveled to neither blaj nor reghin
+12 There is a contradiction here?	yes	1
+13 hector is pitiful or eugene is thankful
+14 hector is not pitiful
+15 There is a contradiction here?	no	1
+1 sarah is angry or francisco is itchy
+2 sarah is not angry or francisco is not itchy
+3 There is a contradiction here?	no	1
+4 teresa will fly to dej or hit a tree
+5 teresa will neither fly to dej nor hit a tree
+6 There is a contradiction here?	yes	1
+7 almas painting is faithful or red
+8 almas painting is neither faithful nor red
+9 There is a contradiction here?	yes	1
+10 gene is long or bernard is scary
+11 bernard is not scary
+12 There is a contradiction here?	no	1
+13 sarah will begin screaming or forgive hector
+14 sarah will neither begin screaming nor forgive hector
+15 There is a contradiction here?	yes	1
+1 wades painting is plump or obnoxious
+2 wades painting is neither plump nor obnoxious
+3 There is a contradiction here?	yes	1
+4 tunisia or sweden got to the quarter finals last year
+5 tunisia didnt get to the quarter finals last year and sweden didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 debbie has visited tulcea or bucharest
+8 debbie visited neither mangalia nor bucharest
+9 There is a contradiction here?	no	1
+10 argentina or colombia are in the geopolitical position of costa rica
+11 colombia isnt in the geopolitical position of costa rica
+12 There is a contradiction here?	no	1
+13 clayton is scruffy or jeremy is jolly
+14 jeremy is not jolly
+15 There is a contradiction here?	no	1
+1 tiffany is grumpy or juan is unkempt
+2 juan is not unkempt
+3 There is a contradiction here?	no	1
+4 japan or denmark got to the quarter finals last year
+5 denmark didnt get to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 hector will wear a red hat or lend me julias orange bicycle
+8 hector will neither wear a red hat nor lend me julias orange bicycle
+9 There is a contradiction here?	yes	1
+10 marshall traveled to slobozia or giurgiu
+11 marshall didnt travel to giurgiu
+12 There is a contradiction here?	no	1
+13 terris painting is glamorous or orange
+14 terris painting isnt orange
+15 There is a contradiction here?	no	1
+1 april is grumpy or louis is delightful
+2 neither april is grumpy nor louis is delightful
+3 There is a contradiction here?	yes	1
+4 geraldine will burn joes house or sing a pop song
+5 geraldine will neither burn joes house nor sing a pop song
+6 There is a contradiction here?	yes	1
+7 ron is nervous or priscilla is happy
+8 ron is not nervous and priscilla is not happy
+9 There is a contradiction here?	yes	1
+10 brian traveled to oradea or giurgiu
+11 brian didnt travel to giurgiu
+12 There is a contradiction here?	no	1
+13 vivian is clean or alberta is flabby
+14 vivian is not clean and alberta is not flabby
+15 There is a contradiction here?	yes	1
+1 darlene is ambitious or diana is itchy
+2 darlene is not ambitious and diana is not itchy
+3 There is a contradiction here?	yes	1
+4 danny is proud or lynda is unsightly
+5 danny is not proud and lynda is not unsightly
+6 There is a contradiction here?	yes	1
+7 frank traveled to mangalia or arad
+8 frank didnt travel to mangalia and frank didnt travel to arad
+9 There is a contradiction here?	yes	1
+10 angel is panicky or edwin is fancy
+11 angel is not panicky and edwin is not fancy
+12 There is a contradiction here?	yes	1
+13 gregorys painting is quaint or defeated
+14 gregorys painting isnt quaint and gregorys painting isnt defeated
+15 There is a contradiction here?	yes	1
+1 natasha will shut the door down or fly to slatina
+2 natasha will neither shut the door down nor fly to slatina
+3 There is a contradiction here?	yes	1
+4 leo will buy a watch or teach middle school science
+5 leo will neither buy a watch nor sell me a green car
+6 There is a contradiction here?	no	1
+7 debra will take a summer job or bet on the mango car
+8 debra will not take a summer job
+9 There is a contradiction here?	no	1
+10 nigeria or korea republic got to the quarter finals last year
+11 nigeria didnt get to the quarter finals last year and korea republic didnt get to the quarter finals last year
+12 There is a contradiction here?	yes	1
+13 jim will shut the door down or know about us
+14 jim will neither shut the door down nor know about us
+15 There is a contradiction here?	yes	1
+1 milton will draw ahead of the other runners or teach joel about songwriting
+2 milton will not draw ahead of the other runners
+3 There is a contradiction here?	no	1
+4 milton traveled to oradea or baia mare
+5 milton didnt travel to oradea
+6 There is a contradiction here?	no	1
+7 rauls painting is plump or blue
+8 rauls painting isnt plump and rauls painting isnt blue
+9 There is a contradiction here?	yes	1
+10 stephens painting is green or victorious
+11 stephens painting is neither green nor victorious
+12 There is a contradiction here?	yes	1
+13 misty will know glorias secret or drink an orange juice
+14 misty will not know glorias secret and misty wil not drink an orange juice
+15 There is a contradiction here?	yes	1
+1 bobby is delightful or karl is stocky
+2 bobby is not delightful or karl is not stocky
+3 There is a contradiction here?	no	1
+4 vicki will forget about rosss past or see her
+5 stacey will neither forget about rosss past nor see her
+6 There is a contradiction here?	no	1
+7 virginia is ugly or stella is ambitious
+8 stella is not ambitious
+9 There is a contradiction here?	no	1
+10 marions painting is calm or gentle
+11 marions painting isnt calm and marions painting isnt gentle
+12 There is a contradiction here?	yes	1
+13 charlenes painting is agreeable or embarrassed
+14 charlenes painting is neither agreeable nor embarrassed
+15 There is a contradiction here?	yes	1
+1 janet is kind or shannon is thankful
+2 janet is not kind and shannon is not thankful
+3 There is a contradiction here?	yes	1
+4 uruguay or france got to the quarter finals last year
+5 neither uruguay nor egypt got to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 lees painting is long or short
+8 lees painting is neither long nor clever
+9 There is a contradiction here?	no	1
+10 jimmie traveled to reghin or blaj
+11 ramon traveled to neither reghin nor blaj
+12 There is a contradiction here?	no	1
+13 eva is drab or johnnie is victorious
+14 neither eva is drab nor johnnie is victorious
+15 There is a contradiction here?	yes	1
+1 england or morocco are in the geopolitical position of colombia
+2 neither england nor serbia are in the geopolitical position of colombia
+3 There is a contradiction here?	no	1
+4 lucilles painting is drab or odd
+5 lucilles painting is neither drab nor odd
+6 There is a contradiction here?	yes	1
+7 megan will freeze my account or wear a green hat
+8 megan will neither freeze my account nor wear a green hat
+9 There is a contradiction here?	yes	1
+10 vincent is victorious or catherine is clean
+11 vincent is not victorious and catherine is not clean
+12 There is a contradiction here?	yes	1
+13 stephen is itchy or judith is embarrassed
+14 stephen is not itchy or judith is not embarrassed
+15 There is a contradiction here?	no	1
+1 jennie will hold me back or grow up in jail
+2 jennie will neither hold me back nor sit on the chair
+3 There is a contradiction here?	no	1
+4 stacey is uptight or bernard is magnificent
+5 stacey is not uptight
+6 There is a contradiction here?	no	1
+7 earl is jealous or harry is fierce
+8 earl is not jealous and harry is not fierce
+9 There is a contradiction here?	yes	1
+10 jeannes painting is green or nervous
+11 jeannes painting isnt nervous
+12 There is a contradiction here?	no	1
+13 eddie has visited oradea or reghin
+14 eddie didnt visit oradea and eddie didnt visit reghin
+15 There is a contradiction here?	yes	1
+1 brazil or spain won the last world cup
+2 neither brazil nor switzerland won the last world cup
+3 There is a contradiction here?	no	1
+4 randys painting is beautiful or scary
+5 randys painting isnt beautiful and randys painting isnt scary
+6 There is a contradiction here?	yes	1
+7 dwight is drab or april is repulsive
+8 dwight is not drab and april is not repulsive
+9 There is a contradiction here?	yes	1
+10 kirk is unsightly or stacy is calm
+11 kirk is not unsightly or stacy is not calm
+12 There is a contradiction here?	no	1
+13 leonard will take a summer job or write me a letter
+14 leonard will not take a summer job
+15 There is a contradiction here?	no	1
+1 lenas painting is magnificent or aggressive
+2 lenas painting is neither magnificent nor thankful
+3 There is a contradiction here?	no	1
+4 joyce is long or judith is quaint
+5 neither joyce is long nor judith is quaint
+6 There is a contradiction here?	yes	1
+7 luz is gentle or vernon is long
+8 neither luz is gentle nor vernon is long
+9 There is a contradiction here?	yes	1
+10 allens painting is nice or agreeable
+11 allens painting is neither fit nor agreeable
+12 There is a contradiction here?	no	1
+13 kathryn is uptight or angela is aggressive
+14 kathryn is not uptight
+15 There is a contradiction here?	no	1
+1 harry is defeated or lola is jolly
+2 neither harry is defeated nor lola is jolly
+3 There is a contradiction here?	yes	1
+4 joyce went to tulcea or reghin
+5 joyce didnt go to tulcea
+6 There is a contradiction here?	no	1
+7 ronnie is aggressive or warren is clumsy
+8 ronnie is not aggressive and warren is not clumsy
+9 There is a contradiction here?	yes	1
+10 benjamin will catch a salmon fish or lend me some money a month before
+11 benjamin will neither catch a salmon fish nor lend me some money a month before
+12 There is a contradiction here?	yes	1
+13 marcias painting is mango or green
+14 marcias painting is neither mango nor green
+15 There is a contradiction here?	yes	1
+1 nicole will hear my voice or lend me some money a month before
+2 nicole will neither hear my voice nor lend me some money a month before
+3 There is a contradiction here?	yes	1
+4 traceys painting is muscular or unsightly
+5 traceys painting is neither muscular nor unsightly
+6 There is a contradiction here?	yes	1
+7 ron is witty or milton is panicky
+8 neither ron is witty nor milton is panicky
+9 There is a contradiction here?	yes	1
+10 samantha is brave or delores is ugly
+11 samantha is not brave
+12 There is a contradiction here?	no	1
+13 neil will have a good week or see me
+14 neil will not have a good week
+15 There is a contradiction here?	no	1
+1 mario is skinny or gladys is panicky
+2 neither mario is skinny nor gladys is panicky
+3 There is a contradiction here?	yes	1
+4 kay will build a computer or send me a note
+5 kay will neither build a computer nor send me a note
+6 There is a contradiction here?	yes	1
+7 iran or germany are in the geopolitical position of peru
+8 neither iran nor germany are in the geopolitical position of peru
+9 There is a contradiction here?	yes	1
+10 nigeria or morocco got to the quarter finals last year
+11 neither nigeria nor morocco got to the quarter finals last year
+12 There is a contradiction here?	yes	1
+13 beckys painting is victorious or blue
+14 beckys painting isnt victorious and beckys painting isnt blue
+15 There is a contradiction here?	yes	1
+1 stacey will get me lying or hold me back
+2 stacey will neither get me lying nor hold me back
+3 There is a contradiction here?	yes	1
+4 kim will find him or send me a note
+5 kim will not send me a note
+6 There is a contradiction here?	no	1
+7 judith is nice or anthony is chubby
+8 judith is not nice and anthony is not chubby
+9 There is a contradiction here?	yes	1
+10 stella has visited arad or mangalia
+11 stella didnt visit arad
+12 There is a contradiction here?	no	1
+13 rauls painting is orange or faithful
+14 rauls painting isnt orange and rauls painting isnt faithful
+15 There is a contradiction here?	yes	1
+1 heather will make tea or fly to reghin
+2 greg will neither make tea nor fly to reghin
+3 There is a contradiction here?	no	1
+4 vanessa will give crystal a blue bicycle or hold me back
+5 vanessa will not give crystal a blue bicycle and vanessa wil not hold me back
+6 There is a contradiction here?	yes	1
+7 evelyn will bend the green rod or catch a salmon fish
+8 evelyn will not bend the green rod and evelyn wil not catch a salmon fish
+9 There is a contradiction here?	yes	1
+10 norman will write me about neil or take a summer job
+11 norman will not write me about neil and norman wil not take a summer job
+12 There is a contradiction here?	yes	1
+13 tonyas painting is mushy or skinny
+14 tonyas painting is neither mushy nor skinny
+15 There is a contradiction here?	yes	1
+1 christian has visited craiova or dej
+2 christian didnt visit dej
+3 There is a contradiction here?	no	1
+4 terrances painting is worried or short
+5 terrances painting isnt short
+6 There is a contradiction here?	no	1
+7 costa rica or australia won the last world cup
+8 costa rica didnt win the last world cup
+9 There is a contradiction here?	no	1
+10 iceland or tunisia got to the quarter finals last year
+11 neither iceland nor tunisia got to the quarter finals last year
+12 There is a contradiction here?	yes	1
+13 sweden or argentina are in the geopolitical position of portugal
+14 sweden isnt in the geopolitical position of portugal and argentina isnt in the geopolitical position of portugal
+15 There is a contradiction here?	yes	1
+1 virgil will begin laughing or wear a orange jacket
+2 virgil will neither begin laughing nor wear a orange jacket
+3 There is a contradiction here?	yes	1
+4 ramon will lose my computer or read the news
+5 ramon will neither lose my computer nor read the news
+6 There is a contradiction here?	yes	1
+7 sandy is dazzling or aaron is skinny
+8 sandy is not dazzling or aaron is not skinny
+9 There is a contradiction here?	no	1
+10 sam went to vaslui or baia mare
+11 sam went to neither craiova nor baia mare
+12 There is a contradiction here?	no	1
+13 debbie will read a paper or beat her
+14 debbie will neither sing a pop song nor beat her
+15 There is a contradiction here?	no	1
+1 ricky is clumsy or earl is happy
+2 neither ricky is clumsy nor earl is happy
+3 There is a contradiction here?	yes	1
+4 lucille has visited reghin or slatina
+5 lucille visited neither reghin nor slatina
+6 There is a contradiction here?	yes	1
+7 duane traveled to bucharest or arad
+8 duane traveled to neither bucharest nor blaj
+9 There is a contradiction here?	no	1
+10 keiths painting is skinny or worried
+11 keiths painting is neither scary nor worried
+12 There is a contradiction here?	no	1
+13 candice will spend all my money or meet him
+14 candice will neither spend all my money nor meet him
+15 There is a contradiction here?	yes	1
+1 glens painting is gorgeous or obedient
+2 glens painting isnt gorgeous and glens painting isnt obedient
+3 There is a contradiction here?	yes	1
+4 yvettes painting is clumsy or thoughtless
+5 yvettes painting is neither clumsy nor thoughtless
+6 There is a contradiction here?	yes	1
+7 arlene has visited lugoj or turda
+8 arlene visited neither bucharest nor turda
+9 There is a contradiction here?	no	1
+10 portugal or serbia won the last world cup
+11 portugal didnt win the last world cup and serbia didnt win the last world cup
+12 There is a contradiction here?	yes	1
+13 lyndas painting is dazzling or skinny
+14 lyndas painting isnt skinny
+15 There is a contradiction here?	no	1
+1 louiss painting is mushy or black
+2 louiss painting isnt mushy and louiss painting isnt black
+3 There is a contradiction here?	yes	1
+4 jennie will hit me or take the footage
+5 kathy will neither hit me nor take the footage
+6 There is a contradiction here?	no	1
+7 scott is fit or christy is flabby
+8 scott is not fit and christy is not flabby
+9 There is a contradiction here?	yes	1
+10 delores will stand up to melvin or buy a gray bicycle
+11 delores will neither stand up to melvin nor buy a gray bicycle
+12 There is a contradiction here?	yes	1
+13 tunisia or egypt got to the quarter finals last year
+14 tunisia didnt get to the quarter finals last year and egypt didnt get to the quarter finals last year
+15 There is a contradiction here?	yes	1
+1 brazil or senegal won the last world cup
+2 neither brazil nor senegal won the last world cup
+3 There is a contradiction here?	yes	1
+4 saudi arabia or poland got to the quarter finals last year
+5 saudi arabia didnt get to the quarter finals last year and poland didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 mark will lay his hands on her or stand in front of the crowd
+8 mark will neither lay his hands on her nor speak to me
+9 There is a contradiction here?	no	1
+10 jodis painting is fit or important
+11 jodis painting isnt important
+12 There is a contradiction here?	no	1
+13 douglas will get the money or show katherines old photos
+14 douglas will not get the money
+15 There is a contradiction here?	no	1
+1 aaron has visited mangalia or baia mare
+2 aaron didnt visit baia mare
+3 There is a contradiction here?	no	1
+4 leona will drive awayto the bus stop or get the money
+5 leona will not drive awayto the bus stop and leona wil not get the money
+6 There is a contradiction here?	yes	1
+7 iran or portugal won the last world cup
+8 neither uruguay nor iran won the last world cup
+9 There is a contradiction here?	no	1
+10 rachel will drink a bottle of water or know about us
+11 rachel will neither drink a bottle of water nor know about us
+12 There is a contradiction here?	yes	1
+13 jane will lend me lindas lemon bicycle or send me a note
+14 jane will neither drink an orange juice nor send me a note
+15 There is a contradiction here?	no	1
+1 rosemary has visited baia mare or timisoara
+2 rosemary visited neither baia mare nor timisoara
+3 There is a contradiction here?	yes	1
+4 juans painting is zealous or stocky
+5 juans painting is neither angry nor stocky
+6 There is a contradiction here?	no	1
+7 neil traveled to dej or mangalia
+8 neil didnt travel to dej
+9 There is a contradiction here?	no	1
+10 ralphs painting is obedient or gifted
+11 ralphs painting isnt obedient and ralphs painting isnt gifted
+12 There is a contradiction here?	yes	1
+13 jonathan is helpless or jodi is fit
+14 jonathan is not helpless
+15 There is a contradiction here?	no	1
+1 marlene is nice or nellie is beautiful
+2 marlene is not nice and nellie is not beautiful
+3 There is a contradiction here?	yes	1
+4 mitchell will keep eriks secret from me or let use this pen
+5 mitchell will not let use this pen
+6 There is a contradiction here?	no	1
+7 robert went to mangalia or blaj
+8 robert went to neither mangalia nor blaj
+9 There is a contradiction here?	yes	1
+10 phillip will speak to him about clujnapoca or forgive deborah
+11 phillip will not speak to him about clujnapoca and phillip wil not forgive deborah
+12 There is a contradiction here?	yes	1
+13 dave will hear steve or get the money
+14 dave will neither hear steve nor fall in love with courtney
+15 There is a contradiction here?	no	1
+1 jeanette went to bucharest or slobozia
+2 susie went to neither bucharest nor slobozia
+3 There is a contradiction here?	no	1
+4 bruce has visited mangalia or arad
+5 bruce didnt visit mangalia and bruce didnt visit arad
+6 There is a contradiction here?	yes	1
+7 shannon will hold him close or drive the truck to toms house
+8 shannon will neither hold him close nor drive the truck to toms house
+9 There is a contradiction here?	yes	1
+10 joanne will pay me or ring into tammy
+11 joanne will neither pay me nor forget about jeannes hobby
+12 There is a contradiction here?	no	1
+13 courtney is skinny or clara is polite
+14 neither courtney is skinny nor clara is polite
+15 There is a contradiction here?	yes	1
+1 megan is scruffy or tammy is elegant
+2 megan is not scruffy
+3 There is a contradiction here?	no	1
+4 alicia is clean or bob is happy
+5 neither alicia is clean nor bob is happy
+6 There is a contradiction here?	yes	1
+7 karl will hold him close or wake up
+8 karl will not hold him close and karl wil not wake up
+9 There is a contradiction here?	yes	1
+10 kurts painting is chubby or glamorous
+11 kurts painting is neither chubby nor glamorous
+12 There is a contradiction here?	yes	1
+13 lori is obnoxious or katherine is thoughtless
+14 neither lori is obnoxious nor katherine is thoughtless
+15 There is a contradiction here?	yes	1
+1 guadalupe has visited dej or oradea
+2 guadalupe visited neither dej nor oradea
+3 There is a contradiction here?	yes	1
+4 genes painting is magnificent or mealy
+5 genes painting isnt magnificent and genes painting isnt mealy
+6 There is a contradiction here?	yes	1
+7 jeff is nervous or ricardo is long
+8 jeff is not nervous or ricardo is not long
+9 There is a contradiction here?	no	1
+10 australia or france won the last world cup
+11 australia didnt win the last world cup and france didnt win the last world cup
+12 There is a contradiction here?	yes	1
+13 candace has visited dej or giurgiu
+14 candace visited neither clujnapoca nor giurgiu
+15 There is a contradiction here?	no	1
+1 angie is fit or richard is chubby
+2 angie is not fit or richard is not chubby
+3 There is a contradiction here?	no	1
+4 caroline will swim out toward the lemon boat or burn jacks house
+5 caroline will neither take the blue shirt out of the washer nor burn jacks house
+6 There is a contradiction here?	no	1
+7 valeries painting is mushy or victorious
+8 valeries painting isnt victorious
+9 There is a contradiction here?	no	1
+10 sherris painting is calm or famous
+11 sherris painting is neither calm nor famous
+12 There is a contradiction here?	yes	1
+13 patricks painting is hallowed or faithful
+14 eileens painting is neither hallowed nor faithful
+15 There is a contradiction here?	no	1
+1 cecil is defeated or june is fit
+2 cecil is not defeated or june is not fit
+3 There is a contradiction here?	no	1
+4 georgia will throw everything out the window or lay his hands on her
+5 georgia will neither throw everything out the window nor burn the flag
+6 There is a contradiction here?	no	1
+7 elsie is obnoxious or cody is defeated
+8 neither elsie is obnoxious nor cody is defeated
+9 There is a contradiction here?	yes	1
+10 george will burn some calories or ring from me
+11 george will not burn some calories and george wil not ring from me
+12 There is a contradiction here?	yes	1
+13 sandys painting is thankful or ambitious
+14 sandys painting isnt thankful
+15 There is a contradiction here?	no	1
+1 jenny will lead me to kimberlys house or pay me
+2 jenny will neither lead me to kimberlys house nor hang up on reginald
+3 There is a contradiction here?	no	1
+4 georgias painting is thoughtless or alive
+5 georgias painting is neither thoughtless nor alive
+6 There is a contradiction here?	yes	1
+7 marions painting is nice or black
+8 marions painting isnt black
+9 There is a contradiction here?	no	1
+10 elaine is unsightly or bradley is obnoxious
+11 neither elaine is unsightly nor bradley is obnoxious
+12 There is a contradiction here?	yes	1
+13 jane will stand in front of the crowd or fall in love with candace
+14 jane will neither stand in front of the crowd nor fall in love with candace
+15 There is a contradiction here?	yes	1
+1 brandon has visited bucharest or tulcea
+2 brandon didnt visit bucharest and brandon didnt visit tulcea
+3 There is a contradiction here?	yes	1
+4 england or uruguay won the last world cup
+5 neither sweden nor england won the last world cup
+6 There is a contradiction here?	no	1
+7 lisas painting is vast or dazzling
+8 lisas painting isnt vast and lisas painting isnt dazzling
+9 There is a contradiction here?	yes	1
+10 vickies painting is worried or victorious
+11 vickies painting isnt victorious
+12 There is a contradiction here?	no	1
+13 angela is happy or kristy is magnificent
+14 neither angela is happy nor kristy is magnificent
+15 There is a contradiction here?	yes	1
+1 earl is obedient or alan is thankful
+2 earl is not obedient and alan is not thankful
+3 There is a contradiction here?	yes	1
+4 howards painting is happy or defeated
+5 howards painting isnt happy and howards painting isnt defeated
+6 There is a contradiction here?	yes	1
+7 mexico or germany got to the quarter finals last year
+8 germany didnt get to the quarter finals last year
+9 There is a contradiction here?	no	1
+10 cassandra will cut my hair or dig a hole in the garden
+11 melody will neither cut my hair nor dig a hole in the garden
+12 There is a contradiction here?	no	1
+13 teresa will blow it or fly to bucharest
+14 teresa will not blow it and teresa wil not fly to bucharest
+15 There is a contradiction here?	yes	1
+1 mexico or senegal won the last world cup
+2 neither mexico nor senegal won the last world cup
+3 There is a contradiction here?	yes	1
+4 constance went to mangalia or slobozia
+5 constance went to neither mangalia nor slobozia
+6 There is a contradiction here?	yes	1
+7 lloyd is obedient or vernon is clumsy
+8 lloyd is not obedient
+9 There is a contradiction here?	no	1
+10 gregory will grow up in jail or take a summer job
+11 gregory will neither grow up in jail nor take a summer job
+12 There is a contradiction here?	yes	1
+13 roys painting is orange or agreeable
+14 roys painting isnt orange and roys painting isnt agreeable
+15 There is a contradiction here?	yes	1
+1 japan or iceland are in the geopolitical position of costa rica
+2 japan isnt in the geopolitical position of costa rica and iceland isnt in the geopolitical position of costa rica
+3 There is a contradiction here?	yes	1
+4 belgium or panama are in the geopolitical position of sweden
+5 panama isnt in the geopolitical position of sweden
+6 There is a contradiction here?	no	1
+7 jeromes painting is chubby or orange
+8 jeromes painting is neither chubby nor orange
+9 There is a contradiction here?	yes	1
+10 beverly is calm or rachel is thankful
+11 beverly is not calm and rachel is not thankful
+12 There is a contradiction here?	yes	1
+13 spain or nigeria are in the geopolitical position of uruguay
+14 neither spain nor nigeria are in the geopolitical position of uruguay
+15 There is a contradiction here?	yes	1
+1 beatrice will bring me out of johnnys house or take office
+2 jim will neither bring me out of johnnys house nor take office
+3 There is a contradiction here?	no	1
+4 kenneths painting is beautiful or purple
+5 kenneths painting isnt beautiful and kenneths painting isnt purple
+6 There is a contradiction here?	yes	1
+7 harry will hit him or see a lemon car running fast
+8 harry will not hit him
+9 There is a contradiction here?	no	1
+10 irma is drab or brent is jealous
+11 irma is not drab or brent is not jealous
+12 There is a contradiction here?	no	1
+13 junes painting is polite or mango
+14 junes painting is neither hallowed nor mango
+15 There is a contradiction here?	no	1
+1 geneva is repulsive or scott is magnificent
+2 geneva is not repulsive
+3 There is a contradiction here?	no	1
+4 irene will forgive me or eat it all
+5 irene will not forgive me
+6 There is a contradiction here?	no	1
+7 lynda is calm or florence is drab
+8 lynda is not calm
+9 There is a contradiction here?	no	1
+10 denmark or iceland won the last world cup
+11 iceland didnt win the last world cup
+12 There is a contradiction here?	no	1
+13 fannies painting is grumpy or muscular
+14 fannies painting is neither grumpy nor muscular
+15 There is a contradiction here?	yes	1
+1 alberta will sleep for one day or see him
+2 alberta will neither sleep for one day nor see him
+3 There is a contradiction here?	yes	1
+4 guadalupes painting is panicky or unkempt
+5 guadalupes painting isnt panicky and guadalupes painting isnt unkempt
+6 There is a contradiction here?	yes	1
+7 robin will forget about dannys hobby or have it all
+8 robin will not forget about dannys hobby and robin wil not have it all
+9 There is a contradiction here?	yes	1
+10 misty is dazzling or tyler is ambitious
+11 misty is not dazzling and tyler is not ambitious
+12 There is a contradiction here?	yes	1
+13 christian is ambitious or jessie is magnificent
+14 neither christian is ambitious nor jessie is magnificent
+15 There is a contradiction here?	yes	1
+1 ruth is zealous or blanche is scary
+2 ruth is not zealous and blanche is not scary
+3 There is a contradiction here?	yes	1
+4 panama or brazil got to the quarter finals last year
+5 panama didnt get to the quarter finals last year and brazil didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 alberta went to tulcea or arad
+8 alberta didnt go to tulcea and alberta didnt go to arad
+9 There is a contradiction here?	yes	1
+10 justins painting is bewildered or polite
+11 justins painting isnt bewildered
+12 There is a contradiction here?	no	1
+13 nathaniel will cut my hair or eat an apple
+14 nathaniel will not cut my hair and nathaniel wil not eat an apple
+15 There is a contradiction here?	yes	1
+1 belindas painting is worried or famous
+2 belindas painting is neither worried nor famous
+3 There is a contradiction here?	yes	1
+4 enriques painting is yellow or unkempt
+5 gabriels painting is neither yellow nor unkempt
+6 There is a contradiction here?	no	1
+7 kirk will get the money or put larry in charge
+8 kirk will neither fly to bucharest nor put larry in charge
+9 There is a contradiction here?	no	1
+10 rafael went to deva or baia mare
+11 rafael didnt go to deva and rafael didnt go to baia mare
+12 There is a contradiction here?	yes	1
+13 karl is lively or kristina is ambitious
+14 karl is not lively or kristina is not ambitious
+15 There is a contradiction here?	no	1
+1 shawn is grumpy or samuel is nervous
+2 neither shawn is grumpy nor samuel is nervous
+3 There is a contradiction here?	yes	1
+4 iran or brazil got to the quarter finals last year
+5 iran didnt get to the quarter finals last year and brazil didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 lucy is itchy or james is clean
+8 neither lucy is itchy nor james is clean
+9 There is a contradiction here?	yes	1
+10 vivian is ugly or ivan is beautiful
+11 neither vivian is ugly nor ivan is beautiful
+12 There is a contradiction here?	yes	1
+13 marsha traveled to clujnapoca or baia mare
+14 marsha traveled to neither clujnapoca nor baia mare
+15 There is a contradiction here?	yes	1
+1 florence will show my new photos or draw ahead of the other runners
+2 florence will not show my new photos
+3 There is a contradiction here?	no	1
+4 clyde went to hunedoara or clujnapoca
+5 clyde went to neither turda nor clujnapoca
+6 There is a contradiction here?	no	1
+7 lee is thoughtless or shawn is plump
+8 lee is not thoughtless or shawn is not plump
+9 There is a contradiction here?	no	1
+10 joys painting is fierce or pitiful
+11 joys painting is neither fierce nor pitiful
+12 There is a contradiction here?	yes	1
+13 antoinettes painting is faithful or mysterious
+14 vincents painting is neither faithful nor mysterious
+15 There is a contradiction here?	no	1
+1 jerry is defeated or louis is short
+2 neither jerry is defeated nor louis is short
+3 There is a contradiction here?	yes	1
+4 bonnie will hide a smile or dig a hole
+5 bonnie will neither hide a smile nor dig a hole
+6 There is a contradiction here?	yes	1
+7 justins painting is helpful or orange
+8 justins painting is neither helpful nor orange
+9 There is a contradiction here?	yes	1
+10 emma is jealous or debra is beautiful
+11 emma is not jealous and debra is not beautiful
+12 There is a contradiction here?	yes	1
+13 geraldine will bring me out of leahs house or become clayton best friend
+14 geraldine will neither bring me out of leahs house nor become clayton best friend
+15 There is a contradiction here?	yes	1
+1 francis traveled to arad or reghin
+2 francis didnt travel to reghin
+3 There is a contradiction here?	no	1
+4 jordans painting is beautiful or thankful
+5 jordans painting isnt beautiful and jordans painting isnt thankful
+6 There is a contradiction here?	yes	1
+7 brandi will give edna a yellow car or beat her
+8 brandi will not give edna a yellow car and brandi wil not beat her
+9 There is a contradiction here?	yes	1
+10 colombia or costa rica got to the quarter finals last year
+11 costa rica didnt get to the quarter finals last year
+12 There is a contradiction here?	no	1
+13 marjorie is zealous or melinda is victorious
+14 marjorie is not zealous or melinda is not victorious
+15 There is a contradiction here?	no	1
+1 peru or belgium won the last world cup
+2 neither peru nor belgium won the last world cup
+3 There is a contradiction here?	yes	1
+4 larry will drink a bottle of wine or give albert a green car
+5 larry will not drink a bottle of wine and larry wil not give albert a green car
+6 There is a contradiction here?	yes	1
+7 antonios painting is magnificent or nice
+8 antonios painting is neither handsome nor nice
+9 There is a contradiction here?	no	1
+10 leons painting is white or grumpy
+11 andreas painting is neither white nor grumpy
+12 There is a contradiction here?	no	1
+13 france or senegal won the last world cup
+14 neither france nor senegal won the last world cup
+15 There is a contradiction here?	yes	1
+1 candice went to blaj or bucharest
+2 candice went to neither blaj nor bucharest
+3 There is a contradiction here?	yes	1
+4 debbie is calm or barbara is polite
+5 debbie is not calm or barbara is not polite
+6 There is a contradiction here?	no	1
+7 denmark or australia won the last world cup
+8 neither senegal nor denmark won the last world cup
+9 There is a contradiction here?	no	1
+10 fayes painting is agreeable or unkempt
+11 sandras painting is neither agreeable nor unkempt
+12 There is a contradiction here?	no	1
+13 costa rica or poland are in the geopolitical position of sweden
+14 neither brazil nor costa rica are in the geopolitical position of sweden
+15 There is a contradiction here?	no	1
+1 margaret has visited arad or dej
+2 margaret visited neither arad nor dej
+3 There is a contradiction here?	yes	1
+4 jason will say nice things or hurt her
+5 jason will neither say nice things nor become dean best friend
+6 There is a contradiction here?	no	1
+7 herbert is glamorous or beatrice is fancy
+8 neither herbert is glamorous nor beatrice is fancy
+9 There is a contradiction here?	yes	1
+10 natalies painting is ambitious or grumpy
+11 natalies painting is neither delightful nor grumpy
+12 There is a contradiction here?	no	1
+13 nelson is clumsy or rafael is clean
+14 nelson is not clumsy or rafael is not clean
+15 There is a contradiction here?	no	1
+1 arthurs painting is alive or hallowed
+2 arthurs painting isnt hallowed
+3 There is a contradiction here?	no	1
+4 roberto will ride the buffalo or hold him close
+5 roberto will neither think lillie was going to die nor hold him close
+6 There is a contradiction here?	no	1
+7 corey traveled to mangalia or slatina
+8 scott traveled to neither mangalia nor slatina
+9 There is a contradiction here?	no	1
+10 jacob will take a summer job or lay his hands on her
+11 dale will neither take a summer job nor lay his hands on her
+12 There is a contradiction here?	no	1
+13 switzerland or portugal are in the geopolitical position of costa rica
+14 neither switzerland nor portugal are in the geopolitical position of costa rica
+15 There is a contradiction here?	yes	1
+1 lydias painting is fierce or plump
+2 lydias painting isnt fierce
+3 There is a contradiction here?	no	1
+4 hugh is fierce or adrian is calm
+5 hugh is not fierce and adrian is not calm
+6 There is a contradiction here?	yes	1
+7 kenneth went to slobozia or giurgiu
+8 kenneth didnt go to slobozia and kenneth didnt go to giurgiu
+9 There is a contradiction here?	yes	1
+10 christian has visited giurgiu or turda
+11 christian visited neither slatina nor turda
+12 There is a contradiction here?	no	1
+13 kyle is helpless or sonya is polite
+14 kyle is not helpless or sonya is not polite
+15 There is a contradiction here?	no	1
+1 paulines painting is red or nervous
+2 paulines painting isnt red and paulines painting isnt nervous
+3 There is a contradiction here?	yes	1
+4 clarence traveled to timisoara or tulcea
+5 clarence traveled to neither timisoara nor tulcea
+6 There is a contradiction here?	yes	1
+7 matthews painting is lemon or inexpensive
+8 matthews painting isnt inexpensive
+9 There is a contradiction here?	no	1
+10 lynn is magnificent or melody is aggressive
+11 lynn is not magnificent or melody is not aggressive
+12 There is a contradiction here?	no	1
+13 andrea will burn the flag or hide a smile
+14 andrea will neither burn the flag nor hide a smile
+15 There is a contradiction here?	yes	1
+1 rosie is lazy or peggy is gentle
+2 peggy is not gentle
+3 There is a contradiction here?	no	1
+4 beatrice will do it again or let use this pen
+5 beatrice will not do it again
+6 There is a contradiction here?	no	1
+7 troy will give mabel a blue car or show genes old photos
+8 troy will neither drink a bottle of water nor show genes old photos
+9 There is a contradiction here?	no	1
+10 lillie will read the book about spiders or break the record
+11 kristina will neither read the book about spiders nor break the record
+12 There is a contradiction here?	no	1
+13 ronald will fight me or hold him close
+14 ronald will not hold him close
+15 There is a contradiction here?	no	1
+1 bonnie will blow it or drink a bottle of water
+2 bruce will neither blow it nor drink a bottle of water
+3 There is a contradiction here?	no	1
+4 geneva will meet him or forgive me
+5 geneva will neither meet him nor swim out toward the ashy boat
+6 There is a contradiction here?	no	1
+7 brett has visited mangalia or timisoara
+8 brett didnt visit mangalia
+9 There is a contradiction here?	no	1
+10 natalie went to slatina or oradea
+11 natalie went to neither slatina nor oradea
+12 There is a contradiction here?	yes	1
+13 courtney will pay me or bring me out of javiers house
+14 courtney will neither pay me nor ring into mary
+15 There is a contradiction here?	no	1
+1 lena is proud or rafael is thankful
+2 lena is not proud and rafael is not thankful
+3 There is a contradiction here?	yes	1
+4 suzannes painting is zealous or jealous
+5 bettys painting is neither zealous nor jealous
+6 There is a contradiction here?	no	1
+7 scott is faithful or mario is obnoxious
+8 neither scott is faithful nor mario is obnoxious
+9 There is a contradiction here?	yes	1
+10 andre is short or javier is mysterious
+11 andre is not short or javier is not mysterious
+12 There is a contradiction here?	no	1
+13 claras painting is uninterested or beautiful
+14 margies painting is neither uninterested nor beautiful
+15 There is a contradiction here?	no	1
+1 terri traveled to dej or baia mare
+2 terri traveled to neither dej nor baia mare
+3 There is a contradiction here?	yes	1
+4 audrey will build a computer or put the phone down
+5 audrey will not build a computer and audrey wil not put the phone down
+6 There is a contradiction here?	yes	1
+7 loretta is obedient or ann is beautiful
+8 loretta is not obedient or ann is not beautiful
+9 There is a contradiction here?	no	1
+10 dana is glamorous or natasha is brave
+11 dana is not glamorous and natasha is not brave
+12 There is a contradiction here?	yes	1
+13 sonya is worried or james is unsightly
+14 sonya is not worried and james is not unsightly
+15 There is a contradiction here?	yes	1
+1 howard is kind or diana is gorgeous
+2 howard is not kind or diana is not gorgeous
+3 There is a contradiction here?	no	1
+4 brandys painting is elegant or muscular
+5 brandys painting isnt muscular
+6 There is a contradiction here?	no	1
+7 christophers painting is helpless or attractive
+8 danielles painting is neither helpless nor attractive
+9 There is a contradiction here?	no	1
+10 mistys painting is salmon or inexpensive
+11 mistys painting isnt salmon
+12 There is a contradiction here?	no	1
+13 jon will lay his hands on her or throw everything out the window
+14 jon will neither lay his hands on her nor throw everything out the window
+15 There is a contradiction here?	yes	1
+1 miriam will say nice things or send me a note
+2 miriam will neither say nice things nor send me a note
+3 There is a contradiction here?	yes	1
+4 tonys painting is jolly or rich
+5 tonys painting is neither jolly nor rich
+6 There is a contradiction here?	yes	1
+7 raymond is quaint or willard is short
+8 raymond is not quaint and willard is not short
+9 There is a contradiction here?	yes	1
+10 raymonds painting is red or nice
+11 raymonds painting is neither red nor nice
+12 There is a contradiction here?	yes	1
+13 rosemary will pay rhonda or show sonyas old photos
+14 rosemary will neither pay rhonda nor show sonyas old photos
+15 There is a contradiction here?	yes	1
+1 janie is fierce or melvin is glamorous
+2 janie is not fierce and melvin is not glamorous
+3 There is a contradiction here?	yes	1
+4 monique will hear my voice or burn some calories
+5 monique will not hear my voice and monique wil not burn some calories
+6 There is a contradiction here?	yes	1
+7 alfreds painting is delightful or defeated
+8 alfreds painting isnt defeated
+9 There is a contradiction here?	no	1
+10 mexico or saudi arabia won the last world cup
+11 neither mexico nor saudi arabia won the last world cup
+12 There is a contradiction here?	yes	1
+13 nancys painting is ashy or icy
+14 nancys painting isnt ashy
+15 There is a contradiction here?	no	1
+1 sally is angry or kevin is victorious
+2 sally is not angry or kevin is not victorious
+3 There is a contradiction here?	no	1
+4 francisco will tell me about the bars in vaslui or dream of the playing with terrance
+5 francisco will neither feel an outsider nor dream of the playing with terrance
+6 There is a contradiction here?	no	1
+7 elsie is aggressive or daniel is scruffy
+8 elsie is not aggressive or daniel is not scruffy
+9 There is a contradiction here?	no	1
+10 dianes painting is careful or gorgeous
+11 dianes painting isnt careful and dianes painting isnt gorgeous
+12 There is a contradiction here?	yes	1
+13 madeline is elegant or william is obedient
+14 madeline is not elegant and william is not obedient
+15 There is a contradiction here?	yes	1
+1 morriss painting is defeated or faithful
+2 morriss painting isnt faithful
+3 There is a contradiction here?	no	1
+4 miltons painting is eager or orange
+5 cathys painting is neither eager nor orange
+6 There is a contradiction here?	no	1
+7 sam is brave or wilma is uptight
+8 sam is not brave or wilma is not uptight
+9 There is a contradiction here?	no	1
+10 timothys painting is obedient or nice
+11 timothys painting isnt obedient and timothys painting isnt nice
+12 There is a contradiction here?	yes	1
+13 portugal or poland got to the quarter finals last year
+14 neither portugal nor japan got to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 maurice is helpless or maureen is polite
+2 maurice is not helpless or maureen is not polite
+3 There is a contradiction here?	no	1
+4 ken traveled to slatina or dej
+5 ken didnt travel to dej
+6 There is a contradiction here?	no	1
+7 alans painting is flabby or careful
+8 alans painting isnt flabby
+9 There is a contradiction here?	no	1
+10 vickie has visited clujnapoca or bucharest
+11 vickie visited neither clujnapoca nor bucharest
+12 There is a contradiction here?	yes	1
+13 kyle will blow it when he didnt invest in amazon or wake up
+14 kyle will neither blow it when he didnt invest in amazon nor dream of running in dej
+15 There is a contradiction here?	no	1
+1 ninas painting is mysterious or famous
+2 ninas painting isnt mysterious and ninas painting isnt famous
+3 There is a contradiction here?	yes	1
+4 opal traveled to blaj or arad
+5 opal traveled to neither blaj nor arad
+6 There is a contradiction here?	yes	1
+7 travis traveled to deva or bucharest
+8 travis didnt travel to deva and travis didnt travel to bucharest
+9 There is a contradiction here?	yes	1
+10 nigeria or costa rica are in the geopolitical position of egypt
+11 nigeria isnt in the geopolitical position of egypt and costa rica isnt in the geopolitical position of egypt
+12 There is a contradiction here?	yes	1
+13 johnny went to bucharest or slobozia
+14 johnny didnt go to bucharest and johnny didnt go to slobozia
+15 There is a contradiction here?	yes	1
+1 janet will become the most important tailor in this town or know about us
+2 janet will not become the most important tailor in this town
+3 There is a contradiction here?	no	1
+4 audrey is shapely or sam is gentle
+5 audrey is not shapely and sam is not gentle
+6 There is a contradiction here?	yes	1
+7 angels painting is inexpensive or wonderful
+8 angels painting isnt inexpensive and angels painting isnt wonderful
+9 There is a contradiction here?	yes	1
+10 sharon is bald or greg is beautiful
+11 sharon is not bald or greg is not beautiful
+12 There is a contradiction here?	no	1
+13 javier is plump or andy is happy
+14 neither javier is plump nor andy is happy
+15 There is a contradiction here?	yes	1
+1 erica traveled to craiova or bucharest
+2 erica traveled to neither craiova nor bucharest
+3 There is a contradiction here?	yes	1
+4 stephens painting is faithful or flabby
+5 stephens painting is neither faithful nor flabby
+6 There is a contradiction here?	yes	1
+7 belgium or morocco are in the geopolitical position of england
+8 belgium isnt in the geopolitical position of england and morocco isnt in the geopolitical position of england
+9 There is a contradiction here?	yes	1
+10 dennis will pay me or sing a pop song
+11 mattie will neither pay me nor sing a pop song
+12 There is a contradiction here?	no	1
+13 tom is chubby or holly is muscular
+14 neither tom is chubby nor holly is muscular
+15 There is a contradiction here?	yes	1
+1 kristis painting is calm or nice
+2 kristis painting is neither calm nor nice
+3 There is a contradiction here?	yes	1
+4 glenn will come at midnight or ring from me
+5 glenn will not come at midnight and glenn wil not ring from me
+6 There is a contradiction here?	yes	1
+7 allison went to vaslui or timisoara
+8 allison went to neither vaslui nor timisoara
+9 There is a contradiction here?	yes	1
+10 kathryn will have it all or send me a note
+11 kathryn will not have it all and kathryn wil not send me a note
+12 There is a contradiction here?	yes	1
+13 danny traveled to oradea or mangalia
+14 danny traveled to neither oradea nor mangalia
+15 There is a contradiction here?	yes	1
+1 brian is uptight or jorge is gentle
+2 neither brian is uptight nor jorge is gentle
+3 There is a contradiction here?	yes	1
+4 lawrences painting is wonderful or salmon
+5 lawrences painting is neither wonderful nor salmon
+6 There is a contradiction here?	yes	1
+7 lenas painting is gorgeous or shapely
+8 lenas painting is neither gorgeous nor itchy
+9 There is a contradiction here?	no	1
+10 clydes painting is mango or magnificent
+11 clydes painting is neither mango nor magnificent
+12 There is a contradiction here?	yes	1
+13 julio is happy or angela is attractive
+14 julio is not happy or angela is not attractive
+15 There is a contradiction here?	no	1
+1 kristins painting is stocky or calm
+2 kristins painting is neither stocky nor calm
+3 There is a contradiction here?	yes	1
+4 lori is drab or beverly is shapely
+5 neither lori is drab nor beverly is shapely
+6 There is a contradiction here?	yes	1
+7 patricks painting is bald or gray
+8 patricks painting is neither bald nor gray
+9 There is a contradiction here?	yes	1
+10 jared has visited turda or slobozia
+11 jared didnt visit turda and jared didnt visit slobozia
+12 There is a contradiction here?	yes	1
+13 noras painting is pitiful or dead
+14 noras painting isnt pitiful and noras painting isnt dead
+15 There is a contradiction here?	yes	1
+1 andrews painting is quaint or easy
+2 andrews painting is neither quaint nor easy
+3 There is a contradiction here?	yes	1
+4 cody is silly or flora is uptight
+5 neither cody is silly nor flora is uptight
+6 There is a contradiction here?	yes	1
+7 andys painting is gorgeous or red
+8 andys painting isnt gorgeous and andys painting isnt red
+9 There is a contradiction here?	yes	1
+10 karl will win the game or know brandons secret
+11 karl will neither win the game nor know brandons secret
+12 There is a contradiction here?	yes	1
+13 cathys painting is important or skinny
+14 cathys painting isnt skinny
+15 There is a contradiction here?	no	1
+1 dawn is brave or ellen is skinny
+2 dawn is not brave and ellen is not skinny
+3 There is a contradiction here?	yes	1
+4 elmers painting is gray or jealous
+5 elmers painting isnt jealous
+6 There is a contradiction here?	no	1
+7 korea republic or poland are in the geopolitical position of japan
+8 korea republic isnt in the geopolitical position of japan and poland isnt in the geopolitical position of japan
+9 There is a contradiction here?	yes	1
+10 katies painting is yellow or uptight
+11 naomis painting is neither yellow nor uptight
+12 There is a contradiction here?	no	1
+13 uruguay or serbia won the last world cup
+14 uruguay didnt win the last world cup and serbia didnt win the last world cup
+15 There is a contradiction here?	yes	1
+1 rubys painting is long or skinny
+2 rubys painting is neither long nor skinny
+3 There is a contradiction here?	yes	1
+4 france or portugal are in the geopolitical position of brazil
+5 neither france nor mexico are in the geopolitical position of brazil
+6 There is a contradiction here?	no	1
+7 kelly traveled to bucharest or dej
+8 kelly traveled to neither bucharest nor reghin
+9 There is a contradiction here?	no	1
+10 switzerland or brazil won the last world cup
+11 brazil didnt win the last world cup
+12 There is a contradiction here?	no	1
+13 mabel has visited oradea or slobozia
+14 duane visited neither oradea nor slobozia
+15 There is a contradiction here?	no	1
+1 roberta is pitiful or allan is helpless
+2 roberta is not pitiful
+3 There is a contradiction here?	no	1
+4 australia or brazil got to the quarter finals last year
+5 brazil didnt get to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 denmark or korea republic are in the geopolitical position of colombia
+8 denmark isnt in the geopolitical position of colombia
+9 There is a contradiction here?	no	1
+10 danny is fit or brandy is chubby
+11 danny is not fit and brandy is not chubby
+12 There is a contradiction here?	yes	1
+13 tracy will wake up or sleep for eight hours
+14 tracy will neither tell me olivias secret nor sleep for eight hours
+15 There is a contradiction here?	no	1
+1 spain or serbia are in the geopolitical position of brazil
+2 spain isnt in the geopolitical position of brazil and serbia isnt in the geopolitical position of brazil
+3 There is a contradiction here?	yes	1
+4 saudi arabia or switzerland got to the quarter finals last year
+5 switzerland didnt get to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 melinda will dream of the playing with wesley or ride the buffalo
+8 melinda will not dream of the playing with wesley and melinda wil not ride the buffalo
+9 There is a contradiction here?	yes	1
+10 lonnie is gorgeous or kelly is scruffy
+11 lonnie is not gorgeous and kelly is not scruffy
+12 There is a contradiction here?	yes	1
+13 michele is obedient or marion is attractive
+14 michele is not obedient and marion is not attractive
+15 There is a contradiction here?	yes	1
+1 francis is muscular or jennie is helpless
+2 francis is not muscular and jennie is not helpless
+3 There is a contradiction here?	yes	1
+4 nicholas is silly or tara is unkempt
+5 nicholas is not silly and tara is not unkempt
+6 There is a contradiction here?	yes	1
+7 fannies painting is dazzling or mealy
+8 fannies painting isnt dazzling and fannies painting isnt mealy
+9 There is a contradiction here?	yes	1
+10 reginas painting is fit or glamorous
+11 reginas painting isnt glamorous
+12 There is a contradiction here?	no	1
+13 saudi arabia or iceland got to the quarter finals last year
+14 neither saudi arabia nor uruguay got to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 charlottes painting is ashy or embarrassed
+2 sonyas painting is neither ashy nor embarrassed
+3 There is a contradiction here?	no	1
+4 kimberly has visited tulcea or arad
+5 kimberly didnt visit tulcea
+6 There is a contradiction here?	no	1
+7 diana is defeated or walter is obedient
+8 diana is not defeated and walter is not obedient
+9 There is a contradiction here?	yes	1
+10 belgium or spain won the last world cup
+11 neither belgium nor spain won the last world cup
+12 There is a contradiction here?	yes	1
+13 portugal or poland are in the geopolitical position of korea republic
+14 poland isnt in the geopolitical position of korea republic
+15 There is a contradiction here?	no	1
+1 costa rica or senegal got to the quarter finals last year
+2 neither costa rica nor saudi arabia got to the quarter finals last year
+3 There is a contradiction here?	no	1
+4 amandas painting is short or pitiful
+5 amandas painting isnt pitiful
+6 There is a contradiction here?	no	1
+7 franciscos painting is proud or stocky
+8 franciscos painting is neither purple nor stocky
+9 There is a contradiction here?	no	1
+10 kathryn will lose my computer or draw ahead of the other runners
+11 kathryn will neither read a paper nor draw ahead of the other runners
+12 There is a contradiction here?	no	1
+13 don will ring from barcelona to bucharest or grow up in jail
+14 don will not ring from barcelona to bucharest and don wil not grow up in jail
+15 There is a contradiction here?	yes	1
+1 tracy has visited hunedoara or timisoara
+2 tracy visited neither hunedoara nor timisoara
+3 There is a contradiction here?	yes	1
+4 japan or korea republic got to the quarter finals last year
+5 neither england nor japan got to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 clifford will forgive me or know about us
+8 clifford will neither forgive me nor know about us
+9 There is a contradiction here?	yes	1
+10 max went to lugoj or slatina
+11 max went to neither lugoj nor slatina
+12 There is a contradiction here?	yes	1
+13 claudias painting is clumsy or quaint
+14 claudias painting isnt quaint
+15 There is a contradiction here?	no	1
+1 alicia is lazy or peter is nervous
+2 alicia is not lazy
+3 There is a contradiction here?	no	1
+4 tunisia or panama got to the quarter finals last year
+5 tunisia didnt get to the quarter finals last year and panama didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 jan went to tulcea or blaj
+8 jan went to neither tulcea nor blaj
+9 There is a contradiction here?	yes	1
+10 allison will eat it all or dig a hole in the garden
+11 allison will not eat it all
+12 There is a contradiction here?	no	1
+13 juans painting is fierce or tender
+14 juans painting isnt tender
+15 There is a contradiction here?	no	1
+1 crystal went to giurgiu or tulcea
+2 crystal didnt go to giurgiu and crystal didnt go to tulcea
+3 There is a contradiction here?	yes	1
+4 anthony is polite or randall is witty
+5 anthony is not polite and randall is not witty
+6 There is a contradiction here?	yes	1
+7 joshuas painting is wonderful or plain
+8 joshuas painting is neither wonderful nor plain
+9 There is a contradiction here?	yes	1
+10 iceland or senegal won the last world cup
+11 iceland didnt win the last world cup and senegal didnt win the last world cup
+12 There is a contradiction here?	yes	1
+13 andrea is ambitious or heidi is uptight
+14 andrea is not ambitious or heidi is not uptight
+15 There is a contradiction here?	no	1
+1 tammys painting is unsightly or better
+2 tammys painting isnt unsightly
+3 There is a contradiction here?	no	1
+4 jay will go away or lend me some money a month before
+5 jay will not go away and jay wil not lend me some money a month before
+6 There is a contradiction here?	yes	1
+7 sidney is repulsive or julian is ugly
+8 sidney is not repulsive and julian is not ugly
+9 There is a contradiction here?	yes	1
+10 ramons painting is glamorous or lazy
+11 ramons painting is neither glamorous nor lazy
+12 There is a contradiction here?	yes	1
+13 velma will forgive debra or ring from barcelona to dej
+14 velma will neither forgive debra nor ring from barcelona to dej
+15 There is a contradiction here?	yes	1
+1 samantha is defeated or cheryl is skinny
+2 samantha is not defeated and cheryl is not skinny
+3 There is a contradiction here?	yes	1
+4 judy has visited bucharest or reghin
+5 judy visited neither dej nor reghin
+6 There is a contradiction here?	no	1
+7 miriam is polite or dwayne is worried
+8 neither miriam is polite nor dwayne is worried
+9 There is a contradiction here?	yes	1
+10 corey will bring me out of jimmys house or dig a hole in ediths backyard
+11 corey will not bring me out of jimmys house and corey wil not dig a hole in ediths backyard
+12 There is a contradiction here?	yes	1
+13 erika will do it again or understand what mamie comment about lugoj
+14 joyce will neither do it again nor understand what mamie comment about lugoj
+15 There is a contradiction here?	no	1
+1 johnnys painting is happy or better
+2 johnnys painting is neither scruffy nor better
+3 There is a contradiction here?	no	1
+4 korea republic or panama got to the quarter finals last year
+5 korea republic didnt get to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 ashley will wear a black jacket or stand up to dave
+8 ashley will neither wear a black jacket nor stand up to dave
+9 There is a contradiction here?	yes	1
+10 clifford is flabby or viola is beautiful
+11 neither clifford is flabby nor viola is beautiful
+12 There is a contradiction here?	yes	1
+13 jennifer will sing a nice song or wear a purple jacket
+14 jennifer will neither sing a nice song nor wear a purple jacket
+15 There is a contradiction here?	yes	1
+1 anas painting is agreeable or jolly
+2 anas painting isnt agreeable and anas painting isnt jolly
+3 There is a contradiction here?	yes	1
+4 lindsey will see her or pay jack
+5 lindsey will neither see her nor pay jack
+6 There is a contradiction here?	yes	1
+7 colleen is jealous or clifton is clean
+8 neither colleen is jealous nor clifton is clean
+9 There is a contradiction here?	yes	1
+10 bobbie is flabby or shirley is fancy
+11 neither bobbie is flabby nor shirley is fancy
+12 There is a contradiction here?	yes	1
+13 stephanie will throw everything out the window or ride the horse
+14 stephanie will neither throw everything out the window nor ride the horse
+15 There is a contradiction here?	yes	1
+1 alisons painting is careful or uninterested
+2 alisons painting is neither careful nor uninterested
+3 There is a contradiction here?	yes	1
+4 albert is witty or alice is polite
+5 albert is not witty or alice is not polite
+6 There is a contradiction here?	no	1
+7 laurens painting is red or easy
+8 laurens painting is neither red nor easy
+9 There is a contradiction here?	yes	1
+10 jorge is embarrassed or larry is chubby
+11 jorge is not embarrassed and larry is not chubby
+12 There is a contradiction here?	yes	1
+13 judy will hear jenny or feel a strange
+14 judy will not hear jenny and judy wil not feel a strange
+15 There is a contradiction here?	yes	1
+1 deanna will see the best barber from deva or let use this pen
+2 deanna will not see the best barber from deva and deanna wil not let use this pen
+3 There is a contradiction here?	yes	1
+4 germany or korea republic are in the geopolitical position of tunisia
+5 germany isnt in the geopolitical position of tunisia and korea republic isnt in the geopolitical position of tunisia
+6 There is a contradiction here?	yes	1
+7 raul is faithful or ramon is fierce
+8 raul is not faithful and ramon is not fierce
+9 There is a contradiction here?	yes	1
+10 natalie will draw ahead of the other runners or fall to the floor
+11 natalie will not draw ahead of the other runners and natalie wil not fall to the floor
+12 There is a contradiction here?	yes	1
+13 jamie is dazzling or jacqueline is glamorous
+14 neither jamie is dazzling nor jacqueline is glamorous
+15 There is a contradiction here?	yes	1
+1 daniel traveled to baia mare or lugoj
+2 daniel traveled to neither baia mare nor lugoj
+3 There is a contradiction here?	yes	1
+4 iran or nigeria got to the quarter finals last year
+5 neither iran nor tunisia got to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 russell will burn the flag or fall to the floor
+8 judith will neither burn the flag nor fall to the floor
+9 There is a contradiction here?	no	1
+10 ana will stand in front of the crowd or understand what jeffrey comment about baia mare
+11 ana will not stand in front of the crowd and ana wil not understand what jeffrey comment about baia mare
+12 There is a contradiction here?	yes	1
+13 gary will sell me a salmon car or lay his hands on him
+14 gary will neither ride the horse nor lay his hands on him
+15 There is a contradiction here?	no	1
+1 martha will become very important to me or put the phone down
+2 martha will not become very important to me and martha wil not put the phone down
+3 There is a contradiction here?	yes	1
+4 genevieve is gorgeous or calvin is victorious
+5 genevieve is not gorgeous and calvin is not victorious
+6 There is a contradiction here?	yes	1
+7 peter has visited baia mare or timisoara
+8 peter visited neither baia mare nor timisoara
+9 There is a contradiction here?	yes	1
+10 javier is long or patricia is ugly
+11 javier is not long and patricia is not ugly
+12 There is a contradiction here?	yes	1
+13 traceys painting is poor or pitiful
+14 traceys painting isnt poor and traceys painting isnt pitiful
+15 There is a contradiction here?	yes	1
+1 joyce is angry or bobby is attractive
+2 neither joyce is angry nor bobby is attractive
+3 There is a contradiction here?	yes	1
+4 sidney will win the soccer match or drive awayto the bus stop
+5 sidney will neither sit on the chair nor drive awayto the bus stop
+6 There is a contradiction here?	no	1
+7 hazels painting is green or kind
+8 hazels painting is neither dazzling nor kind
+9 There is a contradiction here?	no	1
+10 rose is gentle or anthony is quaint
+11 anthony is not quaint
+12 There is a contradiction here?	no	1
+13 lindsay went to clujnapoca or deva
+14 lindsay didnt go to clujnapoca
+15 There is a contradiction here?	no	1
+1 traceys painting is pitiful or fit
+2 traceys painting is neither pitiful nor fit
+3 There is a contradiction here?	yes	1
+4 ada is lively or sandra is uptight
+5 ada is not lively or sandra is not uptight
+6 There is a contradiction here?	no	1
+7 eunice traveled to bucharest or craiova
+8 eunice didnt travel to bucharest and eunice didnt travel to craiova
+9 There is a contradiction here?	yes	1
+10 junes painting is shapely or helpless
+11 junes painting isnt shapely and junes painting isnt helpless
+12 There is a contradiction here?	yes	1
+13 courtney will eat a steak or let use this pen
+14 courtney will neither ring from barcelona to deva nor let use this pen
+15 There is a contradiction here?	no	1
+1 amanda will get the money or dream of running in lugoj
+2 amanda will not get the money and amanda wil not dream of running in lugoj
+3 There is a contradiction here?	yes	1
+4 william is gorgeous or judy is witty
+5 neither william is gorgeous nor judy is witty
+6 There is a contradiction here?	yes	1
+7 willard is chubby or clayton is drab
+8 willard is not chubby and clayton is not drab
+9 There is a contradiction here?	yes	1
+10 lolas painting is famous or clumsy
+11 ashleys painting is neither famous nor clumsy
+12 There is a contradiction here?	no	1
+13 portugal or korea republic got to the quarter finals last year
+14 korea republic didnt get to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 kyles painting is unimportant or faithful
+2 kyles painting is neither unimportant nor brave
+3 There is a contradiction here?	no	1
+4 jeans painting is angry or elegant
+5 philips painting is neither angry nor elegant
+6 There is a contradiction here?	no	1
+7 sheryls painting is bewildered or jealous
+8 sheryls painting is neither bewildered nor jealous
+9 There is a contradiction here?	yes	1
+10 lees painting is clean or calm
+11 jills painting is neither clean nor calm
+12 There is a contradiction here?	no	1
+13 brenda will sell me a red car or drink an orange juice
+14 brenda will neither sell me a red car nor drink an orange juice
+15 There is a contradiction here?	yes	1
+1 julia will begin crying or fly to vaslui
+2 julia will not begin crying and julia wil not fly to vaslui
+3 There is a contradiction here?	yes	1
+4 iran or egypt won the last world cup
+5 neither iran nor egypt won the last world cup
+6 There is a contradiction here?	yes	1
+7 johnny is faithful or brett is repulsive
+8 neither johnny is faithful nor brett is repulsive
+9 There is a contradiction here?	yes	1
+10 marc will lead me to joses house or sell me a blue car
+11 marc will neither lead me to joses house nor sell me a blue car
+12 There is a contradiction here?	yes	1
+13 morriss painting is silly or quaint
+14 morriss painting is neither bewildered nor quaint
+15 There is a contradiction here?	no	1
+1 eddie is handsome or charlie is agreeable
+2 neither eddie is handsome nor charlie is agreeable
+3 There is a contradiction here?	yes	1
+4 phillip will do some good work or fight reginald
+5 phillip will neither do some good work nor fight reginald
+6 There is a contradiction here?	yes	1
+7 brandon has visited turda or oradea
+8 brandon didnt visit turda and brandon didnt visit oradea
+9 There is a contradiction here?	yes	1
+10 poland or sweden got to the quarter finals last year
+11 neither poland nor sweden got to the quarter finals last year
+12 There is a contradiction here?	yes	1
+13 claude has visited baia mare or hunedoara
+14 claude didnt visit hunedoara
+15 There is a contradiction here?	no	1
+1 craig is obedient or marion is stocky
+2 craig is not obedient
+3 There is a contradiction here?	no	1
+4 cecil is nice or warren is skinny
+5 cecil is not nice or warren is not skinny
+6 There is a contradiction here?	no	1
+7 rickys painting is beautiful or dazzling
+8 rickys painting is neither unsightly nor dazzling
+9 There is a contradiction here?	no	1
+10 leroy is obedient or martin is short
+11 neither leroy is obedient nor martin is short
+12 There is a contradiction here?	yes	1
+13 margarets painting is kind or angry
+14 margarets painting isnt angry
+15 There is a contradiction here?	no	1
+1 peggy will find him or have it all
+2 peggy will not find him
+3 There is a contradiction here?	no	1
+4 marshalls painting is tender or salmon
+5 marshalls painting is neither tender nor salmon
+6 There is a contradiction here?	yes	1
+7 darrell is quaint or charles is attractive
+8 darrell is not quaint and charles is not attractive
+9 There is a contradiction here?	yes	1
+10 lynn is nervous or debra is helpless
+11 neither lynn is nervous nor debra is helpless
+12 There is a contradiction here?	yes	1
+13 bonnies painting is magnificent or worried
+14 kristens painting is neither magnificent nor worried
+15 There is a contradiction here?	no	1
+1 marsha will wake up or put alvin in charge
+2 marsha will not wake up
+3 There is a contradiction here?	no	1
+4 adams painting is easy or elegant
+5 adams painting isnt easy and adams painting isnt elegant
+6 There is a contradiction here?	yes	1
+7 tracy is faithful or heidi is agreeable
+8 tracy is not faithful or heidi is not agreeable
+9 There is a contradiction here?	no	1
+10 alicia will leave me waiting or fly to arad
+11 alicia will neither leave me waiting nor fly to arad
+12 There is a contradiction here?	yes	1
+13 carrie is obedient or christina is delightful
+14 christina is not delightful
+15 There is a contradiction here?	no	1
+1 teresas painting is fancy or thankful
+2 teresas painting is neither fancy nor thankful
+3 There is a contradiction here?	yes	1
+4 alfredos painting is stocky or better
+5 alfredos painting is neither stocky nor better
+6 There is a contradiction here?	yes	1
+7 susie traveled to hunedoara or giurgiu
+8 susie traveled to neither hunedoara nor giurgiu
+9 There is a contradiction here?	yes	1
+10 wanda will dream of the playing with kent or drive awayto the bus stop
+11 wanda will not dream of the playing with kent and wanda wil not drive awayto the bus stop
+12 There is a contradiction here?	yes	1
+13 bobbies painting is calm or panicky
+14 bobbies painting isnt panicky
+15 There is a contradiction here?	no	1
+1 everett traveled to tulcea or deva
+2 eugene traveled to neither tulcea nor deva
+3 There is a contradiction here?	no	1
+4 gordons painting is wrong or agreeable
+5 gordons painting isnt agreeable
+6 There is a contradiction here?	no	1
+7 harvey is angry or max is gorgeous
+8 max is not gorgeous
+9 There is a contradiction here?	no	1
+10 lisa is jealous or leslie is long
+11 neither lisa is jealous nor leslie is long
+12 There is a contradiction here?	yes	1
+13 beulah is attractive or brandon is clean
+14 neither beulah is attractive nor brandon is clean
+15 There is a contradiction here?	yes	1
+1 neil is ugly or eddie is flabby
+2 neither neil is ugly nor eddie is flabby
+3 There is a contradiction here?	yes	1
+4 laura is embarrassed or james is lazy
+5 laura is not embarrassed and james is not lazy
+6 There is a contradiction here?	yes	1
+7 joseph is embarrassed or madeline is thankful
+8 joseph is not embarrassed and madeline is not thankful
+9 There is a contradiction here?	yes	1
+10 jaime is plain or dana is calm
+11 jaime is not plain or dana is not calm
+12 There is a contradiction here?	no	1
+13 greg will hurt her or leave barcelona for arad
+14 greg will neither hurt her nor build a computer
+15 There is a contradiction here?	no	1
+1 jessie will forget about marions past or freeze ricks bank account
+2 jessie will not forget about marions past
+3 There is a contradiction here?	no	1
+4 eduardo is drab or howard is jolly
+5 eduardo is not drab and howard is not jolly
+6 There is a contradiction here?	yes	1
+7 lance is glamorous or floyd is defeated
+8 lance is not glamorous or floyd is not defeated
+9 There is a contradiction here?	no	1
+10 wesley will swim out toward the icy boat or give jack a ashy bicycle
+11 dwayne will neither swim out toward the icy boat nor give jack a ashy bicycle
+12 There is a contradiction here?	no	1
+13 colleen is lazy or marie is clumsy
+14 colleen is not lazy or marie is not clumsy
+15 There is a contradiction here?	no	1
+1 maurice has visited bucharest or lugoj
+2 maurice didnt visit bucharest and maurice didnt visit lugoj
+3 There is a contradiction here?	yes	1
+4 blanche is fancy or kelly is elegant
+5 blanche is not fancy or kelly is not elegant
+6 There is a contradiction here?	no	1
+7 portugal or russia are in the geopolitical position of switzerland 
+8 neither portugal nor russia are in the geopolitical position of switzerland 
+9 There is a contradiction here?	yes	1
+10 eleanors painting is purple or uninterested
+11 eleanors painting is neither purple nor elegant
+12 There is a contradiction here?	no	1
+13 senegal or morocco got to the quarter finals last year
+14 neither senegal nor morocco got to the quarter finals last year
+15 There is a contradiction here?	yes	1
+1 beverly will wear a icy hat or shut the door down
+2 beverly will not wear a icy hat and beverly wil not shut the door down
+3 There is a contradiction here?	yes	1
+4 allens painting is ugly or aggressive
+5 allens painting is neither ugly nor aggressive
+6 There is a contradiction here?	yes	1
+7 allison will catch a orange fish or fly to lugoj
+8 allison will not fly to lugoj
+9 There is a contradiction here?	no	1
+10 minnie is obedient or gloria is bewildered
+11 minnie is not obedient or gloria is not bewildered
+12 There is a contradiction here?	no	1
+13 robert will stand up to candace or hear misty
+14 robert will neither stand up to candace nor hear misty
+15 There is a contradiction here?	yes	1
+1 peru or senegal are in the geopolitical position of mexico
+2 neither peru nor senegal are in the geopolitical position of mexico
+3 There is a contradiction here?	yes	1
+4 clarence will freeze my account or cut himself
+5 clarence will not cut himself
+6 There is a contradiction here?	no	1
+7 tanyas painting is long or mysterious
+8 tanyas painting isnt mysterious
+9 There is a contradiction here?	no	1
+10 emma will fly to timisoara or bend the rules of the card game
+11 emma will neither freeze jacobs bank account nor bend the rules of the card game
+12 There is a contradiction here?	no	1
+13 sonia is dazzling or pedro is helpless
+14 sonia is not dazzling or pedro is not helpless
+15 There is a contradiction here?	no	1
+1 brandys painting is clever or gorgeous
+2 brandys painting isnt clever
+3 There is a contradiction here?	no	1
+4 argentina or morocco got to the quarter finals last year
+5 argentina didnt get to the quarter finals last year and morocco didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 lynns painting is ugly or black
+8 rubens painting is neither ugly nor black
+9 There is a contradiction here?	no	1
+10 jamies painting is muscular or plain
+11 joans painting is neither muscular nor plain
+12 There is a contradiction here?	no	1
+13 england or sweden got to the quarter finals last year
+14 england didnt get to the quarter finals last year and sweden didnt get to the quarter finals last year
+15 There is a contradiction here?	yes	1
+1 fannie has visited clujnapoca or reghin
+2 bobby visited neither clujnapoca nor reghin
+3 There is a contradiction here?	no	1
+4 brenda is uptight or vanessa is helpless
+5 neither brenda is uptight nor vanessa is helpless
+6 There is a contradiction here?	yes	1
+7 stacys painting is handsome or mushy
+8 stacys painting is neither ashy nor mushy
+9 There is a contradiction here?	no	1
+10 bryan is gorgeous or leona is kind
+11 neither bryan is gorgeous nor leona is kind
+12 There is a contradiction here?	yes	1
+13 inezs painting is mango or elegant
+14 inezs painting isnt mango
+15 There is a contradiction here?	no	1
+1 nigeria or iceland won the last world cup
+2 iceland didnt win the last world cup
+3 There is a contradiction here?	no	1
+4 france or egypt are in the geopolitical position of england
+5 neither france nor egypt are in the geopolitical position of england
+6 There is a contradiction here?	yes	1
+7 russia or england got to the quarter finals last year
+8 russia didnt get to the quarter finals last year
+9 There is a contradiction here?	no	1
+10 victoria will hang up on me or forget about fayes hobby
+11 victoria will not hang up on me and victoria wil not forget about fayes hobby
+12 There is a contradiction here?	yes	1
+13 sherry is witty or isaac is polite
+14 sherry is not witty
+15 There is a contradiction here?	no	1
+1 juana is helpless or jon is repulsive
+2 neither juana is helpless nor jon is repulsive
+3 There is a contradiction here?	yes	1
+4 vincent will show my new photos or choose this way of life
+5 vincent will not show my new photos
+6 There is a contradiction here?	no	1
+7 terrances painting is mushy or ashy
+8 terrances painting isnt ashy
+9 There is a contradiction here?	no	1
+10 dannys painting is powerful or agreeable
+11 dannys painting isnt powerful
+12 There is a contradiction here?	no	1
+13 janet is worried or peggy is fancy
+14 neither janet is worried nor peggy is fancy
+15 There is a contradiction here?	yes	1
+1 jesus will dig a hole or write me about misty
+2 jesus will not dig a hole and jesus wil not write me about misty
+3 There is a contradiction here?	yes	1
+4 juanas painting is scruffy or chubby
+5 juanas painting isnt scruffy
+6 There is a contradiction here?	no	1
+7 lucille will eat an apple or hang up on me
+8 lucille will not hang up on me
+9 There is a contradiction here?	no	1
+10 poland or iran got to the quarter finals last year
+11 poland didnt get to the quarter finals last year
+12 There is a contradiction here?	no	1
+13 joe is beautiful or marsha is wonderful
+14 marsha is not wonderful
+15 There is a contradiction here?	no	1
+1 kevin will dig a hole or lay his hands on him
+2 kevin will not dig a hole and kevin wil not lay his hands on him
+3 There is a contradiction here?	yes	1
+4 tamara has visited vaslui or timisoara
+5 tamara visited neither vaslui nor timisoara
+6 There is a contradiction here?	yes	1
+7 jimmies painting is polite or tender
+8 jimmies painting isnt tender
+9 There is a contradiction here?	no	1
+10 wallace will send me a letter or beat us a lot
+11 wallace will not send me a letter
+12 There is a contradiction here?	no	1
+13 daryls painting is shy or white
+14 daryls painting is neither shy nor brave
+15 There is a contradiction here?	no	1
+1 samanthas painting is defeated or beautiful
+2 samanthas painting isnt defeated and samanthas painting isnt beautiful
+3 There is a contradiction here?	yes	1
+4 jackie will say funny things or let this happen
+5 jackie will neither say funny things nor let this happen
+6 There is a contradiction here?	yes	1
+7 uruguay or nigeria got to the quarter finals last year
+8 nigeria didnt get to the quarter finals last year
+9 There is a contradiction here?	no	1
+10 jordan will lend me some money a month before or shut the door down
+11 jordan will neither forget about jills hobby nor shut the door down
+12 There is a contradiction here?	no	1
+13 roger will forget about louises hobby or sell me a red car
+14 roger will neither forget about louises hobby nor sell me a red car
+15 There is a contradiction here?	yes	1
+1 anita will sit on the mat or swim out toward the orange boat
+2 anita will not swim out toward the orange boat
+3 There is a contradiction here?	no	1
+4 sandy is brave or carmen is delightful
+5 sandy is not brave or carmen is not delightful
+6 There is a contradiction here?	no	1
+7 dianes painting is vast or chubby
+8 dianes painting isnt vast
+9 There is a contradiction here?	no	1
+10 jennifer will swim out toward the mango boat or begin laughing
+11 jennifer will not begin laughing
+12 There is a contradiction here?	no	1
+13 ruth is mysterious or lydia is flabby
+14 ruth is not mysterious
+15 There is a contradiction here?	no	1
+1 bernices painting is happy or short
+2 bernices painting is neither unsightly nor short
+3 There is a contradiction here?	no	1
+4 darren will dig a hole or break the rules
+5 darren will neither dig a hole nor eat an apple
+6 There is a contradiction here?	no	1
+7 sam will put the phone down or forgive me
+8 sam will not put the phone down and sam wil not forgive me
+9 There is a contradiction here?	yes	1
+10 elmer is chubby or joyce is embarrassed
+11 elmer is not chubby or joyce is not embarrassed
+12 There is a contradiction here?	no	1
+13 jodi went to oradea or dej
+14 jodi went to neither oradea nor dej
+15 There is a contradiction here?	yes	1
+1 rolands painting is mealy or scruffy
+2 rolands painting isnt mealy and rolands painting isnt scruffy
+3 There is a contradiction here?	yes	1
+4 marshall will get the money or lead me to jaimes house
+5 jeremy will neither get the money nor lead me to jaimes house
+6 There is a contradiction here?	no	1
+7 frank will sleep for eight hours or send me a letter
+8 frank will not sleep for eight hours and frank wil not send me a letter
+9 There is a contradiction here?	yes	1
+10 tyrone is angry or jane is dazzling
+11 tyrone is not angry or jane is not dazzling
+12 There is a contradiction here?	no	1
+13 isaac is helpless or antonio is proud
+14 isaac is not helpless or antonio is not proud
+15 There is a contradiction here?	no	1
+1 francis will hang up on me or drive awayto the bus stop
+2 francis will not drive awayto the bus stop
+3 There is a contradiction here?	no	1
+4 wayne is scruffy or stacey is agreeable
+5 neither wayne is scruffy nor stacey is agreeable
+6 There is a contradiction here?	yes	1
+7 constance will drink a bottle of water or bring me out of deloress house
+8 constance will not bring me out of deloress house
+9 There is a contradiction here?	no	1
+10 viola has visited baia mare or deva
+11 viola visited neither baia mare nor deva
+12 There is a contradiction here?	yes	1
+13 jackie will grow up or think i was helping margarita
+14 jackie will not grow up and jackie wil not think i was helping margarita
+15 There is a contradiction here?	yes	1
+1 yvette will leave barcelona for deva or bend the yellow rod
+2 yvette will not leave barcelona for deva
+3 There is a contradiction here?	no	1
+4 pauline will take a summer job or send me a letter
+5 pauline will not take a summer job
+6 There is a contradiction here?	no	1
+7 tunisia or korea republic are in the geopolitical position of belgium
+8 tunisia isnt in the geopolitical position of belgium and korea republic isnt in the geopolitical position of belgium
+9 There is a contradiction here?	yes	1
+10 codys painting is powerful or embarrassed
+11 codys painting isnt powerful and codys painting isnt embarrassed
+12 There is a contradiction here?	yes	1
+13 russia or poland got to the quarter finals last year
+14 neither russia nor saudi arabia got to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 england or australia won the last world cup
+2 neither england nor australia won the last world cup
+3 There is a contradiction here?	yes	1
+4 joel is mysterious or douglas is aggressive
+5 joel is not mysterious and douglas is not aggressive
+6 There is a contradiction here?	yes	1
+7 danny went to bucharest or tulcea
+8 danny went to neither bucharest nor tulcea
+9 There is a contradiction here?	yes	1
+10 opals painting is happy or icy
+11 opals painting isnt icy
+12 There is a contradiction here?	no	1
+13 bretts painting is rich or famous
+14 bretts painting is neither rich nor witty
+15 There is a contradiction here?	no	1
+1 jennifer will lay his hands on her or tell me everything
+2 jennifer will not lay his hands on her
+3 There is a contradiction here?	no	1
+4 tims painting is angry or hallowed
+5 tims painting is neither ambitious nor hallowed
+6 There is a contradiction here?	no	1
+7 eileen is ambitious or kristen is zealous
+8 neither eileen is ambitious nor kristen is zealous
+9 There is a contradiction here?	yes	1
+10 gloria is obedient or molly is witty
+11 gloria is not obedient or molly is not witty
+12 There is a contradiction here?	no	1
+13 jenny is grumpy or tanya is shapely
+14 jenny is not grumpy and tanya is not shapely
+15 There is a contradiction here?	yes	1
+1 martins painting is silly or obedient
+2 martins painting isnt silly and martins painting isnt obedient
+3 There is a contradiction here?	yes	1
+4 ellen will show my new photos or go to traviss house
+5 franklin will neither show my new photos nor go to traviss house
+6 There is a contradiction here?	no	1
+7 poland or russia got to the quarter finals last year
+8 poland didnt get to the quarter finals last year and russia didnt get to the quarter finals last year
+9 There is a contradiction here?	yes	1
+10 normas painting is lazy or white
+11 normas painting isnt lazy and normas painting isnt white
+12 There is a contradiction here?	yes	1
+13 reginald will show my new photos or lose my computer
+14 reginald will neither wear a gray jacket nor lose my computer
+15 There is a contradiction here?	no	1
+1 jeanette will think duane was going to die or forgive judith
+2 everett will neither think duane was going to die nor forgive judith
+3 There is a contradiction here?	no	1
+4 marcia is silly or melanie is thoughtless
+5 melanie is not thoughtless
+6 There is a contradiction here?	no	1
+7 spain or argentina won the last world cup
+8 spain didnt win the last world cup and argentina didnt win the last world cup
+9 There is a contradiction here?	yes	1
+10 pamelas painting is scary or gifted
+11 pamelas painting is neither scary nor gifted
+12 There is a contradiction here?	yes	1
+13 larry is muscular or jeanette is flabby
+14 larry is not muscular or jeanette is not flabby
+15 There is a contradiction here?	no	1
+1 florence will fall to the floor or wear a gray hat
+2 florence will neither fall to the floor nor drive the truck to toms house
+3 There is a contradiction here?	no	1
+4 andys painting is eager or important
+5 andys painting isnt eager and andys painting isnt important
+6 There is a contradiction here?	yes	1
+7 jeanne will pay her or hit him
+8 jeanne will not pay her and jeanne wil not hit him
+9 There is a contradiction here?	yes	1
+10 edgars painting is eager or drab
+11 edgars painting isnt drab
+12 There is a contradiction here?	no	1
+13 jessie will grow up or cut himself
+14 jessie will not grow up and jessie wil not cut himself
+15 There is a contradiction here?	yes	1
+1 genevas painting is eager or blue
+2 genevas painting is neither unsightly nor blue
+3 There is a contradiction here?	no	1
+4 everetts painting is easy or wonderful
+5 everetts painting isnt wonderful
+6 There is a contradiction here?	no	1
+7 helen will spend all my money or speak to me
+8 helen will not spend all my money
+9 There is a contradiction here?	no	1
+10 darrell will cut himself or make tea
+11 darrell will not cut himself
+12 There is a contradiction here?	no	1
+13 troy will find him or drive the truck to jeremys house
+14 zachary will neither find him nor drive the truck to jeremys house
+15 There is a contradiction here?	no	1
+1 pearl will have everything or hold me back
+2 pearl will not have everything and pearl wil not hold me back
+3 There is a contradiction here?	yes	1
+4 terrance is gentle or edna is victorious
+5 terrance is not gentle or edna is not victorious
+6 There is a contradiction here?	no	1
+7 raymonds painting is agreeable or calm
+8 joans painting is neither agreeable nor calm
+9 There is a contradiction here?	no	1
+10 theresas painting is agreeable or embarrassed
+11 theresas painting isnt agreeable
+12 There is a contradiction here?	no	1
+13 jimmy is polite or aaron is lively
+14 neither jimmy is polite nor aaron is lively
+15 There is a contradiction here?	yes	1
+1 bernard is fit or sergio is bald
+2 neither bernard is fit nor sergio is bald
+3 There is a contradiction here?	yes	1
+4 annie is unsightly or mattie is muscular
+5 annie is not unsightly and mattie is not muscular
+6 There is a contradiction here?	yes	1
+7 carlas painting is rich or orange
+8 carlas painting isnt rich
+9 There is a contradiction here?	no	1
+10 sheryl will hold her close or say nice things
+11 sheryl will neither hold her close nor say nice things
+12 There is a contradiction here?	yes	1
+13 ida will draw ahead of the other runners or leave me waiting
+14 ida will neither draw ahead of the other runners nor leave me waiting
+15 There is a contradiction here?	yes	1
+1 terry is obedient or brittany is polite
+2 terry is not obedient and brittany is not polite
+3 There is a contradiction here?	yes	1
+4 diane will win the game or eat an apple
+5 diane will not win the game and diane wil not eat an apple
+6 There is a contradiction here?	yes	1
+7 alisons painting is bewildered or ashy
+8 alisons painting is neither odd nor ashy
+9 There is a contradiction here?	no	1
+10 nigeria or russia are in the geopolitical position of peru
+11 nigeria isnt in the geopolitical position of peru and russia isnt in the geopolitical position of peru
+12 There is a contradiction here?	yes	1
+13 victoria will hear me or leave barcelona for baia mare
+14 victoria will not leave barcelona for baia mare
+15 There is a contradiction here?	no	1
+1 norma will shut the door down or come at midnight
+2 norma will not shut the door down and norma wil not come at midnight
+3 There is a contradiction here?	yes	1
+4 vera will buy a mango car or cut a tree
+5 byron will neither buy a mango car nor cut a tree
+6 There is a contradiction here?	no	1
+7 susie is itchy or angela is calm
+8 angela is not calm
+9 There is a contradiction here?	no	1
+10 darryls painting is clever or plump
+11 darryls painting isnt plump
+12 There is a contradiction here?	no	1
+13 dorothy has visited timisoara or turda
+14 dorothy visited neither lugoj nor turda
+15 There is a contradiction here?	no	1
+1 jessie will write me a letter or think esther was going to die
+2 jessie will neither write me a letter nor think esther was going to die
+3 There is a contradiction here?	yes	1
+4 timothy traveled to craiova or slatina
+5 timothy traveled to neither craiova nor slatina
+6 There is a contradiction here?	yes	1
+7 maureens painting is mysterious or fierce
+8 maureens painting isnt mysterious and maureens painting isnt fierce
+9 There is a contradiction here?	yes	1
+10 walter went to tulcea or vaslui
+11 walter didnt go to vaslui
+12 There is a contradiction here?	no	1
+13 clara has visited turda or reghin
+14 clara didnt visit turda
+15 There is a contradiction here?	no	1
+1 debra will grow up or buy a salmon bicycle
+2 debra will not grow up
+3 There is a contradiction here?	no	1
+4 stevens painting is fit or embarrassed
+5 stevens painting isnt embarrassed
+6 There is a contradiction here?	no	1
+7 everett is magnificent or elaine is fit
+8 elaine is not fit
+9 There is a contradiction here?	no	1
+10 brittany will become the most important judge in this town or wake up
+11 brittany will neither become the most important judge in this town nor wake up
+12 There is a contradiction here?	yes	1
+13 janices painting is rich or alive
+14 janices painting is neither rich nor alive
+15 There is a contradiction here?	yes	1
+1 lawrence went to arad or hunedoara
+2 lawrence didnt go to arad and lawrence didnt go to hunedoara
+3 There is a contradiction here?	yes	1
+4 katie is helpless or raymond is obnoxious
+5 katie is not helpless and raymond is not obnoxious
+6 There is a contradiction here?	yes	1
+7 england or egypt won the last world cup
+8 england didnt win the last world cup
+9 There is a contradiction here?	no	1
+10 lolas painting is easy or clumsy
+11 michelles painting is neither easy nor clumsy
+12 There is a contradiction here?	no	1
+13 spain or poland got to the quarter finals last year
+14 poland didnt get to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 senegal or panama won the last world cup
+2 neither senegal nor nigeria won the last world cup
+3 There is a contradiction here?	no	1
+4 germany or colombia are in the geopolitical position of sweden
+5 neither germany nor colombia are in the geopolitical position of sweden
+6 There is a contradiction here?	yes	1
+7 carla will go to bobs house or think clifton was going to die
+8 carla will not go to bobs house and carla wil not think clifton was going to die
+9 There is a contradiction here?	yes	1
+10 jaimes painting is important or gorgeous
+11 jaimes painting is neither important nor gorgeous
+12 There is a contradiction here?	yes	1
+13 robertas painting is uptight or tender
+14 seths painting is neither uptight nor tender
+15 There is a contradiction here?	no	1
+1 willie has visited blaj or craiova
+2 willie visited neither reghin nor craiova
+3 There is a contradiction here?	no	1
+4 terrances painting is purple or short
+5 terrances painting isnt short
+6 There is a contradiction here?	no	1
+7 eileen is angry or adrian is shapely
+8 eileen is not angry and adrian is not shapely
+9 There is a contradiction here?	yes	1
+10 beulahs painting is elegant or dazzling
+11 beulahs painting is neither drab nor dazzling
+12 There is a contradiction here?	no	1
+13 jonathans painting is plump or helpful
+14 jonathans painting isnt plump and jonathans painting isnt helpful
+15 There is a contradiction here?	yes	1
+1 sergio is unsightly or jesse is grumpy
+2 sergio is not unsightly and jesse is not grumpy
+3 There is a contradiction here?	yes	1
+4 antoinette traveled to arad or tulcea
+5 antoinette traveled to neither arad nor tulcea
+6 There is a contradiction here?	yes	1
+7 rita has visited hunedoara or clujnapoca
+8 rita didnt visit clujnapoca
+9 There is a contradiction here?	no	1
+10 switzerland or saudi arabia are in the geopolitical position of korea republic
+11 switzerland isnt in the geopolitical position of korea republic
+12 There is a contradiction here?	no	1
+13 jeffery is victorious or cynthia is panicky
+14 jeffery is not victorious and cynthia is not panicky
+15 There is a contradiction here?	yes	1
+1 terry will dig a hole or put ethel in charge
+2 terry will neither dig a hole nor put ethel in charge
+3 There is a contradiction here?	yes	1
+4 harvey will go to arad or feel a strange
+5 harvey will not feel a strange
+6 There is a contradiction here?	no	1
+7 josephs painting is bald or gifted
+8 josephs painting isnt bald and josephs painting isnt gifted
+9 There is a contradiction here?	yes	1
+10 poland or russia won the last world cup
+11 neither poland nor russia won the last world cup
+12 There is a contradiction here?	yes	1
+13 dianas painting is short or lively
+14 agness painting is neither short nor lively
+15 There is a contradiction here?	no	1
+1 walter will hurt her or go to inezs house
+2 walter will not go to inezs house
+3 There is a contradiction here?	no	1
+4 daisys painting is easy or pitiful
+5 daisys painting is neither easy nor pitiful
+6 There is a contradiction here?	yes	1
+7 tracys painting is panicky or black
+8 tracys painting is neither panicky nor black
+9 There is a contradiction here?	yes	1
+10 stella is long or ray is scary
+11 stella is not long and ray is not scary
+12 There is a contradiction here?	yes	1
+13 katie will spend all my money or lay his hands on him
+14 katie will not spend all my money
+15 There is a contradiction here?	no	1
+1 frances will fall off or read a paper
+2 frances will not fall off
+3 There is a contradiction here?	no	1
+4 justin is silly or billie is clumsy
+5 justin is not silly and billie is not clumsy
+6 There is a contradiction here?	yes	1
+7 kathleen is nice or don is skinny
+8 kathleen is not nice or don is not skinny
+9 There is a contradiction here?	no	1
+10 vivian is nervous or yvonne is flabby
+11 vivian is not nervous
+12 There is a contradiction here?	no	1
+13 frank will win the soccer match or get the money
+14 frank will not win the soccer match
+15 There is a contradiction here?	no	1
+1 ivans painting is beautiful or ambitious
+2 ivans painting isnt beautiful
+3 There is a contradiction here?	no	1
+4 richard will show ronnies old photos or burn bills house
+5 richard will neither show ronnies old photos nor burn bills house
+6 There is a contradiction here?	yes	1
+7 terry will sell erins house or bring me out of catherines house
+8 terry will not sell erins house
+9 There is a contradiction here?	no	1
+10 christian will hang up on lloyd or feel an outsider
+11 christian will neither hang up on lloyd nor feel an outsider
+12 There is a contradiction here?	yes	1
+13 kelly is drab or tiffany is unkempt
+14 neither kelly is drab nor tiffany is unkempt
+15 There is a contradiction here?	yes	1
+1 everetts painting is proud or ashy
+2 everetts painting isnt ashy
+3 There is a contradiction here?	no	1
+4 greg has visited turda or oradea
+5 greg didnt visit oradea
+6 There is a contradiction here?	no	1
+7 maxine will eat breakfast or do some good work
+8 maxine will neither eat breakfast nor do some good work
+9 There is a contradiction here?	yes	1
+10 molly will grow up in jail or teach math
+11 molly will neither draw ahead of the other runners nor teach math
+12 There is a contradiction here?	no	1
+13 gregs painting is gifted or black
+14 gregs painting isnt gifted and gregs painting isnt black
+15 There is a contradiction here?	yes	1
+1 byron will think brenda was going to die or swim out toward the red boat
+2 byron will not think brenda was going to die and byron wil not swim out toward the red boat
+3 There is a contradiction here?	yes	1
+4 guadalupe is nervous or norma is mysterious
+5 guadalupe is not nervous or norma is not mysterious
+6 There is a contradiction here?	no	1
+7 carlos will lay his hands on her or sell warrens bicycle
+8 carlos will neither lay his hands on her nor ride the horse
+9 There is a contradiction here?	no	1
+10 kathys painting is itchy or famous
+11 kathys painting is neither polite nor famous
+12 There is a contradiction here?	no	1
+13 mildred is obnoxious or roberto is happy
+14 neither mildred is obnoxious nor roberto is happy
+15 There is a contradiction here?	yes	1
+1 yvonnes painting is unkempt or purple
+2 yvonnes painting is neither unkempt nor purple
+3 There is a contradiction here?	yes	1
+4 leroy will let me drive sarahs black car or lead me to marias house
+5 leroy will not let me drive sarahs black car
+6 There is a contradiction here?	no	1
+7 iran or japan won the last world cup
+8 japan didnt win the last world cup
+9 There is a contradiction here?	no	1
+10 lindas painting is faithful or red
+11 lindas painting is neither jealous nor red
+12 There is a contradiction here?	no	1
+13 victorias painting is ugly or tender
+14 victorias painting isnt ugly and victorias painting isnt tender
+15 There is a contradiction here?	yes	1
+1 verna will lead me to kathryns house or tell me everything
+2 verna will not tell me everything
+3 There is a contradiction here?	no	1
+4 ericas painting is salmon or bewildered
+5 ericas painting isnt salmon
+6 There is a contradiction here?	no	1
+7 casey is obedient or lloyd is jolly
+8 neither casey is obedient nor lloyd is jolly
+9 There is a contradiction here?	yes	1
+10 jeanette will lend me fannies gray bicycle or win the soccer match
+11 jeanette will neither show tiffanys old photos nor win the soccer match
+12 There is a contradiction here?	no	1
+13 rubens painting is famous or flabby
+14 rubens painting isnt famous and rubens painting isnt flabby
+15 There is a contradiction here?	yes	1
+1 belgium or switzerland are in the geopolitical position of costa rica
+2 neither belgium nor switzerland are in the geopolitical position of costa rica
+3 There is a contradiction here?	yes	1
+4 charles is angry or lula is mysterious
+5 charles is not angry or lula is not mysterious
+6 There is a contradiction here?	no	1
+7 jos painting is gentle or jealous
+8 jos painting isnt gentle
+9 There is a contradiction here?	no	1
+10 velma will lead me to marshalls house or dig a hole
+11 velma will neither do some good work nor dig a hole
+12 There is a contradiction here?	no	1
+13 korea republic or senegal got to the quarter finals last year
+14 senegal didnt get to the quarter finals last year
+15 There is a contradiction here?	no	1
+1 billie will lead me to lindas house or drink an orange juice
+2 billie will neither lead me to lindas house nor drink an orange juice
+3 There is a contradiction here?	yes	1
+4 iran or argentina won the last world cup
+5 iran didnt win the last world cup and argentina didnt win the last world cup
+6 There is a contradiction here?	yes	1
+7 gloria is calm or kathy is unkempt
+8 kathy is not unkempt
+9 There is a contradiction here?	no	1
+10 chads painting is thoughtless or ambitious
+11 chads painting isnt thoughtless and chads painting isnt ambitious
+12 There is a contradiction here?	yes	1
+13 randalls painting is important or vast
+14 randalls painting is neither important nor vast
+15 There is a contradiction here?	yes	1
+1 casey is unsightly or jason is victorious
+2 neither casey is unsightly nor jason is victorious
+3 There is a contradiction here?	yes	1
+4 costa rica or france got to the quarter finals last year
+5 costa rica didnt get to the quarter finals last year and france didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 costa rica or senegal got to the quarter finals last year
+8 neither costa rica nor senegal got to the quarter finals last year
+9 There is a contradiction here?	yes	1
+10 theresa has visited craiova or reghin
+11 theresa didnt visit craiova
+12 There is a contradiction here?	no	1
+13 tunisia or poland won the last world cup
+14 tunisia didnt win the last world cup and poland didnt win the last world cup
+15 There is a contradiction here?	yes	1
+1 senegal or panama got to the quarter finals last year
+2 neither senegal nor panama got to the quarter finals last year
+3 There is a contradiction here?	yes	1
+4 reginalds painting is stocky or clever
+5 reginalds painting isnt clever
+6 There is a contradiction here?	no	1
+7 edwins painting is easy or itchy
+8 edwins painting isnt easy and edwins painting isnt itchy
+9 There is a contradiction here?	yes	1
+10 panama or nigeria are in the geopolitical position of saudi arabia
+11 panama isnt in the geopolitical position of saudi arabia and nigeria isnt in the geopolitical position of saudi arabia
+12 There is a contradiction here?	yes	1
+13 kelly will show my new photos or go to shirleys house
+14 wallace will neither show my new photos nor go to shirleys house
+15 There is a contradiction here?	no	1
+1 kristis painting is embarrassed or rich
+2 kristis painting is neither jealous nor rich
+3 There is a contradiction here?	no	1
+4 julia will shut the door down or sleep the night
+5 julia will neither shut the door down nor blow me off
+6 There is a contradiction here?	no	1
+7 argentina or england are in the geopolitical position of sweden
+8 neither argentina nor england are in the geopolitical position of sweden
+9 There is a contradiction here?	yes	1
+10 cheryl will think donald was going to die or fight the law
+11 cheryl will not think donald was going to die
+12 There is a contradiction here?	no	1
+13 clayton is polite or dwayne is ugly
+14 neither clayton is polite nor dwayne is ugly
+15 There is a contradiction here?	yes	1
+1 shirleys painting is mealy or scruffy
+2 shirleys painting isnt mealy
+3 There is a contradiction here?	no	1
+4 bradley is brave or marcia is skinny
+5 bradley is not brave and marcia is not skinny
+6 There is a contradiction here?	yes	1
+7 jeanettes painting is lemon or ambitious
+8 jeanettes painting is neither lemon nor ambitious
+9 There is a contradiction here?	yes	1
+10 argentina or iran got to the quarter finals last year
+11 neither argentina nor peru got to the quarter finals last year
+12 There is a contradiction here?	no	1
+13 brittany is muscular or fannie is beautiful
+14 brittany is not muscular or fannie is not beautiful
+15 There is a contradiction here?	no	1
+1 nora is plain or beth is grumpy
+2 nora is not plain or beth is not grumpy
+3 There is a contradiction here?	no	1
+4 floyd will drive awayto the bus stop or sing a nice song
+5 floyd will neither drive awayto the bus stop nor sing a nice song
+6 There is a contradiction here?	yes	1
+7 leo has visited slatina or blaj
+8 clara visited neither slatina nor blaj
+9 There is a contradiction here?	no	1
+10 dolores will wear a ashy jacket or pay sonia
+11 dolores will not pay sonia
+12 There is a contradiction here?	no	1
+13 eleanor is faithful or kay is unsightly
+14 kay is not unsightly
+15 There is a contradiction here?	no	1
+1 senegal or egypt are in the geopolitical position of brazil
+2 senegal isnt in the geopolitical position of brazil
+3 There is a contradiction here?	no	1
+4 caseys painting is easy or unkempt
+5 caseys painting isnt easy
+6 There is a contradiction here?	no	1
+7 mildred will forgive francis or dig a hole in sarahs backyard
+8 mildred will neither forgive francis nor dig a hole in sarahs backyard
+9 There is a contradiction here?	yes	1
+10 valerie will win the game or beat her
+11 valerie will not beat her
+12 There is a contradiction here?	no	1
+13 veronica is repulsive or travis is delightful
+14 veronica is not repulsive or travis is not delightful
+15 There is a contradiction here?	no	1
+1 toni will teach sherry about songwriting or take office
+2 toni will neither ride the buffalo nor take office
+3 There is a contradiction here?	no	1
+4 stacy will give teresa a white bicycle or stand up to valerie
+5 stacy will not stand up to valerie
+6 There is a contradiction here?	no	1
+7 mamie went to bucharest or dej
+8 mamie went to neither turda nor dej
+9 There is a contradiction here?	no	1
+10 sue will pay me or wake up
+11 rita will neither pay me nor wake up
+12 There is a contradiction here?	no	1
+13 lucille will hide a smile or shut the door down
+14 lucille will neither hide a smile nor shut the door down
+15 There is a contradiction here?	yes	1
+1 peggy went to bucharest or slobozia
+2 antoinette went to neither bucharest nor slobozia
+3 There is a contradiction here?	no	1
+4 priscilla is obnoxious or glen is thoughtless
+5 glen is not thoughtless
+6 There is a contradiction here?	no	1
+7 mark will send me a note or hear jose
+8 mark will neither send me a note nor hear jose
+9 There is a contradiction here?	yes	1
+10 peters painting is black or gifted
+11 roberts painting is neither black nor gifted
+12 There is a contradiction here?	no	1
+13 crystals painting is handsome or pitiful
+14 stevens painting is neither handsome nor pitiful
+15 There is a contradiction here?	no	1
+1 glens painting is helpful or uptight
+2 glens painting isnt helpful
+3 There is a contradiction here?	no	1
+4 nigeria or egypt got to the quarter finals last year
+5 nigeria didnt get to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 gene will say nice things or put the phone down
+8 gene will not say nice things
+9 There is a contradiction here?	no	1
+10 croatia or brazil won the last world cup
+11 croatia didnt win the last world cup and brazil didnt win the last world cup
+12 There is a contradiction here?	yes	1
+13 blanche will lose claudias green car or grow up in jail
+14 lula will neither lose claudias green car nor grow up in jail
+15 There is a contradiction here?	no	1
+1 regina will stand in front of the crowd or bend the rules of the soccer game
+2 regina will not stand in front of the crowd
+3 There is a contradiction here?	no	1
+4 terris painting is helpless or dazzling
+5 terris painting isnt helpless and terris painting isnt dazzling
+6 There is a contradiction here?	yes	1
+7 morocco or switzerland are in the geopolitical position of russia
+8 switzerland isnt in the geopolitical position of russia
+9 There is a contradiction here?	no	1
+10 spain or morocco won the last world cup
+11 spain didnt win the last world cup and morocco didnt win the last world cup
+12 There is a contradiction here?	yes	1
+13 megan will lead me to edwins house or take office
+14 megan will neither catch a lemon fish nor take office
+15 There is a contradiction here?	no	1
+1 shelly is embarrassed or keith is happy
+2 shelly is not embarrassed and keith is not happy
+3 There is a contradiction here?	yes	1
+4 esther is jolly or bryan is ugly
+5 esther is not jolly and bryan is not ugly
+6 There is a contradiction here?	yes	1
+7 terry will catch a purple fish or see the best cashier from deva
+8 terry will not catch a purple fish and terry wil not see the best cashier from deva
+9 There is a contradiction here?	yes	1
+10 cliffords painting is lazy or rich
+11 coreys painting is neither lazy nor rich
+12 There is a contradiction here?	no	1
+13 tyler traveled to mangalia or deva
+14 tyler didnt travel to mangalia
+15 There is a contradiction here?	no	1
+1 germany or tunisia got to the quarter finals last year
+2 germany didnt get to the quarter finals last year
+3 There is a contradiction here?	no	1
+4 hattie is shapely or margarita is gorgeous
+5 hattie is not shapely or margarita is not gorgeous
+6 There is a contradiction here?	no	1
+7 maurice will hurt me or break jordans heart
+8 maurice will not hurt me and maurice wil not break jordans heart
+9 There is a contradiction here?	yes	1
+10 brazil or poland got to the quarter finals last year
+11 neither brazil nor poland got to the quarter finals last year
+12 There is a contradiction here?	yes	1
+13 dan traveled to giurgiu or craiova
+14 julia traveled to neither giurgiu nor craiova
+15 There is a contradiction here?	no	1
+1 neil will lay down or feel a strange
+2 neil will neither lay down nor shut the door down
+3 There is a contradiction here?	no	1
+4 roberto will go away or hang up on me
+5 roberto will neither go away nor hang up on me
+6 There is a contradiction here?	yes	1
+7 marguerite will hold her close or bend the rules of the soccer game
+8 marguerite will not hold her close and marguerite wil not bend the rules of the soccer game
+9 There is a contradiction here?	yes	1
+10 leona is pitiful or melissa is agreeable
+11 leona is not pitiful and melissa is not agreeable
+12 There is a contradiction here?	yes	1
+13 robin will get the money or forget about sams past
+14 dean will neither get the money nor forget about sams past
+15 There is a contradiction here?	no	1
+1 tunisia or croatia got to the quarter finals last year
+2 neither switzerland nor tunisia got to the quarter finals last year
+3 There is a contradiction here?	no	1
+4 javiers painting is bald or polite
+5 vincents painting is neither bald nor polite
+6 There is a contradiction here?	no	1
+7 julians painting is angry or muscular
+8 harriets painting is neither angry nor muscular
+9 There is a contradiction here?	no	1
+10 lindsey traveled to slatina or oradea
+11 lindsey didnt travel to slatina and lindsey didnt travel to oradea
+12 There is a contradiction here?	yes	1
+13 irene will show my new photos or feel threatened
+14 irene will neither show my new photos nor feel threatened
+15 There is a contradiction here?	yes	1
+1 diane is jolly or julia is zealous
+2 diane is not jolly
+3 There is a contradiction here?	no	1
+4 karen will catch a red fish or tell me about the bars in vaslui
+5 karen will neither bring me out of wesleys house nor tell me about the bars in vaslui
+6 There is a contradiction here?	no	1
+7 iriss painting is fancy or purple
+8 iriss painting isnt fancy and iriss painting isnt purple
+9 There is a contradiction here?	yes	1
+10 christophers painting is proud or gorgeous
+11 christophers painting isnt gorgeous
+12 There is a contradiction here?	no	1
+13 jeanne will have a good daya good conversation with kelly or hang up on francisco
+14 jeanne will not hang up on francisco
+15 There is a contradiction here?	no	1
+1 jeremy is clean or minnie is nice
+2 jeremy is not clean
+3 There is a contradiction here?	no	1
+4 douglas went to oradea or slatina
+5 douglas didnt go to oradea and douglas didnt go to slatina
+6 There is a contradiction here?	yes	1
+7 argentina or korea republic got to the quarter finals last year
+8 neither denmark nor argentina got to the quarter finals last year
+9 There is a contradiction here?	no	1
+10 harold will pay him or stand up to herbert
+11 harold will neither pay him nor stand up to herbert
+12 There is a contradiction here?	yes	1
+13 gabriel will hit her or understand what sonia comment about mangalia
+14 sheila will neither hit her nor understand what sonia comment about mangalia
+15 There is a contradiction here?	no	1
+1 neil is agreeable or timothy is unkempt
+2 neil is not agreeable or timothy is not unkempt
+3 There is a contradiction here?	no	1
+4 heidi is glamorous or ana is calm
+5 heidi is not glamorous or ana is not calm
+6 There is a contradiction here?	no	1
+7 jessicas painting is glamorous or important
+8 jessicas painting isnt glamorous
+9 There is a contradiction here?	no	1
+10 jill will go to jeremys house or win the game
+11 jill will neither hang up on reginald nor win the game
+12 There is a contradiction here?	no	1
+13 carrie will send me a note or hang up on me
+14 carrie will neither send me a note nor hang up on me
+15 There is a contradiction here?	yes	1
+1 australia or croatia won the last world cup
+2 neither australia nor croatia won the last world cup
+3 There is a contradiction here?	yes	1
+4 joann will throw everything out the window or forgive yvette
+5 joann will neither throw everything out the window nor forgive yvette
+6 There is a contradiction here?	yes	1
+7 belgium or argentina got to the quarter finals last year
+8 neither belgium nor argentina got to the quarter finals last year
+9 There is a contradiction here?	yes	1
+10 bobbies painting is gifted or mealy
+11 bobbies painting is neither gifted nor mealy
+12 There is a contradiction here?	yes	1
+13 germany or croatia got to the quarter finals last year
+14 neither germany nor croatia got to the quarter finals last year
+15 There is a contradiction here?	yes	1
+1 nathaniel will take the footage or catch a black fish
+2 nathaniel will neither pay me nor catch a black fish
+3 There is a contradiction here?	no	1
+4 priscilla traveled to slatina or blaj
+5 priscilla traveled to neither slatina nor blaj
+6 There is a contradiction here?	yes	1
+7 barbara is obnoxious or alice is bewildered
+8 neither barbara is obnoxious nor alice is bewildered
+9 There is a contradiction here?	yes	1
+10 jennie will bet on the game or think i was living in vaslui
+11 jennie will not think i was living in vaslui
+12 There is a contradiction here?	no	1
+13 lori will keep saying this was crazy or build an airplane
+14 lori will neither keep saying this was crazy nor build an airplane
+15 There is a contradiction here?	yes	1
+1 lester will feel a strange or stand up to tracy
+2 lester will neither spend all my money nor stand up to tracy
+3 There is a contradiction here?	no	1
+4 cecilias painting is helpless or pitiful
+5 cecilias painting isnt pitiful
+6 There is a contradiction here?	no	1
+7 switzerland or brazil are in the geopolitical position of portugal
+8 switzerland isnt in the geopolitical position of portugal and brazil isnt in the geopolitical position of portugal
+9 There is a contradiction here?	yes	1
+10 hugh will hide behind a bush or ring into geneva
+11 bradley will neither hide behind a bush nor ring into geneva
+12 There is a contradiction here?	no	1
+13 travis is muscular or sandra is angry
+14 travis is not muscular and sandra is not angry
+15 There is a contradiction here?	yes	1
+1 cassandra is handsome or rafael is attractive
+2 neither cassandra is handsome nor rafael is attractive
+3 There is a contradiction here?	yes	1
+4 marguerite is thoughtless or francisco is beautiful
+5 neither marguerite is thoughtless nor francisco is beautiful
+6 There is a contradiction here?	yes	1
+7 colombia or germany got to the quarter finals last year
+8 colombia didnt get to the quarter finals last year
+9 There is a contradiction here?	no	1
+10 becky will bet on the game or keep saying this was crazy
+11 becky will neither bet on the game nor keep saying this was crazy
+12 There is a contradiction here?	yes	1
+13 brittany is polite or carole is delightful
+14 neither brittany is polite nor carole is delightful
+15 There is a contradiction here?	yes	1
+1 nathans painting is chubby or shy
+2 nathans painting isnt shy
+3 There is a contradiction here?	no	1
+4 lola will make me change the way i wrote or wear a yellow hat
+5 lola will neither make me change the way i wrote nor build janies house
+6 There is a contradiction here?	no	1
+7 kristin went to giurgiu or turda
+8 kristin went to neither giurgiu nor turda
+9 There is a contradiction here?	yes	1
+10 tunisia or russia are in the geopolitical position of australia
+11 neither tunisia nor japan are in the geopolitical position of australia
+12 There is a contradiction here?	no	1
+13 judy has visited tulcea or timisoara
+14 judy didnt visit tulcea and judy didnt visit timisoara
+15 There is a contradiction here?	yes	1
+1 raul will dream of the playing with terry or meet him
+2 raul will neither dream of the playing with terry nor understand what nina comment about slobozia
+3 There is a contradiction here?	no	1
+4 portugal or brazil got to the quarter finals last year
+5 neither portugal nor brazil got to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 tunisia or france won the last world cup
+8 neither tunisia nor france won the last world cup
+9 There is a contradiction here?	yes	1
+10 terrys painting is yellow or scary
+11 karls painting is neither yellow nor scary
+12 There is a contradiction here?	no	1
+13 beverly will wear a salmon hat or feel threatened
+14 beverly will neither wear a salmon hat nor feel threatened
+15 There is a contradiction here?	yes	1
+1 ninas painting is angry or plain
+2 roys painting is neither angry nor plain
+3 There is a contradiction here?	no	1
+4 argentina or iceland got to the quarter finals last year
+5 neither croatia nor argentina got to the quarter finals last year
+6 There is a contradiction here?	no	1
+7 jessie will forget about glorias past or understand what kyle comment about craiova
+8 renee will neither forget about glorias past nor understand what kyle comment about craiova
+9 There is a contradiction here?	no	1
+10 germany or poland got to the quarter finals last year
+11 neither germany nor serbia got to the quarter finals last year
+12 There is a contradiction here?	no	1
+13 nancy is fancy or richard is obedient
+14 richard is not obedient
+15 There is a contradiction here?	no	1
+1 fred is quaint or francis is repulsive
+2 francis is not repulsive
+3 There is a contradiction here?	no	1
+4 toni went to mangalia or arad
+5 byron went to neither mangalia nor arad
+6 There is a contradiction here?	no	1
+7 ben is scruffy or terrence is lively
+8 ben is not scruffy or terrence is not lively
+9 There is a contradiction here?	no	1
+10 jon went to giurgiu or hunedoara
+11 jon didnt go to hunedoara
+12 There is a contradiction here?	no	1
+13 belinda is short or rene is thankful
+14 belinda is not short or rene is not thankful
+15 There is a contradiction here?	no	1
+1 denmark or australia won the last world cup
+2 australia didnt win the last world cup
+3 There is a contradiction here?	no	1
+4 gene will ride the horse or teach middle school science
+5 gene will neither ride the horse nor teach middle school science
+6 There is a contradiction here?	yes	1
+7 laurie will put lois in charge or fly to slobozia
+8 laurie will not put lois in charge and laurie wil not fly to slobozia
+9 There is a contradiction here?	yes	1
+10 guy is clumsy or warren is lazy
+11 guy is not clumsy and warren is not lazy
+12 There is a contradiction here?	yes	1
+13 lola has visited giurgiu or deva
+14 lola visited neither giurgiu nor deva
+15 There is a contradiction here?	yes	1
+1 ashleys painting is fierce or important
+2 ashleys painting isnt fierce and ashleys painting isnt important
+3 There is a contradiction here?	yes	1
+4 belgium or panama got to the quarter finals last year
+5 belgium didnt get to the quarter finals last year and panama didnt get to the quarter finals last year
+6 There is a contradiction here?	yes	1
+7 allans painting is inexpensive or scruffy
+8 lauras painting is neither inexpensive nor scruffy
+9 There is a contradiction here?	no	1
+10 michael is zealous or adam is gorgeous
+11 neither michael is zealous nor adam is gorgeous
+12 There is a contradiction here?	yes	1
+13 kristy traveled to bucharest or hunedoara
+14 kristy didnt travel to bucharest
+15 There is a contradiction here?	no	1
+1 rogers painting is fancy or uptight
+2 rogers painting isnt fancy
+3 There is a contradiction here?	no	1
+4 tyrone is dazzling or jamie is clean
+5 tyrone is not dazzling or jamie is not clean
+6 There is a contradiction here?	no	1
+7 violets painting is famous or gentle
+8 violets painting is neither famous nor lively
+9 There is a contradiction here?	no	1
+10 belgium or saudi arabia are in the geopolitical position of iran
+11 belgium isnt in the geopolitical position of iran and saudi arabia isnt in the geopolitical position of iran
+12 There is a contradiction here?	yes	1
+13 hattie traveled to blaj or dej
+14 hattie didnt travel to blaj and hattie didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 minnie will spend all my money or forgive me
+2 minnie will not forgive me
+3 There is a contradiction here?	no	1
+4 ella is flabby or patricia is plump
+5 ella is not flabby
+6 There is a contradiction here?	no	1
+7 melindas painting is blue or gentle
+8 melindas painting is neither blue nor gentle
+9 There is a contradiction here?	yes	1
+10 lewis will teach sonia about songwriting or shut the door down
+11 lewis will not shut the door down
+12 There is a contradiction here?	no	1
+13 eddies painting is short or pitiful
+14 eddies painting isnt pitiful
+15 There is a contradiction here?	no	1
+1 nelsons painting is shapely or unkempt
+2 nelsons painting is neither shapely nor unkempt
+3 There is a contradiction here?	yes	1
+4 ruth is skinny or madeline is bewildered
+5 neither ruth is skinny nor madeline is bewildered
+6 There is a contradiction here?	yes	1
+7 rachel will teach victor about songwriting or fly to mangalia
+8 lydia will neither teach victor about songwriting nor fly to mangalia
+9 There is a contradiction here?	no	1
+10 terry will choose to live in hunedoara or bend the mango rod
+11 terry will not choose to live in hunedoara
+12 There is a contradiction here?	no	1
+13 bobbies painting is jealous or embarrassed
+14 pearls painting is neither jealous nor embarrassed
+15 There is a contradiction here?	no	1
+1 sheila is agreeable or tamara is nervous
+2 sheila is not agreeable
+3 There is a contradiction here?	no	1
+4 iceland or costa rica won the last world cup
+5 costa rica didnt win the last world cup
+6 There is a contradiction here?	no	1
+7 eleanor will ride the horse or drive the truck to eugenes house
+8 eleanor will not ride the horse
+9 There is a contradiction here?	no	1
+10 joyce will say nice things or throw everything out the window
+11 joyce will not say nice things and joyce wil not throw everything out the window
+12 There is a contradiction here?	yes	1
+13 lynda will ring into sharon or bet on the game
+14 lynda will neither ring into sharon nor bet on the game
+15 There is a contradiction here?	yes	1
+1 barry is witty or lucille is ambitious
+2 barry is not witty or lucille is not ambitious
+3 There is a contradiction here?	no	1
+4 marshas painting is gifted or defeated
+5 marshas painting is neither gifted nor defeated
+6 There is a contradiction here?	yes	1
+7 joy will ring from me or sell katies bicycle
+8 joy will not ring from me and joy wil not sell katies bicycle
+9 There is a contradiction here?	yes	1
+10 marjorie will hang up on jo or lay his hands on her
+11 lula will neither hang up on jo nor lay his hands on her
+12 There is a contradiction here?	no	1
+13 angies painting is faithful or rich
+14 angies painting is neither faithful nor rich
+15 There is a contradiction here?	yes	1

@@ -1,0 +1,3000 @@
+1 elsies painting is odd or powerful
+2 elsies painting isnt odd and elsies painting isnt powerful
+3 There is a contradiction here?	yes	1
+4 phillips painting is ashy or faithful
+5 phillips painting is neither ashy nor faithful
+6 There is a contradiction here?	yes	1
+7 sheryls painting is bewildered or jealous
+8 sheryls painting is neither bewildered nor jealous
+9 There is a contradiction here?	yes	1
+10 clydes painting is lemon or purple
+11 clydes painting is neither lemon nor purple
+12 There is a contradiction here?	yes	1
+13 arthurs painting is lemon or gentle
+14 arthurs painting isnt lemon
+15 There is a contradiction here?	no	1
+1 renees painting is important or mango
+2 renees painting isnt important and renees painting isnt mango
+3 There is a contradiction here?	yes	1
+4 fayes painting is lazy or obedient
+5 fayes painting is neither lazy nor magnificent
+6 There is a contradiction here?	no	1
+7 graces painting is muscular or attractive
+8 graces painting isnt muscular and graces painting isnt attractive
+9 There is a contradiction here?	yes	1
+10 phillips painting is victorious or wrong
+11 phillips painting is neither shapely nor wrong
+12 There is a contradiction here?	no	1
+13 susies painting is mealy or vast
+14 susies painting isnt mealy
+15 There is a contradiction here?	no	1
+1 suzannes painting is salmon or black
+2 suzannes painting isnt salmon and suzannes painting isnt black
+3 There is a contradiction here?	yes	1
+4 annettes painting is black or red
+5 annettes painting is neither black nor red
+6 There is a contradiction here?	yes	1
+7 paulines painting is delightful or powerful
+8 paulines painting isnt powerful
+9 There is a contradiction here?	no	1
+10 eleanors painting is uninterested or short
+11 eleanors painting isnt uninterested
+12 There is a contradiction here?	no	1
+13 terris painting is thankful or alive
+14 pamelas painting is neither thankful nor alive
+15 There is a contradiction here?	no	1
+1 violas painting is angry or careful
+2 violas painting isnt angry and violas painting isnt careful
+3 There is a contradiction here?	yes	1
+4 chads painting is alive or plump
+5 myrtles painting is neither alive nor plump
+6 There is a contradiction here?	no	1
+7 billys painting is defeated or odd
+8 deborahs painting is neither defeated nor odd
+9 There is a contradiction here?	no	1
+10 davids painting is gray or defeated
+11 davids painting is neither gray nor defeated
+12 There is a contradiction here?	yes	1
+13 kellys painting is unkempt or calm
+14 kellys painting isnt unkempt
+15 There is a contradiction here?	no	1
+1 debbies painting is stocky or scruffy
+2 debbies painting isnt stocky
+3 There is a contradiction here?	no	1
+4 christians painting is salmon or thankful
+5 christians painting is neither salmon nor thankful
+6 There is a contradiction here?	yes	1
+7 caseys painting is gifted or bewildered
+8 caseys painting is neither gifted nor bewildered
+9 There is a contradiction here?	yes	1
+10 leslies painting is fancy or green
+11 gregorys painting is neither fancy nor green
+12 There is a contradiction here?	no	1
+13 claras painting is shapely or clumsy
+14 claras painting is neither shapely nor clumsy
+15 There is a contradiction here?	yes	1
+1 erins painting is embarrassed or rich
+2 erins painting is neither embarrassed nor rich
+3 There is a contradiction here?	yes	1
+4 lindseys painting is flabby or plain
+5 lindseys painting is neither flabby nor uninterested
+6 There is a contradiction here?	no	1
+7 traceys painting is muscular or unsightly
+8 traceys painting is neither muscular nor unsightly
+9 There is a contradiction here?	yes	1
+10 terrances painting is mushy or ashy
+11 terrances painting isnt ashy
+12 There is a contradiction here?	no	1
+13 amelias painting is long or wonderful
+14 amelias painting is neither long nor wonderful
+15 There is a contradiction here?	yes	1
+1 louiss painting is unsightly or eager
+2 louiss painting isnt eager
+3 There is a contradiction here?	no	1
+4 jaimes painting is chubby or mushy
+5 joannes painting is neither chubby nor mushy
+6 There is a contradiction here?	no	1
+7 miltons painting is eager or orange
+8 cathys painting is neither eager nor orange
+9 There is a contradiction here?	no	1
+10 louiss painting is mushy or black
+11 louiss painting isnt mushy and louiss painting isnt black
+12 There is a contradiction here?	yes	1
+13 brandys painting is clever or gorgeous
+14 brandys painting isnt clever
+15 There is a contradiction here?	no	1
+1 joses painting is drab or yellow
+2 joses painting is neither inexpensive nor yellow
+3 There is a contradiction here?	no	1
+4 jennifers painting is glamorous or gentle
+5 jennifers painting is neither clever nor gentle
+6 There is a contradiction here?	no	1
+7 gregs painting is flabby or shy
+8 kathys painting is neither flabby nor shy
+9 There is a contradiction here?	no	1
+10 allans painting is wrong or embarrassed
+11 allans painting is neither wrong nor embarrassed
+12 There is a contradiction here?	yes	1
+13 adams painting is plump or careful
+14 adams painting is neither plump nor careful
+15 There is a contradiction here?	yes	1
+1 denniss painting is white or faithful
+2 denniss painting isnt white and denniss painting isnt faithful
+3 There is a contradiction here?	yes	1
+4 joes painting is scary or orange
+5 joes painting is neither scary nor orange
+6 There is a contradiction here?	yes	1
+7 wesleys painting is uptight or mysterious
+8 wesleys painting is neither uptight nor mysterious
+9 There is a contradiction here?	yes	1
+10 terrences painting is magnificent or unsightly
+11 terrences painting is neither mysterious nor unsightly
+12 There is a contradiction here?	no	1
+13 angelas painting is gentle or polite
+14 angelas painting is neither gentle nor polite
+15 There is a contradiction here?	yes	1
+1 matties painting is attractive or plump
+2 matties painting isnt attractive and matties painting isnt plump
+3 There is a contradiction here?	yes	1
+4 jeannes painting is green or nervous
+5 jeannes painting isnt nervous
+6 There is a contradiction here?	no	1
+7 nellies painting is elegant or clever
+8 nellies painting isnt clever
+9 There is a contradiction here?	no	1
+10 lauras painting is plain or faithful
+11 lauras painting isnt faithful
+12 There is a contradiction here?	no	1
+13 gabriels painting is quaint or gray
+14 gabriels painting is neither quaint nor gray
+15 There is a contradiction here?	yes	1
+1 josephs painting is lively or green
+2 josephs painting is neither lively nor green
+3 There is a contradiction here?	yes	1
+4 joans painting is plump or witty
+5 joans painting isnt plump
+6 There is a contradiction here?	no	1
+7 jamies painting is muscular or plain
+8 joans painting is neither muscular nor plain
+9 There is a contradiction here?	no	1
+10 genevas painting is orange or flabby
+11 genevas painting isnt flabby
+12 There is a contradiction here?	no	1
+13 christinas painting is aggressive or eager
+14 christinas painting isnt aggressive and christinas painting isnt eager
+15 There is a contradiction here?	yes	1
+1 rons painting is uninterested or happy
+2 rons painting is neither aggressive nor happy
+3 There is a contradiction here?	no	1
+4 ralphs painting is obedient or gifted
+5 ralphs painting isnt obedient and ralphs painting isnt gifted
+6 There is a contradiction here?	yes	1
+7 bernices painting is tender or blue
+8 bernices painting isnt tender and bernices painting isnt blue
+9 There is a contradiction here?	yes	1
+10 jodis painting is proud or jealous
+11 jodis painting is neither proud nor jealous
+12 There is a contradiction here?	yes	1
+13 doloress painting is calm or thankful
+14 rafaels painting is neither calm nor thankful
+15 There is a contradiction here?	no	1
+1 lees painting is odd or ambitious
+2 lees painting is neither odd nor ambitious
+3 There is a contradiction here?	yes	1
+4 warrens painting is attractive or easy
+5 warrens painting isnt attractive and warrens painting isnt easy
+6 There is a contradiction here?	yes	1
+7 kristis painting is calm or nice
+8 kristis painting is neither calm nor nice
+9 There is a contradiction here?	yes	1
+10 darryls painting is clever or plump
+11 darryls painting isnt plump
+12 There is a contradiction here?	no	1
+13 aprils painting is wonderful or pitiful
+14 aprils painting isnt pitiful
+15 There is a contradiction here?	no	1
+1 charlottes painting is thankful or plump
+2 charlottes painting is neither thankful nor plump
+3 There is a contradiction here?	yes	1
+4 terrys painting is yellow or nervous
+5 terrys painting isnt yellow and terrys painting isnt nervous
+6 There is a contradiction here?	yes	1
+7 jeans painting is red or tender
+8 jeans painting is neither careful nor tender
+9 There is a contradiction here?	no	1
+10 brandys painting is elegant or muscular
+11 brandys painting isnt muscular
+12 There is a contradiction here?	no	1
+13 kathys painting is famous or stocky
+14 debras painting is neither famous nor stocky
+15 There is a contradiction here?	no	1
+1 jareds painting is elegant or lazy
+2 christinas painting is neither elegant nor lazy
+3 There is a contradiction here?	no	1
+4 ninas painting is mysterious or famous
+5 ninas painting isnt mysterious and ninas painting isnt famous
+6 There is a contradiction here?	yes	1
+7 leonas painting is clever or rich
+8 leonas painting isnt clever and leonas painting isnt rich
+9 There is a contradiction here?	yes	1
+10 vickies painting is careful or plump
+11 vickies painting isnt plump
+12 There is a contradiction here?	no	1
+13 loris painting is mealy or thankful
+14 loris painting is neither mealy nor thankful
+15 There is a contradiction here?	yes	1
+1 katherines painting is bewildered or plain
+2 katherines painting isnt plain
+3 There is a contradiction here?	no	1
+4 glorias painting is lemon or bald
+5 glorias painting is neither lemon nor bald
+6 There is a contradiction here?	yes	1
+7 claires painting is obedient or worried
+8 claires painting isnt worried
+9 There is a contradiction here?	no	1
+10 maries painting is poor or wonderful
+11 maries painting is neither poor nor wonderful
+12 There is a contradiction here?	yes	1
+13 raymonds painting is agreeable or calm
+14 joans painting is neither agreeable nor calm
+15 There is a contradiction here?	no	1
+1 leslies painting is white or stocky
+2 leslies painting is neither white nor stocky
+3 There is a contradiction here?	yes	1
+4 robertos painting is dead or worried
+5 robertos painting isnt dead and robertos painting isnt worried
+6 There is a contradiction here?	yes	1
+7 theresas painting is lemon or chubby
+8 wilmas painting is neither lemon nor chubby
+9 There is a contradiction here?	no	1
+10 elsies painting is famous or long
+11 elsies painting isnt famous
+12 There is a contradiction here?	no	1
+13 dannys painting is elegant or orange
+14 dannys painting isnt orange
+15 There is a contradiction here?	no	1
+1 robertas painting is uptight or tender
+2 seths painting is neither uptight nor tender
+3 There is a contradiction here?	no	1
+4 yvonnes painting is fierce or victorious
+5 yvonnes painting is neither fierce nor victorious
+6 There is a contradiction here?	yes	1
+7 tims painting is angry or hallowed
+8 tims painting is neither ambitious nor hallowed
+9 There is a contradiction here?	no	1
+10 eriks painting is black or thoughtless
+11 eriks painting is neither black nor thoughtless
+12 There is a contradiction here?	yes	1
+13 sandys painting is fierce or famous
+14 sandys painting isnt fierce
+15 There is a contradiction here?	no	1
+1 cliffords painting is orange or happy
+2 cliffords painting is neither orange nor happy
+3 There is a contradiction here?	yes	1
+4 marlenes painting is salmon or inexpensive
+5 marlenes painting isnt salmon and marlenes painting isnt inexpensive
+6 There is a contradiction here?	yes	1
+7 christinas painting is bald or red
+8 christinas painting is neither bald nor red
+9 There is a contradiction here?	yes	1
+10 lisas painting is vast or dazzling
+11 lisas painting isnt vast and lisas painting isnt dazzling
+12 There is a contradiction here?	yes	1
+13 clydes painting is wonderful or ambitious
+14 clydes painting isnt wonderful and clydes painting isnt ambitious
+15 There is a contradiction here?	yes	1
+1 julians painting is unimportant or ugly
+2 julians painting is neither unimportant nor ugly
+3 There is a contradiction here?	yes	1
+4 jamess painting is thankful or muscular
+5 vernons painting is neither thankful nor muscular
+6 There is a contradiction here?	no	1
+7 julias painting is lemon or gentle
+8 julias painting isnt lemon and julias painting isnt gentle
+9 There is a contradiction here?	yes	1
+10 anns painting is glamorous or green
+11 anns painting isnt green
+12 There is a contradiction here?	no	1
+13 melvins painting is ugly or tender
+14 melvins painting isnt ugly and melvins painting isnt tender
+15 There is a contradiction here?	yes	1
+1 georgias painting is thoughtless or alive
+2 georgias painting is neither thoughtless nor alive
+3 There is a contradiction here?	yes	1
+4 lolas painting is famous or clumsy
+5 ashleys painting is neither famous nor clumsy
+6 There is a contradiction here?	no	1
+7 matthews painting is lemon or inexpensive
+8 matthews painting isnt inexpensive
+9 There is a contradiction here?	no	1
+10 crystals painting is handsome or pitiful
+11 stevens painting is neither handsome nor pitiful
+12 There is a contradiction here?	no	1
+13 bobs painting is wrong or scary
+14 bobs painting isnt wrong and bobs painting isnt scary
+15 There is a contradiction here?	yes	1
+1 morriss painting is plain or bewildered
+2 lyndas painting is neither plain nor bewildered
+3 There is a contradiction here?	no	1
+4 gilberts painting is orange or gifted
+5 gilberts painting is neither orange nor gifted
+6 There is a contradiction here?	yes	1
+7 evelyns painting is ugly or obnoxious
+8 evelyns painting is neither ugly nor obnoxious
+9 There is a contradiction here?	yes	1
+10 kims painting is scruffy or nervous
+11 kims painting is neither scruffy nor nervous
+12 There is a contradiction here?	yes	1
+13 jamies painting is skinny or blue
+14 jamies painting isnt skinny
+15 There is a contradiction here?	no	1
+1 marias painting is obedient or uptight
+2 marias painting is neither obedient nor uptight
+3 There is a contradiction here?	yes	1
+4 fayes painting is nice or ugly
+5 fayes painting is neither nice nor ugly
+6 There is a contradiction here?	yes	1
+7 christophers painting is proud or gorgeous
+8 christophers painting isnt gorgeous
+9 There is a contradiction here?	no	1
+10 fannies painting is dazzling or mealy
+11 fannies painting isnt dazzling and fannies painting isnt mealy
+12 There is a contradiction here?	yes	1
+13 iriss painting is fancy or purple
+14 iriss painting isnt fancy and iriss painting isnt purple
+15 There is a contradiction here?	yes	1
+1 maries painting is black or bald
+2 chads painting is neither black nor bald
+3 There is a contradiction here?	no	1
+4 beulahs painting is mango or fierce
+5 beulahs painting is neither plump nor fierce
+6 There is a contradiction here?	no	1
+7 christys painting is uninterested or pitiful
+8 christys painting isnt uninterested
+9 There is a contradiction here?	no	1
+10 pearls painting is pitiful or orange
+11 charlenes painting is neither pitiful nor orange
+12 There is a contradiction here?	no	1
+13 bretts painting is rich or famous
+14 bretts painting is neither rich nor witty
+15 There is a contradiction here?	no	1
+1 elsies painting is calm or tender
+2 anitas painting is neither calm nor tender
+3 There is a contradiction here?	no	1
+4 peters painting is gray or polite
+5 peters painting is neither gray nor polite
+6 There is a contradiction here?	yes	1
+7 neils painting is rich or inexpensive
+8 neils painting isnt rich
+9 There is a contradiction here?	no	1
+10 rodneys painting is drab or panicky
+11 rodneys painting isnt drab and rodneys painting isnt panicky
+12 There is a contradiction here?	yes	1
+13 jims painting is attractive or blue
+14 jims painting is neither plain nor blue
+15 There is a contradiction here?	no	1
+1 yolandas painting is easy or mushy
+2 yolandas painting isnt easy and yolandas painting isnt mushy
+3 There is a contradiction here?	yes	1
+4 dianas painting is jealous or embarrassed
+5 dianas painting isnt jealous
+6 There is a contradiction here?	no	1
+7 annas painting is aggressive or quaint
+8 annas painting is neither aggressive nor quaint
+9 There is a contradiction here?	yes	1
+10 fernandos painting is flabby or yellow
+11 fernandos painting is neither flabby nor yellow
+12 There is a contradiction here?	yes	1
+13 georgias painting is kind or yellow
+14 georgias painting is neither kind nor yellow
+15 There is a contradiction here?	yes	1
+1 juanitas painting is happy or vast
+2 nathaniels painting is neither happy nor vast
+3 There is a contradiction here?	no	1
+4 dawns painting is shy or silly
+5 dawns painting isnt shy and dawns painting isnt silly
+6 There is a contradiction here?	yes	1
+7 debras painting is ashy or embarrassed
+8 debras painting isnt embarrassed
+9 There is a contradiction here?	no	1
+10 hatties painting is gray or green
+11 hatties painting is neither gray nor green
+12 There is a contradiction here?	yes	1
+13 leahs painting is better or gentle
+14 leahs painting isnt better and leahs painting isnt gentle
+15 There is a contradiction here?	yes	1
+1 adrians painting is glamorous or magnificent
+2 adrians painting is neither glamorous nor magnificent
+3 There is a contradiction here?	yes	1
+4 esthers painting is scruffy or happy
+5 esthers painting isnt scruffy and esthers painting isnt happy
+6 There is a contradiction here?	yes	1
+7 kathryns painting is proud or repulsive
+8 kathryns painting isnt proud and kathryns painting isnt repulsive
+9 There is a contradiction here?	yes	1
+10 jeffreys painting is famous or obedient
+11 jeffreys painting isnt famous and jeffreys painting isnt obedient
+12 There is a contradiction here?	yes	1
+13 vincents painting is fit or careful
+14 vincents painting isnt fit and vincents painting isnt careful
+15 There is a contradiction here?	yes	1
+1 cliffords painting is lazy or rich
+2 coreys painting is neither lazy nor rich
+3 There is a contradiction here?	no	1
+4 bonnies painting is short or worried
+5 bonnies painting isnt short and bonnies painting isnt worried
+6 There is a contradiction here?	yes	1
+7 eleanors painting is purple or easy
+8 eleanors painting is neither purple nor easy
+9 There is a contradiction here?	yes	1
+10 cecilias painting is panicky or tender
+11 moniques painting is neither panicky nor tender
+12 There is a contradiction here?	no	1
+13 ronnies painting is tender or uptight
+14 ronnies painting isnt uptight
+15 There is a contradiction here?	no	1
+1 jordans painting is stocky or short
+2 daves painting is neither stocky nor short
+3 There is a contradiction here?	no	1
+4 tracys painting is muscular or calm
+5 tracys painting is neither muscular nor calm
+6 There is a contradiction here?	yes	1
+7 rachels painting is tender or skinny
+8 rachels painting isnt tender and rachels painting isnt skinny
+9 There is a contradiction here?	yes	1
+10 antonios painting is mango or lemon
+11 antonios painting is neither mango nor lemon
+12 There is a contradiction here?	yes	1
+13 gregs painting is short or famous
+14 gregs painting isnt short and gregs painting isnt famous
+15 There is a contradiction here?	yes	1
+1 alvins painting is clean or worried
+2 alvins painting is neither clean nor worried
+3 There is a contradiction here?	yes	1
+4 daryls painting is better or red
+5 daryls painting isnt red
+6 There is a contradiction here?	no	1
+7 dwights painting is wonderful or famous
+8 dwights painting isnt wonderful and dwights painting isnt famous
+9 There is a contradiction here?	yes	1
+10 dales painting is shapely or helpless
+11 dales painting isnt shapely and dales painting isnt helpless
+12 There is a contradiction here?	yes	1
+13 martins painting is helpful or defeated
+14 lydias painting is neither helpful nor defeated
+15 There is a contradiction here?	no	1
+1 gordons painting is yellow or ugly
+2 gordons painting isnt ugly
+3 There is a contradiction here?	no	1
+4 rubys painting is long or skinny
+5 rubys painting is neither long nor skinny
+6 There is a contradiction here?	yes	1
+7 ricks painting is yellow or mushy
+8 ricks painting isnt yellow and ricks painting isnt mushy
+9 There is a contradiction here?	yes	1
+10 belindas painting is purple or dead
+11 belindas painting isnt purple and belindas painting isnt dead
+12 There is a contradiction here?	yes	1
+13 jans painting is unsightly or helpless
+14 jans painting is neither chubby nor helpless
+15 There is a contradiction here?	no	1
+1 suzannes painting is zealous or jealous
+2 bettys painting is neither zealous nor jealous
+3 There is a contradiction here?	no	1
+4 traceys painting is pitiful or fit
+5 traceys painting is neither pitiful nor fit
+6 There is a contradiction here?	yes	1
+7 lances painting is worried or repulsive
+8 lances painting is neither worried nor handsome
+9 There is a contradiction here?	no	1
+10 yvonnes painting is mealy or mushy
+11 yvonnes painting isnt mealy and yvonnes painting isnt mushy
+12 There is a contradiction here?	yes	1
+13 erics painting is blue or bewildered
+14 erics painting isnt blue and erics painting isnt bewildered
+15 There is a contradiction here?	yes	1
+1 margarets painting is kind or angry
+2 margarets painting isnt angry
+3 There is a contradiction here?	no	1
+4 wesleys painting is unimportant or calm
+5 wesleys painting is neither unimportant nor fit
+6 There is a contradiction here?	no	1
+7 jordans painting is beautiful or thankful
+8 jordans painting isnt beautiful and jordans painting isnt thankful
+9 There is a contradiction here?	yes	1
+10 doloress painting is black or fierce
+11 doloress painting isnt fierce
+12 There is a contradiction here?	no	1
+13 manuels painting is angry or gorgeous
+14 manuels painting is neither angry nor gorgeous
+15 There is a contradiction here?	yes	1
+1 dianas painting is short or lively
+2 agness painting is neither short nor lively
+3 There is a contradiction here?	no	1
+4 leahs painting is plump or white
+5 leahs painting is neither nervous nor white
+6 There is a contradiction here?	no	1
+7 elmers painting is long or ashy
+8 elmers painting is neither long nor ashy
+9 There is a contradiction here?	yes	1
+10 elizabeths painting is dead or witty
+11 melanies painting is neither dead nor witty
+12 There is a contradiction here?	no	1
+13 maryanns painting is obedient or unsightly
+14 maryanns painting isnt obedient and maryanns painting isnt unsightly
+15 There is a contradiction here?	yes	1
+1 mistys painting is salmon or inexpensive
+2 mistys painting isnt salmon
+3 There is a contradiction here?	no	1
+4 jesuss painting is uptight or famous
+5 jesuss painting is neither uptight nor scary
+6 There is a contradiction here?	no	1
+7 rickys painting is beautiful or dazzling
+8 rickys painting is neither unsightly nor dazzling
+9 There is a contradiction here?	no	1
+10 jackies painting is fierce or delightful
+11 jackies painting isnt fierce
+12 There is a contradiction here?	no	1
+13 kellys painting is careful or long
+14 kellys painting isnt long
+15 There is a contradiction here?	no	1
+1 cathys painting is important or skinny
+2 cathys painting isnt skinny
+3 There is a contradiction here?	no	1
+4 codys painting is powerful or embarrassed
+5 codys painting isnt powerful and codys painting isnt embarrassed
+6 There is a contradiction here?	yes	1
+7 cecilias painting is thankful or orange
+8 cecilias painting is neither thankful nor orange
+9 There is a contradiction here?	yes	1
+10 dons painting is eager or helpless
+11 dons painting isnt eager
+12 There is a contradiction here?	no	1
+13 rebeccas painting is wrong or clumsy
+14 marks painting is neither wrong nor clumsy
+15 There is a contradiction here?	no	1
+1 jackies painting is green or fierce
+2 jackies painting isnt fierce
+3 There is a contradiction here?	no	1
+4 lynns painting is ugly or black
+5 rubens painting is neither ugly nor black
+6 There is a contradiction here?	no	1
+7 marios painting is obnoxious or ugly
+8 kristins painting is neither obnoxious nor ugly
+9 There is a contradiction here?	no	1
+10 terrances painting is panicky or clumsy
+11 terrances painting isnt clumsy
+12 There is a contradiction here?	no	1
+13 diannes painting is skinny or short
+14 diannes painting isnt skinny and diannes painting isnt short
+15 There is a contradiction here?	yes	1
+1 loiss painting is thoughtless or ashy
+2 loiss painting isnt thoughtless and loiss painting isnt ashy
+3 There is a contradiction here?	yes	1
+4 tanyas painting is poor or faithful
+5 tanyas painting isnt poor and tanyas painting isnt faithful
+6 There is a contradiction here?	yes	1
+7 annas painting is white or purple
+8 annas painting is neither white nor repulsive
+9 There is a contradiction here?	no	1
+10 janies painting is poor or faithful
+11 janies painting isnt poor and janies painting isnt faithful
+12 There is a contradiction here?	yes	1
+13 denniss painting is dazzling or panicky
+14 denniss painting is neither dazzling nor panicky
+15 There is a contradiction here?	yes	1
+1 kathryns painting is beautiful or fit
+2 kathryns painting is neither beautiful nor fit
+3 There is a contradiction here?	yes	1
+4 marjories painting is defeated or clean
+5 marjories painting is neither defeated nor clean
+6 There is a contradiction here?	yes	1
+7 bernices painting is shapely or chubby
+8 bernices painting isnt shapely and bernices painting isnt chubby
+9 There is a contradiction here?	yes	1
+10 melissas painting is jolly or mealy
+11 melissas painting is neither jolly nor mealy
+12 There is a contradiction here?	yes	1
+13 terrys painting is easy or helpless
+14 terrys painting is neither easy nor white
+15 There is a contradiction here?	no	1
+1 carolines painting is inexpensive or powerful
+2 carolines painting isnt inexpensive and carolines painting isnt powerful
+3 There is a contradiction here?	yes	1
+4 juans painting is fierce or tender
+5 juans painting isnt tender
+6 There is a contradiction here?	no	1
+7 chesters painting is brave or helpful
+8 chesters painting isnt brave
+9 There is a contradiction here?	no	1
+10 ethels painting is plain or delightful
+11 ethels painting is neither plain nor shy
+12 There is a contradiction here?	no	1
+13 yvettes painting is vast or fit
+14 yvettes painting isnt fit
+15 There is a contradiction here?	no	1
+1 billies painting is long or repulsive
+2 billies painting isnt long and billies painting isnt repulsive
+3 There is a contradiction here?	yes	1
+4 wades painting is kind or chubby
+5 gladyss painting is neither kind nor chubby
+6 There is a contradiction here?	no	1
+7 kristys painting is icy or scruffy
+8 kristys painting isnt icy and kristys painting isnt scruffy
+9 There is a contradiction here?	yes	1
+10 paulines painting is obnoxious or shapely
+11 paulines painting isnt obnoxious
+12 There is a contradiction here?	no	1
+13 josephines painting is lively or bald
+14 tiffanys painting is neither lively nor bald
+15 There is a contradiction here?	no	1
+1 morriss painting is silly or quaint
+2 morriss painting is neither bewildered nor quaint
+3 There is a contradiction here?	no	1
+4 margarets painting is plump or mealy
+5 margarets painting isnt mealy
+6 There is a contradiction here?	no	1
+7 renees painting is thoughtless or gifted
+8 lauras painting is neither thoughtless nor gifted
+9 There is a contradiction here?	no	1
+10 rays painting is orange or odd
+11 rays painting isnt orange
+12 There is a contradiction here?	no	1
+13 reginas painting is orange or ambitious
+14 reginas painting is neither orange nor plump
+15 There is a contradiction here?	no	1
+1 mitchells painting is green or shapely
+2 mitchells painting isnt green and mitchells painting isnt shapely
+3 There is a contradiction here?	yes	1
+4 stanleys painting is uninterested or defeated
+5 stanleys painting isnt defeated
+6 There is a contradiction here?	no	1
+7 vanessas painting is plump or polite
+8 vanessas painting is neither plump nor polite
+9 There is a contradiction here?	yes	1
+10 guadalupes painting is panicky or unkempt
+11 guadalupes painting isnt panicky and guadalupes painting isnt unkempt
+12 There is a contradiction here?	yes	1
+13 bobs painting is alive or wrong
+14 bobs painting is neither alive nor wrong
+15 There is a contradiction here?	yes	1
+1 brandys painting is bald or salmon
+2 brandys painting is neither bald nor salmon
+3 There is a contradiction here?	yes	1
+4 dales painting is better or quaint
+5 dales painting is neither better nor quaint
+6 There is a contradiction here?	yes	1
+7 willies painting is wonderful or magnificent
+8 willies painting is neither wonderful nor magnificent
+9 There is a contradiction here?	yes	1
+10 marshas painting is mushy or gentle
+11 marshas painting is neither mushy nor gentle
+12 There is a contradiction here?	yes	1
+13 marians painting is mushy or salmon
+14 marians painting isnt salmon
+15 There is a contradiction here?	no	1
+1 micheles painting is mushy or nice
+2 micheles painting isnt mushy
+3 There is a contradiction here?	no	1
+4 matthews painting is white or lively
+5 kristines painting is neither white nor lively
+6 There is a contradiction here?	no	1
+7 adas painting is shapely or vast
+8 adas painting is neither chubby nor vast
+9 There is a contradiction here?	no	1
+10 lonnies painting is mushy or scruffy
+11 lonnies painting is neither mushy nor scruffy
+12 There is a contradiction here?	yes	1
+13 junes painting is shapely or helpless
+14 junes painting isnt shapely and junes painting isnt helpless
+15 There is a contradiction here?	yes	1
+1 christys painting is shy or stocky
+2 christys painting isnt shy and christys painting isnt stocky
+3 There is a contradiction here?	yes	1
+4 patricks painting is hallowed or faithful
+5 eileens painting is neither hallowed nor faithful
+6 There is a contradiction here?	no	1
+7 heidis painting is helpless or odd
+8 heidis painting is neither helpless nor odd
+9 There is a contradiction here?	yes	1
+10 walters painting is calm or easy
+11 walters painting is neither calm nor easy
+12 There is a contradiction here?	yes	1
+13 bettys painting is plain or dead
+14 bettys painting is neither plain nor dead
+15 There is a contradiction here?	yes	1
+1 shelleys painting is rich or odd
+2 shelleys painting is neither rich nor odd
+3 There is a contradiction here?	yes	1
+4 antoinettes painting is faithful or mysterious
+5 vincents painting is neither faithful nor mysterious
+6 There is a contradiction here?	no	1
+7 shirleys painting is hallowed or victorious
+8 shirleys painting is neither hallowed nor delightful
+9 There is a contradiction here?	no	1
+10 pamelas painting is victorious or important
+11 pamelas painting isnt victorious
+12 There is a contradiction here?	no	1
+13 elaines painting is ambitious or fit
+14 elaines painting is neither ambitious nor fit
+15 There is a contradiction here?	yes	1
+1 bobbies painting is jealous or embarrassed
+2 pearls painting is neither jealous nor embarrassed
+3 There is a contradiction here?	no	1
+4 rubens painting is famous or flabby
+5 rubens painting isnt famous and rubens painting isnt flabby
+6 There is a contradiction here?	yes	1
+7 constances painting is plain or zealous
+8 constances painting isnt plain
+9 There is a contradiction here?	no	1
+10 ednas painting is fit or beautiful
+11 ednas painting isnt fit
+12 There is a contradiction here?	no	1
+13 barbaras painting is uninterested or quaint
+14 barbaras painting is neither uninterested nor quaint
+15 There is a contradiction here?	yes	1
+1 janices painting is zealous or beautiful
+2 janices painting is neither zealous nor beautiful
+3 There is a contradiction here?	yes	1
+4 andys painting is ashy or ambitious
+5 andys painting isnt ashy and andys painting isnt ambitious
+6 There is a contradiction here?	yes	1
+7 warrens painting is short or long
+8 glendas painting is neither short nor long
+9 There is a contradiction here?	no	1
+10 joannes painting is magnificent or red
+11 joannes painting is neither magnificent nor red
+12 There is a contradiction here?	yes	1
+13 cecilias painting is helpless or pitiful
+14 cecilias painting isnt pitiful
+15 There is a contradiction here?	no	1
+1 leslies painting is shy or mealy
+2 earls painting is neither shy nor mealy
+3 There is a contradiction here?	no	1
+4 isabels painting is rich or zealous
+5 isabels painting is neither inexpensive nor zealous
+6 There is a contradiction here?	no	1
+7 daniels painting is scruffy or agreeable
+8 daniels painting isnt agreeable
+9 There is a contradiction here?	no	1
+10 janets painting is powerful or pitiful
+11 janets painting isnt powerful and janets painting isnt pitiful
+12 There is a contradiction here?	yes	1
+13 margaritas painting is bald or fierce
+14 margaritas painting isnt bald and margaritas painting isnt fierce
+15 There is a contradiction here?	yes	1
+1 arthurs painting is alive or hallowed
+2 arthurs painting isnt hallowed
+3 There is a contradiction here?	no	1
+4 marcuss painting is alive or eager
+5 roberts painting is neither alive nor eager
+6 There is a contradiction here?	no	1
+7 shawns painting is angry or faithful
+8 shawns painting isnt faithful
+9 There is a contradiction here?	no	1
+10 michelles painting is alive or wrong
+11 michelles painting is neither alive nor wrong
+12 There is a contradiction here?	yes	1
+13 maggies painting is delightful or angry
+14 maggies painting isnt delightful and maggies painting isnt angry
+15 There is a contradiction here?	yes	1
+1 josephs painting is powerful or wonderful
+2 josephs painting isnt wonderful
+3 There is a contradiction here?	no	1
+4 roys painting is embarrassed or calm
+5 roys painting isnt embarrassed and roys painting isnt calm
+6 There is a contradiction here?	yes	1
+7 nathans painting is chubby or shy
+8 nathans painting isnt shy
+9 There is a contradiction here?	no	1
+10 kristis painting is important or fancy
+11 kristis painting isnt important and kristis painting isnt fancy
+12 There is a contradiction here?	yes	1
+13 tyrones painting is bald or victorious
+14 tyrones painting is neither worried nor victorious
+15 There is a contradiction here?	no	1
+1 coras painting is rich or clean
+2 coras painting is neither kind nor clean
+3 There is a contradiction here?	no	1
+4 lydias painting is fierce or plump
+5 lydias painting isnt fierce
+6 There is a contradiction here?	no	1
+7 albertas painting is lively or salmon
+8 albertas painting is neither red nor salmon
+9 There is a contradiction here?	no	1
+10 lyndas painting is dazzling or skinny
+11 lyndas painting isnt skinny
+12 There is a contradiction here?	no	1
+13 violets painting is dead or alive
+14 violets painting isnt dead and violets painting isnt alive
+15 There is a contradiction here?	yes	1
+1 justins painting is mango or poor
+2 justins painting is neither mango nor poor
+3 There is a contradiction here?	yes	1
+4 violets painting is angry or agreeable
+5 violets painting is neither ambitious nor agreeable
+6 There is a contradiction here?	no	1
+7 lesters painting is unkempt or mushy
+8 harolds painting is neither unkempt nor mushy
+9 There is a contradiction here?	no	1
+10 jons painting is ashy or thoughtless
+11 jons painting isnt ashy and jons painting isnt thoughtless
+12 There is a contradiction here?	yes	1
+13 sherrys painting is white or flabby
+14 sherrys painting isnt white and sherrys painting isnt flabby
+15 There is a contradiction here?	yes	1
+1 willards painting is hallowed or bewildered
+2 willards painting is neither hallowed nor scary
+3 There is a contradiction here?	no	1
+4 anas painting is agreeable or jolly
+5 anas painting isnt agreeable and anas painting isnt jolly
+6 There is a contradiction here?	yes	1
+7 maxs painting is glamorous or shy
+8 maxs painting is neither glamorous nor shy
+9 There is a contradiction here?	yes	1
+10 bradleys painting is red or repulsive
+11 bradleys painting is neither chubby nor repulsive
+12 There is a contradiction here?	no	1
+13 joyces painting is blue or rich
+14 sandras painting is neither blue nor rich
+15 There is a contradiction here?	no	1
+1 tracys painting is panicky or black
+2 tracys painting is neither panicky nor black
+3 There is a contradiction here?	yes	1
+4 lindseys painting is itchy or clever
+5 lindseys painting is neither itchy nor clever
+6 There is a contradiction here?	yes	1
+7 stephens painting is faithful or flabby
+8 stephens painting is neither faithful nor flabby
+9 There is a contradiction here?	yes	1
+10 pennys painting is jolly or aggressive
+11 pennys painting is neither jolly nor aggressive
+12 There is a contradiction here?	yes	1
+13 samuels painting is happy or eager
+14 floras painting is neither happy nor eager
+15 There is a contradiction here?	no	1
+1 leslies painting is faithful or orange
+2 leslies painting is neither faithful nor orange
+3 There is a contradiction here?	yes	1
+4 cassandras painting is yellow or clever
+5 cassandras painting isnt yellow and cassandras painting isnt clever
+6 There is a contradiction here?	yes	1
+7 angelas painting is clumsy or white
+8 angelas painting isnt clumsy
+9 There is a contradiction here?	no	1
+10 fredericks painting is red or unimportant
+11 mikes painting is neither red nor unimportant
+12 There is a contradiction here?	no	1
+13 ricks painting is tender or glamorous
+14 ricks painting isnt tender
+15 There is a contradiction here?	no	1
+1 pedros painting is short or calm
+2 pedros painting isnt short and pedros painting isnt calm
+3 There is a contradiction here?	yes	1
+4 bernards painting is mushy or hallowed
+5 bernards painting is neither mushy nor hallowed
+6 There is a contradiction here?	yes	1
+7 mildreds painting is orange or uptight
+8 mildreds painting isnt orange
+9 There is a contradiction here?	no	1
+10 normas painting is lazy or white
+11 normas painting isnt lazy and normas painting isnt white
+12 There is a contradiction here?	yes	1
+13 carls painting is defeated or gorgeous
+14 carls painting isnt defeated and carls painting isnt gorgeous
+15 There is a contradiction here?	yes	1
+1 virginias painting is lemon or orange
+2 virginias painting is neither repulsive nor orange
+3 There is a contradiction here?	no	1
+4 juanas painting is scruffy or chubby
+5 juanas painting isnt scruffy
+6 There is a contradiction here?	no	1
+7 patricks painting is bald or gray
+8 patricks painting is neither bald nor gray
+9 There is a contradiction here?	yes	1
+10 naomis painting is ugly or clean
+11 naomis painting isnt clean
+12 There is a contradiction here?	no	1
+13 idas painting is clean or nervous
+14 idas painting isnt clean and idas painting isnt nervous
+15 There is a contradiction here?	yes	1
+1 sonias painting is wrong or gray
+2 sonias painting isnt wrong and sonias painting isnt gray
+3 There is a contradiction here?	yes	1
+4 willards painting is short or chubby
+5 willards painting is neither short nor chubby
+6 There is a contradiction here?	yes	1
+7 laurens painting is red or easy
+8 laurens painting is neither red nor easy
+9 There is a contradiction here?	yes	1
+10 julias painting is ambitious or red
+11 julias painting is neither ambitious nor red
+12 There is a contradiction here?	yes	1
+13 wendys painting is polite or panicky
+14 wendys painting is neither polite nor panicky
+15 There is a contradiction here?	yes	1
+1 glens painting is gorgeous or obedient
+2 glens painting isnt gorgeous and glens painting isnt obedient
+3 There is a contradiction here?	yes	1
+4 lees painting is long or short
+5 lees painting is neither long nor clever
+6 There is a contradiction here?	no	1
+7 jans painting is kind or famous
+8 jans painting isnt famous
+9 There is a contradiction here?	no	1
+10 paulines painting is clean or odd
+11 paulines painting isnt clean and paulines painting isnt odd
+12 There is a contradiction here?	yes	1
+13 clydes painting is zealous or mealy
+14 clydes painting isnt mealy
+15 There is a contradiction here?	no	1
+1 violas painting is inexpensive or handsome
+2 rubys painting is neither inexpensive nor handsome
+3 There is a contradiction here?	no	1
+4 claytons painting is wrong or itchy
+5 claytons painting is neither wrong nor itchy
+6 There is a contradiction here?	yes	1
+7 naomis painting is easy or fancy
+8 naomis painting isnt easy
+9 There is a contradiction here?	no	1
+10 gilberts painting is important or thoughtless
+11 tiffanys painting is neither important nor thoughtless
+12 There is a contradiction here?	no	1
+13 bobbies painting is calm or panicky
+14 bobbies painting isnt panicky
+15 There is a contradiction here?	no	1
+1 wilmas painting is elegant or hallowed
+2 wilmas painting isnt elegant and wilmas painting isnt hallowed
+3 There is a contradiction here?	yes	1
+4 nicholass painting is white or gorgeous
+5 nicholass painting is neither white nor gorgeous
+6 There is a contradiction here?	yes	1
+7 kristinas painting is red or bewildered
+8 kristinas painting is neither red nor bewildered
+9 There is a contradiction here?	yes	1
+10 yvettes painting is clumsy or thoughtless
+11 yvettes painting is neither clumsy nor thoughtless
+12 There is a contradiction here?	yes	1
+13 lynns painting is victorious or silly
+14 lynns painting is neither lemon nor silly
+15 There is a contradiction here?	no	1
+1 harriets painting is wrong or red
+2 harriets painting is neither wrong nor red
+3 There is a contradiction here?	yes	1
+4 angelas painting is helpful or plump
+5 angelas painting is neither helpful nor dazzling
+6 There is a contradiction here?	no	1
+7 priscillas painting is shy or long
+8 priscillas painting isnt shy and priscillas painting isnt long
+9 There is a contradiction here?	yes	1
+10 rons painting is salmon or helpful
+11 rons painting isnt helpful
+12 There is a contradiction here?	no	1
+13 bruces painting is careful or muscular
+14 bruces painting isnt careful and bruces painting isnt muscular
+15 There is a contradiction here?	yes	1
+1 stacys painting is gray or scruffy
+2 stacys painting isnt gray
+3 There is a contradiction here?	no	1
+4 maries painting is mushy or stocky
+5 maries painting is neither unkempt nor stocky
+6 There is a contradiction here?	no	1
+7 danielles painting is victorious or hallowed
+8 danielles painting isnt victorious and danielles painting isnt hallowed
+9 There is a contradiction here?	yes	1
+10 christines painting is purple or blue
+11 christines painting is neither purple nor blue
+12 There is a contradiction here?	yes	1
+13 alexs painting is shy or happy
+14 alexs painting is neither defeated nor happy
+15 There is a contradiction here?	no	1
+1 jacquelines painting is itchy or hallowed
+2 jacquelines painting is neither itchy nor hallowed
+3 There is a contradiction here?	yes	1
+4 joannes painting is witty or ashy
+5 sylvias painting is neither witty nor ashy
+6 There is a contradiction here?	no	1
+7 paulines painting is red or nervous
+8 paulines painting isnt red and paulines painting isnt nervous
+9 There is a contradiction here?	yes	1
+10 shellys painting is red or unimportant
+11 shellys painting is neither red nor unimportant
+12 There is a contradiction here?	yes	1
+13 janices painting is rich or alive
+14 janices painting is neither rich nor alive
+15 There is a contradiction here?	yes	1
+1 christys painting is dazzling or famous
+2 christys painting is neither dazzling nor famous
+3 There is a contradiction here?	yes	1
+4 genes painting is clever or vast
+5 genes painting is neither careful nor vast
+6 There is a contradiction here?	no	1
+7 eduardos painting is ugly or poor
+8 eduardos painting isnt poor
+9 There is a contradiction here?	no	1
+10 katies painting is yellow or uptight
+11 naomis painting is neither yellow nor uptight
+12 There is a contradiction here?	no	1
+13 dianes painting is vast or chubby
+14 dianes painting isnt vast
+15 There is a contradiction here?	no	1
+1 everetts painting is easy or wonderful
+2 everetts painting isnt wonderful
+3 There is a contradiction here?	no	1
+4 howards painting is plain or jealous
+5 howards painting isnt plain and howards painting isnt jealous
+6 There is a contradiction here?	yes	1
+7 janices painting is mysterious or quaint
+8 janices painting isnt quaint
+9 There is a contradiction here?	no	1
+10 vernons painting is scary or thoughtless
+11 vernons painting isnt thoughtless
+12 There is a contradiction here?	no	1
+13 daisys painting is elegant or fancy
+14 daisys painting is neither stocky nor fancy
+15 There is a contradiction here?	no	1
+1 georgias painting is beautiful or ashy
+2 georgias painting is neither witty nor ashy
+3 There is a contradiction here?	no	1
+4 daves painting is nervous or white
+5 daves painting isnt nervous
+6 There is a contradiction here?	no	1
+7 andres painting is mushy or shapely
+8 andres painting is neither mushy nor shapely
+9 There is a contradiction here?	yes	1
+10 brandys painting is fancy or skinny
+11 brandys painting is neither fancy nor skinny
+12 There is a contradiction here?	yes	1
+13 brads painting is poor or silly
+14 brads painting isnt silly
+15 There is a contradiction here?	no	1
+1 daves painting is red or nice
+2 daves painting is neither red nor nice
+3 There is a contradiction here?	yes	1
+4 carols painting is orange or attractive
+5 carols painting is neither orange nor attractive
+6 There is a contradiction here?	yes	1
+7 alfreds painting is delightful or defeated
+8 alfreds painting isnt defeated
+9 There is a contradiction here?	no	1
+10 sues painting is proud or ashy
+11 sues painting is neither proud nor ashy
+12 There is a contradiction here?	yes	1
+13 enriques painting is yellow or unkempt
+14 gabriels painting is neither yellow nor unkempt
+15 There is a contradiction here?	no	1
+1 salvadors painting is vast or itchy
+2 salvadors painting isnt itchy
+3 There is a contradiction here?	no	1
+4 aprils painting is orange or careful
+5 darrens painting is neither orange nor careful
+6 There is a contradiction here?	no	1
+7 barbaras painting is jealous or careful
+8 barbaras painting isnt jealous and barbaras painting isnt careful
+9 There is a contradiction here?	yes	1
+10 terrances painting is plain or scary
+11 terrances painting isnt scary
+12 There is a contradiction here?	no	1
+13 cliftons painting is kind or blue
+14 cliftons painting isnt blue
+15 There is a contradiction here?	no	1
+1 inezs painting is gray or easy
+2 inezs painting is neither gray nor easy
+3 There is a contradiction here?	yes	1
+4 armandos painting is silly or jealous
+5 armandos painting isnt silly and armandos painting isnt jealous
+6 There is a contradiction here?	yes	1
+7 wandas painting is calm or fierce
+8 wandas painting isnt calm and wandas painting isnt fierce
+9 There is a contradiction here?	yes	1
+10 wades painting is plump or obnoxious
+11 wades painting is neither plump nor obnoxious
+12 There is a contradiction here?	yes	1
+13 vernas painting is hallowed or skinny
+14 vernas painting isnt hallowed
+15 There is a contradiction here?	no	1
+1 bobbies painting is yellow or clever
+2 bobbies painting isnt yellow and bobbies painting isnt clever
+3 There is a contradiction here?	yes	1
+4 stacys painting is handsome or mushy
+5 stacys painting is neither ashy nor mushy
+6 There is a contradiction here?	no	1
+7 nelsons painting is shapely or unkempt
+8 nelsons painting is neither shapely nor unkempt
+9 There is a contradiction here?	yes	1
+10 stevens painting is fit or embarrassed
+11 stevens painting isnt embarrassed
+12 There is a contradiction here?	no	1
+13 duanes painting is orange or stocky
+14 duanes painting isnt orange and duanes painting isnt stocky
+15 There is a contradiction here?	yes	1
+1 phylliss painting is dead or magnificent
+2 felixs painting is neither dead nor magnificent
+3 There is a contradiction here?	no	1
+4 elsies painting is rich or unsightly
+5 elsies painting is neither rich nor unsightly
+6 There is a contradiction here?	yes	1
+7 melindas painting is blue or gentle
+8 melindas painting is neither blue nor gentle
+9 There is a contradiction here?	yes	1
+10 mamies painting is tender or important
+11 mamies painting isnt important
+12 There is a contradiction here?	no	1
+13 kenneths painting is witty or easy
+14 kenneths painting isnt easy
+15 There is a contradiction here?	no	1
+1 jeannes painting is scary or pitiful
+2 jeannes painting isnt scary and jeannes painting isnt pitiful
+3 There is a contradiction here?	yes	1
+4 yolandas painting is short or plump
+5 yolandas painting isnt plump
+6 There is a contradiction here?	no	1
+7 andys painting is gorgeous or red
+8 andys painting isnt gorgeous and andys painting isnt red
+9 There is a contradiction here?	yes	1
+10 bobbys painting is mango or purple
+11 bobbys painting isnt mango and bobbys painting isnt purple
+12 There is a contradiction here?	yes	1
+13 annies painting is pitiful or gifted
+14 annies painting isnt pitiful
+15 There is a contradiction here?	no	1
+1 pennys painting is unimportant or zealous
+2 pennys painting isnt unimportant
+3 There is a contradiction here?	no	1
+4 tanyas painting is happy or itchy
+5 coras painting is neither happy nor itchy
+6 There is a contradiction here?	no	1
+7 seans painting is delightful or thankful
+8 seans painting isnt thankful
+9 There is a contradiction here?	no	1
+10 freddies painting is long or happy
+11 freddies painting is neither long nor happy
+12 There is a contradiction here?	yes	1
+13 lillies painting is jealous or mushy
+14 lillies painting is neither jealous nor mushy
+15 There is a contradiction here?	yes	1
+1 seans painting is proud or scary
+2 larrys painting is neither proud nor scary
+3 There is a contradiction here?	no	1
+4 renees painting is repulsive or pitiful
+5 renees painting isnt repulsive and renees painting isnt pitiful
+6 There is a contradiction here?	yes	1
+7 lesters painting is victorious or blue
+8 lesters painting isnt victorious and lesters painting isnt blue
+9 There is a contradiction here?	yes	1
+10 virginias painting is vast or gray
+11 virginias painting isnt vast
+12 There is a contradiction here?	no	1
+13 ambers painting is nervous or gifted
+14 ambers painting is neither nervous nor gifted
+15 There is a contradiction here?	yes	1
+1 stacys painting is powerful or witty
+2 stacys painting is neither defeated nor witty
+3 There is a contradiction here?	no	1
+4 virginias painting is gentle or uninterested
+5 virginias painting is neither gentle nor uninterested
+6 There is a contradiction here?	yes	1
+7 steves painting is hallowed or green
+8 steves painting isnt hallowed
+9 There is a contradiction here?	no	1
+10 joshuas painting is wonderful or plain
+11 joshuas painting is neither wonderful nor plain
+12 There is a contradiction here?	yes	1
+13 carmens painting is gorgeous or nice
+14 carmens painting isnt gorgeous and carmens painting isnt nice
+15 There is a contradiction here?	yes	1
+1 vickies painting is worried or victorious
+2 vickies painting isnt victorious
+3 There is a contradiction here?	no	1
+4 hermans painting is obnoxious or panicky
+5 teresas painting is neither obnoxious nor panicky
+6 There is a contradiction here?	no	1
+7 kyles painting is unimportant or faithful
+8 kyles painting is neither unimportant nor brave
+9 There is a contradiction here?	no	1
+10 everetts painting is proud or ashy
+11 everetts painting isnt ashy
+12 There is a contradiction here?	no	1
+13 jimmies painting is polite or tender
+14 jimmies painting isnt tender
+15 There is a contradiction here?	no	1
+1 adams painting is helpless or obedient
+2 adams painting is neither helpless nor handsome
+3 There is a contradiction here?	no	1
+4 jeromes painting is chubby or orange
+5 jeromes painting is neither chubby nor orange
+6 There is a contradiction here?	yes	1
+7 byrons painting is lively or rich
+8 byrons painting isnt rich
+9 There is a contradiction here?	no	1
+10 donalds painting is poor or better
+11 donalds painting isnt poor and donalds painting isnt better
+12 There is a contradiction here?	yes	1
+13 annas painting is skinny or plain
+14 annas painting isnt skinny and annas painting isnt plain
+15 There is a contradiction here?	yes	1
+1 floyds painting is eager or beautiful
+2 floyds painting isnt eager and floyds painting isnt beautiful
+3 There is a contradiction here?	yes	1
+4 beverlys painting is repulsive or bald
+5 beverlys painting isnt repulsive and beverlys painting isnt bald
+6 There is a contradiction here?	yes	1
+7 daryls painting is shy or white
+8 daryls painting is neither shy nor brave
+9 There is a contradiction here?	no	1
+10 ninas painting is angry or plain
+11 roys painting is neither angry nor plain
+12 There is a contradiction here?	no	1
+13 terrys painting is yellow or scary
+14 karls painting is neither yellow nor scary
+15 There is a contradiction here?	no	1
+1 geraldines painting is delightful or brave
+2 geraldines painting isnt brave
+3 There is a contradiction here?	no	1
+4 rachels painting is lively or thoughtless
+5 rachels painting isnt lively and rachels painting isnt thoughtless
+6 There is a contradiction here?	yes	1
+7 hazels painting is green or kind
+8 hazels painting is neither dazzling nor kind
+9 There is a contradiction here?	no	1
+10 ericas painting is salmon or bewildered
+11 ericas painting isnt salmon
+12 There is a contradiction here?	no	1
+13 ians painting is shapely or scruffy
+14 ians painting isnt shapely and ians painting isnt scruffy
+15 There is a contradiction here?	yes	1
+1 rubens painting is rich or vast
+2 rubens painting is neither rich nor vast
+3 There is a contradiction here?	yes	1
+4 marions painting is nice or black
+5 marions painting isnt black
+6 There is a contradiction here?	no	1
+7 sherrys painting is gentle or mysterious
+8 sherrys painting is neither gentle nor mysterious
+9 There is a contradiction here?	yes	1
+10 edwins painting is easy or itchy
+11 edwins painting isnt easy and edwins painting isnt itchy
+12 There is a contradiction here?	yes	1
+13 cynthias painting is embarrassed or lively
+14 cynthias painting is neither embarrassed nor lively
+15 There is a contradiction here?	yes	1
+1 clarences painting is important or alive
+2 clarences painting is neither important nor alive
+3 There is a contradiction here?	yes	1
+4 ryans painting is obnoxious or flabby
+5 ryans painting is neither obnoxious nor flabby
+6 There is a contradiction here?	yes	1
+7 toms painting is inexpensive or uptight
+8 matties painting is neither inexpensive nor uptight
+9 There is a contradiction here?	no	1
+10 virginias painting is wrong or unsightly
+11 virginias painting is neither wrong nor unsightly
+12 There is a contradiction here?	yes	1
+13 marshalls painting is unsightly or eager
+14 marshalls painting is neither unsightly nor eager
+15 There is a contradiction here?	yes	1
+1 gregs painting is unkempt or uptight
+2 gregs painting isnt uptight
+3 There is a contradiction here?	no	1
+4 jessies painting is clumsy or gifted
+5 jessies painting is neither clumsy nor gifted
+6 There is a contradiction here?	yes	1
+7 bettys painting is stocky or zealous
+8 bettys painting is neither worried nor zealous
+9 There is a contradiction here?	no	1
+10 jeanettes painting is lemon or ambitious
+11 jeanettes painting is neither lemon nor ambitious
+12 There is a contradiction here?	yes	1
+13 derricks painting is worried or shapely
+14 derricks painting isnt worried and derricks painting isnt shapely
+15 There is a contradiction here?	yes	1
+1 gregorys painting is handsome or green
+2 gregorys painting is neither handsome nor green
+3 There is a contradiction here?	yes	1
+4 marshas painting is scary or witty
+5 marshas painting isnt scary
+6 There is a contradiction here?	no	1
+7 leons painting is white or grumpy
+8 andreas painting is neither white nor grumpy
+9 There is a contradiction here?	no	1
+10 georgias painting is worried or fierce
+11 georgias painting isnt worried
+12 There is a contradiction here?	no	1
+13 lorettas painting is green or thankful
+14 lorettas painting isnt green
+15 There is a contradiction here?	no	1
+1 victors painting is itchy or alive
+2 kristis painting is neither itchy nor alive
+3 There is a contradiction here?	no	1
+4 christinas painting is fit or ashy
+5 christinas painting isnt ashy
+6 There is a contradiction here?	no	1
+7 cecilias painting is defeated or stocky
+8 cecilias painting is neither defeated nor stocky
+9 There is a contradiction here?	yes	1
+10 gordons painting is wrong or agreeable
+11 gordons painting isnt agreeable
+12 There is a contradiction here?	no	1
+13 brandys painting is worried or shapely
+14 brandys painting is neither worried nor shapely
+15 There is a contradiction here?	yes	1
+1 roys painting is orange or agreeable
+2 roys painting isnt orange and roys painting isnt agreeable
+3 There is a contradiction here?	yes	1
+4 connies painting is beautiful or stocky
+5 connies painting isnt beautiful and connies painting isnt stocky
+6 There is a contradiction here?	yes	1
+7 roses painting is eager or embarrassed
+8 pearls painting is neither eager nor embarrassed
+9 There is a contradiction here?	no	1
+10 georges painting is uptight or itchy
+11 georges painting is neither uptight nor itchy
+12 There is a contradiction here?	yes	1
+13 micheles painting is gorgeous or chubby
+14 micheles painting is neither gorgeous nor chubby
+15 There is a contradiction here?	yes	1
+1 manuels painting is pitiful or helpful
+2 manuels painting is neither pitiful nor helpful
+3 There is a contradiction here?	yes	1
+4 olivias painting is mango or zealous
+5 olivias painting is neither mango nor zealous
+6 There is a contradiction here?	yes	1
+7 franciscos painting is proud or stocky
+8 franciscos painting is neither purple nor stocky
+9 There is a contradiction here?	no	1
+10 terris painting is glamorous or orange
+11 terris painting isnt orange
+12 There is a contradiction here?	no	1
+13 wandas painting is helpful or ugly
+14 wandas painting isnt helpful and wandas painting isnt ugly
+15 There is a contradiction here?	yes	1
+1 jimmys painting is embarrassed or lazy
+2 jimmys painting is neither embarrassed nor lazy
+3 There is a contradiction here?	yes	1
+4 douglass painting is kind or wrong
+5 douglass painting is neither kind nor wrong
+6 There is a contradiction here?	yes	1
+7 corys painting is zealous or gifted
+8 corys painting isnt zealous and corys painting isnt gifted
+9 There is a contradiction here?	yes	1
+10 theresas painting is drab or ashy
+11 theresas painting is neither drab nor ashy
+12 There is a contradiction here?	yes	1
+13 alisons painting is careful or uninterested
+14 alisons painting is neither careful nor uninterested
+15 There is a contradiction here?	yes	1
+1 antonios painting is lively or alive
+2 antonios painting isnt alive
+3 There is a contradiction here?	no	1
+4 beulahs painting is angry or thankful
+5 beulahs painting isnt angry and beulahs painting isnt thankful
+6 There is a contradiction here?	yes	1
+7 randys painting is beautiful or scary
+8 randys painting isnt beautiful and randys painting isnt scary
+9 There is a contradiction here?	yes	1
+10 judys painting is purple or uninterested
+11 marshas painting is neither purple nor uninterested
+12 There is a contradiction here?	no	1
+13 jons painting is proud or orange
+14 jons painting is neither proud nor orange
+15 There is a contradiction here?	yes	1
+1 sams painting is magnificent or agreeable
+2 sams painting is neither magnificent nor agreeable
+3 There is a contradiction here?	yes	1
+4 maxs painting is icy or uninterested
+5 maxs painting isnt icy and maxs painting isnt uninterested
+6 There is a contradiction here?	yes	1
+7 hectors painting is long or helpful
+8 hectors painting isnt long
+9 There is a contradiction here?	no	1
+10 maes painting is mysterious or flabby
+11 maes painting isnt mysterious and maes painting isnt flabby
+12 There is a contradiction here?	yes	1
+13 andrews painting is quaint or easy
+14 andrews painting is neither quaint nor easy
+15 There is a contradiction here?	yes	1
+1 armandos painting is uptight or jealous
+2 armandos painting isnt uptight and armandos painting isnt jealous
+3 There is a contradiction here?	yes	1
+4 tamaras painting is short or green
+5 tamaras painting is neither short nor green
+6 There is a contradiction here?	yes	1
+7 genes painting is magnificent or mealy
+8 genes painting isnt magnificent and genes painting isnt mealy
+9 There is a contradiction here?	yes	1
+10 harveys painting is defeated or itchy
+11 harveys painting is neither defeated nor itchy
+12 There is a contradiction here?	yes	1
+13 marthas painting is hallowed or gray
+14 marthas painting is neither hallowed nor gray
+15 There is a contradiction here?	yes	1
+1 gwendolyns painting is drab or bewildered
+2 gwendolyns painting is neither drab nor bewildered
+3 There is a contradiction here?	yes	1
+4 jessicas painting is glamorous or important
+5 jessicas painting isnt glamorous
+6 There is a contradiction here?	no	1
+7 kristis painting is embarrassed or rich
+8 kristis painting is neither jealous nor rich
+9 There is a contradiction here?	no	1
+10 darrells painting is magnificent or obnoxious
+11 maurices painting is neither magnificent nor obnoxious
+12 There is a contradiction here?	no	1
+13 violets painting is famous or gentle
+14 violets painting is neither famous nor lively
+15 There is a contradiction here?	no	1
+1 timothys painting is obedient or nice
+2 timothys painting isnt obedient and timothys painting isnt nice
+3 There is a contradiction here?	yes	1
+4 franciscos painting is grumpy or mysterious
+5 helens painting is neither grumpy nor mysterious
+6 There is a contradiction here?	no	1
+7 lances painting is faithful or repulsive
+8 lances painting is neither faithful nor repulsive
+9 There is a contradiction here?	yes	1
+10 jeffs painting is thankful or angry
+11 bobbys painting is neither thankful nor angry
+12 There is a contradiction here?	no	1
+13 donnas painting is lively or obnoxious
+14 donnas painting isnt obnoxious
+15 There is a contradiction here?	no	1
+1 sandys painting is thankful or ambitious
+2 sandys painting isnt thankful
+3 There is a contradiction here?	no	1
+4 evelyns painting is silly or jealous
+5 evelyns painting is neither silly nor jealous
+6 There is a contradiction here?	yes	1
+7 michaels painting is fierce or itchy
+8 michaels painting isnt fierce and michaels painting isnt itchy
+9 There is a contradiction here?	yes	1
+10 gregorys painting is dead or black
+11 gregorys painting isnt dead
+12 There is a contradiction here?	no	1
+13 beverlys painting is flabby or unkempt
+14 beverlys painting isnt flabby
+15 There is a contradiction here?	no	1
+1 shelleys painting is shapely or scary
+2 shelleys painting isnt scary
+3 There is a contradiction here?	no	1
+4 yvonnes painting is stocky or odd
+5 yvonnes painting is neither stocky nor odd
+6 There is a contradiction here?	yes	1
+7 fernandos painting is jealous or rich
+8 tammys painting is neither jealous nor rich
+9 There is a contradiction here?	no	1
+10 felixs painting is scary or easy
+11 felixs painting isnt easy
+12 There is a contradiction here?	no	1
+13 luiss painting is faithful or scruffy
+14 luiss painting isnt faithful and luiss painting isnt scruffy
+15 There is a contradiction here?	yes	1
+1 colleens painting is orange or odd
+2 colleens painting is neither calm nor odd
+3 There is a contradiction here?	no	1
+4 phylliss painting is fit or nervous
+5 phylliss painting isnt fit and phylliss painting isnt nervous
+6 There is a contradiction here?	yes	1
+7 glorias painting is stocky or alive
+8 glorias painting isnt stocky and glorias painting isnt alive
+9 There is a contradiction here?	yes	1
+10 edwards painting is flabby or brave
+11 edwards painting isnt flabby and edwards painting isnt brave
+12 There is a contradiction here?	yes	1
+13 candices painting is poor or bald
+14 candices painting isnt bald
+15 There is a contradiction here?	no	1
+1 robertas painting is careful or happy
+2 lawrences painting is neither careful nor happy
+3 There is a contradiction here?	no	1
+4 deannas painting is calm or worried
+5 deannas painting isnt calm and deannas painting isnt worried
+6 There is a contradiction here?	yes	1
+7 debbies painting is odd or silly
+8 debbies painting isnt silly
+9 There is a contradiction here?	no	1
+10 kathys painting is itchy or famous
+11 kathys painting is neither polite nor famous
+12 There is a contradiction here?	no	1
+13 violets painting is itchy or victorious
+14 violets painting is neither delightful nor victorious
+15 There is a contradiction here?	no	1
+1 justins painting is helpful or orange
+2 justins painting is neither helpful nor orange
+3 There is a contradiction here?	yes	1
+4 williams painting is obnoxious or clean
+5 williams painting isnt obnoxious
+6 There is a contradiction here?	no	1
+7 lolas painting is panicky or zealous
+8 lolas painting isnt panicky and lolas painting isnt zealous
+9 There is a contradiction here?	yes	1
+10 marcuss painting is embarrassed or happy
+11 marcuss painting isnt embarrassed and marcuss painting isnt happy
+12 There is a contradiction here?	yes	1
+13 natalies painting is ambitious or grumpy
+14 natalies painting is neither delightful nor grumpy
+15 There is a contradiction here?	no	1
+1 gwendolyns painting is green or thankful
+2 thelmas painting is neither green nor thankful
+3 There is a contradiction here?	no	1
+4 charless painting is faithful or unsightly
+5 eileens painting is neither faithful nor unsightly
+6 There is a contradiction here?	no	1
+7 randalls painting is unimportant or dead
+8 randalls painting is neither unimportant nor unsightly
+9 There is a contradiction here?	no	1
+10 elmers painting is worried or uninterested
+11 elmers painting isnt worried and elmers painting isnt uninterested
+12 There is a contradiction here?	yes	1
+13 allens painting is better or ashy
+14 natalies painting is neither better nor ashy
+15 There is a contradiction here?	no	1
+1 lolas painting is easy or clumsy
+2 michelles painting is neither easy nor clumsy
+3 There is a contradiction here?	no	1
+4 christines painting is angry or fierce
+5 christines painting isnt fierce
+6 There is a contradiction here?	no	1
+7 maries painting is thankful or worried
+8 maries painting is neither thankful nor worried
+9 There is a contradiction here?	yes	1
+10 belindas painting is worried or famous
+11 belindas painting is neither worried nor famous
+12 There is a contradiction here?	yes	1
+13 madelines painting is fancy or wonderful
+14 madelines painting isnt fancy and madelines painting isnt wonderful
+15 There is a contradiction here?	yes	1
+1 antonios painting is magnificent or nice
+2 antonios painting is neither handsome nor nice
+3 There is a contradiction here?	no	1
+4 vickies painting is clever or embarrassed
+5 vickies painting is neither clever nor embarrassed
+6 There is a contradiction here?	yes	1
+7 shanes painting is helpful or pitiful
+8 shanes painting isnt pitiful
+9 There is a contradiction here?	no	1
+10 bonnies painting is scary or odd
+11 bonnies painting is neither scary nor green
+12 There is a contradiction here?	no	1
+13 bobbies painting is shapely or scruffy
+14 bobbies painting is neither thankful nor scruffy
+15 There is a contradiction here?	no	1
+1 moniques painting is unimportant or ashy
+2 moniques painting is neither scruffy nor ashy
+3 There is a contradiction here?	no	1
+4 shanes painting is purple or defeated
+5 shanes painting isnt defeated
+6 There is a contradiction here?	no	1
+7 marions painting is calm or gentle
+8 marions painting isnt calm and marions painting isnt gentle
+9 There is a contradiction here?	yes	1
+10 harrys painting is itchy or eager
+11 harrys painting isnt itchy and harrys painting isnt eager
+12 There is a contradiction here?	yes	1
+13 angies painting is magnificent or calm
+14 angies painting is neither chubby nor calm
+15 There is a contradiction here?	no	1
+1 sylvias painting is obnoxious or shapely
+2 sylvias painting isnt obnoxious
+3 There is a contradiction here?	no	1
+4 waynes painting is stocky or agreeable
+5 waynes painting isnt agreeable
+6 There is a contradiction here?	no	1
+7 theresas painting is agreeable or embarrassed
+8 theresas painting isnt agreeable
+9 There is a contradiction here?	no	1
+10 deborahs painting is famous or happy
+11 deborahs painting is neither famous nor happy
+12 There is a contradiction here?	yes	1
+13 beths painting is happy or gorgeous
+14 beths painting isnt gorgeous
+15 There is a contradiction here?	no	1
+1 nelsons painting is gray or agreeable
+2 nelsons painting isnt gray
+3 There is a contradiction here?	no	1
+4 lees painting is clean or calm
+5 jills painting is neither clean nor calm
+6 There is a contradiction here?	no	1
+7 kirks painting is fancy or lemon
+8 kirks painting isnt fancy and kirks painting isnt lemon
+9 There is a contradiction here?	yes	1
+10 pennys painting is white or poor
+11 jills painting is neither white nor poor
+12 There is a contradiction here?	no	1
+13 genevas painting is eager or blue
+14 genevas painting is neither unsightly nor blue
+15 There is a contradiction here?	no	1
+1 kents painting is black or dazzling
+2 kents painting isnt black and kents painting isnt dazzling
+3 There is a contradiction here?	yes	1
+4 curtiss painting is black or unimportant
+5 curtiss painting is neither black nor unimportant
+6 There is a contradiction here?	yes	1
+7 lindas painting is faithful or red
+8 lindas painting is neither jealous nor red
+9 There is a contradiction here?	no	1
+10 randalls painting is important or vast
+11 randalls painting is neither important nor vast
+12 There is a contradiction here?	yes	1
+13 cheryls painting is drab or blue
+14 cheryls painting is neither drab nor blue
+15 There is a contradiction here?	yes	1
+1 marias painting is alive or mealy
+2 marias painting is neither alive nor mealy
+3 There is a contradiction here?	yes	1
+4 judys painting is elegant or lively
+5 judys painting isnt lively
+6 There is a contradiction here?	no	1
+7 danas painting is helpful or fancy
+8 connies painting is neither helpful nor fancy
+9 There is a contradiction here?	no	1
+10 rubys painting is zealous or inexpensive
+11 rubys painting is neither zealous nor inexpensive
+12 There is a contradiction here?	yes	1
+13 lindseys painting is salmon or flabby
+14 lindseys painting is neither salmon nor flabby
+15 There is a contradiction here?	yes	1
+1 eddies painting is short or pitiful
+2 eddies painting isnt pitiful
+3 There is a contradiction here?	no	1
+4 howards painting is happy or defeated
+5 howards painting isnt happy and howards painting isnt defeated
+6 There is a contradiction here?	yes	1
+7 laurens painting is poor or fancy
+8 laurens painting is neither poor nor fancy
+9 There is a contradiction here?	yes	1
+10 kristins painting is stocky or calm
+11 kristins painting is neither stocky nor calm
+12 There is a contradiction here?	yes	1
+13 traceys painting is poor or pitiful
+14 traceys painting isnt poor and traceys painting isnt pitiful
+15 There is a contradiction here?	yes	1
+1 kevins painting is angry or witty
+2 eileens painting is neither angry nor witty
+3 There is a contradiction here?	no	1
+4 olgas painting is ashy or calm
+5 olgas painting is neither ashy nor calm
+6 There is a contradiction here?	yes	1
+7 miltons painting is red or powerful
+8 miltons painting isnt powerful
+9 There is a contradiction here?	no	1
+10 mabels painting is nervous or itchy
+11 marias painting is neither nervous nor itchy
+12 There is a contradiction here?	no	1
+13 belindas painting is wrong or long
+14 belindas painting is neither wrong nor long
+15 There is a contradiction here?	yes	1
+1 opals painting is happy or icy
+2 opals painting isnt icy
+3 There is a contradiction here?	no	1
+4 patricks painting is thankful or lively
+5 bobbies painting is neither thankful nor lively
+6 There is a contradiction here?	no	1
+7 javiers painting is bald or polite
+8 vincents painting is neither bald nor polite
+9 There is a contradiction here?	no	1
+10 terrances painting is purple or short
+11 terrances painting isnt short
+12 There is a contradiction here?	no	1
+13 rubys painting is ashy or grumpy
+14 rubys painting isnt ashy and rubys painting isnt grumpy
+15 There is a contradiction here?	yes	1
+1 jorges painting is calm or mango
+2 jorges painting isnt calm and jorges painting isnt mango
+3 There is a contradiction here?	yes	1
+4 pamelas painting is better or long
+5 pamelas painting is neither handsome nor long
+6 There is a contradiction here?	no	1
+7 jennys painting is long or helpless
+8 jennys painting is neither long nor helpless
+9 There is a contradiction here?	yes	1
+10 nancys painting is handsome or lemon
+11 nancys painting isnt handsome and nancys painting isnt lemon
+12 There is a contradiction here?	yes	1
+13 lenas painting is magnificent or aggressive
+14 lenas painting is neither magnificent nor thankful
+15 There is a contradiction here?	no	1
+1 teresas painting is fancy or thankful
+2 teresas painting is neither fancy nor thankful
+3 There is a contradiction here?	yes	1
+4 tiffanys painting is pitiful or gentle
+5 tiffanys painting is neither pitiful nor gentle
+6 There is a contradiction here?	yes	1
+7 ninas painting is blue or red
+8 ninas painting is neither blue nor red
+9 There is a contradiction here?	yes	1
+10 ashleys painting is fierce or important
+11 ashleys painting isnt fierce and ashleys painting isnt important
+12 There is a contradiction here?	yes	1
+13 alexanders painting is clumsy or poor
+14 alexanders painting is neither clumsy nor poor
+15 There is a contradiction here?	yes	1
+1 joys painting is fierce or pitiful
+2 joys painting is neither fierce nor pitiful
+3 There is a contradiction here?	yes	1
+4 marcias painting is mango or green
+5 marcias painting is neither mango nor green
+6 There is a contradiction here?	yes	1
+7 terris painting is helpless or dazzling
+8 terris painting isnt helpless and terris painting isnt dazzling
+9 There is a contradiction here?	yes	1
+10 dannys painting is gifted or plump
+11 dannys painting is neither gifted nor plump
+12 There is a contradiction here?	yes	1
+13 julias painting is bewildered or handsome
+14 julias painting is neither bewildered nor handsome
+15 There is a contradiction here?	yes	1
+1 janets painting is zealous or easy
+2 leroys painting is neither zealous nor easy
+3 There is a contradiction here?	no	1
+4 wesleys painting is clumsy or faithful
+5 arnolds painting is neither clumsy nor faithful
+6 There is a contradiction here?	no	1
+7 stellas painting is white or skinny
+8 stellas painting is neither zealous nor skinny
+9 There is a contradiction here?	no	1
+10 reginas painting is clever or stocky
+11 reginas painting is neither red nor stocky
+12 There is a contradiction here?	no	1
+13 yvettes painting is uptight or eager
+14 yvettes painting is neither uptight nor fit
+15 There is a contradiction here?	no	1
+1 reginas painting is fit or glamorous
+2 reginas painting isnt glamorous
+3 There is a contradiction here?	no	1
+4 josephs painting is important or shy
+5 josephs painting is neither important nor shy
+6 There is a contradiction here?	yes	1
+7 brandons painting is embarrassed or long
+8 brandons painting is neither careful nor long
+9 There is a contradiction here?	no	1
+10 kellys painting is salmon or important
+11 kellys painting isnt salmon and kellys painting isnt important
+12 There is a contradiction here?	yes	1
+13 alisons painting is happy or victorious
+14 alisons painting isnt happy
+15 There is a contradiction here?	no	1
+1 eunices painting is ugly or muscular
+2 eunices painting isnt ugly and eunices painting isnt muscular
+3 There is a contradiction here?	yes	1
+4 lees painting is icy or jealous
+5 lees painting is neither proud nor jealous
+6 There is a contradiction here?	no	1
+7 luzs painting is faithful or beautiful
+8 luzs painting isnt faithful and luzs painting isnt beautiful
+9 There is a contradiction here?	yes	1
+10 monicas painting is long or defeated
+11 monicas painting is neither long nor jealous
+12 There is a contradiction here?	no	1
+13 bernices painting is happy or short
+14 bernices painting is neither unsightly nor short
+15 There is a contradiction here?	no	1
+1 allens painting is ugly or aggressive
+2 allens painting is neither ugly nor aggressive
+3 There is a contradiction here?	yes	1
+4 phylliss painting is worried or red
+5 phylliss painting isnt worried and phylliss painting isnt red
+6 There is a contradiction here?	yes	1
+7 olivias painting is salmon or repulsive
+8 olivias painting is neither salmon nor repulsive
+9 There is a contradiction here?	yes	1
+10 theresas painting is salmon or lively
+11 theresas painting isnt lively
+12 There is a contradiction here?	no	1
+13 morriss painting is defeated or faithful
+14 morriss painting isnt faithful
+15 There is a contradiction here?	no	1
+1 glens painting is helpful or uptight
+2 glens painting isnt helpful
+3 There is a contradiction here?	no	1
+4 lees painting is gifted or fierce
+5 lees painting is neither lemon nor fierce
+6 There is a contradiction here?	no	1
+7 corys painting is worried or fit
+8 corys painting is neither worried nor fit
+9 There is a contradiction here?	yes	1
+10 anitas painting is lazy or unkempt
+11 anitas painting isnt lazy
+12 There is a contradiction here?	no	1
+13 adams painting is easy or elegant
+14 adams painting isnt easy and adams painting isnt elegant
+15 There is a contradiction here?	yes	1
+1 claudias painting is short or panicky
+2 claudias painting isnt panicky
+3 There is a contradiction here?	no	1
+4 daves painting is stocky or ambitious
+5 daves painting is neither stocky nor ambitious
+6 There is a contradiction here?	yes	1
+7 kurts painting is chubby or glamorous
+8 kurts painting is neither chubby nor glamorous
+9 There is a contradiction here?	yes	1
+10 antonios painting is uninterested or thankful
+11 antonios painting isnt uninterested
+12 There is a contradiction here?	no	1
+13 wendys painting is fit or helpful
+14 wendys painting is neither uptight nor helpful
+15 There is a contradiction here?	no	1
+1 franklins painting is ashy or careful
+2 franklins painting is neither ashy nor careful
+3 There is a contradiction here?	yes	1
+4 jessies painting is uptight or embarrassed
+5 jessies painting isnt embarrassed
+6 There is a contradiction here?	no	1
+7 manuels painting is itchy or dead
+8 manuels painting is neither itchy nor dead
+9 There is a contradiction here?	yes	1
+10 kenneths painting is beautiful or purple
+11 kenneths painting isnt beautiful and kenneths painting isnt purple
+12 There is a contradiction here?	yes	1
+13 randalls painting is long or tender
+14 randalls painting isnt long
+15 There is a contradiction here?	no	1
+1 kellys painting is grumpy or delightful
+2 kellys painting isnt grumpy and kellys painting isnt delightful
+3 There is a contradiction here?	yes	1
+4 joans painting is shapely or elegant
+5 joans painting is neither shapely nor elegant
+6 There is a contradiction here?	yes	1
+7 jaimes painting is important or gorgeous
+8 jaimes painting is neither important nor gorgeous
+9 There is a contradiction here?	yes	1
+10 pamelas painting is clever or lazy
+11 pamelas painting is neither clever nor lazy
+12 There is a contradiction here?	yes	1
+13 kristis painting is important or worried
+14 kristis painting is neither important nor worried
+15 There is a contradiction here?	yes	1
+1 roys painting is handsome or grumpy
+2 roys painting isnt grumpy
+3 There is a contradiction here?	no	1
+4 claras painting is uninterested or beautiful
+5 margies painting is neither uninterested nor beautiful
+6 There is a contradiction here?	no	1
+7 jeans painting is panicky or flabby
+8 jeans painting isnt panicky
+9 There is a contradiction here?	no	1
+10 sherris painting is calm or famous
+11 sherris painting is neither calm nor famous
+12 There is a contradiction here?	yes	1
+13 ethels painting is eager or skinny
+14 ethels painting isnt eager
+15 There is a contradiction here?	no	1
+1 marilyns painting is eager or thoughtless
+2 marilyns painting is neither eager nor thoughtless
+3 There is a contradiction here?	yes	1
+4 patricks painting is victorious or nice
+5 patricks painting is neither victorious nor nice
+6 There is a contradiction here?	yes	1
+7 eddies painting is thankful or victorious
+8 eddies painting isnt thankful and eddies painting isnt victorious
+9 There is a contradiction here?	yes	1
+10 allens painting is nice or agreeable
+11 allens painting is neither fit nor agreeable
+12 There is a contradiction here?	no	1
+13 velmas painting is plain or white
+14 velmas painting is neither plain nor white
+15 There is a contradiction here?	yes	1
+1 charlenes painting is agreeable or embarrassed
+2 charlenes painting is neither agreeable nor embarrassed
+3 There is a contradiction here?	yes	1
+4 tommys painting is drab or tender
+5 tommys painting is neither angry nor tender
+6 There is a contradiction here?	no	1
+7 rolands painting is mealy or scruffy
+8 rolands painting isnt mealy and rolands painting isnt scruffy
+9 There is a contradiction here?	yes	1
+10 gails painting is dead or odd
+11 gails painting is neither dead nor odd
+12 There is a contradiction here?	yes	1
+13 kays painting is scruffy or lively
+14 kays painting is neither short nor lively
+15 There is a contradiction here?	no	1
+1 melissas painting is powerful or zealous
+2 melissas painting isnt powerful and melissas painting isnt zealous
+3 There is a contradiction here?	yes	1
+4 virgils painting is obnoxious or drab
+5 virgils painting isnt obnoxious
+6 There is a contradiction here?	no	1
+7 tonyas painting is mushy or skinny
+8 tonyas painting is neither mushy nor skinny
+9 There is a contradiction here?	yes	1
+10 jodis painting is easy or bald
+11 jodis painting isnt easy
+12 There is a contradiction here?	no	1
+13 joans painting is black or proud
+14 joans painting isnt black
+15 There is a contradiction here?	no	1
+1 juanas painting is clean or defeated
+2 juanas painting isnt clean
+3 There is a contradiction here?	no	1
+4 marys painting is muscular or white
+5 marys painting is neither muscular nor white
+6 There is a contradiction here?	yes	1
+7 cliffords painting is lemon or odd
+8 ramons painting is neither lemon nor odd
+9 There is a contradiction here?	no	1
+10 billies painting is nice or careful
+11 juans painting is neither nice nor careful
+12 There is a contradiction here?	no	1
+13 maries painting is inexpensive or important
+14 maries painting isnt inexpensive
+15 There is a contradiction here?	no	1
+1 cynthias painting is bald or wrong
+2 cynthias painting is neither bewildered nor wrong
+3 There is a contradiction here?	no	1
+4 cliftons painting is inexpensive or dazzling
+5 cliftons painting isnt inexpensive and cliftons painting isnt dazzling
+6 There is a contradiction here?	yes	1
+7 harveys painting is obnoxious or shy
+8 harveys painting isnt obnoxious and harveys painting isnt shy
+9 There is a contradiction here?	yes	1
+10 genevas painting is brave or aggressive
+11 genevas painting isnt aggressive
+12 There is a contradiction here?	no	1
+13 nicoles painting is brave or zealous
+14 nicoles painting isnt zealous
+15 There is a contradiction here?	no	1
+1 luiss painting is handsome or mealy
+2 luiss painting is neither handsome nor mealy
+3 There is a contradiction here?	yes	1
+4 gordons painting is attractive or wrong
+5 gordons painting isnt attractive and gordons painting isnt wrong
+6 There is a contradiction here?	yes	1
+7 lucilles painting is drab or odd
+8 lucilles painting is neither drab nor odd
+9 There is a contradiction here?	yes	1
+10 ronnies painting is ugly or gorgeous
+11 jesses painting is neither ugly nor gorgeous
+12 There is a contradiction here?	no	1
+13 brents painting is jealous or aggressive
+14 brents painting isnt jealous and brents painting isnt aggressive
+15 There is a contradiction here?	yes	1
+1 willies painting is bewildered or famous
+2 willies painting isnt bewildered
+3 There is a contradiction here?	no	1
+4 juans painting is zealous or stocky
+5 juans painting is neither angry nor stocky
+6 There is a contradiction here?	no	1
+7 jamies painting is faithful or mysterious
+8 jamies painting isnt mysterious
+9 There is a contradiction here?	no	1
+10 jonathans painting is plump or helpful
+11 jonathans painting isnt plump and jonathans painting isnt helpful
+12 There is a contradiction here?	yes	1
+13 clydes painting is important or calm
+14 clydes painting isnt important and clydes painting isnt calm
+15 There is a contradiction here?	yes	1
+1 bobs painting is green or jealous
+2 joses painting is neither green nor jealous
+3 There is a contradiction here?	no	1
+4 lloyds painting is hallowed or powerful
+5 lloyds painting is neither hallowed nor powerful
+6 There is a contradiction here?	yes	1
+7 johns painting is clumsy or witty
+8 ritas painting is neither clumsy nor witty
+9 There is a contradiction here?	no	1
+10 reginalds painting is stocky or clever
+11 reginalds painting isnt clever
+12 There is a contradiction here?	no	1
+13 matties painting is mango or ambitious
+14 matties painting isnt ambitious
+15 There is a contradiction here?	no	1
+1 margaritas painting is uptight or ashy
+2 margaritas painting isnt uptight and margaritas painting isnt ashy
+3 There is a contradiction here?	yes	1
+4 terrances painting is helpful or eager
+5 terrances painting isnt helpful and terrances painting isnt eager
+6 There is a contradiction here?	yes	1
+7 peters painting is black or gifted
+8 roberts painting is neither black nor gifted
+9 There is a contradiction here?	no	1
+10 stephanies painting is thoughtless or unkempt
+11 stephanies painting isnt thoughtless and stephanies painting isnt unkempt
+12 There is a contradiction here?	yes	1
+13 walters painting is angry or bald
+14 walters painting isnt angry and walters painting isnt bald
+15 There is a contradiction here?	yes	1
+1 melissas painting is delightful or unsightly
+2 melissas painting is neither delightful nor unsightly
+3 There is a contradiction here?	yes	1
+4 bobbies painting is gifted or mealy
+5 bobbies painting is neither gifted nor mealy
+6 There is a contradiction here?	yes	1
+7 darrens painting is calm or repulsive
+8 darrens painting isnt repulsive
+9 There is a contradiction here?	no	1
+10 kimberlys painting is aggressive or agreeable
+11 kimberlys painting is neither aggressive nor agreeable
+12 There is a contradiction here?	yes	1
+13 lisas painting is red or helpful
+14 lisas painting is neither red nor polite
+15 There is a contradiction here?	no	1
+1 beckys painting is victorious or blue
+2 beckys painting isnt victorious and beckys painting isnt blue
+3 There is a contradiction here?	yes	1
+4 marshalls painting is tender or salmon
+5 marshalls painting is neither tender nor salmon
+6 There is a contradiction here?	yes	1
+7 joans painting is fierce or agreeable
+8 joans painting isnt fierce and joans painting isnt agreeable
+9 There is a contradiction here?	yes	1
+10 byrons painting is black or rich
+11 byrons painting isnt black
+12 There is a contradiction here?	no	1
+13 hatties painting is inexpensive or vast
+14 hatties painting isnt inexpensive and hatties painting isnt vast
+15 There is a contradiction here?	yes	1
+1 jims painting is clumsy or tender
+2 jims painting isnt clumsy
+3 There is a contradiction here?	no	1
+4 claudias painting is important or ambitious
+5 claudias painting is neither important nor ambitious
+6 There is a contradiction here?	yes	1
+7 kellys painting is unimportant or clean
+8 kellys painting is neither unimportant nor white
+9 There is a contradiction here?	no	1
+10 stephens painting is polite or faithful
+11 stephens painting isnt polite and stephens painting isnt faithful
+12 There is a contradiction here?	yes	1
+13 tonyas painting is chubby or clever
+14 tonyas painting is neither chubby nor clever
+15 There is a contradiction here?	yes	1
+1 jims painting is mysterious or dazzling
+2 jims painting is neither mysterious nor dazzling
+3 There is a contradiction here?	yes	1
+4 alisons painting is tender or magnificent
+5 alberts painting is neither tender nor magnificent
+6 There is a contradiction here?	no	1
+7 genevas painting is kind or alive
+8 genevas painting isnt alive
+9 There is a contradiction here?	no	1
+10 lorraines painting is important or wonderful
+11 lorraines painting is neither important nor wonderful
+12 There is a contradiction here?	yes	1
+13 rosas painting is defeated or icy
+14 rosas painting isnt defeated and rosas painting isnt icy
+15 There is a contradiction here?	yes	1
+1 colleens painting is vast or worried
+2 colleens painting isnt vast
+3 There is a contradiction here?	no	1
+4 evas painting is glamorous or quaint
+5 evas painting is neither glamorous nor quaint
+6 There is a contradiction here?	yes	1
+7 genevieves painting is pitiful or powerful
+8 genevieves painting is neither bald nor powerful
+9 There is a contradiction here?	no	1
+10 shirleys painting is mealy or scruffy
+11 shirleys painting isnt mealy
+12 There is a contradiction here?	no	1
+13 davids painting is yellow or mysterious
+14 davids painting is neither ugly nor mysterious
+15 There is a contradiction here?	no	1
+1 jasons painting is alive or worried
+2 jasons painting is neither blue nor worried
+3 There is a contradiction here?	no	1
+4 wesleys painting is green or clever
+5 wesleys painting isnt green
+6 There is a contradiction here?	no	1
+7 gregorys painting is quaint or defeated
+8 gregorys painting isnt quaint and gregorys painting isnt defeated
+9 There is a contradiction here?	yes	1
+10 victors painting is orange or plain
+11 victors painting is neither orange nor plain
+12 There is a contradiction here?	yes	1
+13 charlottes painting is careful or calm
+14 charlottes painting isnt careful and charlottes painting isnt calm
+15 There is a contradiction here?	yes	1
+1 maureens painting is mysterious or fierce
+2 maureens painting isnt mysterious and maureens painting isnt fierce
+3 There is a contradiction here?	yes	1
+4 matties painting is faithful or famous
+5 matties painting isnt faithful and matties painting isnt famous
+6 There is a contradiction here?	yes	1
+7 josephs painting is bald or gifted
+8 josephs painting isnt bald and josephs painting isnt gifted
+9 There is a contradiction here?	yes	1
+10 lauras painting is calm or clean
+11 lauras painting is neither calm nor clean
+12 There is a contradiction here?	yes	1
+13 jerrys painting is white or polite
+14 jerrys painting is neither unsightly nor polite
+15 There is a contradiction here?	no	1
+1 marias painting is careful or muscular
+2 marias painting isnt muscular
+3 There is a contradiction here?	no	1
+4 harolds painting is unsightly or blue
+5 harolds painting isnt unsightly
+6 There is a contradiction here?	no	1
+7 hildas painting is proud or drab
+8 hildas painting isnt proud and hildas painting isnt drab
+9 There is a contradiction here?	yes	1
+10 junes painting is polite or mango
+11 junes painting is neither hallowed nor mango
+12 There is a contradiction here?	no	1
+13 stellas painting is agreeable or eager
+14 stellas painting isnt agreeable and stellas painting isnt eager
+15 There is a contradiction here?	yes	1
+1 zacharys painting is drab or lazy
+2 zacharys painting is neither drab nor nice
+3 There is a contradiction here?	no	1
+4 rebeccas painting is dead or faithful
+5 maurices painting is neither dead nor faithful
+6 There is a contradiction here?	no	1
+7 charlottes painting is orange or famous
+8 charlottes painting isnt famous
+9 There is a contradiction here?	no	1
+10 almas painting is faithful or red
+11 almas painting is neither faithful nor red
+12 There is a contradiction here?	yes	1
+13 luzs painting is obedient or careful
+14 luzs painting isnt obedient and luzs painting isnt careful
+15 There is a contradiction here?	yes	1
+1 miguels painting is gifted or alive
+2 miguels painting isnt alive
+3 There is a contradiction here?	no	1
+4 glens painting is gorgeous or short
+5 joannas painting is neither gorgeous nor short
+6 There is a contradiction here?	no	1
+7 rafaels painting is chubby or fit
+8 rafaels painting isnt chubby and rafaels painting isnt fit
+9 There is a contradiction here?	yes	1
+10 dianes painting is careful or gorgeous
+11 dianes painting isnt careful and dianes painting isnt gorgeous
+12 There is a contradiction here?	yes	1
+13 ricks painting is witty or long
+14 ricks painting isnt witty and ricks painting isnt long
+15 There is a contradiction here?	yes	1
+1 janies painting is gorgeous or shy
+2 janies painting is neither gorgeous nor shy
+3 There is a contradiction here?	yes	1
+4 fayes painting is agreeable or unkempt
+5 sandras painting is neither agreeable nor unkempt
+6 There is a contradiction here?	no	1
+7 marlenes painting is green or victorious
+8 alices painting is neither green nor victorious
+9 There is a contradiction here?	no	1
+10 allens painting is vast or chubby
+11 allens painting isnt vast and allens painting isnt chubby
+12 There is a contradiction here?	yes	1
+13 eddies painting is uptight or clumsy
+14 eddies painting isnt clumsy
+15 There is a contradiction here?	no	1
+1 jacobs painting is odd or drab
+2 jacobs painting is neither odd nor drab
+3 There is a contradiction here?	yes	1
+4 julies painting is unsightly or lemon
+5 julies painting isnt lemon
+6 There is a contradiction here?	no	1
+7 marthas painting is happy or nervous
+8 marthas painting isnt happy and marthas painting isnt nervous
+9 There is a contradiction here?	yes	1
+10 marjories painting is easy or salmon
+11 marjories painting is neither mushy nor salmon
+12 There is a contradiction here?	no	1
+13 ivans painting is thoughtless or aggressive
+14 ivans painting is neither thoughtless nor aggressive
+15 There is a contradiction here?	yes	1
+1 barrys painting is quaint or repulsive
+2 barrys painting isnt quaint
+3 There is a contradiction here?	no	1
+4 jessicas painting is defeated or aggressive
+5 jessicas painting isnt aggressive
+6 There is a contradiction here?	no	1
+7 veras painting is poor or silly
+8 veras painting is neither poor nor silly
+9 There is a contradiction here?	yes	1
+10 annettes painting is chubby or helpless
+11 annettes painting is neither chubby nor bewildered
+12 There is a contradiction here?	no	1
+13 donalds painting is helpless or plain
+14 donalds painting isnt helpless
+15 There is a contradiction here?	no	1
+1 marions painting is kind or purple
+2 marions painting isnt kind and marions painting isnt purple
+3 There is a contradiction here?	yes	1
+4 curtiss painting is skinny or proud
+5 curtiss painting is neither skinny nor proud
+6 There is a contradiction here?	yes	1
+7 rosas painting is white or fancy
+8 rosas painting is neither white nor fancy
+9 There is a contradiction here?	yes	1
+10 lindseys painting is handsome or obedient
+11 lindseys painting isnt handsome and lindseys painting isnt obedient
+12 There is a contradiction here?	yes	1
+13 natalies painting is fierce or aggressive
+14 natalies painting is neither zealous nor aggressive
+15 There is a contradiction here?	no	1
+1 berthas painting is ambitious or careful
+2 jons painting is neither ambitious nor careful
+3 There is a contradiction here?	no	1
+4 joses painting is rich or blue
+5 rodneys painting is neither rich nor blue
+6 There is a contradiction here?	no	1
+7 brendas painting is helpless or hallowed
+8 andres painting is neither helpless nor hallowed
+9 There is a contradiction here?	no	1
+10 gregs painting is gifted or black
+11 gregs painting isnt gifted and gregs painting isnt black
+12 There is a contradiction here?	yes	1
+13 sarahs painting is hallowed or helpless
+14 sarahs painting isnt hallowed and sarahs painting isnt helpless
+15 There is a contradiction here?	yes	1
+1 marks painting is stocky or green
+2 marks painting isnt stocky
+3 There is a contradiction here?	no	1
+4 christophers painting is helpless or attractive
+5 danielles painting is neither helpless nor attractive
+6 There is a contradiction here?	no	1
+7 rauls painting is orange or faithful
+8 rauls painting isnt orange and rauls painting isnt faithful
+9 There is a contradiction here?	yes	1
+10 phillips painting is elegant or bald
+11 phillips painting isnt elegant
+12 There is a contradiction here?	no	1
+13 beths painting is faithful or famous
+14 beths painting is neither helpless nor famous
+15 There is a contradiction here?	no	1
+1 kenneths painting is flabby or better
+2 kenneths painting is neither flabby nor better
+3 There is a contradiction here?	yes	1
+4 sheryls painting is tender or obedient
+5 sheryls painting isnt obedient
+6 There is a contradiction here?	no	1
+7 kristins painting is fancy or icy
+8 kristins painting isnt fancy and kristins painting isnt icy
+9 There is a contradiction here?	yes	1
+10 heathers painting is odd or vast
+11 julians painting is neither odd nor vast
+12 There is a contradiction here?	no	1
+13 herberts painting is wonderful or salmon
+14 herberts painting isnt wonderful and herberts painting isnt salmon
+15 There is a contradiction here?	yes	1
+1 charlottes painting is ashy or embarrassed
+2 sonyas painting is neither ashy nor embarrassed
+3 There is a contradiction here?	no	1
+4 adrians painting is angry or magnificent
+5 adrians painting is neither angry nor magnificent
+6 There is a contradiction here?	yes	1
+7 adams painting is poor or delightful
+8 adams painting isnt poor and adams painting isnt delightful
+9 There is a contradiction here?	yes	1
+10 tonis painting is chubby or purple
+11 sallys painting is neither chubby nor purple
+12 There is a contradiction here?	no	1
+13 karls painting is orange or quaint
+14 karls painting is neither orange nor quaint
+15 There is a contradiction here?	yes	1
+1 deans painting is agreeable or aggressive
+2 deans painting isnt agreeable
+3 There is a contradiction here?	no	1
+4 hildas painting is alive or mysterious
+5 hildas painting is neither ugly nor mysterious
+6 There is a contradiction here?	no	1
+7 lances painting is jolly or mealy
+8 lances painting isnt jolly and lances painting isnt mealy
+9 There is a contradiction here?	yes	1
+10 ednas painting is fancy or uptight
+11 ednas painting isnt fancy and ednas painting isnt uptight
+12 There is a contradiction here?	yes	1
+13 heidis painting is gifted or gorgeous
+14 heidis painting is neither gifted nor gorgeous
+15 There is a contradiction here?	yes	1
+1 denises painting is careful or skinny
+2 denises painting is neither angry nor skinny
+3 There is a contradiction here?	no	1
+4 doloress painting is careful or fancy
+5 doloress painting isnt careful and doloress painting isnt fancy
+6 There is a contradiction here?	yes	1
+7 allans painting is inexpensive or scruffy
+8 lauras painting is neither inexpensive nor scruffy
+9 There is a contradiction here?	no	1
+10 colleens painting is faithful or green
+11 colleens painting isnt green
+12 There is a contradiction here?	no	1
+13 lonnies painting is faithful or obedient
+14 lonnies painting isnt faithful
+15 There is a contradiction here?	no	1
+1 clydes painting is mango or magnificent
+2 clydes painting is neither mango nor magnificent
+3 There is a contradiction here?	yes	1
+4 terrances painting is worried or short
+5 terrances painting isnt short
+6 There is a contradiction here?	no	1
+7 terrences painting is brave or happy
+8 terrences painting isnt brave and terrences painting isnt happy
+9 There is a contradiction here?	yes	1
+10 jeannes painting is tender or clever
+11 jeannes painting isnt tender
+12 There is a contradiction here?	no	1
+13 carlas painting is rich or orange
+14 carlas painting isnt rich
+15 There is a contradiction here?	no	1
+1 micheles painting is uptight or gentle
+2 micheles painting is neither uptight nor gentle
+3 There is a contradiction here?	yes	1
+4 tracys painting is nice or obnoxious
+5 tracys painting isnt obnoxious
+6 There is a contradiction here?	no	1
+7 paulas painting is clumsy or grumpy
+8 paulas painting isnt clumsy and paulas painting isnt grumpy
+9 There is a contradiction here?	yes	1
+10 andys painting is ambitious or agreeable
+11 andys painting isnt ambitious and andys painting isnt agreeable
+12 There is a contradiction here?	yes	1
+13 marshas painting is gifted or defeated
+14 marshas painting is neither gifted nor defeated
+15 There is a contradiction here?	yes	1
+1 shannons painting is nice or plain
+2 shannons painting isnt nice
+3 There is a contradiction here?	no	1
+4 marilyns painting is elegant or silly
+5 marilyns painting isnt silly
+6 There is a contradiction here?	no	1
+7 ramons painting is glamorous or lazy
+8 ramons painting is neither glamorous nor lazy
+9 There is a contradiction here?	yes	1
+10 tims painting is agreeable or attractive
+11 tims painting is neither agreeable nor attractive
+12 There is a contradiction here?	yes	1
+13 ians painting is inexpensive or calm
+14 ians painting isnt inexpensive and ians painting isnt calm
+15 There is a contradiction here?	yes	1
+1 beulahs painting is elegant or dazzling
+2 beulahs painting is neither drab nor dazzling
+3 There is a contradiction here?	no	1
+4 esthers painting is attractive or shapely
+5 esthers painting isnt attractive
+6 There is a contradiction here?	no	1
+7 charlies painting is calm or dazzling
+8 charlies painting isnt calm and charlies painting isnt dazzling
+9 There is a contradiction here?	yes	1
+10 adas painting is lemon or fancy
+11 adas painting isnt fancy
+12 There is a contradiction here?	no	1
+13 ivans painting is beautiful or ambitious
+14 ivans painting isnt beautiful
+15 There is a contradiction here?	no	1
+1 rogers painting is easy or important
+2 albertos painting is neither easy nor important
+3 There is a contradiction here?	no	1
+4 reginalds painting is helpless or stocky
+5 reginalds painting isnt helpless
+6 There is a contradiction here?	no	1
+7 bonnies painting is magnificent or worried
+8 kristens painting is neither magnificent nor worried
+9 There is a contradiction here?	no	1
+10 victorias painting is ugly or tender
+11 victorias painting isnt ugly and victorias painting isnt tender
+12 There is a contradiction here?	yes	1
+13 roberts painting is eager or agreeable
+14 roberts painting is neither eager nor agreeable
+15 There is a contradiction here?	yes	1
+1 yvettes painting is stocky or drab
+2 yvettes painting is neither stocky nor drab
+3 There is a contradiction here?	yes	1
+4 erins painting is uptight or famous
+5 erins painting is neither alive nor famous
+6 There is a contradiction here?	no	1
+7 pamelas painting is scary or gifted
+8 pamelas painting is neither scary nor gifted
+9 There is a contradiction here?	yes	1
+10 elsies painting is tender or important
+11 valeries painting is neither tender nor important
+12 There is a contradiction here?	no	1
+13 traceys painting is uptight or lively
+14 traceys painting isnt uptight and traceys painting isnt lively
+15 There is a contradiction here?	yes	1
+1 stacys painting is gray or gentle
+2 stacys painting is neither easy nor gentle
+3 There is a contradiction here?	no	1
+4 tanyas painting is long or mysterious
+5 tanyas painting isnt mysterious
+6 There is a contradiction here?	no	1
+7 manuels painting is black or ashy
+8 manuels painting is neither black nor gray
+9 There is a contradiction here?	no	1
+10 glens painting is uninterested or helpless
+11 glens painting isnt uninterested and glens painting isnt helpless
+12 There is a contradiction here?	yes	1
+13 reginalds painting is witty or skinny
+14 reginalds painting is neither quaint nor skinny
+15 There is a contradiction here?	no	1
+1 fannies painting is grumpy or muscular
+2 fannies painting is neither grumpy nor muscular
+3 There is a contradiction here?	yes	1
+4 valeries painting is uptight or ashy
+5 valeries painting isnt uptight
+6 There is a contradiction here?	no	1
+7 richards painting is panicky or thankful
+8 richards painting is neither panicky nor wrong
+9 There is a contradiction here?	no	1
+10 allens painting is gentle or nervous
+11 allens painting is neither gentle nor nervous
+12 There is a contradiction here?	yes	1
+13 patricias painting is fancy or salmon
+14 patricias painting is neither fancy nor salmon
+15 There is a contradiction here?	yes	1
+1 marcs painting is shy or aggressive
+2 marcs painting isnt shy and marcs painting isnt aggressive
+3 There is a contradiction here?	yes	1
+4 shellys painting is red or gorgeous
+5 shellys painting isnt red and shellys painting isnt gorgeous
+6 There is a contradiction here?	yes	1
+7 nancys painting is ashy or icy
+8 nancys painting isnt ashy
+9 There is a contradiction here?	no	1
+10 joannas painting is purple or inexpensive
+11 joannas painting isnt purple and joannas painting isnt inexpensive
+12 There is a contradiction here?	yes	1
+13 junes painting is plump or witty
+14 junes painting is neither plump nor witty
+15 There is a contradiction here?	yes	1
+1 curtiss painting is brave or thoughtless
+2 curtiss painting is neither brave nor thoughtless
+3 There is a contradiction here?	yes	1
+4 noras painting is pitiful or dead
+5 noras painting isnt pitiful and noras painting isnt dead
+6 There is a contradiction here?	yes	1
+7 leons painting is wonderful or thankful
+8 leons painting is neither wonderful nor nervous
+9 There is a contradiction here?	no	1
+10 andys painting is eager or important
+11 andys painting isnt eager and andys painting isnt important
+12 There is a contradiction here?	yes	1
+13 richards painting is inexpensive or mushy
+14 richards painting isnt inexpensive and richards painting isnt mushy
+15 There is a contradiction here?	yes	1
+1 kellys painting is wonderful or better
+2 kellys painting isnt wonderful and kellys painting isnt better
+3 There is a contradiction here?	yes	1
+4 shellys painting is vast or obedient
+5 shellys painting is neither vast nor obedient
+6 There is a contradiction here?	yes	1
+7 alvins painting is shy or bald
+8 alvins painting isnt bald
+9 There is a contradiction here?	no	1
+10 jareds painting is tender or jolly
+11 jareds painting isnt tender and jareds painting isnt jolly
+12 There is a contradiction here?	yes	1
+13 ericas painting is elegant or gray
+14 ericas painting isnt elegant and ericas painting isnt gray
+15 There is a contradiction here?	yes	1
+1 valeries painting is mushy or victorious
+2 valeries painting isnt victorious
+3 There is a contradiction here?	no	1
+4 harveys painting is repulsive or better
+5 ryans painting is neither repulsive nor better
+6 There is a contradiction here?	no	1
+7 priscillas painting is purple or thankful
+8 priscillas painting isnt purple and priscillas painting isnt thankful
+9 There is a contradiction here?	yes	1
+10 maureens painting is proud or fit
+11 maureens painting is neither mealy nor fit
+12 There is a contradiction here?	no	1
+13 claudias painting is clumsy or quaint
+14 claudias painting isnt quaint
+15 There is a contradiction here?	no	1
+1 mamies painting is lemon or inexpensive
+2 mamies painting isnt lemon and mamies painting isnt inexpensive
+3 There is a contradiction here?	yes	1
+4 gails painting is inexpensive or important
+5 gails painting isnt inexpensive and gails painting isnt important
+6 There is a contradiction here?	yes	1
+7 violets painting is long or repulsive
+8 violets painting isnt long and violets painting isnt repulsive
+9 There is a contradiction here?	yes	1
+10 katies painting is repulsive or polite
+11 katies painting is neither repulsive nor polite
+12 There is a contradiction here?	yes	1
+13 staceys painting is mushy or helpless
+14 staceys painting isnt mushy and staceys painting isnt helpless
+15 There is a contradiction here?	yes	1
+1 kaylas painting is drab or obedient
+2 kaylas painting isnt obedient
+3 There is a contradiction here?	no	1
+4 megans painting is clumsy or silly
+5 megans painting isnt clumsy and megans painting isnt silly
+6 There is a contradiction here?	yes	1
+7 sonyas painting is famous or agreeable
+8 sonyas painting isnt agreeable
+9 There is a contradiction here?	no	1
+10 donalds painting is unkempt or red
+11 donalds painting isnt red
+12 There is a contradiction here?	no	1
+13 edgars painting is important or orange
+14 edgars painting is neither important nor orange
+15 There is a contradiction here?	yes	1
+1 lawrences painting is wonderful or salmon
+2 lawrences painting is neither wonderful nor salmon
+3 There is a contradiction here?	yes	1
+4 inezs painting is mango or elegant
+5 inezs painting isnt mango
+6 There is a contradiction here?	no	1
+7 heidis painting is stocky or obedient
+8 heidis painting isnt stocky and heidis painting isnt obedient
+9 There is a contradiction here?	yes	1
+10 johns painting is kind or eager
+11 johns painting is neither kind nor eager
+12 There is a contradiction here?	yes	1
+13 johnnys painting is happy or better
+14 johnnys painting is neither scruffy nor better
+15 There is a contradiction here?	no	1
+1 byrons painting is panicky or uptight
+2 byrons painting is neither panicky nor mango
+3 There is a contradiction here?	no	1
+4 cliffords painting is bewildered or itchy
+5 cliffords painting isnt bewildered
+6 There is a contradiction here?	no	1
+7 brandons painting is faithful or defeated
+8 brandons painting is neither faithful nor defeated
+9 There is a contradiction here?	yes	1
+10 jasons painting is bewildered or thoughtless
+11 jasons painting isnt bewildered and jasons painting isnt thoughtless
+12 There is a contradiction here?	yes	1
+13 peters painting is shy or lemon
+14 peters painting isnt shy and peters painting isnt lemon
+15 There is a contradiction here?	yes	1
+1 moniques painting is pitiful or fit
+2 miguels painting is neither pitiful nor fit
+3 There is a contradiction here?	no	1
+4 barbaras painting is black or salmon
+5 shanes painting is neither black nor salmon
+6 There is a contradiction here?	no	1
+7 tammys painting is unsightly or better
+8 tammys painting isnt unsightly
+9 There is a contradiction here?	no	1
+10 ginas painting is mealy or wrong
+11 brents painting is neither mealy nor wrong
+12 There is a contradiction here?	no	1
+13 maurices painting is panicky or fierce
+14 maurices painting is neither panicky nor important
+15 There is a contradiction here?	no	1
+1 justins painting is bewildered or polite
+2 justins painting isnt bewildered
+3 There is a contradiction here?	no	1
+4 johnnies painting is unsightly or orange
+5 johnnies painting isnt unsightly
+6 There is a contradiction here?	no	1
+7 rauls painting is plump or blue
+8 rauls painting isnt plump and rauls painting isnt blue
+9 There is a contradiction here?	yes	1
+10 fayes painting is clever or wonderful
+11 fayes painting is neither clever nor wonderful
+12 There is a contradiction here?	yes	1
+13 arthurs painting is easy or pitiful
+14 arthurs painting isnt easy
+15 There is a contradiction here?	no	1
+1 alans painting is flabby or careful
+2 alans painting isnt flabby
+3 There is a contradiction here?	no	1
+4 antonios painting is lazy or eager
+5 antonios painting is neither lazy nor eager
+6 There is a contradiction here?	yes	1
+7 ramonas painting is faithful or victorious
+8 ramonas painting is neither black nor victorious
+9 There is a contradiction here?	no	1
+10 claires painting is scary or lemon
+11 annes painting is neither scary nor lemon
+12 There is a contradiction here?	no	1
+13 jeffs painting is inexpensive or unimportant
+14 ambers painting is neither inexpensive nor unimportant
+15 There is a contradiction here?	no	1
+1 donalds painting is embarrassed or poor
+2 donalds painting isnt poor
+3 There is a contradiction here?	no	1
+4 clintons painting is better or obedient
+5 clintons painting isnt better and clintons painting isnt obedient
+6 There is a contradiction here?	yes	1
+7 minnies painting is plump or obnoxious
+8 minnies painting isnt obnoxious
+9 There is a contradiction here?	no	1
+10 nicoles painting is chubby or famous
+11 jeanettes painting is neither chubby nor famous
+12 There is a contradiction here?	no	1
+13 emmas painting is blue or famous
+14 emmas painting isnt blue and emmas painting isnt famous
+15 There is a contradiction here?	yes	1
+1 russells painting is alive or uninterested
+2 russells painting is neither alive nor uninterested
+3 There is a contradiction here?	yes	1
+4 jodis painting is fit or important
+5 jodis painting isnt important
+6 There is a contradiction here?	no	1
+7 carls painting is purple or lemon
+8 carls painting is neither delightful nor lemon
+9 There is a contradiction here?	no	1
+10 tinas painting is pitiful or wonderful
+11 tinas painting isnt pitiful and tinas painting isnt wonderful
+12 There is a contradiction here?	yes	1
+13 alisons painting is bewildered or ashy
+14 alisons painting is neither odd nor ashy
+15 There is a contradiction here?	no	1
+1 ellens painting is gentle or fit
+2 ellens painting is neither gentle nor fit
+3 There is a contradiction here?	yes	1
+4 lucilles painting is quaint or white
+5 lucilles painting is neither quaint nor white
+6 There is a contradiction here?	yes	1
+7 eddies painting is glamorous or zealous
+8 eddies painting isnt glamorous and eddies painting isnt zealous
+9 There is a contradiction here?	yes	1
+10 ednas painting is chubby or orange
+11 ednas painting isnt orange
+12 There is a contradiction here?	no	1
+13 eleanors painting is purple or uninterested
+14 eleanors painting is neither purple nor elegant
+15 There is a contradiction here?	no	1
+1 mikes painting is easy or thankful
+2 mikes painting isnt easy and mikes painting isnt thankful
+3 There is a contradiction here?	yes	1
+4 sidneys painting is bewildered or lemon
+5 sidneys painting isnt bewildered and sidneys painting isnt lemon
+6 There is a contradiction here?	yes	1
+7 edgars painting is eager or drab
+8 edgars painting isnt drab
+9 There is a contradiction here?	no	1
+10 graces painting is pitiful or orange
+11 evas painting is neither pitiful nor orange
+12 There is a contradiction here?	no	1
+13 noras painting is aggressive or mushy
+14 noras painting is neither aggressive nor mushy
+15 There is a contradiction here?	yes	1
+1 gilberts painting is hallowed or obedient
+2 gilberts painting isnt hallowed and gilberts painting isnt obedient
+3 There is a contradiction here?	yes	1
+4 bradleys painting is mysterious or nice
+5 bradleys painting isnt nice
+6 There is a contradiction here?	no	1
+7 fayes painting is nice or mealy
+8 fayes painting isnt nice and fayes painting isnt mealy
+9 There is a contradiction here?	yes	1
+10 emilys painting is angry or blue
+11 emilys painting is neither angry nor blue
+12 There is a contradiction here?	yes	1
+13 juans painting is lazy or faithful
+14 juans painting isnt lazy
+15 There is a contradiction here?	no	1
+1 sams painting is green or delightful
+2 sams painting is neither green nor long
+3 There is a contradiction here?	no	1
+4 terrances painting is icy or eager
+5 terrances painting is neither icy nor eager
+6 There is a contradiction here?	yes	1
+7 christinas painting is jealous or fit
+8 christinas painting isnt jealous and christinas painting isnt fit
+9 There is a contradiction here?	yes	1
+10 tammys painting is polite or clean
+11 mildreds painting is neither polite nor clean
+12 There is a contradiction here?	no	1
+13 vickis painting is witty or obedient
+14 vickis painting isnt witty and vickis painting isnt obedient
+15 There is a contradiction here?	yes	1
+1 olgas painting is famous or chubby
+2 olgas painting is neither famous nor chubby
+3 There is a contradiction here?	yes	1
+4 darrens painting is worried or aggressive
+5 darrens painting is neither repulsive nor aggressive
+6 There is a contradiction here?	no	1
+7 dannys painting is powerful or agreeable
+8 dannys painting isnt powerful
+9 There is a contradiction here?	no	1
+10 annies painting is rich or handsome
+11 annies painting isnt handsome
+12 There is a contradiction here?	no	1
+13 phylliss painting is aggressive or unimportant
+14 gregorys painting is neither aggressive nor unimportant
+15 There is a contradiction here?	no	1
+1 tiffanys painting is angry or kind
+2 cathys painting is neither angry nor kind
+3 There is a contradiction here?	no	1
+4 lillians painting is obedient or helpless
+5 lillians painting isnt helpless
+6 There is a contradiction here?	no	1
+7 alberts painting is repulsive or hallowed
+8 jacks painting is neither repulsive nor hallowed
+9 There is a contradiction here?	no	1
+10 pennys painting is careful or vast
+11 pennys painting isnt vast
+12 There is a contradiction here?	no	1
+13 keiths painting is skinny or worried
+14 keiths painting is neither scary nor worried
+15 There is a contradiction here?	no	1
+1 billys painting is magnificent or ugly
+2 billys painting isnt magnificent and billys painting isnt ugly
+3 There is a contradiction here?	yes	1
+4 lenas painting is gorgeous or shapely
+5 lenas painting is neither gorgeous nor itchy
+6 There is a contradiction here?	no	1
+7 daisys painting is easy or pitiful
+8 daisys painting is neither easy nor pitiful
+9 There is a contradiction here?	yes	1
+10 dons painting is glamorous or calm
+11 dons painting isnt glamorous and dons painting isnt calm
+12 There is a contradiction here?	yes	1
+13 kathryns painting is tender or hallowed
+14 kathryns painting isnt tender and kathryns painting isnt hallowed
+15 There is a contradiction here?	yes	1
+1 franks painting is alive or unimportant
+2 franks painting isnt unimportant
+3 There is a contradiction here?	no	1
+4 raymonds painting is rich or attractive
+5 raymonds painting is neither rich nor attractive
+6 There is a contradiction here?	yes	1
+7 kellys painting is plump or tender
+8 kellys painting isnt plump and kellys painting isnt tender
+9 There is a contradiction here?	yes	1
+10 lonnies painting is ashy or clean
+11 lonnies painting is neither ashy nor clean
+12 There is a contradiction here?	yes	1
+13 lloyds painting is unkempt or faithful
+14 lloyds painting isnt faithful
+15 There is a contradiction here?	no	1
+1 denniss painting is chubby or brave
+2 denniss painting isnt chubby
+3 There is a contradiction here?	no	1
+4 jodis painting is calm or shy
+5 jodis painting isnt calm and jodis painting isnt shy
+6 There is a contradiction here?	yes	1
+7 rogers painting is fancy or uptight
+8 rogers painting isnt fancy
+9 There is a contradiction here?	no	1
+10 mitchells painting is obnoxious or famous
+11 joses painting is neither obnoxious nor famous
+12 There is a contradiction here?	no	1
+13 angels painting is inexpensive or wonderful
+14 angels painting isnt inexpensive and angels painting isnt wonderful
+15 There is a contradiction here?	yes	1
+1 jeans painting is clumsy or ugly
+2 jeans painting is neither clumsy nor ugly
+3 There is a contradiction here?	yes	1
+4 annes painting is lazy or hallowed
+5 annes painting isnt lazy and annes painting isnt hallowed
+6 There is a contradiction here?	yes	1
+7 harolds painting is salmon or magnificent
+8 ruths painting is neither salmon nor magnificent
+9 There is a contradiction here?	no	1
+10 carolyns painting is long or chubby
+11 carolyns painting isnt long and carolyns painting isnt chubby
+12 There is a contradiction here?	yes	1
+13 hildas painting is glamorous or dead
+14 harolds painting is neither glamorous nor dead
+15 There is a contradiction here?	no	1
+1 fayes painting is attractive or poor
+2 fayes painting is neither attractive nor poor
+3 There is a contradiction here?	yes	1
+4 tinas painting is kind or witty
+5 tinas painting isnt witty
+6 There is a contradiction here?	no	1
+7 allisons painting is thankful or obedient
+8 allisons painting isnt thankful and allisons painting isnt obedient
+9 There is a contradiction here?	yes	1
+10 williams painting is thankful or grumpy
+11 martins painting is neither thankful nor grumpy
+12 There is a contradiction here?	no	1
+13 julios painting is purple or important
+14 joannas painting is neither purple nor important
+15 There is a contradiction here?	no	1
+1 marvins painting is jealous or stocky
+2 marvins painting isnt stocky
+3 There is a contradiction here?	no	1
+4 anthonys painting is nice or beautiful
+5 cecils painting is neither nice nor beautiful
+6 There is a contradiction here?	no	1
+7 samanthas painting is defeated or beautiful
+8 samanthas painting isnt defeated and samanthas painting isnt beautiful
+9 There is a contradiction here?	yes	1
+10 susans painting is clumsy or dazzling
+11 susans painting isnt clumsy and susans painting isnt dazzling
+12 There is a contradiction here?	yes	1
+13 monicas painting is icy or nervous
+14 monicas painting isnt icy
+15 There is a contradiction here?	no	1
+1 martins painting is green or orange
+2 martins painting is neither green nor orange
+3 There is a contradiction here?	yes	1
+4 charlenes painting is wrong or stocky
+5 eunices painting is neither wrong nor stocky
+6 There is a contradiction here?	no	1
+7 carls painting is attractive or icy
+8 carls painting isnt attractive
+9 There is a contradiction here?	no	1
+10 gwendolyns painting is pitiful or mysterious
+11 gwendolyns painting isnt mysterious
+12 There is a contradiction here?	no	1
+13 bruces painting is plump or nice
+14 bruces painting isnt plump and bruces painting isnt nice
+15 There is a contradiction here?	yes	1
+1 cecils painting is lemon or long
+2 cecils painting isnt lemon
+3 There is a contradiction here?	no	1
+4 myrtles painting is jolly or uninterested
+5 kathleens painting is neither jolly nor uninterested
+6 There is a contradiction here?	no	1
+7 justins painting is proud or short
+8 justins painting isnt proud and justins painting isnt short
+9 There is a contradiction here?	yes	1
+10 marvins painting is unsightly or nervous
+11 marvins painting isnt unsightly and marvins painting isnt nervous
+12 There is a contradiction here?	yes	1
+13 kristys painting is careful or stocky
+14 kristys painting isnt careful
+15 There is a contradiction here?	no	1
+1 reginalds painting is silly or angry
+2 reginalds painting is neither silly nor angry
+3 There is a contradiction here?	yes	1
+4 monicas painting is nice or fancy
+5 monicas painting is neither eager nor fancy
+6 There is a contradiction here?	no	1
+7 dustins painting is glamorous or white
+8 dustins painting is neither victorious nor white
+9 There is a contradiction here?	no	1
+10 sidneys painting is calm or uptight
+11 sidneys painting is neither calm nor uptight
+12 There is a contradiction here?	yes	1
+13 johnnys painting is proud or brave
+14 johnnys painting isnt brave
+15 There is a contradiction here?	no	1
+1 rebeccas painting is unimportant or skinny
+2 rebeccas painting is neither unimportant nor poor
+3 There is a contradiction here?	no	1
+4 michaels painting is eager or jolly
+5 michaels painting isnt jolly
+6 There is a contradiction here?	no	1
+7 teds painting is vast or gorgeous
+8 teds painting isnt vast and teds painting isnt gorgeous
+9 There is a contradiction here?	yes	1
+10 floras painting is easy or calm
+11 floras painting is neither easy nor calm
+12 There is a contradiction here?	yes	1
+13 alfredos painting is stocky or better
+14 alfredos painting is neither stocky nor better
+15 There is a contradiction here?	yes	1
+1 georges painting is thankful or helpful
+2 georges painting isnt thankful
+3 There is a contradiction here?	no	1
+4 russells painting is lively or lazy
+5 russells painting isnt lively
+6 There is a contradiction here?	no	1
+7 jos painting is gentle or jealous
+8 jos painting isnt gentle
+9 There is a contradiction here?	no	1
+10 harrys painting is brave or defeated
+11 harrys painting is neither brave nor plump
+12 There is a contradiction here?	no	1
+13 geralds painting is lazy or gray
+14 geralds painting is neither lazy nor gray
+15 There is a contradiction here?	yes	1
+1 perrys painting is tender or thankful
+2 perrys painting isnt tender and perrys painting isnt thankful
+3 There is a contradiction here?	yes	1
+4 stephens painting is green or victorious
+5 stephens painting is neither green nor victorious
+6 There is a contradiction here?	yes	1
+7 walters painting is important or silly
+8 walters painting isnt important
+9 There is a contradiction here?	no	1
+10 ellens painting is silly or itchy
+11 ellens painting isnt itchy
+12 There is a contradiction here?	no	1
+13 aarons painting is faithful or worried
+14 aarons painting isnt faithful
+15 There is a contradiction here?	no	1
+1 miguels painting is black or jolly
+2 miguels painting is neither black nor jolly
+3 There is a contradiction here?	yes	1
+4 jeans painting is angry or elegant
+5 philips painting is neither angry nor elegant
+6 There is a contradiction here?	no	1
+7 nancys painting is mysterious or bald
+8 vincents painting is neither mysterious nor bald
+9 There is a contradiction here?	no	1
+10 paulines painting is alive or dazzling
+11 paulines painting is neither victorious nor dazzling
+12 There is a contradiction here?	no	1
+13 michelles painting is jealous or lemon
+14 wilmas painting is neither jealous nor lemon
+15 There is a contradiction here?	no	1
+1 raymonds painting is red or nice
+2 raymonds painting is neither red nor nice
+3 There is a contradiction here?	yes	1
+4 suzannes painting is fancy or scruffy
+5 suzannes painting is neither fancy nor scruffy
+6 There is a contradiction here?	yes	1
+7 ruths painting is panicky or uptight
+8 ruths painting isnt panicky and ruths painting isnt uptight
+9 There is a contradiction here?	yes	1
+10 tonys painting is jolly or rich
+11 tonys painting is neither jolly nor rich
+12 There is a contradiction here?	yes	1
+13 candices painting is mealy or white
+14 candices painting isnt mealy and candices painting isnt white
+15 There is a contradiction here?	yes	1
+1 caseys painting is easy or unkempt
+2 caseys painting isnt easy
+3 There is a contradiction here?	no	1
+4 robertas painting is calm or chubby
+5 robertas painting is neither calm nor chubby
+6 There is a contradiction here?	yes	1
+7 carols painting is icy or odd
+8 carols painting isnt icy and carols painting isnt odd
+9 There is a contradiction here?	yes	1
+10 shelleys painting is scruffy or blue
+11 shelleys painting isnt blue
+12 There is a contradiction here?	no	1
+13 adas painting is ashy or mango
+14 adas painting isnt ashy and adas painting isnt mango
+15 There is a contradiction here?	yes	1
+1 taras painting is green or white
+2 taras painting isnt green and taras painting isnt white
+3 There is a contradiction here?	yes	1
+4 troys painting is silly or unimportant
+5 troys painting isnt unimportant
+6 There is a contradiction here?	no	1
+7 robertas painting is important or zealous
+8 angies painting is neither important nor zealous
+9 There is a contradiction here?	no	1
+10 terrys painting is chubby or ugly
+11 terrys painting isnt ugly
+12 There is a contradiction here?	no	1
+13 lees painting is ashy or thoughtless
+14 lees painting isnt thoughtless
+15 There is a contradiction here?	no	1
+1 johnnys painting is witty or dazzling
+2 johnnys painting is neither witty nor gentle
+3 There is a contradiction here?	no	1
+4 emmas painting is uninterested or dazzling
+5 emmas painting is neither grumpy nor dazzling
+6 There is a contradiction here?	no	1
+7 chads painting is thoughtless or ambitious
+8 chads painting isnt thoughtless and chads painting isnt ambitious
+9 There is a contradiction here?	yes	1
+10 olivias painting is alive or clumsy
+11 olivias painting isnt clumsy
+12 There is a contradiction here?	no	1
+13 janices painting is nice or elegant
+14 janices painting isnt nice and janices painting isnt elegant
+15 There is a contradiction here?	yes	1
+1 julians painting is angry or muscular
+2 harriets painting is neither angry nor muscular
+3 There is a contradiction here?	no	1
+4 ellas painting is proud or victorious
+5 luiss painting is neither proud nor victorious
+6 There is a contradiction here?	no	1
+7 mildreds painting is unimportant or gentle
+8 mildreds painting isnt gentle
+9 There is a contradiction here?	no	1
+10 violas painting is bald or white
+11 violas painting isnt bald and violas painting isnt white
+12 There is a contradiction here?	yes	1
+13 angies painting is faithful or rich
+14 angies painting is neither faithful nor rich
+15 There is a contradiction here?	yes	1
+1 jamies painting is green or lively
+2 eduardos painting is neither green nor lively
+3 There is a contradiction here?	no	1
+4 elmers painting is gray or jealous
+5 elmers painting isnt jealous
+6 There is a contradiction here?	no	1
+7 belindas painting is unsightly or gentle
+8 belindas painting is neither unsightly nor witty
+9 There is a contradiction here?	no	1
+10 adams painting is jolly or uninterested
+11 adams painting isnt uninterested
+12 There is a contradiction here?	no	1
+13 katherines painting is witty or inexpensive
+14 katherines painting isnt witty and katherines painting isnt inexpensive
+15 There is a contradiction here?	yes	1
+1 miguels painting is angry or agreeable
+2 miguels painting isnt angry and miguels painting isnt agreeable
+3 There is a contradiction here?	yes	1
+4 martins painting is silly or obedient
+5 martins painting isnt silly and martins painting isnt obedient
+6 There is a contradiction here?	yes	1
+7 yvonnes painting is unkempt or purple
+8 yvonnes painting is neither unkempt nor purple
+9 There is a contradiction here?	yes	1
+10 amandas painting is short or pitiful
+11 amandas painting isnt pitiful
+12 There is a contradiction here?	no	1
+13 gregs painting is proud or jealous
+14 gregs painting isnt proud
+15 There is a contradiction here?	no	1

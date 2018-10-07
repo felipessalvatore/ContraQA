@@ -1,0 +1,3000 @@
+1 raul is embarrassed or vickie is plain
+2 raul is not embarrassed and vickie is not plain
+3 There is a contradiction here?	yes	1
+4 jimmie is proud or jimmy is clumsy
+5 jimmie is not proud or jimmy is not clumsy
+6 There is a contradiction here?	no	1
+7 sam is plump or roger is gorgeous
+8 sam is not plump or roger is not gorgeous
+9 There is a contradiction here?	no	1
+10 felix is faithful or maria is flabby
+11 neither felix is faithful nor maria is flabby
+12 There is a contradiction here?	yes	1
+13 velma is silly or dave is fancy
+14 velma is not silly or dave is not fancy
+15 There is a contradiction here?	no	1
+1 beatrice is wonderful or don is shapely
+2 don is not shapely
+3 There is a contradiction here?	no	1
+4 julio is proud or shane is shapely
+5 julio is not proud and shane is not shapely
+6 There is a contradiction here?	yes	1
+7 sheila is quaint or raul is uptight
+8 sheila is not quaint and raul is not uptight
+9 There is a contradiction here?	yes	1
+10 joanna is drab or diane is thoughtless
+11 joanna is not drab and diane is not thoughtless
+12 There is a contradiction here?	yes	1
+13 elsie is agreeable or claude is kind
+14 neither elsie is agreeable nor claude is kind
+15 There is a contradiction here?	yes	1
+1 jessie is fancy or margaret is agreeable
+2 neither jessie is fancy nor margaret is agreeable
+3 There is a contradiction here?	yes	1
+4 steve is itchy or gordon is jealous
+5 steve is not itchy or gordon is not jealous
+6 There is a contradiction here?	no	1
+7 jeanne is grumpy or morris is skinny
+8 jeanne is not grumpy or morris is not skinny
+9 There is a contradiction here?	no	1
+10 sidney is eager or lorraine is mysterious
+11 sidney is not eager or lorraine is not mysterious
+12 There is a contradiction here?	no	1
+13 arnold is silly or sylvia is jealous
+14 neither arnold is silly nor sylvia is jealous
+15 There is a contradiction here?	yes	1
+1 tyler is grumpy or leroy is scruffy
+2 neither tyler is grumpy nor leroy is scruffy
+3 There is a contradiction here?	yes	1
+4 everett is unsightly or paula is worried
+5 everett is not unsightly
+6 There is a contradiction here?	no	1
+7 eleanor is jealous or tammy is aggressive
+8 neither eleanor is jealous nor tammy is aggressive
+9 There is a contradiction here?	yes	1
+10 janice is attractive or joseph is obnoxious
+11 joseph is not obnoxious
+12 There is a contradiction here?	no	1
+13 kathleen is nice or don is skinny
+14 kathleen is not nice or don is not skinny
+15 There is a contradiction here?	no	1
+1 terry is kind or margie is elegant
+2 terry is not kind or margie is not elegant
+3 There is a contradiction here?	no	1
+4 miguel is grumpy or katrina is ambitious
+5 miguel is not grumpy or katrina is not ambitious
+6 There is a contradiction here?	no	1
+7 sheila is agreeable or tamara is nervous
+8 sheila is not agreeable
+9 There is a contradiction here?	no	1
+10 cora is faithful or max is zealous
+11 cora is not faithful or max is not zealous
+12 There is a contradiction here?	no	1
+13 amy is jolly or yvette is fierce
+14 amy is not jolly
+15 There is a contradiction here?	no	1
+1 harvey is angry or max is gorgeous
+2 max is not gorgeous
+3 There is a contradiction here?	no	1
+4 mildred is chubby or eva is fit
+5 neither mildred is chubby nor eva is fit
+6 There is a contradiction here?	yes	1
+7 debra is wonderful or adrian is mysterious
+8 debra is not wonderful and adrian is not mysterious
+9 There is a contradiction here?	yes	1
+10 albert is nervous or larry is calm
+11 albert is not nervous
+12 There is a contradiction here?	no	1
+13 kristi is agreeable or suzanne is calm
+14 kristi is not agreeable and suzanne is not calm
+15 There is a contradiction here?	yes	1
+1 alberto is lively or cheryl is clean
+2 alberto is not lively and cheryl is not clean
+3 There is a contradiction here?	yes	1
+4 tracey is shapely or shawn is unkempt
+5 tracey is not shapely
+6 There is a contradiction here?	no	1
+7 harry is grumpy or jessie is nervous
+8 neither harry is grumpy nor jessie is nervous
+9 There is a contradiction here?	yes	1
+10 dianne is unkempt or greg is attractive
+11 dianne is not unkempt or greg is not attractive
+12 There is a contradiction here?	no	1
+13 clayton is polite or dwayne is ugly
+14 neither clayton is polite nor dwayne is ugly
+15 There is a contradiction here?	yes	1
+1 nina is delightful or kathryn is repulsive
+2 neither nina is delightful nor kathryn is repulsive
+3 There is a contradiction here?	yes	1
+4 lillian is bald or larry is zealous
+5 larry is not zealous
+6 There is a contradiction here?	no	1
+7 darrell is grumpy or ron is silly
+8 darrell is not grumpy and ron is not silly
+9 There is a contradiction here?	yes	1
+10 eugene is repulsive or tim is unsightly
+11 eugene is not repulsive
+12 There is a contradiction here?	no	1
+13 pauline is unsightly or roland is long
+14 neither pauline is unsightly nor roland is long
+15 There is a contradiction here?	yes	1
+1 phillip is happy or samantha is elegant
+2 phillip is not happy or samantha is not elegant
+3 There is a contradiction here?	no	1
+4 marlene is quaint or molly is thoughtless
+5 marlene is not quaint and molly is not thoughtless
+6 There is a contradiction here?	yes	1
+7 geneva is defeated or bessie is embarrassed
+8 neither geneva is defeated nor bessie is embarrassed
+9 There is a contradiction here?	yes	1
+10 herman is short or jessica is brave
+11 herman is not short
+12 There is a contradiction here?	no	1
+13 guadalupe is wonderful or brad is gentle
+14 guadalupe is not wonderful and brad is not gentle
+15 There is a contradiction here?	yes	1
+1 daniel is nervous or nora is skinny
+2 daniel is not nervous and nora is not skinny
+3 There is a contradiction here?	yes	1
+4 fernando is obnoxious or madeline is unsightly
+5 fernando is not obnoxious and madeline is not unsightly
+6 There is a contradiction here?	yes	1
+7 crystal is magnificent or lauren is angry
+8 crystal is not magnificent or lauren is not angry
+9 There is a contradiction here?	no	1
+10 francis is gentle or jorge is scary
+11 francis is not gentle
+12 There is a contradiction here?	no	1
+13 earl is glamorous or floyd is muscular
+14 earl is not glamorous and floyd is not muscular
+15 There is a contradiction here?	yes	1
+1 mary is scruffy or yvonne is elegant
+2 neither mary is scruffy nor yvonne is elegant
+3 There is a contradiction here?	yes	1
+4 joe is fit or diana is grumpy
+5 diana is not grumpy
+6 There is a contradiction here?	no	1
+7 valerie is lazy or justin is angry
+8 neither valerie is lazy nor justin is angry
+9 There is a contradiction here?	yes	1
+10 edward is agreeable or lynda is silly
+11 edward is not agreeable and lynda is not silly
+12 There is a contradiction here?	yes	1
+13 ross is mysterious or brittany is unsightly
+14 brittany is not unsightly
+15 There is a contradiction here?	no	1
+1 rodney is attractive or frank is grumpy
+2 rodney is not attractive or frank is not grumpy
+3 There is a contradiction here?	no	1
+4 greg is kind or jack is witty
+5 greg is not kind or jack is not witty
+6 There is a contradiction here?	no	1
+7 georgia is proud or kirk is dazzling
+8 georgia is not proud or kirk is not dazzling
+9 There is a contradiction here?	no	1
+10 michele is obedient or marion is attractive
+11 michele is not obedient and marion is not attractive
+12 There is a contradiction here?	yes	1
+13 annie is angry or maurice is magnificent
+14 maurice is not magnificent
+15 There is a contradiction here?	no	1
+1 tamara is fit or louis is muscular
+2 tamara is not fit or louis is not muscular
+3 There is a contradiction here?	no	1
+4 dan is witty or erika is obnoxious
+5 erika is not obnoxious
+6 There is a contradiction here?	no	1
+7 erik is dazzling or maxine is elegant
+8 erik is not dazzling
+9 There is a contradiction here?	no	1
+10 arnold is helpless or esther is kind
+11 arnold is not helpless
+12 There is a contradiction here?	no	1
+13 hugh is fierce or adrian is calm
+14 hugh is not fierce and adrian is not calm
+15 There is a contradiction here?	yes	1
+1 velma is helpless or ana is ugly
+2 ana is not ugly
+3 There is a contradiction here?	no	1
+4 brenda is gorgeous or jose is fancy
+5 brenda is not gorgeous or jose is not fancy
+6 There is a contradiction here?	no	1
+7 roger is thankful or peggy is attractive
+8 roger is not thankful or peggy is not attractive
+9 There is a contradiction here?	no	1
+10 willie is polite or lucille is ugly
+11 willie is not polite and lucille is not ugly
+12 There is a contradiction here?	yes	1
+13 sidney is jealous or philip is uptight
+14 neither sidney is jealous nor philip is uptight
+15 There is a contradiction here?	yes	1
+1 kirk is uptight or sharon is brave
+2 neither kirk is uptight nor sharon is brave
+3 There is a contradiction here?	yes	1
+4 april is gentle or cecil is nervous
+5 april is not gentle or cecil is not nervous
+6 There is a contradiction here?	no	1
+7 janice is unsightly or carmen is obedient
+8 carmen is not obedient
+9 There is a contradiction here?	no	1
+10 jason is kind or gertrude is handsome
+11 jason is not kind or gertrude is not handsome
+12 There is a contradiction here?	no	1
+13 joel is mysterious or douglas is aggressive
+14 joel is not mysterious and douglas is not aggressive
+15 There is a contradiction here?	yes	1
+1 adam is bewildered or ross is dazzling
+2 adam is not bewildered and ross is not dazzling
+3 There is a contradiction here?	yes	1
+4 douglas is gentle or bradley is lively
+5 douglas is not gentle
+6 There is a contradiction here?	no	1
+7 linda is polite or edna is gorgeous
+8 linda is not polite
+9 There is a contradiction here?	no	1
+10 minnie is unkempt or wesley is muscular
+11 minnie is not unkempt or wesley is not muscular
+12 There is a contradiction here?	no	1
+13 christian is clean or andrew is drab
+14 neither christian is clean nor andrew is drab
+15 There is a contradiction here?	yes	1
+1 gene is obedient or vanessa is handsome
+2 neither gene is obedient nor vanessa is handsome
+3 There is a contradiction here?	yes	1
+4 bradley is chubby or toni is eager
+5 bradley is not chubby or toni is not eager
+6 There is a contradiction here?	no	1
+7 guy is agreeable or wallace is plump
+8 guy is not agreeable or wallace is not plump
+9 There is a contradiction here?	no	1
+10 marjorie is zealous or melinda is victorious
+11 marjorie is not zealous or melinda is not victorious
+12 There is a contradiction here?	no	1
+13 rodney is jealous or larry is clumsy
+14 neither rodney is jealous nor larry is clumsy
+15 There is a contradiction here?	yes	1
+1 eugene is plump or bobby is muscular
+2 eugene is not plump or bobby is not muscular
+3 There is a contradiction here?	no	1
+4 allison is jolly or brad is thoughtless
+5 allison is not jolly and brad is not thoughtless
+6 There is a contradiction here?	yes	1
+7 sean is jealous or johnnie is fit
+8 sean is not jealous or johnnie is not fit
+9 There is a contradiction here?	no	1
+10 gary is glamorous or melvin is shapely
+11 neither gary is glamorous nor melvin is shapely
+12 There is a contradiction here?	yes	1
+13 dave is fancy or madeline is kind
+14 dave is not fancy or madeline is not kind
+15 There is a contradiction here?	no	1
+1 molly is ugly or andrew is agreeable
+2 molly is not ugly or andrew is not agreeable
+3 There is a contradiction here?	no	1
+4 thomas is plain or madeline is flabby
+5 thomas is not plain or madeline is not flabby
+6 There is a contradiction here?	no	1
+7 brenda is angry or victor is pitiful
+8 brenda is not angry or victor is not pitiful
+9 There is a contradiction here?	no	1
+10 jessica is delightful or sandy is nice
+11 jessica is not delightful or sandy is not nice
+12 There is a contradiction here?	no	1
+13 charlie is eager or lisa is fierce
+14 charlie is not eager and lisa is not fierce
+15 There is a contradiction here?	yes	1
+1 viola is eager or jessie is beautiful
+2 viola is not eager or jessie is not beautiful
+3 There is a contradiction here?	no	1
+4 barbara is obnoxious or alice is bewildered
+5 neither barbara is obnoxious nor alice is bewildered
+6 There is a contradiction here?	yes	1
+7 mabel is fancy or amy is muscular
+8 mabel is not fancy or amy is not muscular
+9 There is a contradiction here?	no	1
+10 elsie is obnoxious or cody is defeated
+11 neither elsie is obnoxious nor cody is defeated
+12 There is a contradiction here?	yes	1
+13 jane is embarrassed or matthew is delightful
+14 neither jane is embarrassed nor matthew is delightful
+15 There is a contradiction here?	yes	1
+1 ben is scruffy or terrence is lively
+2 ben is not scruffy or terrence is not lively
+3 There is a contradiction here?	no	1
+4 alexander is jealous or paul is wonderful
+5 alexander is not jealous and paul is not wonderful
+6 There is a contradiction here?	yes	1
+7 florence is ugly or deanna is gorgeous
+8 florence is not ugly and deanna is not gorgeous
+9 There is a contradiction here?	yes	1
+10 gertrude is ugly or bobbie is nice
+11 bobbie is not nice
+12 There is a contradiction here?	no	1
+13 tracy is bewildered or randall is short
+14 randall is not short
+15 There is a contradiction here?	no	1
+1 stacey is uptight or bernard is magnificent
+2 stacey is not uptight
+3 There is a contradiction here?	no	1
+4 clifford is stocky or bryan is jealous
+5 clifford is not stocky and bryan is not jealous
+6 There is a contradiction here?	yes	1
+7 jan is ambitious or ann is magnificent
+8 jan is not ambitious and ann is not magnificent
+9 There is a contradiction here?	yes	1
+10 fred is aggressive or carl is jealous
+11 neither fred is aggressive nor carl is jealous
+12 There is a contradiction here?	yes	1
+13 james is handsome or jason is jealous
+14 james is not handsome and jason is not jealous
+15 There is a contradiction here?	yes	1
+1 richard is witty or ethel is attractive
+2 richard is not witty
+3 There is a contradiction here?	no	1
+4 lois is short or evelyn is proud
+5 neither lois is short nor evelyn is proud
+6 There is a contradiction here?	yes	1
+7 frances is stocky or sheryl is plain
+8 neither frances is stocky nor sheryl is plain
+9 There is a contradiction here?	yes	1
+10 samantha is brave or delores is ugly
+11 samantha is not brave
+12 There is a contradiction here?	no	1
+13 felix is stocky or monica is kind
+14 neither felix is stocky nor monica is kind
+15 There is a contradiction here?	yes	1
+1 dianne is glamorous or brad is wonderful
+2 dianne is not glamorous and brad is not wonderful
+3 There is a contradiction here?	yes	1
+4 dwight is scruffy or terrence is fierce
+5 dwight is not scruffy and terrence is not fierce
+6 There is a contradiction here?	yes	1
+7 jerry is eager or sheila is handsome
+8 jerry is not eager or sheila is not handsome
+9 There is a contradiction here?	no	1
+10 mildred is obnoxious or roberto is happy
+11 neither mildred is obnoxious nor roberto is happy
+12 There is a contradiction here?	yes	1
+13 raul is jealous or toni is long
+14 toni is not long
+15 There is a contradiction here?	no	1
+1 shannon is quaint or michele is angry
+2 michele is not angry
+3 There is a contradiction here?	no	1
+4 christine is uptight or leona is faithful
+5 christine is not uptight or leona is not faithful
+6 There is a contradiction here?	no	1
+7 deborah is panicky or veronica is chubby
+8 deborah is not panicky or veronica is not chubby
+9 There is a contradiction here?	no	1
+10 warren is nice or alfred is chubby
+11 warren is not nice or alfred is not chubby
+12 There is a contradiction here?	no	1
+13 sandy is dazzling or aaron is skinny
+14 sandy is not dazzling or aaron is not skinny
+15 There is a contradiction here?	no	1
+1 molly is gorgeous or phillip is lively
+2 molly is not gorgeous or phillip is not lively
+3 There is a contradiction here?	no	1
+4 lillian is ugly or clifton is flabby
+5 clifton is not flabby
+6 There is a contradiction here?	no	1
+7 sergio is thankful or vincent is lively
+8 sergio is not thankful
+9 There is a contradiction here?	no	1
+10 elsie is aggressive or daniel is scruffy
+11 elsie is not aggressive or daniel is not scruffy
+12 There is a contradiction here?	no	1
+13 wade is nervous or belinda is jealous
+14 belinda is not jealous
+15 There is a contradiction here?	no	1
+1 sean is panicky or veronica is muscular
+2 sean is not panicky or veronica is not muscular
+3 There is a contradiction here?	no	1
+4 genevieve is gorgeous or calvin is victorious
+5 genevieve is not gorgeous and calvin is not victorious
+6 There is a contradiction here?	yes	1
+7 toni is ambitious or gina is fierce
+8 toni is not ambitious
+9 There is a contradiction here?	no	1
+10 colleen is jealous or clifton is clean
+11 neither colleen is jealous nor clifton is clean
+12 There is a contradiction here?	yes	1
+13 clinton is drab or jo is zealous
+14 clinton is not drab and jo is not zealous
+15 There is a contradiction here?	yes	1
+1 tanya is jealous or felix is lively
+2 neither tanya is jealous nor felix is lively
+3 There is a contradiction here?	yes	1
+4 joe is fit or emily is shapely
+5 emily is not shapely
+6 There is a contradiction here?	no	1
+7 nicole is attractive or jeremy is angry
+8 nicole is not attractive and jeremy is not angry
+9 There is a contradiction here?	yes	1
+10 walter is thoughtless or kim is lazy
+11 walter is not thoughtless or kim is not lazy
+12 There is a contradiction here?	no	1
+13 tracy is muscular or yolanda is mysterious
+14 tracy is not muscular
+15 There is a contradiction here?	no	1
+1 james is chubby or priscilla is jealous
+2 james is not chubby and priscilla is not jealous
+3 There is a contradiction here?	yes	1
+4 jennifer is grumpy or hugh is scary
+5 hugh is not scary
+6 There is a contradiction here?	no	1
+7 alfred is fit or allan is jealous
+8 allan is not jealous
+9 There is a contradiction here?	no	1
+10 amy is elegant or kayla is fancy
+11 kayla is not fancy
+12 There is a contradiction here?	no	1
+13 clifford is mysterious or jimmy is wonderful
+14 clifford is not mysterious or jimmy is not wonderful
+15 There is a contradiction here?	no	1
+1 brian is uptight or jorge is gentle
+2 neither brian is uptight nor jorge is gentle
+3 There is a contradiction here?	yes	1
+4 vivian is fierce or virgil is eager
+5 vivian is not fierce or virgil is not eager
+6 There is a contradiction here?	no	1
+7 hazel is obedient or iris is worried
+8 hazel is not obedient and iris is not worried
+9 There is a contradiction here?	yes	1
+10 maxine is skinny or debra is unsightly
+11 maxine is not skinny
+12 There is a contradiction here?	no	1
+13 gertrude is jolly or gladys is skinny
+14 neither gertrude is jolly nor gladys is skinny
+15 There is a contradiction here?	yes	1
+1 ella is silly or tanya is glamorous
+2 tanya is not glamorous
+3 There is a contradiction here?	no	1
+4 dora is short or claude is unkempt
+5 neither dora is short nor claude is unkempt
+6 There is a contradiction here?	yes	1
+7 peggy is helpless or loretta is grumpy
+8 peggy is not helpless and loretta is not grumpy
+9 There is a contradiction here?	yes	1
+10 rose is short or darren is pitiful
+11 neither rose is short nor darren is pitiful
+12 There is a contradiction here?	yes	1
+13 jonathan is victorious or kelly is brave
+14 jonathan is not victorious or kelly is not brave
+15 There is a contradiction here?	no	1
+1 emma is beautiful or rosa is long
+2 emma is not beautiful
+3 There is a contradiction here?	no	1
+4 helen is mysterious or philip is scary
+5 helen is not mysterious and philip is not scary
+6 There is a contradiction here?	yes	1
+7 lauren is agreeable or irene is scary
+8 neither lauren is agreeable nor irene is scary
+9 There is a contradiction here?	yes	1
+10 lester is kind or vernon is wonderful
+11 lester is not kind or vernon is not wonderful
+12 There is a contradiction here?	no	1
+13 byron is proud or grace is angry
+14 grace is not angry
+15 There is a contradiction here?	no	1
+1 jimmy is polite or aaron is lively
+2 neither jimmy is polite nor aaron is lively
+3 There is a contradiction here?	yes	1
+4 arlene is polite or norma is clean
+5 arlene is not polite or norma is not clean
+6 There is a contradiction here?	no	1
+7 ron is witty or milton is panicky
+8 neither ron is witty nor milton is panicky
+9 There is a contradiction here?	yes	1
+10 maria is chubby or willard is panicky
+11 maria is not chubby or willard is not panicky
+12 There is a contradiction here?	no	1
+13 virginia is ugly or stella is ambitious
+14 stella is not ambitious
+15 There is a contradiction here?	no	1
+1 lindsey is unkempt or dan is delightful
+2 lindsey is not unkempt
+3 There is a contradiction here?	no	1
+4 curtis is delightful or donna is pitiful
+5 curtis is not delightful
+6 There is a contradiction here?	no	1
+7 lee is thoughtless or shawn is plump
+8 lee is not thoughtless or shawn is not plump
+9 There is a contradiction here?	no	1
+10 shelley is lively or sergio is thoughtless
+11 shelley is not lively and sergio is not thoughtless
+12 There is a contradiction here?	yes	1
+13 ben is bewildered or wesley is grumpy
+14 ben is not bewildered and wesley is not grumpy
+15 There is a contradiction here?	yes	1
+1 fernando is muscular or oscar is glamorous
+2 oscar is not glamorous
+3 There is a contradiction here?	no	1
+4 nicholas is silly or tara is unkempt
+5 nicholas is not silly and tara is not unkempt
+6 There is a contradiction here?	yes	1
+7 vivian is defeated or alfred is helpless
+8 vivian is not defeated and alfred is not helpless
+9 There is a contradiction here?	yes	1
+10 fred is nervous or eric is uptight
+11 neither fred is nervous nor eric is uptight
+12 There is a contradiction here?	yes	1
+13 joe is angry or leslie is eager
+14 leslie is not eager
+15 There is a contradiction here?	no	1
+1 ron is uptight or emily is faithful
+2 neither ron is uptight nor emily is faithful
+3 There is a contradiction here?	yes	1
+4 lester is plain or cecil is flabby
+5 lester is not plain
+6 There is a contradiction here?	no	1
+7 roberto is repulsive or tammy is delightful
+8 tammy is not delightful
+9 There is a contradiction here?	no	1
+10 anthony is glamorous or mildred is plain
+11 anthony is not glamorous
+12 There is a contradiction here?	no	1
+13 marc is elegant or raul is handsome
+14 neither marc is elegant nor raul is handsome
+15 There is a contradiction here?	yes	1
+1 brad is thoughtless or wanda is lazy
+2 brad is not thoughtless and wanda is not lazy
+3 There is a contradiction here?	yes	1
+4 dave is elegant or lewis is jolly
+5 dave is not elegant
+6 There is a contradiction here?	no	1
+7 sonya is nervous or joan is agreeable
+8 sonya is not nervous and joan is not agreeable
+9 There is a contradiction here?	yes	1
+10 stephen is happy or floyd is flabby
+11 neither stephen is happy nor floyd is flabby
+12 There is a contradiction here?	yes	1
+13 tracey is chubby or pamela is obedient
+14 tracey is not chubby or pamela is not obedient
+15 There is a contradiction here?	no	1
+1 neil is thankful or wade is quaint
+2 neither neil is thankful nor wade is quaint
+3 There is a contradiction here?	yes	1
+4 rosie is lazy or peggy is gentle
+5 peggy is not gentle
+6 There is a contradiction here?	no	1
+7 francis is muscular or jennie is helpless
+8 francis is not muscular and jennie is not helpless
+9 There is a contradiction here?	yes	1
+10 dennis is zealous or victor is polite
+11 dennis is not zealous
+12 There is a contradiction here?	no	1
+13 dana is drab or sabrina is glamorous
+14 dana is not drab
+15 There is a contradiction here?	no	1
+1 daryl is obedient or eva is nice
+2 daryl is not obedient and eva is not nice
+3 There is a contradiction here?	yes	1
+4 alicia is lazy or peter is nervous
+5 alicia is not lazy
+6 There is a contradiction here?	no	1
+7 morris is repulsive or willard is beautiful
+8 neither morris is repulsive nor willard is beautiful
+9 There is a contradiction here?	yes	1
+10 duane is obnoxious or vickie is zealous
+11 duane is not obnoxious or vickie is not zealous
+12 There is a contradiction here?	no	1
+13 wanda is unsightly or carrie is victorious
+14 wanda is not unsightly or carrie is not victorious
+15 There is a contradiction here?	no	1
+1 john is thankful or karl is bewildered
+2 john is not thankful
+3 There is a contradiction here?	no	1
+4 joyce is long or judith is quaint
+5 neither joyce is long nor judith is quaint
+6 There is a contradiction here?	yes	1
+7 tara is faithful or nora is jealous
+8 tara is not faithful and nora is not jealous
+9 There is a contradiction here?	yes	1
+10 johnny is faithful or brett is repulsive
+11 neither johnny is faithful nor brett is repulsive
+12 There is a contradiction here?	yes	1
+13 laura is panicky or emma is lazy
+14 laura is not panicky
+15 There is a contradiction here?	no	1
+1 charles is grumpy or herman is angry
+2 charles is not grumpy and herman is not angry
+3 There is a contradiction here?	yes	1
+4 belinda is short or rene is thankful
+5 belinda is not short or rene is not thankful
+6 There is a contradiction here?	no	1
+7 lisa is clumsy or geneva is lazy
+8 lisa is not clumsy
+9 There is a contradiction here?	no	1
+10 jennifer is muscular or salvador is magnificent
+11 neither jennifer is muscular nor salvador is magnificent
+12 There is a contradiction here?	yes	1
+13 wendy is defeated or neil is muscular
+14 wendy is not defeated and neil is not muscular
+15 There is a contradiction here?	yes	1
+1 eugene is agreeable or bernice is scruffy
+2 bernice is not scruffy
+3 There is a contradiction here?	no	1
+4 charlene is fancy or greg is elegant
+5 charlene is not fancy and greg is not elegant
+6 There is a contradiction here?	yes	1
+7 cecil is plain or floyd is dazzling
+8 neither cecil is plain nor floyd is dazzling
+9 There is a contradiction here?	yes	1
+10 randy is beautiful or sharon is nervous
+11 randy is not beautiful
+12 There is a contradiction here?	no	1
+13 travis is muscular or sandra is angry
+14 travis is not muscular and sandra is not angry
+15 There is a contradiction here?	yes	1
+1 geneva is repulsive or scott is magnificent
+2 geneva is not repulsive
+3 There is a contradiction here?	no	1
+4 erica is plump or nelson is stocky
+5 nelson is not stocky
+6 There is a contradiction here?	no	1
+7 albert is grumpy or earl is defeated
+8 earl is not defeated
+9 There is a contradiction here?	no	1
+10 esther is brave or nelson is delightful
+11 esther is not brave or nelson is not delightful
+12 There is a contradiction here?	no	1
+13 june is handsome or nora is thoughtless
+14 june is not handsome or nora is not thoughtless
+15 There is a contradiction here?	no	1
+1 eddie is handsome or charlie is agreeable
+2 neither eddie is handsome nor charlie is agreeable
+3 There is a contradiction here?	yes	1
+4 raul is faithful or ramon is fierce
+5 raul is not faithful and ramon is not fierce
+6 There is a contradiction here?	yes	1
+7 delores is lively or erica is skinny
+8 delores is not lively
+9 There is a contradiction here?	no	1
+10 samantha is defeated or cheryl is skinny
+11 samantha is not defeated and cheryl is not skinny
+12 There is a contradiction here?	yes	1
+13 beverly is calm or rachel is thankful
+14 beverly is not calm and rachel is not thankful
+15 There is a contradiction here?	yes	1
+1 arlene is zealous or laurie is helpless
+2 arlene is not zealous
+3 There is a contradiction here?	no	1
+4 edwin is obnoxious or amy is wonderful
+5 neither edwin is obnoxious nor amy is wonderful
+6 There is a contradiction here?	yes	1
+7 vivian is nervous or yvonne is flabby
+8 vivian is not nervous
+9 There is a contradiction here?	no	1
+10 diane is jolly or julia is zealous
+11 diane is not jolly
+12 There is a contradiction here?	no	1
+13 joshua is nice or marcia is lively
+14 joshua is not nice
+15 There is a contradiction here?	no	1
+1 michael is ambitious or raymond is uptight
+2 michael is not ambitious and raymond is not uptight
+3 There is a contradiction here?	yes	1
+4 gilbert is obnoxious or jo is worried
+5 gilbert is not obnoxious or jo is not worried
+6 There is a contradiction here?	no	1
+7 judith is flabby or roland is muscular
+8 judith is not flabby
+9 There is a contradiction here?	no	1
+10 henry is jolly or katrina is fierce
+11 henry is not jolly or katrina is not fierce
+12 There is a contradiction here?	no	1
+13 frank is mysterious or april is clumsy
+14 frank is not mysterious
+15 There is a contradiction here?	no	1
+1 emma is jealous or debra is beautiful
+2 emma is not jealous and debra is not beautiful
+3 There is a contradiction here?	yes	1
+4 marlene is fit or alma is pitiful
+5 marlene is not fit or alma is not pitiful
+6 There is a contradiction here?	no	1
+7 guy is clumsy or warren is lazy
+8 guy is not clumsy and warren is not lazy
+9 There is a contradiction here?	yes	1
+10 curtis is nervous or ramon is thankful
+11 neither curtis is nervous nor ramon is thankful
+12 There is a contradiction here?	yes	1
+13 diane is wonderful or theodore is magnificent
+14 neither diane is wonderful nor theodore is magnificent
+15 There is a contradiction here?	yes	1
+1 lillian is nice or annette is skinny
+2 neither lillian is nice nor annette is skinny
+3 There is a contradiction here?	yes	1
+4 brittany is polite or carole is delightful
+5 neither brittany is polite nor carole is delightful
+6 There is a contradiction here?	yes	1
+7 ian is scruffy or freddie is elegant
+8 neither ian is scruffy nor freddie is elegant
+9 There is a contradiction here?	yes	1
+10 margie is uptight or francisco is gorgeous
+11 margie is not uptight and francisco is not gorgeous
+12 There is a contradiction here?	yes	1
+13 lawrence is glamorous or roberto is panicky
+14 lawrence is not glamorous and roberto is not panicky
+15 There is a contradiction here?	yes	1
+1 gene is long or bernard is scary
+2 bernard is not scary
+3 There is a contradiction here?	no	1
+4 faye is uptight or candice is bald
+5 faye is not uptight
+6 There is a contradiction here?	no	1
+7 dean is flabby or teresa is clumsy
+8 dean is not flabby or teresa is not clumsy
+9 There is a contradiction here?	no	1
+10 franklin is obnoxious or theresa is attractive
+11 franklin is not obnoxious or theresa is not attractive
+12 There is a contradiction here?	no	1
+13 marian is gentle or irene is happy
+14 marian is not gentle
+15 There is a contradiction here?	no	1
+1 debra is brave or kyle is thankful
+2 neither debra is brave nor kyle is thankful
+3 There is a contradiction here?	yes	1
+4 morris is brave or maxine is gentle
+5 neither morris is brave nor maxine is gentle
+6 There is a contradiction here?	yes	1
+7 rosie is jolly or brent is bald
+8 rosie is not jolly
+9 There is a contradiction here?	no	1
+10 edith is delightful or vernon is jealous
+11 edith is not delightful and vernon is not jealous
+12 There is a contradiction here?	yes	1
+13 jerome is delightful or juana is lazy
+14 jerome is not delightful or juana is not lazy
+15 There is a contradiction here?	no	1
+1 dustin is wonderful or roger is worried
+2 dustin is not wonderful
+3 There is a contradiction here?	no	1
+4 norman is scruffy or kurt is itchy
+5 norman is not scruffy or kurt is not itchy
+6 There is a contradiction here?	no	1
+7 sheila is victorious or cheryl is unkempt
+8 sheila is not victorious and cheryl is not unkempt
+9 There is a contradiction here?	yes	1
+10 maurice is helpless or maureen is polite
+11 maurice is not helpless or maureen is not polite
+12 There is a contradiction here?	no	1
+13 rebecca is scary or tiffany is kind
+14 tiffany is not kind
+15 There is a contradiction here?	no	1
+1 katie is muscular or pedro is gentle
+2 neither katie is muscular nor pedro is gentle
+3 There is a contradiction here?	yes	1
+4 lucy is itchy or james is clean
+5 neither lucy is itchy nor james is clean
+6 There is a contradiction here?	yes	1
+7 fred is happy or janie is nervous
+8 janie is not nervous
+9 There is a contradiction here?	no	1
+10 lola is uptight or herbert is defeated
+11 lola is not uptight or herbert is not defeated
+12 There is a contradiction here?	no	1
+13 willard is gorgeous or danny is chubby
+14 neither willard is gorgeous nor danny is chubby
+15 There is a contradiction here?	yes	1
+1 nicole is calm or kathy is obnoxious
+2 nicole is not calm or kathy is not obnoxious
+3 There is a contradiction here?	no	1
+4 billy is helpless or patricia is obedient
+5 billy is not helpless or patricia is not obedient
+6 There is a contradiction here?	no	1
+7 sean is calm or harold is nervous
+8 sean is not calm
+9 There is a contradiction here?	no	1
+10 jamie is magnificent or judith is stocky
+11 neither jamie is magnificent nor judith is stocky
+12 There is a contradiction here?	yes	1
+13 constance is witty or denise is gorgeous
+14 neither constance is witty nor denise is gorgeous
+15 There is a contradiction here?	yes	1
+1 marcus is stocky or arthur is polite
+2 marcus is not stocky or arthur is not polite
+3 There is a contradiction here?	no	1
+4 veronica is attractive or rodney is unkempt
+5 veronica is not attractive and rodney is not unkempt
+6 There is a contradiction here?	yes	1
+7 alfredo is shapely or alice is obedient
+8 alfredo is not shapely or alice is not obedient
+9 There is a contradiction here?	no	1
+10 cecil is defeated or june is fit
+11 cecil is not defeated or june is not fit
+12 There is a contradiction here?	no	1
+13 francisco is faithful or allan is embarrassed
+14 francisco is not faithful and allan is not embarrassed
+15 There is a contradiction here?	yes	1
+1 alfredo is helpless or marie is long
+2 neither alfredo is helpless nor marie is long
+3 There is a contradiction here?	yes	1
+4 earl is proud or carla is drab
+5 earl is not proud and carla is not drab
+6 There is a contradiction here?	yes	1
+7 jonathan is eager or kristen is panicky
+8 jonathan is not eager or kristen is not panicky
+9 There is a contradiction here?	no	1
+10 vivian is aggressive or warren is silly
+11 vivian is not aggressive and warren is not silly
+12 There is a contradiction here?	yes	1
+13 blanche is plain or elaine is grumpy
+14 neither blanche is plain nor elaine is grumpy
+15 There is a contradiction here?	yes	1
+1 julie is obnoxious or alvin is unsightly
+2 neither julie is obnoxious nor alvin is unsightly
+3 There is a contradiction here?	yes	1
+4 dwight is drab or april is repulsive
+5 dwight is not drab and april is not repulsive
+6 There is a contradiction here?	yes	1
+7 eugene is gentle or edwin is thoughtless
+8 neither eugene is gentle nor edwin is thoughtless
+9 There is a contradiction here?	yes	1
+10 christine is obnoxious or lorraine is lively
+11 christine is not obnoxious and lorraine is not lively
+12 There is a contradiction here?	yes	1
+13 cathy is victorious or calvin is bald
+14 neither cathy is victorious nor calvin is bald
+15 There is a contradiction here?	yes	1
+1 howard is fierce or faye is attractive
+2 howard is not fierce and faye is not attractive
+3 There is a contradiction here?	yes	1
+4 paula is thankful or jacob is zealous
+5 paula is not thankful or jacob is not zealous
+6 There is a contradiction here?	no	1
+7 peggy is elegant or timothy is fierce
+8 peggy is not elegant and timothy is not fierce
+9 There is a contradiction here?	yes	1
+10 juana is helpless or jon is repulsive
+11 neither juana is helpless nor jon is repulsive
+12 There is a contradiction here?	yes	1
+13 corey is eager or stella is defeated
+14 corey is not eager or stella is not defeated
+15 There is a contradiction here?	no	1
+1 june is thoughtless or frances is plump
+2 june is not thoughtless or frances is not plump
+3 There is a contradiction here?	no	1
+4 anthony is beautiful or erin is shapely
+5 anthony is not beautiful and erin is not shapely
+6 There is a contradiction here?	yes	1
+7 lewis is proud or perry is panicky
+8 perry is not panicky
+9 There is a contradiction here?	no	1
+10 nora is plain or beth is grumpy
+11 nora is not plain or beth is not grumpy
+12 There is a contradiction here?	no	1
+13 clifton is repulsive or greg is aggressive
+14 neither clifton is repulsive nor greg is aggressive
+15 There is a contradiction here?	yes	1
+1 terry is obedient or brittany is polite
+2 terry is not obedient and brittany is not polite
+3 There is a contradiction here?	yes	1
+4 denise is unsightly or cynthia is angry
+5 cynthia is not angry
+6 There is a contradiction here?	no	1
+7 clyde is thoughtless or aaron is nice
+8 clyde is not thoughtless and aaron is not nice
+9 There is a contradiction here?	yes	1
+10 lillian is unsightly or joe is fierce
+11 lillian is not unsightly
+12 There is a contradiction here?	no	1
+13 jessie is mysterious or morris is gorgeous
+14 jessie is not mysterious and morris is not gorgeous
+15 There is a contradiction here?	yes	1
+1 lewis is skinny or sonya is jealous
+2 lewis is not skinny and sonya is not jealous
+3 There is a contradiction here?	yes	1
+4 willard is chubby or clayton is drab
+5 willard is not chubby and clayton is not drab
+6 There is a contradiction here?	yes	1
+7 susie is plump or adam is scruffy
+8 susie is not plump and adam is not scruffy
+9 There is a contradiction here?	yes	1
+10 herbert is skinny or jeffrey is witty
+11 herbert is not skinny or jeffrey is not witty
+12 There is a contradiction here?	no	1
+13 karl is glamorous or marion is calm
+14 karl is not glamorous
+15 There is a contradiction here?	no	1
+1 ian is worried or virginia is embarrassed
+2 ian is not worried or virginia is not embarrassed
+3 There is a contradiction here?	no	1
+4 warren is handsome or mike is clean
+5 warren is not handsome
+6 There is a contradiction here?	no	1
+7 sally is angry or kevin is victorious
+8 sally is not angry or kevin is not victorious
+9 There is a contradiction here?	no	1
+10 shelly is nervous or clifton is agreeable
+11 shelly is not nervous and clifton is not agreeable
+12 There is a contradiction here?	yes	1
+13 willie is delightful or jay is short
+14 willie is not delightful and jay is not short
+15 There is a contradiction here?	yes	1
+1 donna is proud or earl is magnificent
+2 donna is not proud and earl is not magnificent
+3 There is a contradiction here?	yes	1
+4 douglas is scruffy or daniel is thankful
+5 neither douglas is scruffy nor daniel is thankful
+6 There is a contradiction here?	yes	1
+7 sonya is worried or james is unsightly
+8 sonya is not worried and james is not unsightly
+9 There is a contradiction here?	yes	1
+10 gilbert is wonderful or june is delightful
+11 gilbert is not wonderful or june is not delightful
+12 There is a contradiction here?	no	1
+13 byron is thankful or ricardo is pitiful
+14 byron is not thankful
+15 There is a contradiction here?	no	1
+1 sharon is drab or donna is kind
+2 neither sharon is drab nor donna is kind
+3 There is a contradiction here?	yes	1
+4 nancy is embarrassed or chad is drab
+5 neither nancy is embarrassed nor chad is drab
+6 There is a contradiction here?	yes	1
+7 karl is lively or kristina is ambitious
+8 karl is not lively or kristina is not ambitious
+9 There is a contradiction here?	no	1
+10 pauline is fit or willie is calm
+11 neither pauline is fit nor willie is calm
+12 There is a contradiction here?	yes	1
+13 dustin is fierce or james is polite
+14 dustin is not fierce or james is not polite
+15 There is a contradiction here?	no	1
+1 mamie is clean or marie is obnoxious
+2 mamie is not clean or marie is not obnoxious
+3 There is a contradiction here?	no	1
+4 marsha is uptight or alma is drab
+5 neither marsha is uptight nor alma is drab
+6 There is a contradiction here?	yes	1
+7 agnes is lively or renee is eager
+8 agnes is not lively or renee is not eager
+9 There is a contradiction here?	no	1
+10 erika is elegant or becky is wonderful
+11 neither erika is elegant nor becky is wonderful
+12 There is a contradiction here?	yes	1
+13 leah is jealous or leslie is happy
+14 neither leah is jealous nor leslie is happy
+15 There is a contradiction here?	yes	1
+1 roland is calm or donna is chubby
+2 neither roland is calm nor donna is chubby
+3 There is a contradiction here?	yes	1
+4 margie is handsome or susan is defeated
+5 susan is not defeated
+6 There is a contradiction here?	no	1
+7 nicholas is scruffy or micheal is jealous
+8 neither nicholas is scruffy nor micheal is jealous
+9 There is a contradiction here?	yes	1
+10 jonathan is helpless or jodi is fit
+11 jonathan is not helpless
+12 There is a contradiction here?	no	1
+13 nathan is short or jesse is bald
+14 nathan is not short and jesse is not bald
+15 There is a contradiction here?	yes	1
+1 cody is silly or flora is uptight
+2 neither cody is silly nor flora is uptight
+3 There is a contradiction here?	yes	1
+4 anita is repulsive or willie is skinny
+5 anita is not repulsive or willie is not skinny
+6 There is a contradiction here?	no	1
+7 terry is polite or robin is gorgeous
+8 neither terry is polite nor robin is gorgeous
+9 There is a contradiction here?	yes	1
+10 ron is nervous or priscilla is happy
+11 ron is not nervous and priscilla is not happy
+12 There is a contradiction here?	yes	1
+13 reginald is repulsive or louise is zealous
+14 reginald is not repulsive
+15 There is a contradiction here?	no	1
+1 leona is pitiful or melissa is agreeable
+2 leona is not pitiful and melissa is not agreeable
+3 There is a contradiction here?	yes	1
+4 tom is wonderful or troy is pitiful
+5 troy is not pitiful
+6 There is a contradiction here?	no	1
+7 clayton is scruffy or jeremy is jolly
+8 jeremy is not jolly
+9 There is a contradiction here?	no	1
+10 melvin is long or gail is repulsive
+11 melvin is not long and gail is not repulsive
+12 There is a contradiction here?	yes	1
+13 suzanne is plump or joshua is handsome
+14 suzanne is not plump or joshua is not handsome
+15 There is a contradiction here?	no	1
+1 alberto is drab or kristin is attractive
+2 alberto is not drab or kristin is not attractive
+3 There is a contradiction here?	no	1
+4 ana is delightful or jimmie is muscular
+5 ana is not delightful or jimmie is not muscular
+6 There is a contradiction here?	no	1
+7 loretta is obedient or ann is beautiful
+8 loretta is not obedient or ann is not beautiful
+9 There is a contradiction here?	no	1
+10 dale is dazzling or olivia is long
+11 neither dale is dazzling nor olivia is long
+12 There is a contradiction here?	yes	1
+13 eduardo is zealous or cynthia is handsome
+14 eduardo is not zealous and cynthia is not handsome
+15 There is a contradiction here?	yes	1
+1 shane is flabby or rodney is handsome
+2 neither shane is flabby nor rodney is handsome
+3 There is a contradiction here?	yes	1
+4 ronald is eager or leah is angry
+5 neither ronald is eager nor leah is angry
+6 There is a contradiction here?	yes	1
+7 isabel is bald or tommy is pitiful
+8 tommy is not pitiful
+9 There is a contradiction here?	no	1
+10 april is grumpy or louis is delightful
+11 neither april is grumpy nor louis is delightful
+12 There is a contradiction here?	yes	1
+13 charlotte is faithful or nathaniel is ambitious
+14 neither charlotte is faithful nor nathaniel is ambitious
+15 There is a contradiction here?	yes	1
+1 scott is fit or christy is flabby
+2 scott is not fit and christy is not flabby
+3 There is a contradiction here?	yes	1
+4 nathan is proud or jessica is wonderful
+5 nathan is not proud or jessica is not wonderful
+6 There is a contradiction here?	no	1
+7 blanche is fancy or kelly is elegant
+8 blanche is not fancy or kelly is not elegant
+9 There is a contradiction here?	no	1
+10 sandy is brave or carmen is delightful
+11 sandy is not brave or carmen is not delightful
+12 There is a contradiction here?	no	1
+13 katie is nervous or nelson is clumsy
+14 katie is not nervous or nelson is not clumsy
+15 There is a contradiction here?	no	1
+1 elizabeth is short or keith is gentle
+2 neither elizabeth is short nor keith is gentle
+3 There is a contradiction here?	yes	1
+4 fernando is bald or luz is bewildered
+5 neither fernando is bald nor luz is bewildered
+6 There is a contradiction here?	yes	1
+7 earl is obedient or alan is thankful
+8 earl is not obedient and alan is not thankful
+9 There is a contradiction here?	yes	1
+10 marjorie is glamorous or nora is fancy
+11 nora is not fancy
+12 There is a contradiction here?	no	1
+13 iris is chubby or amanda is brave
+14 iris is not chubby and amanda is not brave
+15 There is a contradiction here?	yes	1
+1 andre is short or javier is mysterious
+2 andre is not short or javier is not mysterious
+3 There is a contradiction here?	no	1
+4 brandi is lively or rita is bald
+5 neither brandi is lively nor rita is bald
+6 There is a contradiction here?	yes	1
+7 audrey is shapely or sam is gentle
+8 audrey is not shapely and sam is not gentle
+9 There is a contradiction here?	yes	1
+10 christine is gentle or michelle is clumsy
+11 christine is not gentle or michelle is not clumsy
+12 There is a contradiction here?	no	1
+13 donna is happy or gerald is gentle
+14 neither donna is happy nor gerald is gentle
+15 There is a contradiction here?	yes	1
+1 vernon is nervous or christina is worried
+2 neither vernon is nervous nor christina is worried
+3 There is a contradiction here?	yes	1
+4 teresa is witty or jennie is scruffy
+5 jennie is not scruffy
+6 There is a contradiction here?	no	1
+7 monica is fierce or rosie is shapely
+8 rosie is not shapely
+9 There is a contradiction here?	no	1
+10 lloyd is obedient or vernon is clumsy
+11 lloyd is not obedient
+12 There is a contradiction here?	no	1
+13 gloria is calm or kathy is unkempt
+14 kathy is not unkempt
+15 There is a contradiction here?	no	1
+1 cecilia is muscular or ronnie is panicky
+2 ronnie is not panicky
+3 There is a contradiction here?	no	1
+4 yvette is magnificent or herbert is muscular
+5 neither yvette is magnificent nor herbert is muscular
+6 There is a contradiction here?	yes	1
+7 minnie is obedient or gloria is bewildered
+8 minnie is not obedient or gloria is not bewildered
+9 There is a contradiction here?	no	1
+10 belinda is repulsive or naomi is brave
+11 belinda is not repulsive and naomi is not brave
+12 There is a contradiction here?	yes	1
+13 tyrone is angry or jane is dazzling
+14 tyrone is not angry or jane is not dazzling
+15 There is a contradiction here?	no	1
+1 christian is worried or cassandra is gorgeous
+2 neither christian is worried nor cassandra is gorgeous
+3 There is a contradiction here?	yes	1
+4 ramon is quaint or zachary is chubby
+5 ramon is not quaint and zachary is not chubby
+6 There is a contradiction here?	yes	1
+7 tracey is agreeable or derrick is wonderful
+8 derrick is not wonderful
+9 There is a contradiction here?	no	1
+10 judith is itchy or debra is jolly
+11 judith is not itchy
+12 There is a contradiction here?	no	1
+13 mabel is embarrassed or olivia is lively
+14 neither mabel is embarrassed nor olivia is lively
+15 There is a contradiction here?	yes	1
+1 sarah is angry or francisco is itchy
+2 sarah is not angry or francisco is not itchy
+3 There is a contradiction here?	no	1
+4 billie is nice or cynthia is silly
+5 billie is not nice or cynthia is not silly
+6 There is a contradiction here?	no	1
+7 stacey is jealous or becky is panicky
+8 stacey is not jealous
+9 There is a contradiction here?	no	1
+10 toni is stocky or kim is thankful
+11 toni is not stocky or kim is not thankful
+12 There is a contradiction here?	no	1
+13 clifford is flabby or viola is beautiful
+14 neither clifford is flabby nor viola is beautiful
+15 There is a contradiction here?	yes	1
+1 june is ambitious or brittany is victorious
+2 june is not ambitious and brittany is not victorious
+3 There is a contradiction here?	yes	1
+4 nicholas is short or kathy is plain
+5 nicholas is not short or kathy is not plain
+6 There is a contradiction here?	no	1
+7 bradley is nice or roberta is nervous
+8 bradley is not nice and roberta is not nervous
+9 There is a contradiction here?	yes	1
+10 sandra is plump or dean is fancy
+11 dean is not fancy
+12 There is a contradiction here?	no	1
+13 joe is worried or neil is handsome
+14 joe is not worried
+15 There is a contradiction here?	no	1
+1 john is glamorous or ross is fancy
+2 john is not glamorous
+3 There is a contradiction here?	no	1
+4 misty is gorgeous or francisco is kind
+5 misty is not gorgeous and francisco is not kind
+6 There is a contradiction here?	yes	1
+7 lula is plump or mamie is nice
+8 lula is not plump
+9 There is a contradiction here?	no	1
+10 darren is obnoxious or marshall is faithful
+11 darren is not obnoxious
+12 There is a contradiction here?	no	1
+13 thomas is uptight or marvin is calm
+14 thomas is not uptight and marvin is not calm
+15 There is a contradiction here?	yes	1
+1 anthony is chubby or melody is kind
+2 anthony is not chubby or melody is not kind
+3 There is a contradiction here?	no	1
+4 lauren is nice or helen is handsome
+5 neither lauren is nice nor helen is handsome
+6 There is a contradiction here?	yes	1
+7 todd is victorious or blanche is lively
+8 blanche is not lively
+9 There is a contradiction here?	no	1
+10 johnny is beautiful or cynthia is flabby
+11 johnny is not beautiful or cynthia is not flabby
+12 There is a contradiction here?	no	1
+13 byron is attractive or darlene is zealous
+14 neither byron is attractive nor darlene is zealous
+15 There is a contradiction here?	yes	1
+1 robert is thankful or sarah is lazy
+2 robert is not thankful or sarah is not lazy
+3 There is a contradiction here?	no	1
+4 sandra is zealous or lance is fit
+5 lance is not fit
+6 There is a contradiction here?	no	1
+7 jessie is jealous or clifford is unsightly
+8 clifford is not unsightly
+9 There is a contradiction here?	no	1
+10 jorge is embarrassed or larry is chubby
+11 jorge is not embarrassed and larry is not chubby
+12 There is a contradiction here?	yes	1
+13 jeremy is clean or minnie is nice
+14 jeremy is not clean
+15 There is a contradiction here?	no	1
+1 jason is short or erica is skinny
+2 neither jason is short nor erica is skinny
+3 There is a contradiction here?	yes	1
+4 tyler is gorgeous or james is bald
+5 tyler is not gorgeous
+6 There is a contradiction here?	no	1
+7 edwin is embarrassed or julio is brave
+8 julio is not brave
+9 There is a contradiction here?	no	1
+10 diana is defeated or walter is obedient
+11 diana is not defeated and walter is not obedient
+12 There is a contradiction here?	yes	1
+13 heidi is glamorous or ana is calm
+14 heidi is not glamorous or ana is not calm
+15 There is a contradiction here?	no	1
+1 joyce is angry or bobby is attractive
+2 neither joyce is angry nor bobby is attractive
+3 There is a contradiction here?	yes	1
+4 ellen is attractive or brittany is thankful
+5 neither ellen is attractive nor brittany is thankful
+6 There is a contradiction here?	yes	1
+7 esther is stocky or ronald is wonderful
+8 neither esther is stocky nor ronald is wonderful
+9 There is a contradiction here?	yes	1
+10 angel is uptight or deanna is muscular
+11 neither angel is uptight nor deanna is muscular
+12 There is a contradiction here?	yes	1
+13 toni is gentle or robert is repulsive
+14 toni is not gentle or robert is not repulsive
+15 There is a contradiction here?	no	1
+1 cora is chubby or kayla is aggressive
+2 cora is not chubby and kayla is not aggressive
+3 There is a contradiction here?	yes	1
+4 christian is ambitious or jessie is magnificent
+5 neither christian is ambitious nor jessie is magnificent
+6 There is a contradiction here?	yes	1
+7 melvin is gorgeous or anthony is unsightly
+8 neither melvin is gorgeous nor anthony is unsightly
+9 There is a contradiction here?	yes	1
+10 angel is panicky or edwin is fancy
+11 angel is not panicky and edwin is not fancy
+12 There is a contradiction here?	yes	1
+13 earl is mysterious or christy is shapely
+14 earl is not mysterious
+15 There is a contradiction here?	no	1
+1 nathan is repulsive or jaime is pitiful
+2 jaime is not pitiful
+3 There is a contradiction here?	no	1
+4 gary is ambitious or ana is witty
+5 gary is not ambitious and ana is not witty
+6 There is a contradiction here?	yes	1
+7 travis is pitiful or leonard is thoughtless
+8 travis is not pitiful or leonard is not thoughtless
+9 There is a contradiction here?	no	1
+10 dawn is brave or ellen is skinny
+11 dawn is not brave and ellen is not skinny
+12 There is a contradiction here?	yes	1
+13 iris is angry or eileen is polite
+14 iris is not angry and eileen is not polite
+15 There is a contradiction here?	yes	1
+1 jeff is nervous or ricardo is long
+2 jeff is not nervous or ricardo is not long
+3 There is a contradiction here?	no	1
+4 vicki is clean or herbert is polite
+5 vicki is not clean and herbert is not polite
+6 There is a contradiction here?	yes	1
+7 daniel is muscular or linda is fit
+8 daniel is not muscular and linda is not fit
+9 There is a contradiction here?	yes	1
+10 bradley is brave or marcia is skinny
+11 bradley is not brave and marcia is not skinny
+12 There is a contradiction here?	yes	1
+13 emily is glamorous or jerry is brave
+14 jerry is not brave
+15 There is a contradiction here?	no	1
+1 clarence is fit or ida is fancy
+2 clarence is not fit or ida is not fancy
+3 There is a contradiction here?	no	1
+4 stephanie is worried or esther is handsome
+5 stephanie is not worried and esther is not handsome
+6 There is a contradiction here?	yes	1
+7 andrea is ambitious or heidi is uptight
+8 andrea is not ambitious or heidi is not uptight
+9 There is a contradiction here?	no	1
+10 jack is panicky or robert is muscular
+11 robert is not muscular
+12 There is a contradiction here?	no	1
+13 naomi is agreeable or jenny is bald
+14 neither naomi is agreeable nor jenny is bald
+15 There is a contradiction here?	yes	1
+1 henry is worried or gabriel is itchy
+2 henry is not worried and gabriel is not itchy
+3 There is a contradiction here?	yes	1
+4 fred is quaint or francis is repulsive
+5 francis is not repulsive
+6 There is a contradiction here?	no	1
+7 stanley is scary or marsha is obedient
+8 stanley is not scary
+9 There is a contradiction here?	no	1
+10 eugene is witty or miguel is fancy
+11 eugene is not witty or miguel is not fancy
+12 There is a contradiction here?	no	1
+13 dana is jolly or marilyn is flabby
+14 marilyn is not flabby
+15 There is a contradiction here?	no	1
+1 roberta is uptight or harry is gentle
+2 roberta is not uptight
+3 There is a contradiction here?	no	1
+4 june is fierce or rose is mysterious
+5 june is not fierce and rose is not mysterious
+6 There is a contradiction here?	yes	1
+7 bobbie is flabby or shirley is fancy
+8 neither bobbie is flabby nor shirley is fancy
+9 There is a contradiction here?	yes	1
+10 amy is obnoxious or darren is silly
+11 amy is not obnoxious and darren is not silly
+12 There is a contradiction here?	yes	1
+13 lisa is bewildered or barry is obedient
+14 lisa is not bewildered or barry is not obedient
+15 There is a contradiction here?	no	1
+1 deanna is muscular or jon is attractive
+2 neither deanna is muscular nor jon is attractive
+3 There is a contradiction here?	yes	1
+4 walter is jolly or michele is unsightly
+5 michele is not unsightly
+6 There is a contradiction here?	no	1
+7 carole is defeated or donald is worried
+8 neither carole is defeated nor donald is worried
+9 There is a contradiction here?	yes	1
+10 jesse is helpless or jill is nervous
+11 jesse is not helpless and jill is not nervous
+12 There is a contradiction here?	yes	1
+13 alvin is dazzling or evelyn is pitiful
+14 alvin is not dazzling and evelyn is not pitiful
+15 There is a contradiction here?	yes	1
+1 heather is helpless or nicole is uptight
+2 heather is not helpless and nicole is not uptight
+3 There is a contradiction here?	yes	1
+4 william is gorgeous or judy is witty
+5 neither william is gorgeous nor judy is witty
+6 There is a contradiction here?	yes	1
+7 clarence is clean or marilyn is happy
+8 neither clarence is clean nor marilyn is happy
+9 There is a contradiction here?	yes	1
+10 janie is fierce or melvin is glamorous
+11 janie is not fierce and melvin is not glamorous
+12 There is a contradiction here?	yes	1
+13 jeffery is stocky or susan is muscular
+14 susan is not muscular
+15 There is a contradiction here?	no	1
+1 eric is faithful or manuel is gorgeous
+2 eric is not faithful or manuel is not gorgeous
+3 There is a contradiction here?	no	1
+4 hilda is kind or ricky is shapely
+5 hilda is not kind or ricky is not shapely
+6 There is a contradiction here?	no	1
+7 shawn is ambitious or gail is zealous
+8 gail is not zealous
+9 There is a contradiction here?	no	1
+10 flora is bewildered or leslie is thoughtless
+11 flora is not bewildered and leslie is not thoughtless
+12 There is a contradiction here?	yes	1
+13 lynn is panicky or marcia is delightful
+14 marcia is not delightful
+15 There is a contradiction here?	no	1
+1 cassandra is panicky or frederick is defeated
+2 frederick is not defeated
+3 There is a contradiction here?	no	1
+4 paul is skinny or genevieve is nervous
+5 genevieve is not nervous
+6 There is a contradiction here?	no	1
+7 michael is defeated or wesley is nervous
+8 michael is not defeated or wesley is not nervous
+9 There is a contradiction here?	no	1
+10 audrey is polite or stephen is defeated
+11 audrey is not polite and stephen is not defeated
+12 There is a contradiction here?	yes	1
+13 carole is drab or marguerite is ugly
+14 carole is not drab or marguerite is not ugly
+15 There is a contradiction here?	no	1
+1 renee is brave or bill is lazy
+2 neither renee is brave nor bill is lazy
+3 There is a contradiction here?	yes	1
+4 miriam is polite or dwayne is worried
+5 neither miriam is polite nor dwayne is worried
+6 There is a contradiction here?	yes	1
+7 dale is eager or jill is proud
+8 neither dale is eager nor jill is proud
+9 There is a contradiction here?	yes	1
+10 sandra is ugly or rachel is helpless
+11 sandra is not ugly or rachel is not helpless
+12 There is a contradiction here?	no	1
+13 randy is fit or patrick is delightful
+14 randy is not fit or patrick is not delightful
+15 There is a contradiction here?	no	1
+1 danny is proud or lynda is unsightly
+2 danny is not proud and lynda is not unsightly
+3 There is a contradiction here?	yes	1
+4 carla is handsome or erik is delightful
+5 carla is not handsome
+6 There is a contradiction here?	no	1
+7 amber is victorious or alfred is handsome
+8 amber is not victorious and alfred is not handsome
+9 There is a contradiction here?	yes	1
+10 keith is calm or karl is clean
+11 keith is not calm and karl is not clean
+12 There is a contradiction here?	yes	1
+13 esther is delightful or floyd is plump
+14 floyd is not plump
+15 There is a contradiction here?	no	1
+1 charlene is zealous or carl is plump
+2 charlene is not zealous or carl is not plump
+3 There is a contradiction here?	no	1
+4 jessie is silly or zachary is brave
+5 jessie is not silly or zachary is not brave
+6 There is a contradiction here?	no	1
+7 ray is shapely or tracy is gentle
+8 neither ray is shapely nor tracy is gentle
+9 There is a contradiction here?	yes	1
+10 joel is shapely or megan is kind
+11 joel is not shapely and megan is not kind
+12 There is a contradiction here?	yes	1
+13 natalie is witty or seth is worried
+14 natalie is not witty and seth is not worried
+15 There is a contradiction here?	yes	1
+1 justin is clumsy or belinda is ugly
+2 justin is not clumsy and belinda is not ugly
+3 There is a contradiction here?	yes	1
+4 sherri is shapely or aaron is itchy
+5 sherri is not shapely and aaron is not itchy
+6 There is a contradiction here?	yes	1
+7 alex is gorgeous or debbie is flabby
+8 alex is not gorgeous or debbie is not flabby
+9 There is a contradiction here?	no	1
+10 norman is agreeable or matthew is beautiful
+11 norman is not agreeable or matthew is not beautiful
+12 There is a contradiction here?	no	1
+13 julia is shapely or lisa is obnoxious
+14 neither julia is shapely nor lisa is obnoxious
+15 There is a contradiction here?	yes	1
+1 ricky is lively or guy is proud
+2 ricky is not lively or guy is not proud
+3 There is a contradiction here?	no	1
+4 brenda is uptight or vanessa is helpless
+5 neither brenda is uptight nor vanessa is helpless
+6 There is a contradiction here?	yes	1
+7 chad is jolly or shirley is dazzling
+8 chad is not jolly and shirley is not dazzling
+9 There is a contradiction here?	yes	1
+10 glenda is helpless or carlos is short
+11 carlos is not short
+12 There is a contradiction here?	no	1
+13 fannie is obnoxious or ethel is worried
+14 fannie is not obnoxious or ethel is not worried
+15 There is a contradiction here?	no	1
+1 rodney is attractive or sidney is victorious
+2 rodney is not attractive or sidney is not victorious
+3 There is a contradiction here?	no	1
+4 lorraine is defeated or armando is chubby
+5 lorraine is not defeated or armando is not chubby
+6 There is a contradiction here?	no	1
+7 gloria is obedient or molly is witty
+8 gloria is not obedient or molly is not witty
+9 There is a contradiction here?	no	1
+10 mabel is elegant or shawn is thankful
+11 neither mabel is elegant nor shawn is thankful
+12 There is a contradiction here?	yes	1
+13 corey is glamorous or shelley is ugly
+14 corey is not glamorous
+15 There is a contradiction here?	no	1
+1 nicholas is pitiful or beverly is unsightly
+2 neither nicholas is pitiful nor beverly is unsightly
+3 There is a contradiction here?	yes	1
+4 lisa is jealous or leslie is long
+5 neither lisa is jealous nor leslie is long
+6 There is a contradiction here?	yes	1
+7 julio is happy or angela is attractive
+8 julio is not happy or angela is not attractive
+9 There is a contradiction here?	no	1
+10 lance is glamorous or floyd is defeated
+11 lance is not glamorous or floyd is not defeated
+12 There is a contradiction here?	no	1
+13 enrique is bald or kimberly is shapely
+14 neither enrique is bald nor kimberly is shapely
+15 There is a contradiction here?	yes	1
+1 violet is plump or jeff is lively
+2 violet is not plump or jeff is not lively
+3 There is a contradiction here?	no	1
+4 marie is panicky or tamara is shapely
+5 neither marie is panicky nor tamara is shapely
+6 There is a contradiction here?	yes	1
+7 lydia is itchy or betty is worried
+8 neither lydia is itchy nor betty is worried
+9 There is a contradiction here?	yes	1
+10 terry is bald or jean is beautiful
+11 terry is not bald or jean is not beautiful
+12 There is a contradiction here?	no	1
+13 pauline is happy or lucille is flabby
+14 neither pauline is happy nor lucille is flabby
+15 There is a contradiction here?	yes	1
+1 todd is clean or brandon is unkempt
+2 todd is not clean and brandon is not unkempt
+3 There is a contradiction here?	yes	1
+4 shawn is grumpy or samuel is nervous
+5 neither shawn is grumpy nor samuel is nervous
+6 There is a contradiction here?	yes	1
+7 edwin is calm or darryl is plump
+8 edwin is not calm or darryl is not plump
+9 There is a contradiction here?	no	1
+10 bob is itchy or jesse is attractive
+11 bob is not itchy or jesse is not attractive
+12 There is a contradiction here?	no	1
+13 kayla is plain or amelia is worried
+14 kayla is not plain and amelia is not worried
+15 There is a contradiction here?	yes	1
+1 anna is repulsive or marie is fierce
+2 marie is not fierce
+3 There is a contradiction here?	no	1
+4 jaime is plain or dana is calm
+5 jaime is not plain or dana is not calm
+6 There is a contradiction here?	no	1
+7 susan is unsightly or johnnie is unkempt
+8 susan is not unsightly or johnnie is not unkempt
+9 There is a contradiction here?	no	1
+10 laura is embarrassed or james is lazy
+11 laura is not embarrassed and james is not lazy
+12 There is a contradiction here?	yes	1
+13 stephanie is uptight or jessie is elegant
+14 neither stephanie is uptight nor jessie is elegant
+15 There is a contradiction here?	yes	1
+1 irma is drab or brent is jealous
+2 irma is not drab or brent is not jealous
+3 There is a contradiction here?	no	1
+4 vivian is ugly or ivan is beautiful
+5 neither vivian is ugly nor ivan is beautiful
+6 There is a contradiction here?	yes	1
+7 tony is scruffy or jacqueline is angry
+8 neither tony is scruffy nor jacqueline is angry
+9 There is a contradiction here?	yes	1
+10 ella is flabby or patricia is plump
+11 ella is not flabby
+12 There is a contradiction here?	no	1
+13 scott is faithful or mario is obnoxious
+14 neither scott is faithful nor mario is obnoxious
+15 There is a contradiction here?	yes	1
+1 chad is mysterious or keith is thankful
+2 chad is not mysterious and keith is not thankful
+3 There is a contradiction here?	yes	1
+4 zachary is glamorous or gene is fierce
+5 neither zachary is glamorous nor gene is fierce
+6 There is a contradiction here?	yes	1
+7 yvette is jolly or lucille is polite
+8 yvette is not jolly
+9 There is a contradiction here?	no	1
+10 matthew is delightful or kelly is clumsy
+11 matthew is not delightful or kelly is not clumsy
+12 There is a contradiction here?	no	1
+13 candace is delightful or amber is wonderful
+14 candace is not delightful and amber is not wonderful
+15 There is a contradiction here?	yes	1
+1 veronica is repulsive or travis is delightful
+2 veronica is not repulsive or travis is not delightful
+3 There is a contradiction here?	no	1
+4 donna is thankful or guadalupe is polite
+5 donna is not thankful and guadalupe is not polite
+6 There is a contradiction here?	yes	1
+7 donald is unkempt or larry is dazzling
+8 donald is not unkempt and larry is not dazzling
+9 There is a contradiction here?	yes	1
+10 george is chubby or theresa is unkempt
+11 neither george is chubby nor theresa is unkempt
+12 There is a contradiction here?	yes	1
+13 cathy is skinny or clyde is victorious
+14 cathy is not skinny
+15 There is a contradiction here?	no	1
+1 minnie is repulsive or darryl is lively
+2 minnie is not repulsive or darryl is not lively
+3 There is a contradiction here?	no	1
+4 sidney is repulsive or julian is ugly
+5 sidney is not repulsive and julian is not ugly
+6 There is a contradiction here?	yes	1
+7 melody is drab or tara is bewildered
+8 melody is not drab and tara is not bewildered
+9 There is a contradiction here?	yes	1
+10 beulah is attractive or brandon is clean
+11 neither beulah is attractive nor brandon is clean
+12 There is a contradiction here?	yes	1
+13 sonia is dazzling or pedro is helpless
+14 sonia is not dazzling or pedro is not helpless
+15 There is a contradiction here?	no	1
+1 lauren is mysterious or ashley is agreeable
+2 lauren is not mysterious or ashley is not agreeable
+3 There is a contradiction here?	no	1
+4 bryan is kind or anthony is jolly
+5 bryan is not kind and anthony is not jolly
+6 There is a contradiction here?	yes	1
+7 kathryn is uptight or angela is aggressive
+8 kathryn is not uptight
+9 There is a contradiction here?	no	1
+10 melinda is clumsy or jordan is fit
+11 neither melinda is clumsy nor jordan is fit
+12 There is a contradiction here?	yes	1
+13 larry is muscular or jeanette is flabby
+14 larry is not muscular or jeanette is not flabby
+15 There is a contradiction here?	no	1
+1 hattie is thoughtless or rebecca is scruffy
+2 rebecca is not scruffy
+3 There is a contradiction here?	no	1
+4 kathleen is lively or juan is nice
+5 kathleen is not lively and juan is not nice
+6 There is a contradiction here?	yes	1
+7 howard is kind or diana is gorgeous
+8 howard is not kind or diana is not gorgeous
+9 There is a contradiction here?	no	1
+10 jeanette is obnoxious or stanley is lively
+11 jeanette is not obnoxious or stanley is not lively
+12 There is a contradiction here?	no	1
+13 anthony is polite or randall is witty
+14 anthony is not polite and randall is not witty
+15 There is a contradiction here?	yes	1
+1 bernard is fit or sergio is bald
+2 neither bernard is fit nor sergio is bald
+3 There is a contradiction here?	yes	1
+4 wayne is scruffy or stacey is agreeable
+5 neither wayne is scruffy nor stacey is agreeable
+6 There is a contradiction here?	yes	1
+7 luz is gentle or vernon is long
+8 neither luz is gentle nor vernon is long
+9 There is a contradiction here?	yes	1
+10 javier is long or patricia is ugly
+11 javier is not long and patricia is not ugly
+12 There is a contradiction here?	yes	1
+13 albert is witty or alice is polite
+14 albert is not witty or alice is not polite
+15 There is a contradiction here?	no	1
+1 teresa is clumsy or victor is lively
+2 neither teresa is clumsy nor victor is lively
+3 There is a contradiction here?	yes	1
+4 elmer is chubby or joyce is embarrassed
+5 elmer is not chubby or joyce is not embarrassed
+6 There is a contradiction here?	no	1
+7 sherri is polite or danielle is bald
+8 sherri is not polite and danielle is not bald
+9 There is a contradiction here?	yes	1
+10 scott is lazy or tracy is drab
+11 tracy is not drab
+12 There is a contradiction here?	no	1
+13 cecilia is dazzling or monique is clean
+14 cecilia is not dazzling
+15 There is a contradiction here?	no	1
+1 daniel is aggressive or michelle is chubby
+2 daniel is not aggressive
+3 There is a contradiction here?	no	1
+4 tonya is unkempt or glenda is long
+5 glenda is not long
+6 There is a contradiction here?	no	1
+7 leslie is aggressive or tyler is mysterious
+8 leslie is not aggressive and tyler is not mysterious
+9 There is a contradiction here?	yes	1
+10 velma is elegant or mabel is mysterious
+11 velma is not elegant or mabel is not mysterious
+12 There is a contradiction here?	no	1
+13 terrance is gentle or edna is victorious
+14 terrance is not gentle or edna is not victorious
+15 There is a contradiction here?	no	1
+1 katie is helpless or raymond is obnoxious
+2 katie is not helpless and raymond is not obnoxious
+3 There is a contradiction here?	yes	1
+4 jean is wonderful or lola is quaint
+5 jean is not wonderful and lola is not quaint
+6 There is a contradiction here?	yes	1
+7 harvey is eager or renee is angry
+8 neither harvey is eager nor renee is angry
+9 There is a contradiction here?	yes	1
+10 billy is lively or jodi is scary
+11 neither billy is lively nor jodi is scary
+12 There is a contradiction here?	yes	1
+13 christopher is delightful or roger is silly
+14 christopher is not delightful or roger is not silly
+15 There is a contradiction here?	no	1
+1 eva is drab or johnnie is victorious
+2 neither eva is drab nor johnnie is victorious
+3 There is a contradiction here?	yes	1
+4 madeline is elegant or william is obedient
+5 madeline is not elegant and william is not obedient
+6 There is a contradiction here?	yes	1
+7 eleanor is faithful or kay is unsightly
+8 kay is not unsightly
+9 There is a contradiction here?	no	1
+10 colleen is short or lewis is gorgeous
+11 colleen is not short
+12 There is a contradiction here?	no	1
+13 alfred is uptight or debbie is quaint
+14 alfred is not uptight and debbie is not quaint
+15 There is a contradiction here?	yes	1
+1 tyler is defeated or deanna is fierce
+2 neither tyler is defeated nor deanna is fierce
+3 There is a contradiction here?	yes	1
+4 dorothy is gentle or william is bald
+5 dorothy is not gentle and william is not bald
+6 There is a contradiction here?	yes	1
+7 sam is brave or wilma is uptight
+8 sam is not brave or wilma is not uptight
+9 There is a contradiction here?	no	1
+10 darlene is ambitious or diana is itchy
+11 darlene is not ambitious and diana is not itchy
+12 There is a contradiction here?	yes	1
+13 marsha is repulsive or elmer is aggressive
+14 neither marsha is repulsive nor elmer is aggressive
+15 There is a contradiction here?	yes	1
+1 danielle is repulsive or tammy is zealous
+2 danielle is not repulsive or tammy is not zealous
+3 There is a contradiction here?	no	1
+4 derek is panicky or mattie is witty
+5 derek is not panicky or mattie is not witty
+6 There is a contradiction here?	no	1
+7 dana is glamorous or natasha is brave
+8 dana is not glamorous and natasha is not brave
+9 There is a contradiction here?	yes	1
+10 angela is happy or kristy is magnificent
+11 neither angela is happy nor kristy is magnificent
+12 There is a contradiction here?	yes	1
+13 salvador is unkempt or jon is kind
+14 salvador is not unkempt and jon is not kind
+15 There is a contradiction here?	yes	1
+1 christy is angry or adrian is dazzling
+2 christy is not angry and adrian is not dazzling
+3 There is a contradiction here?	yes	1
+4 misty is dazzling or tyler is ambitious
+5 misty is not dazzling and tyler is not ambitious
+6 There is a contradiction here?	yes	1
+7 kim is handsome or nancy is calm
+8 nancy is not calm
+9 There is a contradiction here?	no	1
+10 delores is clean or lynn is helpless
+11 delores is not clean and lynn is not helpless
+12 There is a contradiction here?	yes	1
+13 janice is muscular or linda is quaint
+14 linda is not quaint
+15 There is a contradiction here?	no	1
+1 cathy is gentle or louise is handsome
+2 neither cathy is gentle nor louise is handsome
+3 There is a contradiction here?	yes	1
+4 hector is pitiful or eugene is thankful
+5 hector is not pitiful
+6 There is a contradiction here?	no	1
+7 greg is defeated or jenny is lazy
+8 neither greg is defeated nor jenny is lazy
+9 There is a contradiction here?	yes	1
+10 denise is attractive or wesley is unsightly
+11 denise is not attractive or wesley is not unsightly
+12 There is a contradiction here?	no	1
+13 judith is wonderful or charlotte is obedient
+14 judith is not wonderful
+15 There is a contradiction here?	no	1
+1 nicole is defeated or reginald is ambitious
+2 nicole is not defeated or reginald is not ambitious
+3 There is a contradiction here?	no	1
+4 freddie is glamorous or sharon is eager
+5 neither freddie is glamorous nor sharon is eager
+6 There is a contradiction here?	yes	1
+7 blanche is beautiful or tamara is scruffy
+8 blanche is not beautiful or tamara is not scruffy
+9 There is a contradiction here?	no	1
+10 jeremy is aggressive or bruce is silly
+11 jeremy is not aggressive and bruce is not silly
+12 There is a contradiction here?	yes	1
+13 georgia is ugly or marcia is aggressive
+14 georgia is not ugly or marcia is not aggressive
+15 There is a contradiction here?	no	1
+1 peggy is mysterious or betty is scary
+2 peggy is not mysterious or betty is not scary
+3 There is a contradiction here?	no	1
+4 brandi is witty or kristin is pitiful
+5 brandi is not witty or kristin is not pitiful
+6 There is a contradiction here?	no	1
+7 ruth is wonderful or patricia is unkempt
+8 ruth is not wonderful or patricia is not unkempt
+9 There is a contradiction here?	no	1
+10 annie is unsightly or mattie is muscular
+11 annie is not unsightly and mattie is not muscular
+12 There is a contradiction here?	yes	1
+13 mario is skinny or gladys is panicky
+14 neither mario is skinny nor gladys is panicky
+15 There is a contradiction here?	yes	1
+1 clarence is happy or chad is lively
+2 clarence is not happy
+3 There is a contradiction here?	no	1
+4 nathaniel is nice or sergio is clean
+5 neither nathaniel is nice nor sergio is clean
+6 There is a contradiction here?	yes	1
+7 howard is long or marion is dazzling
+8 neither howard is long nor marion is dazzling
+9 There is a contradiction here?	yes	1
+10 neil is ugly or eddie is flabby
+11 neither neil is ugly nor eddie is flabby
+12 There is a contradiction here?	yes	1
+13 carol is attractive or micheal is ugly
+14 neither carol is attractive nor micheal is ugly
+15 There is a contradiction here?	yes	1
+1 joshua is brave or billie is victorious
+2 joshua is not brave and billie is not victorious
+3 There is a contradiction here?	yes	1
+4 vincent is embarrassed or virginia is nice
+5 vincent is not embarrassed and virginia is not nice
+6 There is a contradiction here?	yes	1
+7 brittany is magnificent or wesley is elegant
+8 wesley is not elegant
+9 There is a contradiction here?	no	1
+10 arlene is elegant or sabrina is kind
+11 arlene is not elegant or sabrina is not kind
+12 There is a contradiction here?	no	1
+13 jessie is nervous or natasha is long
+14 natasha is not long
+15 There is a contradiction here?	no	1
+1 debra is worried or lance is thoughtless
+2 neither debra is worried nor lance is thoughtless
+3 There is a contradiction here?	yes	1
+4 beatrice is unkempt or kurt is proud
+5 beatrice is not unkempt
+6 There is a contradiction here?	no	1
+7 delores is dazzling or andrew is agreeable
+8 delores is not dazzling
+9 There is a contradiction here?	no	1
+10 peggy is attractive or lloyd is bald
+11 peggy is not attractive
+12 There is a contradiction here?	no	1
+13 russell is jealous or jonathan is chubby
+14 neither russell is jealous nor jonathan is chubby
+15 There is a contradiction here?	yes	1
+1 jerry is defeated or louis is short
+2 neither jerry is defeated nor louis is short
+3 There is a contradiction here?	yes	1
+4 troy is short or edgar is grumpy
+5 troy is not short and edgar is not grumpy
+6 There is a contradiction here?	yes	1
+7 kristin is lively or beulah is defeated
+8 neither kristin is lively nor beulah is defeated
+9 There is a contradiction here?	yes	1
+10 tiffany is grumpy or juan is unkempt
+11 juan is not unkempt
+12 There is a contradiction here?	no	1
+13 colleen is lazy or marie is clumsy
+14 colleen is not lazy or marie is not clumsy
+15 There is a contradiction here?	no	1
+1 howard is shapely or luis is helpless
+2 howard is not shapely and luis is not helpless
+3 There is a contradiction here?	yes	1
+4 cody is elegant or sharon is stocky
+5 cody is not elegant
+6 There is a contradiction here?	no	1
+7 janet is kind or shannon is thankful
+8 janet is not kind and shannon is not thankful
+9 There is a contradiction here?	yes	1
+10 felix is mysterious or cathy is angry
+11 felix is not mysterious or cathy is not angry
+12 There is a contradiction here?	no	1
+13 barry is witty or lucille is ambitious
+14 barry is not witty or lucille is not ambitious
+15 There is a contradiction here?	no	1
+1 danielle is happy or naomi is plump
+2 danielle is not happy or naomi is not plump
+3 There is a contradiction here?	no	1
+4 russell is grumpy or kayla is gentle
+5 russell is not grumpy
+6 There is a contradiction here?	no	1
+7 rosa is chubby or misty is plump
+8 rosa is not chubby and misty is not plump
+9 There is a contradiction here?	yes	1
+10 gene is stocky or dustin is obnoxious
+11 neither gene is stocky nor dustin is obnoxious
+12 There is a contradiction here?	yes	1
+13 sheryl is fierce or michele is gentle
+14 sheryl is not fierce and michele is not gentle
+15 There is a contradiction here?	yes	1
+1 nelson is clumsy or rafael is clean
+2 nelson is not clumsy or rafael is not clean
+3 There is a contradiction here?	no	1
+4 brenda is ambitious or rosie is nice
+5 rosie is not nice
+6 There is a contradiction here?	no	1
+7 floyd is uptight or armando is shapely
+8 floyd is not uptight and armando is not shapely
+9 There is a contradiction here?	yes	1
+10 luis is brave or amber is grumpy
+11 neither luis is brave nor amber is grumpy
+12 There is a contradiction here?	yes	1
+13 natalie is fit or jamie is fancy
+14 natalie is not fit and jamie is not fancy
+15 There is a contradiction here?	yes	1
+1 claudia is thoughtless or carol is quaint
+2 claudia is not thoughtless or carol is not quaint
+3 There is a contradiction here?	no	1
+4 lula is panicky or todd is silly
+5 lula is not panicky
+6 There is a contradiction here?	no	1
+7 lance is lively or joan is long
+8 lance is not lively and joan is not long
+9 There is a contradiction here?	yes	1
+10 alice is glamorous or jon is clumsy
+11 alice is not glamorous or jon is not clumsy
+12 There is a contradiction here?	no	1
+13 nathan is handsome or todd is scary
+14 nathan is not handsome and todd is not scary
+15 There is a contradiction here?	yes	1
+1 josephine is aggressive or vickie is bald
+2 vickie is not bald
+3 There is a contradiction here?	no	1
+4 guadalupe is nervous or norma is mysterious
+5 guadalupe is not nervous or norma is not mysterious
+6 There is a contradiction here?	no	1
+7 kurt is eager or melinda is clean
+8 kurt is not eager and melinda is not clean
+9 There is a contradiction here?	yes	1
+10 claude is faithful or freddie is gorgeous
+11 neither claude is faithful nor freddie is gorgeous
+12 There is a contradiction here?	yes	1
+13 jamie is victorious or lucille is polite
+14 jamie is not victorious and lucille is not polite
+15 There is a contradiction here?	yes	1
+1 julian is plump or marilyn is clumsy
+2 julian is not plump or marilyn is not clumsy
+3 There is a contradiction here?	no	1
+4 rosie is aggressive or olga is agreeable
+5 rosie is not aggressive or olga is not agreeable
+6 There is a contradiction here?	no	1
+7 jordan is quaint or toni is drab
+8 jordan is not quaint and toni is not drab
+9 There is a contradiction here?	yes	1
+10 thomas is itchy or leslie is muscular
+11 thomas is not itchy and leslie is not muscular
+12 There is a contradiction here?	yes	1
+13 alfredo is skinny or earl is happy
+14 neither alfredo is skinny nor earl is happy
+15 There is a contradiction here?	yes	1
+1 bruce is silly or agnes is zealous
+2 agnes is not zealous
+3 There is a contradiction here?	no	1
+4 ivan is lively or megan is polite
+5 neither ivan is lively nor megan is polite
+6 There is a contradiction here?	yes	1
+7 derrick is ambitious or esther is stocky
+8 derrick is not ambitious
+9 There is a contradiction here?	no	1
+10 howard is embarrassed or wendy is delightful
+11 neither howard is embarrassed nor wendy is delightful
+12 There is a contradiction here?	yes	1
+13 tyrone is dazzling or jamie is clean
+14 tyrone is not dazzling or jamie is not clean
+15 There is a contradiction here?	no	1
+1 maryann is thoughtless or tiffany is lazy
+2 maryann is not thoughtless and tiffany is not lazy
+3 There is a contradiction here?	yes	1
+4 lynn is magnificent or melody is aggressive
+5 lynn is not magnificent or melody is not aggressive
+6 There is a contradiction here?	no	1
+7 ada is dazzling or claudia is gentle
+8 neither ada is dazzling nor claudia is gentle
+9 There is a contradiction here?	yes	1
+10 bryan is gorgeous or leona is kind
+11 neither bryan is gorgeous nor leona is kind
+12 There is a contradiction here?	yes	1
+13 holly is wonderful or kathryn is panicky
+14 holly is not wonderful
+15 There is a contradiction here?	no	1
+1 nicole is stocky or glenn is panicky
+2 nicole is not stocky and glenn is not panicky
+3 There is a contradiction here?	yes	1
+4 eileen is ambitious or kristen is zealous
+5 neither eileen is ambitious nor kristen is zealous
+6 There is a contradiction here?	yes	1
+7 stephen is short or eileen is scruffy
+8 neither stephen is short nor eileen is scruffy
+9 There is a contradiction here?	yes	1
+10 dawn is plump or clifford is polite
+11 dawn is not plump or clifford is not polite
+12 There is a contradiction here?	no	1
+13 courtney is proud or frank is clumsy
+14 courtney is not proud or frank is not clumsy
+15 There is a contradiction here?	no	1
+1 lori is drab or beverly is shapely
+2 neither lori is drab nor beverly is shapely
+3 There is a contradiction here?	yes	1
+4 karen is victorious or dwight is long
+5 karen is not victorious or dwight is not long
+6 There is a contradiction here?	no	1
+7 carole is eager or nicholas is silly
+8 neither carole is eager nor nicholas is silly
+9 There is a contradiction here?	yes	1
+10 leslie is proud or heather is stocky
+11 leslie is not proud or heather is not stocky
+12 There is a contradiction here?	no	1
+13 bernice is plump or earl is quaint
+14 bernice is not plump or earl is not quaint
+15 There is a contradiction here?	no	1
+1 anne is unkempt or tracey is calm
+2 anne is not unkempt and tracey is not calm
+3 There is a contradiction here?	yes	1
+4 rick is dazzling or charlene is muscular
+5 rick is not dazzling and charlene is not muscular
+6 There is a contradiction here?	yes	1
+7 duane is plain or madeline is attractive
+8 neither duane is plain nor madeline is attractive
+9 There is a contradiction here?	yes	1
+10 lynn is nervous or debra is helpless
+11 neither lynn is nervous nor debra is helpless
+12 There is a contradiction here?	yes	1
+13 joe is drab or mattie is magnificent
+14 joe is not drab or mattie is not magnificent
+15 There is a contradiction here?	no	1
+1 jessie is proud or bill is worried
+2 neither jessie is proud nor bill is worried
+3 There is a contradiction here?	yes	1
+4 gregory is stocky or eunice is magnificent
+5 neither gregory is stocky nor eunice is magnificent
+6 There is a contradiction here?	yes	1
+7 craig is quaint or heidi is stocky
+8 neither craig is quaint nor heidi is stocky
+9 There is a contradiction here?	yes	1
+10 harvey is eager or gerald is faithful
+11 harvey is not eager or gerald is not faithful
+12 There is a contradiction here?	no	1
+13 candace is agreeable or bertha is mysterious
+14 neither candace is agreeable nor bertha is mysterious
+15 There is a contradiction here?	yes	1
+1 janet is defeated or carol is long
+2 janet is not defeated
+3 There is a contradiction here?	no	1
+4 rosa is nice or jenny is handsome
+5 rosa is not nice and jenny is not handsome
+6 There is a contradiction here?	yes	1
+7 tony is victorious or jackie is shapely
+8 tony is not victorious or jackie is not shapely
+9 There is a contradiction here?	no	1
+10 velma is kind or iris is scruffy
+11 velma is not kind and iris is not scruffy
+12 There is a contradiction here?	yes	1
+13 lee is unsightly or hattie is delightful
+14 neither lee is unsightly nor hattie is delightful
+15 There is a contradiction here?	yes	1
+1 cassandra is thankful or alexander is worried
+2 cassandra is not thankful and alexander is not worried
+3 There is a contradiction here?	yes	1
+4 kirk is unsightly or stacy is calm
+5 kirk is not unsightly or stacy is not calm
+6 There is a contradiction here?	no	1
+7 alfredo is thankful or joyce is ugly
+8 alfredo is not thankful or joyce is not ugly
+9 There is a contradiction here?	no	1
+10 joseph is embarrassed or madeline is thankful
+11 joseph is not embarrassed and madeline is not thankful
+12 There is a contradiction here?	yes	1
+13 brittany is muscular or fannie is beautiful
+14 brittany is not muscular or fannie is not beautiful
+15 There is a contradiction here?	no	1
+1 rose is gentle or anthony is quaint
+2 anthony is not quaint
+3 There is a contradiction here?	no	1
+4 billy is nervous or ethel is plain
+5 billy is not nervous or ethel is not plain
+6 There is a contradiction here?	no	1
+7 richard is gentle or elmer is drab
+8 elmer is not drab
+9 There is a contradiction here?	no	1
+10 jaime is uptight or enrique is obnoxious
+11 jaime is not uptight
+12 There is a contradiction here?	no	1
+13 edith is glamorous or susie is happy
+14 edith is not glamorous or susie is not happy
+15 There is a contradiction here?	no	1
+1 dora is drab or norma is repulsive
+2 dora is not drab and norma is not repulsive
+3 There is a contradiction here?	yes	1
+4 daniel is lively or olivia is unkempt
+5 daniel is not lively or olivia is not unkempt
+6 There is a contradiction here?	no	1
+7 erin is kind or terrance is bald
+8 erin is not kind or terrance is not bald
+9 There is a contradiction here?	no	1
+10 charlene is proud or lance is obedient
+11 charlene is not proud
+12 There is a contradiction here?	no	1
+13 donald is eager or monique is thankful
+14 donald is not eager
+15 There is a contradiction here?	no	1
+1 brandon is plump or roland is dazzling
+2 brandon is not plump and roland is not dazzling
+3 There is a contradiction here?	yes	1
+4 eileen is angry or adrian is shapely
+5 eileen is not angry and adrian is not shapely
+6 There is a contradiction here?	yes	1
+7 tracy is worried or kelly is mysterious
+8 tracy is not worried and kelly is not mysterious
+9 There is a contradiction here?	yes	1
+10 claudia is bewildered or crystal is jolly
+11 claudia is not bewildered
+12 There is a contradiction here?	no	1
+13 kelly is drab or tiffany is unkempt
+14 neither kelly is drab nor tiffany is unkempt
+15 There is a contradiction here?	yes	1
+1 kyle is helpless or sonya is polite
+2 kyle is not helpless or sonya is not polite
+3 There is a contradiction here?	no	1
+4 tracy is scary or neil is muscular
+5 neither tracy is scary nor neil is muscular
+6 There is a contradiction here?	yes	1
+7 isabel is drab or tommy is gentle
+8 isabel is not drab and tommy is not gentle
+9 There is a contradiction here?	yes	1
+10 tom is unsightly or manuel is itchy
+11 tom is not unsightly or manuel is not itchy
+12 There is a contradiction here?	no	1
+13 veronica is lazy or stanley is fit
+14 neither veronica is lazy nor stanley is fit
+15 There is a contradiction here?	yes	1
+1 raymond is quaint or willard is short
+2 raymond is not quaint and willard is not short
+3 There is a contradiction here?	yes	1
+4 edith is grumpy or courtney is worried
+5 edith is not grumpy or courtney is not worried
+6 There is a contradiction here?	no	1
+7 inez is happy or barry is polite
+8 inez is not happy
+9 There is a contradiction here?	no	1
+10 maryann is shapely or debbie is agreeable
+11 maryann is not shapely or debbie is not agreeable
+12 There is a contradiction here?	no	1
+13 sherry is witty or isaac is polite
+14 sherry is not witty
+15 There is a contradiction here?	no	1
+1 anthony is drab or kent is gorgeous
+2 kent is not gorgeous
+3 There is a contradiction here?	no	1
+4 carrie is obedient or christina is delightful
+5 christina is not delightful
+6 There is a contradiction here?	no	1
+7 yolanda is shapely or bessie is thankful
+8 yolanda is not shapely
+9 There is a contradiction here?	no	1
+10 gloria is unkempt or lewis is eager
+11 neither gloria is unkempt nor lewis is eager
+12 There is a contradiction here?	yes	1
+13 brittany is nervous or johnny is zealous
+14 brittany is not nervous and johnny is not zealous
+15 There is a contradiction here?	yes	1
+1 bertha is defeated or miguel is kind
+2 miguel is not kind
+3 There is a contradiction here?	no	1
+4 ada is lively or sandra is uptight
+5 ada is not lively or sandra is not uptight
+6 There is a contradiction here?	no	1
+7 janet is worried or peggy is fancy
+8 neither janet is worried nor peggy is fancy
+9 There is a contradiction here?	yes	1
+10 maryann is eager or jeff is fit
+11 maryann is not eager and jeff is not fit
+12 There is a contradiction here?	yes	1
+13 ruth is zealous or blanche is scary
+14 ruth is not zealous and blanche is not scary
+15 There is a contradiction here?	yes	1
+1 tracy is faithful or heidi is agreeable
+2 tracy is not faithful or heidi is not agreeable
+3 There is a contradiction here?	no	1
+4 loretta is elegant or jerry is skinny
+5 neither loretta is elegant nor jerry is skinny
+6 There is a contradiction here?	yes	1
+7 janie is witty or penny is kind
+8 penny is not kind
+9 There is a contradiction here?	no	1
+10 kent is dazzling or sandy is fit
+11 kent is not dazzling and sandy is not fit
+12 There is a contradiction here?	yes	1
+13 terry is scruffy or hilda is chubby
+14 terry is not scruffy and hilda is not chubby
+15 There is a contradiction here?	yes	1
+1 jeremy is unkempt or bill is polite
+2 jeremy is not unkempt or bill is not polite
+3 There is a contradiction here?	no	1
+4 lula is short or guadalupe is ugly
+5 neither lula is short nor guadalupe is ugly
+6 There is a contradiction here?	yes	1
+7 kim is angry or blanche is repulsive
+8 kim is not angry or blanche is not repulsive
+9 There is a contradiction here?	no	1
+10 donna is worried or stacy is defeated
+11 stacy is not defeated
+12 There is a contradiction here?	no	1
+13 randy is zealous or bernard is pitiful
+14 neither randy is zealous nor bernard is pitiful
+15 There is a contradiction here?	yes	1
+1 cecil is nice or warren is skinny
+2 cecil is not nice or warren is not skinny
+3 There is a contradiction here?	no	1
+4 rosemary is obedient or mark is ambitious
+5 neither rosemary is obedient nor mark is ambitious
+6 There is a contradiction here?	yes	1
+7 roberta is pitiful or allan is helpless
+8 roberta is not pitiful
+9 There is a contradiction here?	no	1
+10 marlene is nice or nellie is beautiful
+11 marlene is not nice and nellie is not beautiful
+12 There is a contradiction here?	yes	1
+13 gail is fancy or jaime is unkempt
+14 neither gail is fancy nor jaime is unkempt
+15 There is a contradiction here?	yes	1
+1 danielle is gentle or gwendolyn is scruffy
+2 gwendolyn is not scruffy
+3 There is a contradiction here?	no	1
+4 antonio is victorious or curtis is agreeable
+5 neither antonio is victorious nor curtis is agreeable
+6 There is a contradiction here?	yes	1
+7 molly is stocky or julie is chubby
+8 neither molly is stocky nor julie is chubby
+9 There is a contradiction here?	yes	1
+10 vickie is agreeable or ethel is panicky
+11 vickie is not agreeable
+12 There is a contradiction here?	no	1
+13 lois is glamorous or constance is jolly
+14 lois is not glamorous or constance is not jolly
+15 There is a contradiction here?	no	1
+1 patricia is calm or max is clumsy
+2 max is not clumsy
+3 There is a contradiction here?	no	1
+4 curtis is eager or rosa is nervous
+5 rosa is not nervous
+6 There is a contradiction here?	no	1
+7 elaine is unsightly or bradley is obnoxious
+8 neither elaine is unsightly nor bradley is obnoxious
+9 There is a contradiction here?	yes	1
+10 russell is stocky or janet is eager
+11 russell is not stocky or janet is not eager
+12 There is a contradiction here?	no	1
+13 douglas is fit or ian is gentle
+14 douglas is not fit
+15 There is a contradiction here?	no	1
+1 priscilla is obnoxious or glen is thoughtless
+2 glen is not thoughtless
+3 There is a contradiction here?	no	1
+4 lena is proud or rafael is thankful
+5 lena is not proud and rafael is not thankful
+6 There is a contradiction here?	yes	1
+7 brad is victorious or carl is jolly
+8 neither brad is victorious nor carl is jolly
+9 There is a contradiction here?	yes	1
+10 roland is zealous or donna is drab
+11 roland is not zealous and donna is not drab
+12 There is a contradiction here?	yes	1
+13 sheryl is jealous or julian is victorious
+14 sheryl is not jealous and julian is not victorious
+15 There is a contradiction here?	yes	1
+1 melinda is happy or susie is obnoxious
+2 neither melinda is happy nor susie is obnoxious
+3 There is a contradiction here?	yes	1
+4 maurice is magnificent or gene is nice
+5 gene is not nice
+6 There is a contradiction here?	no	1
+7 gina is pitiful or alma is scary
+8 gina is not pitiful
+9 There is a contradiction here?	no	1
+10 edgar is mysterious or andre is gentle
+11 edgar is not mysterious
+12 There is a contradiction here?	no	1
+13 isabel is obedient or karl is uptight
+14 isabel is not obedient and karl is not uptight
+15 There is a contradiction here?	yes	1
+1 richard is elegant or ben is faithful
+2 richard is not elegant or ben is not faithful
+3 There is a contradiction here?	no	1
+4 jason is witty or cynthia is attractive
+5 neither jason is witty nor cynthia is attractive
+6 There is a contradiction here?	yes	1
+7 javier is plump or andy is happy
+8 neither javier is plump nor andy is happy
+9 There is a contradiction here?	yes	1
+10 edwin is unsightly or clarence is gentle
+11 neither edwin is unsightly nor clarence is gentle
+12 There is a contradiction here?	yes	1
+13 cory is worried or ted is kind
+14 neither cory is worried nor ted is kind
+15 There is a contradiction here?	yes	1
+1 brad is handsome or natasha is flabby
+2 natasha is not flabby
+3 There is a contradiction here?	no	1
+4 gerald is victorious or miguel is embarrassed
+5 gerald is not victorious
+6 There is a contradiction here?	no	1
+7 hattie is shapely or margarita is gorgeous
+8 hattie is not shapely or margarita is not gorgeous
+9 There is a contradiction here?	no	1
+10 grace is calm or kimberly is clumsy
+11 neither grace is calm nor kimberly is clumsy
+12 There is a contradiction here?	yes	1
+13 cassandra is drab or amelia is zealous
+14 cassandra is not drab and amelia is not zealous
+15 There is a contradiction here?	yes	1
+1 carmen is witty or gordon is kind
+2 carmen is not witty or gordon is not kind
+3 There is a contradiction here?	no	1
+4 franklin is repulsive or russell is handsome
+5 neither franklin is repulsive nor russell is handsome
+6 There is a contradiction here?	yes	1
+7 inez is clean or casey is faithful
+8 neither inez is clean nor casey is faithful
+9 There is a contradiction here?	yes	1
+10 jeffrey is scruffy or marlene is itchy
+11 jeffrey is not scruffy and marlene is not itchy
+12 There is a contradiction here?	yes	1
+13 kathleen is plain or corey is unsightly
+14 kathleen is not plain or corey is not unsightly
+15 There is a contradiction here?	no	1
+1 charles is angry or lula is mysterious
+2 charles is not angry or lula is not mysterious
+3 There is a contradiction here?	no	1
+4 megan is scruffy or tammy is elegant
+5 megan is not scruffy
+6 There is a contradiction here?	no	1
+7 darryl is kind or marshall is angry
+8 darryl is not kind and marshall is not angry
+9 There is a contradiction here?	yes	1
+10 michele is stocky or iris is fierce
+11 iris is not fierce
+12 There is a contradiction here?	no	1
+13 casey is unsightly or jason is victorious
+14 neither casey is unsightly nor jason is victorious
+15 There is a contradiction here?	yes	1
+1 patricia is defeated or suzanne is fit
+2 patricia is not defeated and suzanne is not fit
+3 There is a contradiction here?	yes	1
+4 lori is obnoxious or katherine is thoughtless
+5 neither lori is obnoxious nor katherine is thoughtless
+6 There is a contradiction here?	yes	1
+7 jeffrey is uptight or inez is zealous
+8 jeffrey is not uptight or inez is not zealous
+9 There is a contradiction here?	no	1
+10 cecil is witty or jennifer is dazzling
+11 cecil is not witty or jennifer is not dazzling
+12 There is a contradiction here?	no	1
+13 victoria is bewildered or alvin is drab
+14 victoria is not bewildered or alvin is not drab
+15 There is a contradiction here?	no	1
+1 marcus is jealous or howard is fancy
+2 marcus is not jealous or howard is not fancy
+3 There is a contradiction here?	no	1
+4 mabel is silly or kirk is fancy
+5 mabel is not silly or kirk is not fancy
+6 There is a contradiction here?	no	1
+7 edgar is thankful or brandi is brave
+8 edgar is not thankful and brandi is not brave
+9 There is a contradiction here?	yes	1
+10 marguerite is thoughtless or francisco is beautiful
+11 neither marguerite is thoughtless nor francisco is beautiful
+12 There is a contradiction here?	yes	1
+13 andrew is delightful or kathryn is unkempt
+14 neither andrew is delightful nor kathryn is unkempt
+15 There is a contradiction here?	yes	1
+1 sharon is lively or susie is bald
+2 sharon is not lively and susie is not bald
+3 There is a contradiction here?	yes	1
+4 inez is chubby or mathew is clean
+5 inez is not chubby and mathew is not clean
+6 There is a contradiction here?	yes	1
+7 joan is magnificent or terri is aggressive
+8 neither joan is magnificent nor terri is aggressive
+9 There is a contradiction here?	yes	1
+10 opal is chubby or sonia is flabby
+11 opal is not chubby or sonia is not flabby
+12 There is a contradiction here?	no	1
+13 jamie is dazzling or jacqueline is glamorous
+14 neither jamie is dazzling nor jacqueline is glamorous
+15 There is a contradiction here?	yes	1
+1 leroy is obedient or martin is short
+2 neither leroy is obedient nor martin is short
+3 There is a contradiction here?	yes	1
+4 don is nice or melissa is lively
+5 don is not nice or melissa is not lively
+6 There is a contradiction here?	no	1
+7 clarence is lazy or debbie is mysterious
+8 debbie is not mysterious
+9 There is a contradiction here?	no	1
+10 kevin is kind or jeffrey is gentle
+11 jeffrey is not gentle
+12 There is a contradiction here?	no	1
+13 stella is long or ray is scary
+14 stella is not long and ray is not scary
+15 There is a contradiction here?	yes	1
+1 sonya is long or pedro is plain
+2 sonya is not long
+3 There is a contradiction here?	no	1
+4 michael is zealous or adam is gorgeous
+5 neither michael is zealous nor adam is gorgeous
+6 There is a contradiction here?	yes	1
+7 tom is lazy or ellen is obnoxious
+8 tom is not lazy and ellen is not obnoxious
+9 There is a contradiction here?	yes	1
+10 lena is magnificent or dolores is victorious
+11 lena is not magnificent and dolores is not victorious
+12 There is a contradiction here?	yes	1
+13 lena is bewildered or bradley is happy
+14 neither lena is bewildered nor bradley is happy
+15 There is a contradiction here?	yes	1
+1 leo is plain or roger is unkempt
+2 leo is not plain
+3 There is a contradiction here?	no	1
+4 tom is chubby or holly is muscular
+5 neither tom is chubby nor holly is muscular
+6 There is a contradiction here?	yes	1
+7 minnie is plump or lucy is defeated
+8 minnie is not plump or lucy is not defeated
+9 There is a contradiction here?	no	1
+10 shirley is clean or denise is worried
+11 denise is not worried
+12 There is a contradiction here?	no	1
+13 ruben is calm or lucy is gentle
+14 ruben is not calm or lucy is not gentle
+15 There is a contradiction here?	no	1
+1 vicki is polite or nina is ambitious
+2 neither vicki is polite nor nina is ambitious
+3 There is a contradiction here?	yes	1
+4 ethel is wonderful or bernard is helpless
+5 ethel is not wonderful or bernard is not helpless
+6 There is a contradiction here?	no	1
+7 henry is calm or derek is fancy
+8 henry is not calm
+9 There is a contradiction here?	no	1
+10 penny is uptight or edward is grumpy
+11 edward is not grumpy
+12 There is a contradiction here?	no	1
+13 antoinette is uptight or rosie is stocky
+14 neither antoinette is uptight nor rosie is stocky
+15 There is a contradiction here?	yes	1
+1 kay is skinny or melinda is jealous
+2 melinda is not jealous
+3 There is a contradiction here?	no	1
+4 audrey is gorgeous or cecilia is jolly
+5 cecilia is not jolly
+6 There is a contradiction here?	no	1
+7 jenny is grumpy or tanya is shapely
+8 jenny is not grumpy and tanya is not shapely
+9 There is a contradiction here?	yes	1
+10 jill is shapely or adam is proud
+11 jill is not shapely and adam is not proud
+12 There is a contradiction here?	yes	1
+13 loretta is brave or felicia is faithful
+14 neither loretta is brave nor felicia is faithful
+15 There is a contradiction here?	yes	1
+1 neil is agreeable or timothy is unkempt
+2 neil is not agreeable or timothy is not unkempt
+3 There is a contradiction here?	no	1
+4 kristi is victorious or doris is obedient
+5 neither kristi is victorious nor doris is obedient
+6 There is a contradiction here?	yes	1
+7 danny is fit or brandy is chubby
+8 danny is not fit and brandy is not chubby
+9 There is a contradiction here?	yes	1
+10 edith is itchy or margarita is brave
+11 edith is not itchy and margarita is not brave
+12 There is a contradiction here?	yes	1
+13 kristine is clean or vera is thankful
+14 kristine is not clean and vera is not thankful
+15 There is a contradiction here?	yes	1
+1 casey is obedient or lloyd is jolly
+2 neither casey is obedient nor lloyd is jolly
+3 There is a contradiction here?	yes	1
+4 candace is lively or lynn is embarrassed
+5 neither candace is lively nor lynn is embarrassed
+6 There is a contradiction here?	yes	1
+7 jodi is shapely or mae is aggressive
+8 neither jodi is shapely nor mae is aggressive
+9 There is a contradiction here?	yes	1
+10 michele is fancy or ann is gorgeous
+11 michele is not fancy or ann is not gorgeous
+12 There is a contradiction here?	no	1
+13 nancy is fancy or richard is obedient
+14 richard is not obedient
+15 There is a contradiction here?	no	1
+1 jordan is pitiful or willard is itchy
+2 jordan is not pitiful and willard is not itchy
+3 There is a contradiction here?	yes	1
+4 justin is silly or billie is clumsy
+5 justin is not silly and billie is not clumsy
+6 There is a contradiction here?	yes	1
+7 isaac is helpless or antonio is proud
+8 isaac is not helpless or antonio is not proud
+9 There is a contradiction here?	no	1
+10 nelson is dazzling or teresa is repulsive
+11 neither nelson is dazzling nor teresa is repulsive
+12 There is a contradiction here?	yes	1
+13 debbie is calm or barbara is polite
+14 debbie is not calm or barbara is not polite
+15 There is a contradiction here?	no	1
+1 maxine is polite or danny is embarrassed
+2 neither maxine is polite nor danny is embarrassed
+3 There is a contradiction here?	yes	1
+4 arthur is polite or danny is bewildered
+5 neither arthur is polite nor danny is bewildered
+6 There is a contradiction here?	yes	1
+7 angie is ugly or frances is clumsy
+8 angie is not ugly or frances is not clumsy
+9 There is a contradiction here?	no	1
+10 arthur is bald or barry is repulsive
+11 neither arthur is bald nor barry is repulsive
+12 There is a contradiction here?	yes	1
+13 harry is defeated or lola is jolly
+14 neither harry is defeated nor lola is jolly
+15 There is a contradiction here?	yes	1
+1 ron is happy or milton is uptight
+2 ron is not happy or milton is not uptight
+3 There is a contradiction here?	no	1
+4 joe is beautiful or marsha is wonderful
+5 marsha is not wonderful
+6 There is a contradiction here?	no	1
+7 leo is angry or andre is mysterious
+8 leo is not angry and andre is not mysterious
+9 There is a contradiction here?	yes	1
+10 gwendolyn is delightful or lee is nice
+11 gwendolyn is not delightful or lee is not nice
+12 There is a contradiction here?	no	1
+13 wesley is drab or rene is silly
+14 wesley is not drab or rene is not silly
+15 There is a contradiction here?	no	1
+1 kristin is fit or elsie is kind
+2 kristin is not fit and elsie is not kind
+3 There is a contradiction here?	yes	1
+4 anna is faithful or molly is stocky
+5 anna is not faithful or molly is not stocky
+6 There is a contradiction here?	no	1
+7 shelly is embarrassed or keith is happy
+8 shelly is not embarrassed and keith is not happy
+9 There is a contradiction here?	yes	1
+10 crystal is happy or yvonne is ambitious
+11 crystal is not happy or yvonne is not ambitious
+12 There is a contradiction here?	no	1
+13 earl is jealous or harry is fierce
+14 earl is not jealous and harry is not fierce
+15 There is a contradiction here?	yes	1
+1 everett is magnificent or elaine is fit
+2 elaine is not fit
+3 There is a contradiction here?	no	1
+4 marjorie is calm or glenda is angry
+5 marjorie is not calm
+6 There is a contradiction here?	no	1
+7 vincent is victorious or catherine is clean
+8 vincent is not victorious and catherine is not clean
+9 There is a contradiction here?	yes	1
+10 lonnie is gorgeous or kelly is scruffy
+11 lonnie is not gorgeous and kelly is not scruffy
+12 There is a contradiction here?	yes	1
+13 vera is agreeable or gloria is worried
+14 vera is not agreeable and gloria is not worried
+15 There is a contradiction here?	yes	1
+1 debra is skinny or shawn is shapely
+2 debra is not skinny and shawn is not shapely
+3 There is a contradiction here?	yes	1
+4 pearl is clean or amber is eager
+5 pearl is not clean
+6 There is a contradiction here?	no	1
+7 julio is thankful or christy is uptight
+8 julio is not thankful and christy is not uptight
+9 There is a contradiction here?	yes	1
+10 ricky is clumsy or earl is happy
+11 neither ricky is clumsy nor earl is happy
+12 There is a contradiction here?	yes	1
+13 elmer is jealous or regina is victorious
+14 elmer is not jealous and regina is not victorious
+15 There is a contradiction here?	yes	1
+1 debra is ambitious or irma is aggressive
+2 debra is not ambitious and irma is not aggressive
+3 There is a contradiction here?	yes	1
+4 hector is handsome or lindsey is muscular
+5 hector is not handsome and lindsey is not muscular
+6 There is a contradiction here?	yes	1
+7 ida is ugly or francisco is scary
+8 neither ida is ugly nor francisco is scary
+9 There is a contradiction here?	yes	1
+10 darrell is quaint or charles is attractive
+11 darrell is not quaint and charles is not attractive
+12 There is a contradiction here?	yes	1
+13 agnes is calm or jerome is handsome
+14 neither agnes is calm nor jerome is handsome
+15 There is a contradiction here?	yes	1
+1 heidi is skinny or joel is obedient
+2 heidi is not skinny and joel is not obedient
+3 There is a contradiction here?	yes	1
+4 angie is fit or richard is chubby
+5 angie is not fit or richard is not chubby
+6 There is a contradiction here?	no	1
+7 lucille is shapely or sabrina is unsightly
+8 lucille is not shapely and sabrina is not unsightly
+9 There is a contradiction here?	yes	1
+10 jamie is angry or edith is uptight
+11 jamie is not angry
+12 There is a contradiction here?	no	1
+13 benjamin is proud or morris is polite
+14 neither benjamin is proud nor morris is polite
+15 There is a contradiction here?	yes	1
+1 bessie is aggressive or chris is gorgeous
+2 bessie is not aggressive or chris is not gorgeous
+3 There is a contradiction here?	no	1
+4 harvey is happy or walter is proud
+5 neither harvey is happy nor walter is proud
+6 There is a contradiction here?	yes	1
+7 tammy is calm or ada is chubby
+8 tammy is not calm
+9 There is a contradiction here?	no	1
+10 wendy is gorgeous or vickie is worried
+11 wendy is not gorgeous or vickie is not worried
+12 There is a contradiction here?	no	1
+13 frank is plump or audrey is kind
+14 audrey is not kind
+15 There is a contradiction here?	no	1
+1 franklin is happy or gail is grumpy
+2 franklin is not happy and gail is not grumpy
+3 There is a contradiction here?	yes	1
+4 kristy is thankful or luis is clumsy
+5 luis is not clumsy
+6 There is a contradiction here?	no	1
+7 shawn is polite or jordan is long
+8 neither shawn is polite nor jordan is long
+9 There is a contradiction here?	yes	1
+10 danny is happy or mitchell is silly
+11 danny is not happy or mitchell is not silly
+12 There is a contradiction here?	no	1
+13 bryan is pitiful or claire is plump
+14 neither bryan is pitiful nor claire is plump
+15 There is a contradiction here?	yes	1
+1 edna is muscular or reginald is silly
+2 edna is not muscular or reginald is not silly
+3 There is a contradiction here?	no	1
+4 kristin is obedient or francis is thoughtless
+5 kristin is not obedient or francis is not thoughtless
+6 There is a contradiction here?	no	1
+7 diana is fancy or eunice is uptight
+8 eunice is not uptight
+9 There is a contradiction here?	no	1
+10 herbert is glamorous or beatrice is fancy
+11 neither herbert is glamorous nor beatrice is fancy
+12 There is a contradiction here?	yes	1
+13 molly is nice or genevieve is aggressive
+14 neither molly is nice nor genevieve is aggressive
+15 There is a contradiction here?	yes	1
+1 courtney is skinny or clara is polite
+2 neither courtney is skinny nor clara is polite
+3 There is a contradiction here?	yes	1
+4 kay is angry or anthony is repulsive
+5 kay is not angry or anthony is not repulsive
+6 There is a contradiction here?	no	1
+7 vivian is clean or alberta is flabby
+8 vivian is not clean and alberta is not flabby
+9 There is a contradiction here?	yes	1
+10 vicki is gorgeous or christina is delightful
+11 vicki is not gorgeous and christina is not delightful
+12 There is a contradiction here?	yes	1
+13 penny is nice or patsy is lively
+14 penny is not nice or patsy is not lively
+15 There is a contradiction here?	no	1
+1 ida is jealous or alberto is elegant
+2 ida is not jealous or alberto is not elegant
+3 There is a contradiction here?	no	1
+4 karl is attractive or madeline is uptight
+5 karl is not attractive
+6 There is a contradiction here?	no	1
+7 doris is brave or lucille is bald
+8 neither doris is brave nor lucille is bald
+9 There is a contradiction here?	yes	1
+10 edward is scruffy or albert is scary
+11 neither edward is scruffy nor albert is scary
+12 There is a contradiction here?	yes	1
+13 ronnie is aggressive or warren is clumsy
+14 ronnie is not aggressive and warren is not clumsy
+15 There is a contradiction here?	yes	1
+1 lori is nice or warren is thankful
+2 lori is not nice or warren is not thankful
+3 There is a contradiction here?	no	1
+4 judith is nice or anthony is chubby
+5 judith is not nice and anthony is not chubby
+6 There is a contradiction here?	yes	1
+7 antoinette is calm or blanche is drab
+8 antoinette is not calm
+9 There is a contradiction here?	no	1
+10 christian is faithful or dennis is repulsive
+11 christian is not faithful
+12 There is a contradiction here?	no	1
+13 rick is pitiful or cathy is angry
+14 neither rick is pitiful nor cathy is angry
+15 There is a contradiction here?	yes	1
+1 bob is muscular or yvette is clean
+2 bob is not muscular
+3 There is a contradiction here?	no	1
+4 marcia is silly or melanie is thoughtless
+5 melanie is not thoughtless
+6 There is a contradiction here?	no	1
+7 gene is attractive or lydia is panicky
+8 gene is not attractive and lydia is not panicky
+9 There is a contradiction here?	yes	1
+10 terry is uptight or guadalupe is scruffy
+11 terry is not uptight or guadalupe is not scruffy
+12 There is a contradiction here?	no	1
+13 kirk is bewildered or vicki is kind
+14 neither kirk is bewildered nor vicki is kind
+15 There is a contradiction here?	yes	1
+1 terrance is handsome or kathleen is witty
+2 kathleen is not witty
+3 There is a contradiction here?	no	1
+4 esther is jolly or bryan is ugly
+5 esther is not jolly and bryan is not ugly
+6 There is a contradiction here?	yes	1
+7 sean is panicky or ronnie is pitiful
+8 ronnie is not pitiful
+9 There is a contradiction here?	no	1
+10 stephen is itchy or judith is embarrassed
+11 stephen is not itchy or judith is not embarrassed
+12 There is a contradiction here?	no	1
+13 wilma is eager or pauline is embarrassed
+14 wilma is not eager and pauline is not embarrassed
+15 There is a contradiction here?	yes	1
+1 janice is jolly or kristi is panicky
+2 neither janice is jolly nor kristi is panicky
+3 There is a contradiction here?	yes	1
+4 barry is witty or gary is gentle
+5 barry is not witty and gary is not gentle
+6 There is a contradiction here?	yes	1
+7 darlene is skinny or kim is shapely
+8 neither darlene is skinny nor kim is shapely
+9 There is a contradiction here?	yes	1
+10 darrell is bewildered or howard is nervous
+11 neither darrell is bewildered nor howard is nervous
+12 There is a contradiction here?	yes	1
+13 claudia is panicky or madeline is lazy
+14 neither claudia is panicky nor madeline is lazy
+15 There is a contradiction here?	yes	1
+1 cassandra is handsome or rafael is attractive
+2 neither cassandra is handsome nor rafael is attractive
+3 There is a contradiction here?	yes	1
+4 maryann is wonderful or rosie is attractive
+5 neither maryann is wonderful nor rosie is attractive
+6 There is a contradiction here?	yes	1
+7 pauline is drab or jenny is glamorous
+8 jenny is not glamorous
+9 There is a contradiction here?	no	1
+10 gordon is beautiful or carla is attractive
+11 gordon is not beautiful or carla is not attractive
+12 There is a contradiction here?	no	1
+13 martin is dazzling or morris is scruffy
+14 martin is not dazzling
+15 There is a contradiction here?	no	1
+1 jennifer is gorgeous or chris is elegant
+2 neither jennifer is gorgeous nor chris is elegant
+3 There is a contradiction here?	yes	1
+4 kristina is scary or margaret is plain
+5 neither kristina is scary nor margaret is plain
+6 There is a contradiction here?	yes	1
+7 luis is mysterious or sheila is obedient
+8 luis is not mysterious
+9 There is a contradiction here?	no	1
+10 carrie is jealous or cindy is nice
+11 carrie is not jealous or cindy is not nice
+12 There is a contradiction here?	no	1
+13 lynda is calm or florence is drab
+14 lynda is not calm
+15 There is a contradiction here?	no	1
+1 william is panicky or gloria is repulsive
+2 william is not panicky
+3 There is a contradiction here?	no	1
+4 jane is victorious or luz is jealous
+5 neither jane is victorious nor luz is jealous
+6 There is a contradiction here?	yes	1
+7 ross is skinny or brandi is beautiful
+8 brandi is not beautiful
+9 There is a contradiction here?	no	1
+10 alicia is clean or bob is happy
+11 neither alicia is clean nor bob is happy
+12 There is a contradiction here?	yes	1
+13 duane is repulsive or earl is flabby
+14 duane is not repulsive or earl is not flabby
+15 There is a contradiction here?	no	1
+1 mario is polite or eric is ambitious
+2 mario is not polite or eric is not ambitious
+3 There is a contradiction here?	no	1
+4 ramona is elegant or eva is victorious
+5 ramona is not elegant and eva is not victorious
+6 There is a contradiction here?	yes	1
+7 angie is bald or shane is gentle
+8 angie is not bald
+9 There is a contradiction here?	no	1
+10 dean is jealous or clayton is ugly
+11 dean is not jealous or clayton is not ugly
+12 There is a contradiction here?	no	1
+13 clarence is fancy or micheal is uptight
+14 clarence is not fancy and micheal is not uptight
+15 There is a contradiction here?	yes	1
+1 craig is obedient or marion is stocky
+2 craig is not obedient
+3 There is a contradiction here?	no	1
+4 randy is faithful or shelly is dazzling
+5 neither randy is faithful nor shelly is dazzling
+6 There is a contradiction here?	yes	1
+7 bobby is delightful or kathryn is glamorous
+8 bobby is not delightful and kathryn is not glamorous
+9 There is a contradiction here?	yes	1
+10 norman is shapely or nancy is brave
+11 neither norman is shapely nor nancy is brave
+12 There is a contradiction here?	yes	1
+13 yvette is obnoxious or lola is muscular
+14 neither yvette is obnoxious nor lola is muscular
+15 There is a contradiction here?	yes	1
+1 constance is attractive or nina is aggressive
+2 neither constance is attractive nor nina is aggressive
+3 There is a contradiction here?	yes	1
+4 robin is fit or bonnie is agreeable
+5 robin is not fit
+6 There is a contradiction here?	no	1
+7 milton is aggressive or elaine is proud
+8 neither milton is aggressive nor elaine is proud
+9 There is a contradiction here?	yes	1
+10 jeffery is victorious or cynthia is panicky
+11 jeffery is not victorious and cynthia is not panicky
+12 There is a contradiction here?	yes	1
+13 jenny is silly or elaine is brave
+14 jenny is not silly and elaine is not brave
+15 There is a contradiction here?	yes	1
+1 ted is plain or jeanne is lively
+2 ted is not plain
+3 There is a contradiction here?	no	1
+4 stacey is scruffy or darlene is quaint
+5 stacey is not scruffy and darlene is not quaint
+6 There is a contradiction here?	yes	1
+7 isaac is happy or arnold is uptight
+8 isaac is not happy and arnold is not uptight
+9 There is a contradiction here?	yes	1
+10 michele is repulsive or misty is lively
+11 michele is not repulsive and misty is not lively
+12 There is a contradiction here?	yes	1
+13 shirley is plain or mike is polite
+14 neither shirley is plain nor mike is polite
+15 There is a contradiction here?	yes	1
+1 tyrone is lazy or minnie is gorgeous
+2 neither tyrone is lazy nor minnie is gorgeous
+3 There is a contradiction here?	yes	1
+4 janie is magnificent or derrick is worried
+5 neither janie is magnificent nor derrick is worried
+6 There is a contradiction here?	yes	1
+7 ann is agreeable or shawn is plain
+8 ann is not agreeable or shawn is not plain
+9 There is a contradiction here?	no	1
+10 billie is ugly or tracy is muscular
+11 neither billie is ugly nor tracy is muscular
+12 There is a contradiction here?	yes	1
+13 roger is happy or alison is clean
+14 roger is not happy or alison is not clean
+15 There is a contradiction here?	no	1
+1 karl is gorgeous or rick is fit
+2 karl is not gorgeous and rick is not fit
+3 There is a contradiction here?	yes	1
+4 cynthia is magnificent or crystal is gorgeous
+5 neither cynthia is magnificent nor crystal is gorgeous
+6 There is a contradiction here?	yes	1
+7 lillian is aggressive or kelly is unsightly
+8 neither lillian is aggressive nor kelly is unsightly
+9 There is a contradiction here?	yes	1
+10 leslie is beautiful or derrick is drab
+11 neither leslie is beautiful nor derrick is drab
+12 There is a contradiction here?	yes	1
+13 darren is mysterious or kevin is polite
+14 kevin is not polite
+15 There is a contradiction here?	no	1
+1 priscilla is helpless or pedro is agreeable
+2 pedro is not agreeable
+3 There is a contradiction here?	no	1
+4 eduardo is drab or howard is jolly
+5 eduardo is not drab and howard is not jolly
+6 There is a contradiction here?	yes	1
+7 tina is unkempt or holly is pitiful
+8 tina is not unkempt and holly is not pitiful
+9 There is a contradiction here?	yes	1
+10 johnnie is delightful or jill is itchy
+11 johnnie is not delightful or jill is not itchy
+12 There is a contradiction here?	no	1
+13 kent is repulsive or carolyn is fancy
+14 kent is not repulsive and carolyn is not fancy
+15 There is a contradiction here?	yes	1
+1 anthony is repulsive or veronica is ugly
+2 anthony is not repulsive
+3 There is a contradiction here?	no	1
+4 marion is itchy or alice is drab
+5 alice is not drab
+6 There is a contradiction here?	no	1
+7 sergio is unsightly or jesse is grumpy
+8 sergio is not unsightly and jesse is not grumpy
+9 There is a contradiction here?	yes	1
+10 kyle is scary or kristy is embarrassed
+11 kristy is not embarrassed
+12 There is a contradiction here?	no	1
+13 kevin is wonderful or albert is gorgeous
+14 kevin is not wonderful and albert is not gorgeous
+15 There is a contradiction here?	yes	1
+1 audrey is skinny or dora is repulsive
+2 neither audrey is skinny nor dora is repulsive
+3 There is a contradiction here?	yes	1
+4 kristy is helpless or claudia is aggressive
+5 kristy is not helpless or claudia is not aggressive
+6 There is a contradiction here?	no	1
+7 billie is clumsy or stacy is bald
+8 billie is not clumsy or stacy is not bald
+9 There is a contradiction here?	no	1
+10 debra is victorious or brandy is ambitious
+11 debra is not victorious or brandy is not ambitious
+12 There is a contradiction here?	no	1
+13 beverly is proud or bonnie is glamorous
+14 beverly is not proud
+15 There is a contradiction here?	no	1
+1 sharon is beautiful or luz is clean
+2 luz is not clean
+3 There is a contradiction here?	no	1
+4 curtis is shapely or kimberly is helpless
+5 curtis is not shapely or kimberly is not helpless
+6 There is a contradiction here?	no	1
+7 connie is thankful or terry is angry
+8 connie is not thankful and terry is not angry
+9 There is a contradiction here?	yes	1
+10 lester is panicky or lee is nervous
+11 lee is not nervous
+12 There is a contradiction here?	no	1
+13 earl is clean or kelly is fancy
+14 neither earl is clean nor kelly is fancy
+15 There is a contradiction here?	yes	1
+1 heidi is gentle or darlene is plain
+2 heidi is not gentle and darlene is not plain
+3 There is a contradiction here?	yes	1
+4 marsha is uptight or jason is panicky
+5 neither marsha is uptight nor jason is panicky
+6 There is a contradiction here?	yes	1
+7 maggie is quaint or annie is defeated
+8 maggie is not quaint
+9 There is a contradiction here?	no	1
+10 sheila is worried or jennifer is happy
+11 sheila is not worried and jennifer is not happy
+12 There is a contradiction here?	yes	1
+13 mabel is itchy or manuel is helpless
+14 manuel is not helpless
+15 There is a contradiction here?	no	1
+1 sharon is bald or greg is beautiful
+2 sharon is not bald or greg is not beautiful
+3 There is a contradiction here?	no	1
+4 anita is happy or lola is magnificent
+5 anita is not happy or lola is not magnificent
+6 There is a contradiction here?	no	1
+7 rosemary is worried or sean is elegant
+8 neither rosemary is worried nor sean is elegant
+9 There is a contradiction here?	yes	1
+10 geraldine is muscular or irma is wonderful
+11 geraldine is not muscular or irma is not wonderful
+12 There is a contradiction here?	no	1
+13 sherry is panicky or claire is scruffy
+14 sherry is not panicky and claire is not scruffy
+15 There is a contradiction here?	yes	1
+1 ruth is mysterious or lydia is flabby
+2 ruth is not mysterious
+3 There is a contradiction here?	no	1
+4 kristina is flabby or gwendolyn is beautiful
+5 kristina is not flabby or gwendolyn is not beautiful
+6 There is a contradiction here?	no	1
+7 agnes is zealous or paul is unsightly
+8 paul is not unsightly
+9 There is a contradiction here?	no	1
+10 michele is polite or sam is wonderful
+11 michele is not polite or sam is not wonderful
+12 There is a contradiction here?	no	1
+13 bobbie is victorious or jonathan is proud
+14 neither bobbie is victorious nor jonathan is proud
+15 There is a contradiction here?	yes	1
+1 frederick is nice or kim is magnificent
+2 frederick is not nice and kim is not magnificent
+3 There is a contradiction here?	yes	1
+4 tara is chubby or jared is witty
+5 jared is not witty
+6 There is a contradiction here?	no	1
+7 juanita is kind or louis is glamorous
+8 juanita is not kind and louis is not glamorous
+9 There is a contradiction here?	yes	1
+10 nellie is silly or carol is attractive
+11 nellie is not silly and carol is not attractive
+12 There is a contradiction here?	yes	1
+13 ruth is skinny or madeline is bewildered
+14 neither ruth is skinny nor madeline is bewildered
+15 There is a contradiction here?	yes	1
+1 bobby is delightful or karl is stocky
+2 bobby is not delightful or karl is not stocky
+3 There is a contradiction here?	no	1
+4 mildred is fierce or sara is grumpy
+5 neither mildred is fierce nor sara is grumpy
+6 There is a contradiction here?	yes	1
+7 daisy is zealous or patsy is scary
+8 neither daisy is zealous nor patsy is scary
+9 There is a contradiction here?	yes	1
+10 eduardo is zealous or clyde is grumpy
+11 neither eduardo is zealous nor clyde is grumpy
+12 There is a contradiction here?	yes	1
+13 susie is itchy or angela is calm
+14 angela is not calm
+15 There is a contradiction here?	no	1

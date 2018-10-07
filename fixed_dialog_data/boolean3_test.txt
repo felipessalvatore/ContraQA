@@ -1,0 +1,3000 @@
+1 karen has visited bucharest and oradea
+2 karen didnt visit oradea
+3 There is a contradiction here?	yes	1
+4 fannie has traveled to slobozia and dej
+5 colleen didnt travel to slobozia
+6 There is a contradiction here?	no	1
+7 calvin has visited tulcea and timisoara
+8 leo didnt visit timisoara
+9 There is a contradiction here?	no	1
+10 melvin has traveled to blaj and vaslui
+11 melvin didnt travel to blaj
+12 There is a contradiction here?	yes	1
+13 philip and dana went to arad
+14 dana didnt go to arad
+15 There is a contradiction here?	yes	1
+1 wesley and walter have traveled to vaslui
+2 walter didnt travel to vaslui
+3 There is a contradiction here?	yes	1
+4 blanche and tanya have visited dej
+5 kathryn didnt visit dej
+6 There is a contradiction here?	no	1
+7 nathaniel has traveled to vaslui and arad
+8 nathaniel didnt travel to reghin
+9 There is a contradiction here?	no	1
+10 raymond and scott went to hunedoara
+11 raymond didnt go to hunedoara
+12 There is a contradiction here?	yes	1
+13 glenda and roland have traveled to bucharest
+14 margie didnt travel to bucharest
+15 There is a contradiction here?	no	1
+1 roy has traveled to timisoara and deva
+2 roy didnt travel to deva
+3 There is a contradiction here?	yes	1
+4 gary and donna have visited mangalia
+5 terri didnt visit mangalia
+6 There is a contradiction here?	no	1
+7 frances and marshall have visited baia mare
+8 jodi didnt visit baia mare
+9 There is a contradiction here?	no	1
+10 nathaniel and dale went to oradea
+11 dale didnt go to oradea
+12 There is a contradiction here?	yes	1
+13 jo has traveled to baia mare and hunedoara
+14 jo didnt travel to baia mare
+15 There is a contradiction here?	yes	1
+1 marsha has visited reghin and hunedoara
+2 marsha didnt visit reghin
+3 There is a contradiction here?	yes	1
+4 sherri and constance have traveled to reghin
+5 constance didnt travel to reghin
+6 There is a contradiction here?	yes	1
+7 antoinette went to slobozia and craiova
+8 antoinette didnt go to slobozia
+9 There is a contradiction here?	yes	1
+10 jorge and rose went to baia mare
+11 casey didnt go to baia mare
+12 There is a contradiction here?	no	1
+13 marion has traveled to slatina and lugoj
+14 terry didnt travel to slatina
+15 There is a contradiction here?	no	1
+1 mario went to slatina and arad
+2 mario didnt go to tulcea
+3 There is a contradiction here?	no	1
+4 olivia and jodi have traveled to timisoara
+5 suzanne didnt travel to timisoara
+6 There is a contradiction here?	no	1
+7 constance has visited timisoara and blaj
+8 constance didnt visit timisoara
+9 There is a contradiction here?	yes	1
+10 zachary and joann went to mangalia
+11 zachary didnt go to mangalia
+12 There is a contradiction here?	yes	1
+13 maxine and jessie went to turda
+14 jessie didnt go to clujnapoca
+15 There is a contradiction here?	no	1
+1 glenda has traveled to arad and reghin
+2 glenda didnt travel to reghin
+3 There is a contradiction here?	yes	1
+4 natasha and madeline have visited timisoara
+5 madeline didnt visit timisoara
+6 There is a contradiction here?	yes	1
+7 penny has visited slobozia and bucharest
+8 bonnie didnt visit slobozia
+9 There is a contradiction here?	no	1
+10 molly and leon went to lugoj
+11 leon didnt go to lugoj
+12 There is a contradiction here?	yes	1
+13 terrence and robert went to giurgiu
+14 veronica didnt go to giurgiu
+15 There is a contradiction here?	no	1
+1 wendy and iris went to oradea
+2 wendy didnt go to vaslui
+3 There is a contradiction here?	no	1
+4 maggie went to bucharest and slatina
+5 maggie didnt go to slatina
+6 There is a contradiction here?	yes	1
+7 rose has visited tulcea and hunedoara
+8 rose didnt visit hunedoara
+9 There is a contradiction here?	yes	1
+10 courtney and alice have visited hunedoara
+11 bill didnt visit hunedoara
+12 There is a contradiction here?	no	1
+13 alex and gertrude have traveled to dej
+14 alex didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 jared and misty have visited slobozia
+2 misty didnt visit reghin
+3 There is a contradiction here?	no	1
+4 daryl has traveled to bucharest and slatina
+5 eduardo didnt travel to bucharest
+6 There is a contradiction here?	no	1
+7 don and lee went to tulcea
+8 don didnt go to tulcea
+9 There is a contradiction here?	no	1
+10 cory has visited turda and timisoara
+11 cory didnt visit tulcea
+12 There is a contradiction here?	no	1
+13 brett and everett have visited blaj
+14 brett didnt visit vaslui
+15 There is a contradiction here?	no	1
+1 glen and bessie have visited bucharest
+2 bessie didnt visit bucharest
+3 There is a contradiction here?	yes	1
+4 ronnie has visited blaj and vaslui
+5 ronnie didnt visit blaj
+6 There is a contradiction here?	yes	1
+7 alberto has visited lugoj and bucharest
+8 alberto didnt visit bucharest
+9 There is a contradiction here?	yes	1
+10 harold and andre have visited vaslui
+11 andre didnt visit vaslui
+12 There is a contradiction here?	yes	1
+13 brad has visited bucharest and mangalia
+14 lauren didnt visit bucharest
+15 There is a contradiction here?	no	1
+1 milton went to tulcea and turda
+2 milton didnt go to tulcea
+3 There is a contradiction here?	yes	1
+4 allison has visited giurgiu and mangalia
+5 allison didnt visit giurgiu
+6 There is a contradiction here?	yes	1
+7 bobbie has traveled to reghin and bucharest
+8 bobbie didnt travel to reghin
+9 There is a contradiction here?	yes	1
+10 candice and cora have visited oradea
+11 cora didnt visit blaj
+12 There is a contradiction here?	no	1
+13 earl has traveled to lugoj and slatina
+14 earl didnt travel to slatina
+15 There is a contradiction here?	yes	1
+1 rafael and wayne went to blaj
+2 rafael didnt go to blaj
+3 There is a contradiction here?	yes	1
+4 cecil went to clujnapoca and slobozia
+5 leslie didnt go to clujnapoca
+6 There is a contradiction here?	no	1
+7 virginia and courtney have visited bucharest
+8 virginia didnt visit blaj
+9 There is a contradiction here?	no	1
+10 phyllis has visited lugoj and turda
+11 phyllis didnt visit arad
+12 There is a contradiction here?	no	1
+13 danielle has visited mangalia and arad
+14 danielle didnt visit arad
+15 There is a contradiction here?	yes	1
+1 rodney has traveled to slatina and giurgiu
+2 rodney didnt travel to bucharest
+3 There is a contradiction here?	no	1
+4 verna has traveled to bucharest and dej
+5 verna didnt travel to hunedoara
+6 There is a contradiction here?	no	1
+7 vera and candice went to slatina
+8 vera didnt go to slatina
+9 There is a contradiction here?	yes	1
+10 marc and naomi went to clujnapoca
+11 marc didnt go to giurgiu
+12 There is a contradiction here?	no	1
+13 mae has visited dej and deva
+14 mae didnt visit deva
+15 There is a contradiction here?	yes	1
+1 cathy has traveled to blaj and oradea
+2 amanda didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 dawn has visited giurgiu and baia mare
+5 teresa didnt visit giurgiu
+6 There is a contradiction here?	no	1
+7 donna has traveled to vaslui and mangalia
+8 donna didnt travel to vaslui
+9 There is a contradiction here?	yes	1
+10 beverly went to reghin and craiova
+11 beverly didnt go to craiova
+12 There is a contradiction here?	yes	1
+13 carl and angie have visited timisoara
+14 carl didnt visit timisoara
+15 There is a contradiction here?	yes	1
+1 alice went to slatina and reghin
+2 alice didnt go to slatina
+3 There is a contradiction here?	yes	1
+4 olivia and amy have visited slatina
+5 olivia didnt visit slatina
+6 There is a contradiction here?	yes	1
+7 blanche has visited slobozia and slatina
+8 blanche didnt visit slatina
+9 There is a contradiction here?	yes	1
+10 nathaniel went to craiova and clujnapoca
+11 nathaniel didnt go to craiova
+12 There is a contradiction here?	yes	1
+13 iris has visited lugoj and slatina
+14 iris didnt visit lugoj
+15 There is a contradiction here?	yes	1
+1 victoria has visited slatina and bucharest
+2 joseph didnt visit bucharest
+3 There is a contradiction here?	no	1
+4 wesley went to timisoara and giurgiu
+5 wesley didnt go to timisoara
+6 There is a contradiction here?	yes	1
+7 hector and leonard have visited reghin
+8 hector didnt visit reghin
+9 There is a contradiction here?	yes	1
+10 amy has visited lugoj and oradea
+11 anne didnt visit lugoj
+12 There is a contradiction here?	no	1
+13 julia and jerome went to oradea
+14 carol didnt go to oradea
+15 There is a contradiction here?	no	1
+1 carole and jessica went to mangalia
+2 carole didnt go to slatina
+3 There is a contradiction here?	no	1
+4 morris has visited mangalia and baia mare
+5 morris didnt visit baia mare
+6 There is a contradiction here?	yes	1
+7 terry and christy have visited slatina
+8 terry didnt visit slatina
+9 There is a contradiction here?	yes	1
+10 sue has traveled to slatina and mangalia
+11 sue didnt travel to slatina
+12 There is a contradiction here?	yes	1
+13 marcus and richard have visited tulcea
+14 richard didnt visit clujnapoca
+15 There is a contradiction here?	no	1
+1 ashley and ruby went to deva
+2 darlene didnt go to deva
+3 There is a contradiction here?	no	1
+4 brittany and jessie went to lugoj
+5 jessie didnt go to reghin
+6 There is a contradiction here?	no	1
+7 rhonda and kevin went to timisoara
+8 rhonda didnt go to deva
+9 There is a contradiction here?	no	1
+10 carolyn and jeremy went to arad
+11 jeremy didnt go to arad
+12 There is a contradiction here?	yes	1
+13 kelly went to turda and timisoara
+14 kelly didnt go to turda
+15 There is a contradiction here?	yes	1
+1 kristina and mae have traveled to blaj
+2 george didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 mattie went to arad and timisoara
+5 mattie didnt go to timisoara
+6 There is a contradiction here?	yes	1
+7 melvin and samantha have traveled to oradea
+8 bonnie didnt travel to oradea
+9 There is a contradiction here?	no	1
+10 pamela and isaac have visited arad
+11 isaac didnt visit arad
+12 There is a contradiction here?	yes	1
+13 brandy has visited clujnapoca and deva
+14 brandy didnt visit deva
+15 There is a contradiction here?	yes	1
+1 belinda went to mangalia and tulcea
+2 belinda didnt go to tulcea
+3 There is a contradiction here?	yes	1
+4 brandi has traveled to lugoj and turda
+5 brandi didnt travel to giurgiu
+6 There is a contradiction here?	no	1
+7 allison has visited blaj and hunedoara
+8 allison didnt visit blaj
+9 There is a contradiction here?	yes	1
+10 ray went to timisoara and giurgiu
+11 ray didnt go to giurgiu
+12 There is a contradiction here?	yes	1
+13 doris went to timisoara and bucharest
+14 candace didnt go to bucharest
+15 There is a contradiction here?	no	1
+1 lloyd and hugh have visited arad
+2 lauren didnt visit arad
+3 There is a contradiction here?	no	1
+4 manuel and eugene went to dej
+5 eugene didnt go to dej
+6 There is a contradiction here?	yes	1
+7 robert has traveled to mangalia and reghin
+8 robert didnt travel to mangalia
+9 There is a contradiction here?	yes	1
+10 albert has visited tulcea and tulcea
+11 misty didnt visit tulcea
+12 There is a contradiction here?	no	1
+13 lynda and nathaniel have visited mangalia
+14 kay didnt visit mangalia
+15 There is a contradiction here?	no	1
+1 ernest has visited vaslui and mangalia
+2 ernest didnt visit mangalia
+3 There is a contradiction here?	yes	1
+4 lindsey went to slobozia and hunedoara
+5 sarah didnt go to slobozia
+6 There is a contradiction here?	no	1
+7 gina went to vaslui and reghin
+8 gina didnt go to vaslui
+9 There is a contradiction here?	yes	1
+10 bill and teresa went to timisoara
+11 teresa didnt go to timisoara
+12 There is a contradiction here?	yes	1
+13 jessie has visited dej and vaslui
+14 jessie didnt visit vaslui
+15 There is a contradiction here?	yes	1
+1 brandi went to reghin and lugoj
+2 brandi didnt go to lugoj
+3 There is a contradiction here?	yes	1
+4 mamie has visited mangalia and arad
+5 mamie didnt visit mangalia
+6 There is a contradiction here?	yes	1
+7 becky and norma went to reghin
+8 becky didnt go to reghin
+9 There is a contradiction here?	yes	1
+10 eduardo has traveled to turda and dej
+11 eduardo didnt travel to dej
+12 There is a contradiction here?	yes	1
+13 jeremy went to tulcea and baia mare
+14 andy didnt go to baia mare
+15 There is a contradiction here?	no	1
+1 elsie has traveled to craiova and lugoj
+2 dolores didnt travel to lugoj
+3 There is a contradiction here?	no	1
+4 randall has visited lugoj and clujnapoca
+5 randall didnt visit lugoj
+6 There is a contradiction here?	yes	1
+7 alan and wanda have visited slobozia
+8 wanda didnt visit slobozia
+9 There is a contradiction here?	yes	1
+10 paula has traveled to craiova and oradea
+11 paula didnt travel to craiova
+12 There is a contradiction here?	yes	1
+13 morris has visited lugoj and slobozia
+14 morris didnt visit lugoj
+15 There is a contradiction here?	yes	1
+1 priscilla has traveled to mangalia and oradea
+2 priscilla didnt travel to turda
+3 There is a contradiction here?	no	1
+4 marc went to baia mare and hunedoara
+5 amber didnt go to baia mare
+6 There is a contradiction here?	no	1
+7 jack has visited hunedoara and lugoj
+8 jack didnt visit lugoj
+9 There is a contradiction here?	yes	1
+10 alex and stephanie went to clujnapoca
+11 stephanie didnt go to clujnapoca
+12 There is a contradiction here?	yes	1
+13 ross has traveled to tulcea and dej
+14 ross didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 jared and sharon have traveled to arad
+2 ethel didnt travel to arad
+3 There is a contradiction here?	no	1
+4 melvin and leah have visited clujnapoca
+5 melvin didnt visit clujnapoca
+6 There is a contradiction here?	yes	1
+7 maureen and salvador have traveled to blaj
+8 salvador didnt travel to blaj
+9 There is a contradiction here?	yes	1
+10 kathryn has traveled to arad and dej
+11 kathryn didnt travel to arad
+12 There is a contradiction here?	yes	1
+13 annie and dana went to reghin
+14 willard didnt go to reghin
+15 There is a contradiction here?	no	1
+1 leah went to lugoj and clujnapoca
+2 leah didnt go to lugoj
+3 There is a contradiction here?	yes	1
+4 claude has visited baia mare and arad
+5 claude didnt visit baia mare
+6 There is a contradiction here?	yes	1
+7 jeff and kristi went to arad
+8 jeff didnt go to arad
+9 There is a contradiction here?	yes	1
+10 ted went to hunedoara and timisoara
+11 ted didnt go to bucharest
+12 There is a contradiction here?	no	1
+13 gertrude went to clujnapoca and deva
+14 gertrude didnt go to clujnapoca
+15 There is a contradiction here?	yes	1
+1 candice and reginald have traveled to oradea
+2 hector didnt travel to oradea
+3 There is a contradiction here?	no	1
+4 franklin and kent went to vaslui
+5 mark didnt go to vaslui
+6 There is a contradiction here?	no	1
+7 colleen and kristi have visited timisoara
+8 kristi didnt visit clujnapoca
+9 There is a contradiction here?	no	1
+10 ron and darrell have traveled to slobozia
+11 colleen didnt travel to slobozia
+12 There is a contradiction here?	no	1
+13 ray and edwin have visited tulcea
+14 theodore didnt visit tulcea
+15 There is a contradiction here?	no	1
+1 hattie and renee went to clujnapoca
+2 tyrone didnt go to clujnapoca
+3 There is a contradiction here?	no	1
+4 brandon has visited reghin and arad
+5 brandon didnt visit vaslui
+6 There is a contradiction here?	no	1
+7 june has visited lugoj and craiova
+8 vernon didnt visit craiova
+9 There is a contradiction here?	no	1
+10 mary has visited oradea and dej
+11 mary didnt visit blaj
+12 There is a contradiction here?	no	1
+13 alfredo has traveled to dej and clujnapoca
+14 nina didnt travel to dej
+15 There is a contradiction here?	no	1
+1 gordon went to reghin and hunedoara
+2 gordon didnt go to reghin
+3 There is a contradiction here?	yes	1
+4 genevieve has traveled to vaslui and dej
+5 genevieve didnt travel to dej
+6 There is a contradiction here?	yes	1
+7 juan went to giurgiu and bucharest
+8 juan didnt go to slobozia
+9 There is a contradiction here?	no	1
+10 jaime went to clujnapoca and blaj
+11 jaime didnt go to craiova
+12 There is a contradiction here?	no	1
+13 greg went to bucharest and arad
+14 greg didnt go to giurgiu
+15 There is a contradiction here?	no	1
+1 ramona has visited blaj and oradea
+2 ramona didnt visit lugoj
+3 There is a contradiction here?	no	1
+4 everett and sally went to deva
+5 sally didnt go to bucharest
+6 There is a contradiction here?	no	1
+7 carole has traveled to giurgiu and craiova
+8 kelly didnt travel to giurgiu
+9 There is a contradiction here?	no	1
+10 jerome went to turda and deva
+11 jerome didnt go to mangalia
+12 There is a contradiction here?	no	1
+13 margie and erika have traveled to slatina
+14 margie didnt travel to baia mare
+15 There is a contradiction here?	no	1
+1 jason and duane have traveled to vaslui
+2 jason didnt travel to vaslui
+3 There is a contradiction here?	yes	1
+4 julia has traveled to slatina and clujnapoca
+5 julia didnt travel to turda
+6 There is a contradiction here?	no	1
+7 isabel and ramon have visited reghin
+8 jane didnt visit reghin
+9 There is a contradiction here?	no	1
+10 pamela has traveled to giurgiu and hunedoara
+11 claudia didnt travel to hunedoara
+12 There is a contradiction here?	no	1
+13 jesse has traveled to timisoara and giurgiu
+14 don didnt travel to timisoara
+15 There is a contradiction here?	no	1
+1 jason has visited craiova and mangalia
+2 carole didnt visit mangalia
+3 There is a contradiction here?	no	1
+4 billie has visited craiova and arad
+5 dean didnt visit arad
+6 There is a contradiction here?	no	1
+7 sonia and jessica went to clujnapoca
+8 clifford didnt go to clujnapoca
+9 There is a contradiction here?	no	1
+10 nathan and erik have traveled to slobozia
+11 erik didnt travel to slobozia
+12 There is a contradiction here?	no	1
+13 reginald and luis have traveled to slatina
+14 albert didnt travel to slatina
+15 There is a contradiction here?	no	1
+1 angel and viola have visited timisoara
+2 viola didnt visit dej
+3 There is a contradiction here?	no	1
+4 sharon and david have visited baia mare
+5 david didnt visit baia mare
+6 There is a contradiction here?	yes	1
+7 pearl has visited deva and turda
+8 pearl didnt visit turda
+9 There is a contradiction here?	yes	1
+10 cody went to vaslui and giurgiu
+11 elmer didnt go to vaslui
+12 There is a contradiction here?	no	1
+13 megan and howard have traveled to dej
+14 sherri didnt travel to dej
+15 There is a contradiction here?	no	1
+1 andre and cecilia have visited blaj
+2 maurice didnt visit blaj
+3 There is a contradiction here?	no	1
+4 cecilia and jill have traveled to deva
+5 cecilia didnt travel to deva
+6 There is a contradiction here?	yes	1
+7 sean and felicia have visited timisoara
+8 sean didnt visit timisoara
+9 There is a contradiction here?	yes	1
+10 rhonda and eddie went to slobozia
+11 eddie didnt go to slobozia
+12 There is a contradiction here?	yes	1
+13 loretta went to lugoj and slatina
+14 loretta didnt go to slatina
+15 There is a contradiction here?	yes	1
+1 amber and lena went to lugoj
+2 toni didnt go to lugoj
+3 There is a contradiction here?	no	1
+4 guadalupe went to vaslui and reghin
+5 guadalupe didnt go to hunedoara
+6 There is a contradiction here?	no	1
+7 natasha went to timisoara and arad
+8 natasha didnt go to clujnapoca
+9 There is a contradiction here?	no	1
+10 edward has visited slatina and blaj
+11 edward didnt visit timisoara
+12 There is a contradiction here?	no	1
+13 cathy and rafael have visited lugoj
+14 ben didnt visit lugoj
+15 There is a contradiction here?	no	1
+1 mae and gilbert have visited giurgiu
+2 vicki didnt visit giurgiu
+3 There is a contradiction here?	no	1
+4 scott went to bucharest and arad
+5 alex didnt go to bucharest
+6 There is a contradiction here?	no	1
+7 tiffany and armando have traveled to arad
+8 armando didnt travel to arad
+9 There is a contradiction here?	yes	1
+10 randy and matthew went to turda
+11 matthew didnt go to turda
+12 There is a contradiction here?	yes	1
+13 stacey has visited clujnapoca and blaj
+14 stacey didnt visit lugoj
+15 There is a contradiction here?	no	1
+1 sylvia and molly went to baia mare
+2 jodi didnt go to baia mare
+3 There is a contradiction here?	no	1
+4 patrick has visited slatina and timisoara
+5 patrick didnt visit timisoara
+6 There is a contradiction here?	yes	1
+7 bernard has visited arad and craiova
+8 bernard didnt visit arad
+9 There is a contradiction here?	yes	1
+10 donna went to slobozia and deva
+11 donna didnt go to slobozia
+12 There is a contradiction here?	yes	1
+13 wanda went to lugoj and dej
+14 alma didnt go to lugoj
+15 There is a contradiction here?	no	1
+1 mark and suzanne have visited arad
+2 suzanne didnt visit turda
+3 There is a contradiction here?	no	1
+4 shelly has traveled to bucharest and arad
+5 shelly didnt travel to bucharest
+6 There is a contradiction here?	yes	1
+7 raymond and bertha have visited hunedoara
+8 lindsay didnt visit hunedoara
+9 There is a contradiction here?	no	1
+10 janet has traveled to giurgiu and oradea
+11 zachary didnt travel to giurgiu
+12 There is a contradiction here?	no	1
+13 brian and kurt went to timisoara
+14 kurt didnt go to deva
+15 There is a contradiction here?	no	1
+1 willie and fred have visited lugoj
+2 jerry didnt visit lugoj
+3 There is a contradiction here?	no	1
+4 gregory and viola have traveled to oradea
+5 gregory didnt travel to tulcea
+6 There is a contradiction here?	no	1
+7 opal and hazel have traveled to blaj
+8 beulah didnt travel to blaj
+9 There is a contradiction here?	no	1
+10 maurice has visited turda and hunedoara
+11 maurice didnt visit lugoj
+12 There is a contradiction here?	no	1
+13 antonio has traveled to giurgiu and timisoara
+14 christy didnt travel to timisoara
+15 There is a contradiction here?	no	1
+1 clifton went to reghin and hunedoara
+2 clifton didnt go to giurgiu
+3 There is a contradiction here?	no	1
+4 thomas and roger went to oradea
+5 roger didnt go to bucharest
+6 There is a contradiction here?	no	1
+7 randy and opal went to blaj
+8 joy didnt go to blaj
+9 There is a contradiction here?	no	1
+10 kay has traveled to giurgiu and craiova
+11 kay didnt travel to giurgiu
+12 There is a contradiction here?	yes	1
+13 juanita has traveled to clujnapoca and giurgiu
+14 bradley didnt travel to clujnapoca
+15 There is a contradiction here?	no	1
+1 amy has traveled to tulcea and oradea
+2 amy didnt travel to oradea
+3 There is a contradiction here?	yes	1
+4 wilma has traveled to reghin and slobozia
+5 wilma didnt travel to lugoj
+6 There is a contradiction here?	no	1
+7 larry has traveled to arad and slobozia
+8 daryl didnt travel to slobozia
+9 There is a contradiction here?	no	1
+10 jeanette has visited mangalia and dej
+11 chad didnt visit mangalia
+12 There is a contradiction here?	no	1
+13 erika has traveled to mangalia and slobozia
+14 joseph didnt travel to mangalia
+15 There is a contradiction here?	no	1
+1 eunice and lance went to turda
+2 lance didnt go to turda
+3 There is a contradiction here?	yes	1
+4 myrtle and henry went to clujnapoca
+5 henry didnt go to clujnapoca
+6 There is a contradiction here?	yes	1
+7 tamara and albert went to clujnapoca
+8 tamara didnt go to slatina
+9 There is a contradiction here?	no	1
+10 sally and lewis have visited lugoj
+11 melissa didnt visit lugoj
+12 There is a contradiction here?	no	1
+13 katie has traveled to oradea and deva
+14 katie didnt travel to deva
+15 There is a contradiction here?	yes	1
+1 raul has traveled to timisoara and tulcea
+2 raul didnt travel to mangalia
+3 There is a contradiction here?	no	1
+4 jan and jeffrey have traveled to oradea
+5 jeffrey didnt travel to oradea
+6 There is a contradiction here?	yes	1
+7 lance has traveled to deva and clujnapoca
+8 salvador didnt travel to clujnapoca
+9 There is a contradiction here?	no	1
+10 patricia has visited slobozia and deva
+11 christina didnt visit slobozia
+12 There is a contradiction here?	no	1
+13 danielle and leslie have traveled to clujnapoca
+14 misty didnt travel to clujnapoca
+15 There is a contradiction here?	no	1
+1 rosa has visited craiova and deva
+2 ralph didnt visit deva
+3 There is a contradiction here?	no	1
+4 bradley and jerry went to bucharest
+5 jerry didnt go to baia mare
+6 There is a contradiction here?	no	1
+7 kristin and keith have visited baia mare
+8 marian didnt visit baia mare
+9 There is a contradiction here?	no	1
+10 yvette and edna have traveled to slobozia
+11 edna didnt travel to slobozia
+12 There is a contradiction here?	yes	1
+13 jeanette went to mangalia and timisoara
+14 jeanette didnt go to mangalia
+15 There is a contradiction here?	yes	1
+1 joanne and hugh have visited timisoara
+2 hugh didnt visit mangalia
+3 There is a contradiction here?	no	1
+4 ruben has visited lugoj and deva
+5 ruben didnt visit deva
+6 There is a contradiction here?	yes	1
+7 kimberly went to hunedoara and reghin
+8 kimberly didnt go to hunedoara
+9 There is a contradiction here?	yes	1
+10 arlene and lula have traveled to timisoara
+11 janie didnt travel to timisoara
+12 There is a contradiction here?	no	1
+13 angel has visited craiova and bucharest
+14 angel didnt visit craiova
+15 There is a contradiction here?	yes	1
+1 norma has traveled to timisoara and oradea
+2 norma didnt travel to timisoara
+3 There is a contradiction here?	yes	1
+4 erica and kurt went to clujnapoca
+5 kurt didnt go to mangalia
+6 There is a contradiction here?	no	1
+7 albert and ramona went to giurgiu
+8 timothy didnt go to giurgiu
+9 There is a contradiction here?	no	1
+10 mary and gladys went to bucharest
+11 gladys didnt go to bucharest
+12 There is a contradiction here?	yes	1
+13 kent went to giurgiu and blaj
+14 kent didnt go to giurgiu
+15 There is a contradiction here?	yes	1
+1 micheal has traveled to dej and slatina
+2 micheal didnt travel to dej
+3 There is a contradiction here?	yes	1
+4 julio has visited slatina and dej
+5 jason didnt visit dej
+6 There is a contradiction here?	no	1
+7 james has visited blaj and oradea
+8 heidi didnt visit oradea
+9 There is a contradiction here?	no	1
+10 edwin went to timisoara and lugoj
+11 roberto didnt go to timisoara
+12 There is a contradiction here?	no	1
+13 anita has traveled to dej and slobozia
+14 anita didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 walter went to deva and tulcea
+2 walter didnt go to deva
+3 There is a contradiction here?	yes	1
+4 becky and jesse have visited tulcea
+5 jesse didnt visit tulcea
+6 There is a contradiction here?	yes	1
+7 francisco and frank have visited clujnapoca
+8 susie didnt visit clujnapoca
+9 There is a contradiction here?	no	1
+10 tim has traveled to baia mare and giurgiu
+11 tim didnt travel to vaslui
+12 There is a contradiction here?	no	1
+13 jessie and kenneth went to tulcea
+14 kenneth didnt go to tulcea
+15 There is a contradiction here?	yes	1
+1 sean and dean have traveled to slatina
+2 dean didnt travel to slatina
+3 There is a contradiction here?	yes	1
+4 alvin has visited clujnapoca and oradea
+5 sue didnt visit oradea
+6 There is a contradiction here?	no	1
+7 elizabeth and marion went to deva
+8 marion didnt go to tulcea
+9 There is a contradiction here?	no	1
+10 mattie has traveled to arad and lugoj
+11 mattie didnt travel to arad
+12 There is a contradiction here?	yes	1
+13 bob and kevin have traveled to mangalia
+14 kevin didnt travel to dej
+15 There is a contradiction here?	no	1
+1 lois has visited arad and reghin
+2 lois didnt visit arad
+3 There is a contradiction here?	yes	1
+4 rosemary has visited baia mare and vaslui
+5 rosemary didnt visit vaslui
+6 There is a contradiction here?	yes	1
+7 andrea and claudia went to timisoara
+8 kristine didnt go to timisoara
+9 There is a contradiction here?	no	1
+10 fred and gladys went to vaslui
+11 fred didnt go to vaslui
+12 There is a contradiction here?	yes	1
+13 kristen has traveled to hunedoara and bucharest
+14 kristen didnt travel to hunedoara
+15 There is a contradiction here?	yes	1
+1 janet and francisco have visited hunedoara
+2 francisco didnt visit timisoara
+3 There is a contradiction here?	no	1
+4 martha has traveled to turda and clujnapoca
+5 seth didnt travel to clujnapoca
+6 There is a contradiction here?	no	1
+7 theresa and lucy have traveled to tulcea
+8 lucy didnt travel to tulcea
+9 There is a contradiction here?	yes	1
+10 kevin and william have traveled to hunedoara
+11 william didnt travel to hunedoara
+12 There is a contradiction here?	yes	1
+13 raymond and rhonda went to dej
+14 nellie didnt go to dej
+15 There is a contradiction here?	no	1
+1 iris went to timisoara and blaj
+2 iris didnt go to craiova
+3 There is a contradiction here?	no	1
+4 vernon and darryl have traveled to baia mare
+5 darryl didnt travel to giurgiu
+6 There is a contradiction here?	no	1
+7 darlene and anna went to vaslui
+8 anna didnt go to slatina
+9 There is a contradiction here?	no	1
+10 peggy has visited arad and lugoj
+11 blanche didnt visit lugoj
+12 There is a contradiction here?	no	1
+13 brandy and iris have traveled to slobozia
+14 brandy didnt travel to slobozia
+15 There is a contradiction here?	yes	1
+1 ruben went to vaslui and vaslui
+2 tina didnt go to vaslui
+3 There is a contradiction here?	no	1
+4 kenneth and carmen went to bucharest
+5 carmen didnt go to bucharest
+6 There is a contradiction here?	yes	1
+7 marc went to lugoj and dej
+8 marc didnt go to lugoj
+9 There is a contradiction here?	yes	1
+10 tina has traveled to arad and clujnapoca
+11 tina didnt travel to arad
+12 There is a contradiction here?	yes	1
+13 andre has visited oradea and slobozia
+14 andre didnt visit slobozia
+15 There is a contradiction here?	yes	1
+1 vanessa and ian have traveled to clujnapoca
+2 ian didnt travel to clujnapoca
+3 There is a contradiction here?	yes	1
+4 laurie and joel went to bucharest
+5 joel didnt go to bucharest
+6 There is a contradiction here?	yes	1
+7 derrick has traveled to bucharest and dej
+8 derrick didnt travel to bucharest
+9 There is a contradiction here?	yes	1
+10 glen and lillie have visited bucharest
+11 glen didnt visit oradea
+12 There is a contradiction here?	no	1
+13 april and patsy have traveled to oradea
+14 patsy didnt travel to oradea
+15 There is a contradiction here?	yes	1
+1 sarah has traveled to oradea and tulcea
+2 larry didnt travel to tulcea
+3 There is a contradiction here?	no	1
+4 lee has visited dej and bucharest
+5 lee didnt visit craiova
+6 There is a contradiction here?	no	1
+7 kim has visited blaj and vaslui
+8 kim didnt visit turda
+9 There is a contradiction here?	no	1
+10 jose has traveled to turda and slobozia
+11 jose didnt travel to bucharest
+12 There is a contradiction here?	no	1
+13 janie and gina have traveled to arad
+14 gina didnt travel to dej
+15 There is a contradiction here?	no	1
+1 justin has visited arad and hunedoara
+2 lisa didnt visit arad
+3 There is a contradiction here?	no	1
+4 martin and velma have visited slobozia
+5 velma didnt visit hunedoara
+6 There is a contradiction here?	no	1
+7 samantha has visited giurgiu and deva
+8 samantha didnt visit craiova
+9 There is a contradiction here?	no	1
+10 rosie has visited deva and mangalia
+11 rosie didnt visit mangalia
+12 There is a contradiction here?	yes	1
+13 vickie went to slatina and vaslui
+14 vickie didnt go to vaslui
+15 There is a contradiction here?	yes	1
+1 donna went to deva and vaslui
+2 donna didnt go to slatina
+3 There is a contradiction here?	no	1
+4 jason went to slatina and hunedoara
+5 ann didnt go to slatina
+6 There is a contradiction here?	no	1
+7 samuel has traveled to giurgiu and timisoara
+8 samuel didnt travel to timisoara
+9 There is a contradiction here?	yes	1
+10 agnes and rose have visited reghin
+11 rose didnt visit dej
+12 There is a contradiction here?	no	1
+13 gina went to bucharest and giurgiu
+14 gina didnt go to tulcea
+15 There is a contradiction here?	no	1
+1 gordon and franklin went to mangalia
+2 gordon didnt go to mangalia
+3 There is a contradiction here?	yes	1
+4 karen and tamara went to oradea
+5 tamara didnt go to dej
+6 There is a contradiction here?	no	1
+7 natasha and howard have visited turda
+8 natasha didnt visit turda
+9 There is a contradiction here?	yes	1
+10 belinda and jerome went to baia mare
+11 ken didnt go to baia mare
+12 There is a contradiction here?	no	1
+13 duane has visited deva and craiova
+14 duane didnt visit craiova
+15 There is a contradiction here?	yes	1
+1 harriet and alison have visited clujnapoca
+2 alison didnt visit clujnapoca
+3 There is a contradiction here?	yes	1
+4 deanna has visited giurgiu and slobozia
+5 deanna didnt visit slobozia
+6 There is a contradiction here?	yes	1
+7 jared has traveled to reghin and blaj
+8 jared didnt travel to blaj
+9 There is a contradiction here?	yes	1
+10 tyrone and pearl went to arad
+11 pearl didnt go to arad
+12 There is a contradiction here?	yes	1
+13 susan has visited reghin and blaj
+14 kayla didnt visit reghin
+15 There is a contradiction here?	no	1
+1 joann and gregory have visited turda
+2 gregory didnt visit turda
+3 There is a contradiction here?	yes	1
+4 melinda has traveled to slatina and dej
+5 rita didnt travel to dej
+6 There is a contradiction here?	no	1
+7 leslie and gilbert have traveled to bucharest
+8 gilbert didnt travel to timisoara
+9 There is a contradiction here?	no	1
+10 jessica has visited lugoj and oradea
+11 calvin didnt visit oradea
+12 There is a contradiction here?	no	1
+13 irene and norman went to bucharest
+14 norman didnt go to bucharest
+15 There is a contradiction here?	yes	1
+1 sally has traveled to blaj and bucharest
+2 steven didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 neil has visited lugoj and baia mare
+5 neil didnt visit lugoj
+6 There is a contradiction here?	yes	1
+7 cory has traveled to giurgiu and hunedoara
+8 cory didnt travel to giurgiu
+9 There is a contradiction here?	yes	1
+10 beth and jessie went to timisoara
+11 sam didnt go to timisoara
+12 There is a contradiction here?	no	1
+13 john and dean went to bucharest
+14 ada didnt go to bucharest
+15 There is a contradiction here?	no	1
+1 lisa and howard went to bucharest
+2 howard didnt go to bucharest
+3 There is a contradiction here?	yes	1
+4 francisco and faye have visited deva
+5 faye didnt visit bucharest
+6 There is a contradiction here?	no	1
+7 sandra and jacob have visited bucharest
+8 sandra didnt visit bucharest
+9 There is a contradiction here?	yes	1
+10 jean and oscar have traveled to giurgiu
+11 carl didnt travel to giurgiu
+12 There is a contradiction here?	no	1
+13 chris has traveled to arad and mangalia
+14 erika didnt travel to mangalia
+15 There is a contradiction here?	no	1
+1 fannie and ethel have traveled to dej
+2 ethel didnt travel to dej
+3 There is a contradiction here?	yes	1
+4 timothy and michelle went to dej
+5 michelle didnt go to dej
+6 There is a contradiction here?	yes	1
+7 jorge and harry have traveled to mangalia
+8 jorge didnt travel to mangalia
+9 There is a contradiction here?	yes	1
+10 james went to lugoj and clujnapoca
+11 barry didnt go to lugoj
+12 There is a contradiction here?	no	1
+13 madeline and april have visited arad
+14 madeline didnt visit slatina
+15 There is a contradiction here?	no	1
+1 arlene went to clujnapoca and slobozia
+2 arlene didnt go to clujnapoca
+3 There is a contradiction here?	yes	1
+4 jose and janie have visited blaj
+5 amber didnt visit blaj
+6 There is a contradiction here?	no	1
+7 jessie went to timisoara and giurgiu
+8 jaime didnt go to timisoara
+9 There is a contradiction here?	no	1
+10 kay went to blaj and mangalia
+11 kay didnt go to mangalia
+12 There is a contradiction here?	yes	1
+13 lynda went to blaj and oradea
+14 lynda didnt go to oradea
+15 There is a contradiction here?	yes	1
+1 ken and jan went to bucharest
+2 ken didnt go to bucharest
+3 There is a contradiction here?	yes	1
+4 michael went to slatina and tulcea
+5 michael didnt go to slatina
+6 There is a contradiction here?	yes	1
+7 anna went to dej and turda
+8 hector didnt go to dej
+9 There is a contradiction here?	no	1
+10 lee has traveled to lugoj and tulcea
+11 lee didnt travel to deva
+12 There is a contradiction here?	no	1
+13 keith went to slobozia and mangalia
+14 keith didnt go to hunedoara
+15 There is a contradiction here?	no	1
+1 gordon and kim have visited timisoara
+2 gordon didnt visit timisoara
+3 There is a contradiction here?	yes	1
+4 madeline has traveled to slobozia and vaslui
+5 madeline didnt travel to bucharest
+6 There is a contradiction here?	no	1
+7 jennie has visited deva and giurgiu
+8 jennie didnt visit giurgiu
+9 There is a contradiction here?	yes	1
+10 jose went to bucharest and mangalia
+11 jose didnt go to vaslui
+12 There is a contradiction here?	no	1
+13 amanda and brent have traveled to slobozia
+14 amanda didnt travel to reghin
+15 There is a contradiction here?	no	1
+1 sabrina and keith have traveled to lugoj
+2 sabrina didnt travel to lugoj
+3 There is a contradiction here?	yes	1
+4 judy has visited tulcea and hunedoara
+5 allen didnt visit hunedoara
+6 There is a contradiction here?	no	1
+7 bradley and lonnie went to slobozia
+8 lonnie didnt go to slobozia
+9 There is a contradiction here?	yes	1
+10 nathaniel has traveled to deva and hunedoara
+11 nathaniel didnt travel to hunedoara
+12 There is a contradiction here?	yes	1
+13 armando and luis went to deva
+14 luis didnt go to deva
+15 There is a contradiction here?	yes	1
+1 christopher and kyle went to blaj
+2 christopher didnt go to turda
+3 There is a contradiction here?	no	1
+4 kathy has traveled to tulcea and giurgiu
+5 kathy didnt travel to tulcea
+6 There is a contradiction here?	yes	1
+7 andre and monica went to vaslui
+8 monica didnt go to vaslui
+9 There is a contradiction here?	yes	1
+10 victor and clayton went to deva
+11 clayton didnt go to vaslui
+12 There is a contradiction here?	no	1
+13 roberta and leroy have traveled to oradea
+14 crystal didnt travel to oradea
+15 There is a contradiction here?	no	1
+1 mike and ralph went to deva
+2 ralph didnt go to hunedoara
+3 There is a contradiction here?	no	1
+4 ken went to dej and dej
+5 bobby didnt go to dej
+6 There is a contradiction here?	no	1
+7 alice and frank have visited bucharest
+8 frank didnt visit vaslui
+9 There is a contradiction here?	no	1
+10 emily went to reghin and bucharest
+11 emily didnt go to slobozia
+12 There is a contradiction here?	no	1
+13 velma and stacey went to craiova
+14 velma didnt go to craiova
+15 There is a contradiction here?	yes	1
+1 melinda went to clujnapoca and slobozia
+2 melinda didnt go to lugoj
+3 There is a contradiction here?	no	1
+4 juanita and sonia have traveled to vaslui
+5 shelly didnt travel to vaslui
+6 There is a contradiction here?	no	1
+7 william and molly have traveled to blaj
+8 molly didnt travel to blaj
+9 There is a contradiction here?	yes	1
+10 cindy and joy went to baia mare
+11 joy didnt go to baia mare
+12 There is a contradiction here?	yes	1
+13 carolyn and aaron have traveled to craiova
+14 aaron didnt travel to giurgiu
+15 There is a contradiction here?	no	1
+1 emma and kenneth have traveled to mangalia
+2 emma didnt travel to mangalia
+3 There is a contradiction here?	yes	1
+4 don and andrea have traveled to oradea
+5 andrea didnt travel to oradea
+6 There is a contradiction here?	yes	1
+7 marion and hattie went to deva
+8 ana didnt go to deva
+9 There is a contradiction here?	no	1
+10 jeanne has traveled to vaslui and hunedoara
+11 jeanne didnt travel to hunedoara
+12 There is a contradiction here?	yes	1
+13 claudia and edward went to timisoara
+14 claudia didnt go to timisoara
+15 There is a contradiction here?	yes	1
+1 timothy went to mangalia and timisoara
+2 timothy didnt go to mangalia
+3 There is a contradiction here?	yes	1
+4 steve has visited hunedoara and clujnapoca
+5 steve didnt visit clujnapoca
+6 There is a contradiction here?	yes	1
+7 colleen went to oradea and mangalia
+8 kristen didnt go to oradea
+9 There is a contradiction here?	no	1
+10 dennis has traveled to craiova and bucharest
+11 dennis didnt travel to bucharest
+12 There is a contradiction here?	yes	1
+13 rita went to arad and baia mare
+14 angel didnt go to baia mare
+15 There is a contradiction here?	no	1
+1 lillie has visited slatina and vaslui
+2 lillie didnt visit vaslui
+3 There is a contradiction here?	yes	1
+4 minnie and jackie have traveled to turda
+5 jackie didnt travel to turda
+6 There is a contradiction here?	yes	1
+7 leroy has visited vaslui and hunedoara
+8 leroy didnt visit hunedoara
+9 There is a contradiction here?	yes	1
+10 mamie has visited blaj and bucharest
+11 mamie didnt visit blaj
+12 There is a contradiction here?	yes	1
+13 duane went to oradea and lugoj
+14 helen didnt go to lugoj
+15 There is a contradiction here?	no	1
+1 edward went to timisoara and baia mare
+2 edward didnt go to blaj
+3 There is a contradiction here?	no	1
+4 thelma and jay went to giurgiu
+5 thelma didnt go to giurgiu
+6 There is a contradiction here?	yes	1
+7 fannie has traveled to baia mare and lugoj
+8 fannie didnt travel to lugoj
+9 There is a contradiction here?	yes	1
+10 billy and darrell have traveled to baia mare
+11 billy didnt travel to baia mare
+12 There is a contradiction here?	yes	1
+13 alison and cory have visited timisoara
+14 cory didnt visit deva
+15 There is a contradiction here?	no	1
+1 leah has visited slobozia and timisoara
+2 leah didnt visit slobozia
+3 There is a contradiction here?	yes	1
+4 rebecca and bob have visited reghin
+5 randall didnt visit reghin
+6 There is a contradiction here?	no	1
+7 ruth and dave went to bucharest
+8 ruth didnt go to arad
+9 There is a contradiction here?	no	1
+10 andre and jo have traveled to lugoj
+11 jo didnt travel to lugoj
+12 There is a contradiction here?	yes	1
+13 mitchell has visited bucharest and dej
+14 mitchell didnt visit slobozia
+15 There is a contradiction here?	no	1
+1 veronica and iris have visited lugoj
+2 jessie didnt visit lugoj
+3 There is a contradiction here?	no	1
+4 stephen went to oradea and baia mare
+5 stephen didnt go to giurgiu
+6 There is a contradiction here?	no	1
+7 clifford has traveled to bucharest and blaj
+8 sylvia didnt travel to blaj
+9 There is a contradiction here?	no	1
+10 marlene and luz have traveled to lugoj
+11 marlene didnt travel to lugoj
+12 There is a contradiction here?	yes	1
+13 lonnie and ben have visited baia mare
+14 dolores didnt visit baia mare
+15 There is a contradiction here?	no	1
+1 josephine and allen have visited mangalia
+2 allen didnt visit lugoj
+3 There is a contradiction here?	no	1
+4 alberto has traveled to tulcea and oradea
+5 alberto didnt travel to tulcea
+6 There is a contradiction here?	yes	1
+7 luz has visited slatina and hunedoara
+8 francisco didnt visit hunedoara
+9 There is a contradiction here?	no	1
+10 vivian and brittany have visited arad
+11 brittany didnt visit arad
+12 There is a contradiction here?	yes	1
+13 mark and leo have traveled to tulcea
+14 mark didnt travel to tulcea
+15 There is a contradiction here?	yes	1
+1 roland and anne have traveled to clujnapoca
+2 anne didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 marlene has visited hunedoara and blaj
+5 marlene didnt visit clujnapoca
+6 There is a contradiction here?	no	1
+7 deborah and mathew have visited clujnapoca
+8 carmen didnt visit clujnapoca
+9 There is a contradiction here?	no	1
+10 dora and betty have traveled to baia mare
+11 jackie didnt travel to baia mare
+12 There is a contradiction here?	no	1
+13 barry went to slobozia and baia mare
+14 patsy didnt go to baia mare
+15 There is a contradiction here?	no	1
+1 todd has traveled to dej and clujnapoca
+2 jason didnt travel to clujnapoca
+3 There is a contradiction here?	no	1
+4 bob and gary went to baia mare
+5 gary didnt go to baia mare
+6 There is a contradiction here?	yes	1
+7 eileen has visited blaj and oradea
+8 eileen didnt visit tulcea
+9 There is a contradiction here?	no	1
+10 terry and theresa have visited hunedoara
+11 theresa didnt visit hunedoara
+12 There is a contradiction here?	yes	1
+13 steve went to giurgiu and hunedoara
+14 steve didnt go to giurgiu
+15 There is a contradiction here?	yes	1
+1 jacqueline and toni have traveled to blaj
+2 melissa didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 eddie and annie went to craiova
+5 eddie didnt go to craiova
+6 There is a contradiction here?	yes	1
+7 sherry went to lugoj and blaj
+8 sherry didnt go to blaj
+9 There is a contradiction here?	yes	1
+10 byron went to reghin and tulcea
+11 byron didnt go to reghin
+12 There is a contradiction here?	yes	1
+13 carol and joy went to blaj
+14 carol didnt go to deva
+15 There is a contradiction here?	no	1
+1 beulah and timothy went to clujnapoca
+2 beulah didnt go to clujnapoca
+3 There is a contradiction here?	yes	1
+4 alison went to timisoara and hunedoara
+5 judith didnt go to hunedoara
+6 There is a contradiction here?	no	1
+7 derrick and charles have visited oradea
+8 ramona didnt visit oradea
+9 There is a contradiction here?	no	1
+10 victor went to blaj and hunedoara
+11 victor didnt go to blaj
+12 There is a contradiction here?	yes	1
+13 nancy has visited mangalia and bucharest
+14 nancy didnt visit bucharest
+15 There is a contradiction here?	yes	1
+1 toni and carl have traveled to arad
+2 toni didnt travel to arad
+3 There is a contradiction here?	yes	1
+4 janie and duane have traveled to turda
+5 janie didnt travel to blaj
+6 There is a contradiction here?	no	1
+7 cecilia and penny have visited slobozia
+8 penny didnt visit slobozia
+9 There is a contradiction here?	yes	1
+10 jerome and dana have visited arad
+11 marguerite didnt visit arad
+12 There is a contradiction here?	no	1
+13 aaron has traveled to giurgiu and tulcea
+14 aaron didnt travel to tulcea
+15 There is a contradiction here?	yes	1
+1 micheal and terrance went to slobozia
+2 edward didnt go to slobozia
+3 There is a contradiction here?	no	1
+4 joshua has visited baia mare and deva
+5 joshua didnt visit deva
+6 There is a contradiction here?	yes	1
+7 michelle and ricky have traveled to slobozia
+8 michelle didnt travel to slobozia
+9 There is a contradiction here?	yes	1
+10 justin has visited deva and craiova
+11 delores didnt visit craiova
+12 There is a contradiction here?	no	1
+13 elizabeth has visited dej and timisoara
+14 elizabeth didnt visit arad
+15 There is a contradiction here?	no	1
+1 nathaniel and nellie have traveled to blaj
+2 nellie didnt travel to slobozia
+3 There is a contradiction here?	no	1
+4 constance went to blaj and giurgiu
+5 jessica didnt go to giurgiu
+6 There is a contradiction here?	no	1
+7 becky and andre have traveled to blaj
+8 becky didnt travel to bucharest
+9 There is a contradiction here?	no	1
+10 jeffery and yvonne have visited blaj
+11 hugh didnt visit blaj
+12 There is a contradiction here?	no	1
+13 marion and everett went to tulcea
+14 marion didnt go to vaslui
+15 There is a contradiction here?	no	1
+1 gene and helen have traveled to hunedoara
+2 helen didnt travel to hunedoara
+3 There is a contradiction here?	no	1
+4 jack and jessie have visited oradea
+5 jessie didnt visit oradea
+6 There is a contradiction here?	yes	1
+7 dave and mathew have visited baia mare
+8 theodore didnt visit baia mare
+9 There is a contradiction here?	no	1
+10 lois and darlene have traveled to clujnapoca
+11 pedro didnt travel to clujnapoca
+12 There is a contradiction here?	no	1
+13 brenda has traveled to deva and vaslui
+14 ida didnt travel to vaslui
+15 There is a contradiction here?	no	1
+1 darlene has visited slobozia and timisoara
+2 belinda didnt visit timisoara
+3 There is a contradiction here?	no	1
+4 rose and vickie went to baia mare
+5 vickie didnt go to giurgiu
+6 There is a contradiction here?	no	1
+7 arlene has visited baia mare and timisoara
+8 scott didnt visit baia mare
+9 There is a contradiction here?	no	1
+10 tonya has visited slobozia and mangalia
+11 tonya didnt visit giurgiu
+12 There is a contradiction here?	no	1
+13 kim has traveled to mangalia and slobozia
+14 kim didnt travel to slatina
+15 There is a contradiction here?	no	1
+1 bernard and dustin went to hunedoara
+2 bernard didnt go to hunedoara
+3 There is a contradiction here?	yes	1
+4 benjamin and april have visited mangalia
+5 april didnt visit mangalia
+6 There is a contradiction here?	yes	1
+7 kim has visited giurgiu and hunedoara
+8 lee didnt visit hunedoara
+9 There is a contradiction here?	no	1
+10 donald and miriam went to bucharest
+11 miriam didnt go to vaslui
+12 There is a contradiction here?	no	1
+13 brad and maureen have traveled to slatina
+14 brad didnt travel to slatina
+15 There is a contradiction here?	yes	1
+1 rodney went to slobozia and slatina
+2 rodney didnt go to deva
+3 There is a contradiction here?	no	1
+4 leona went to tulcea and slobozia
+5 leona didnt go to baia mare
+6 There is a contradiction here?	no	1
+7 kim went to slatina and slobozia
+8 kim didnt go to tulcea
+9 There is a contradiction here?	no	1
+10 carole has visited bucharest and lugoj
+11 carole didnt visit lugoj
+12 There is a contradiction here?	yes	1
+13 cody and samantha have traveled to mangalia
+14 cody didnt travel to mangalia
+15 There is a contradiction here?	yes	1
+1 roberta and carla went to arad
+2 roberta didnt go to arad
+3 There is a contradiction here?	yes	1
+4 debra and leona have visited clujnapoca
+5 leona didnt visit clujnapoca
+6 There is a contradiction here?	yes	1
+7 gary and melissa went to lugoj
+8 gary didnt go to lugoj
+9 There is a contradiction here?	yes	1
+10 lorraine and ana have visited slobozia
+11 ana didnt visit hunedoara
+12 There is a contradiction here?	no	1
+13 claire has visited deva and oradea
+14 claire didnt visit oradea
+15 There is a contradiction here?	yes	1
+1 frances and kirk have visited hunedoara
+2 theresa didnt visit hunedoara
+3 There is a contradiction here?	no	1
+4 wade went to dej and mangalia
+5 wade didnt go to mangalia
+6 There is a contradiction here?	yes	1
+7 tara and leonard went to giurgiu
+8 leonard didnt go to giurgiu
+9 There is a contradiction here?	yes	1
+10 ivan has visited mangalia and dej
+11 ivan didnt visit hunedoara
+12 There is a contradiction here?	no	1
+13 antonio went to slatina and dej
+14 antonio didnt go to bucharest
+15 There is a contradiction here?	no	1
+1 melanie and tommy have traveled to timisoara
+2 melanie didnt travel to timisoara
+3 There is a contradiction here?	yes	1
+4 sonia has visited clujnapoca and slatina
+5 geneva didnt visit slatina
+6 There is a contradiction here?	no	1
+7 doris has visited tulcea and bucharest
+8 doris didnt visit tulcea
+9 There is a contradiction here?	yes	1
+10 harry went to bucharest and vaslui
+11 harry didnt go to dej
+12 There is a contradiction here?	no	1
+13 maria went to dej and hunedoara
+14 maria didnt go to dej
+15 There is a contradiction here?	yes	1
+1 leslie and marcia have traveled to lugoj
+2 marcia didnt travel to oradea
+3 There is a contradiction here?	no	1
+4 warren and maurice have visited craiova
+5 maurice didnt visit craiova
+6 There is a contradiction here?	yes	1
+7 yvonne has traveled to giurgiu and oradea
+8 yvonne didnt travel to arad
+9 There is a contradiction here?	no	1
+10 brandy went to hunedoara and timisoara
+11 michele didnt go to timisoara
+12 There is a contradiction here?	no	1
+13 brad and mitchell have visited reghin
+14 jessie didnt visit reghin
+15 There is a contradiction here?	no	1
+1 dwayne has traveled to arad and tulcea
+2 dwayne didnt travel to arad
+3 There is a contradiction here?	yes	1
+4 mitchell has traveled to lugoj and oradea
+5 mitchell didnt travel to dej
+6 There is a contradiction here?	no	1
+7 dianne and jason went to timisoara
+8 maxine didnt go to timisoara
+9 There is a contradiction here?	no	1
+10 elizabeth and benjamin went to hunedoara
+11 benjamin didnt go to vaslui
+12 There is a contradiction here?	no	1
+13 sandra has visited giurgiu and tulcea
+14 vivian didnt visit tulcea
+15 There is a contradiction here?	no	1
+1 melvin has visited slobozia and slatina
+2 melvin didnt visit slobozia
+3 There is a contradiction here?	yes	1
+4 lori and seth have traveled to timisoara
+5 lori didnt travel to dej
+6 There is a contradiction here?	no	1
+7 ron and judy have visited vaslui
+8 judy didnt visit vaslui
+9 There is a contradiction here?	yes	1
+10 daisy and jacob have visited craiova
+11 christina didnt visit craiova
+12 There is a contradiction here?	no	1
+13 nancy and aaron have traveled to oradea
+14 nancy didnt travel to oradea
+15 There is a contradiction here?	yes	1
+1 maureen and opal have traveled to tulcea
+2 opal didnt travel to tulcea
+3 There is a contradiction here?	yes	1
+4 victor went to clujnapoca and craiova
+5 victor didnt go to craiova
+6 There is a contradiction here?	yes	1
+7 wade went to giurgiu and mangalia
+8 wade didnt go to mangalia
+9 There is a contradiction here?	yes	1
+10 max has traveled to slobozia and bucharest
+11 max didnt travel to mangalia
+12 There is a contradiction here?	no	1
+13 angela and kelly went to reghin
+14 angela didnt go to reghin
+15 There is a contradiction here?	yes	1
+1 marion has visited mangalia and vaslui
+2 marion didnt visit dej
+3 There is a contradiction here?	no	1
+4 jessie and carole have traveled to oradea
+5 jessie didnt travel to oradea
+6 There is a contradiction here?	yes	1
+7 jean has visited turda and blaj
+8 kurt didnt visit turda
+9 There is a contradiction here?	no	1
+10 ida has traveled to slatina and dej
+11 ida didnt travel to dej
+12 There is a contradiction here?	yes	1
+13 beatrice and jaime went to turda
+14 paula didnt go to turda
+15 There is a contradiction here?	no	1
+1 craig has traveled to blaj and arad
+2 craig didnt travel to hunedoara
+3 There is a contradiction here?	no	1
+4 rosie has visited mangalia and slobozia
+5 phillip didnt visit mangalia
+6 There is a contradiction here?	no	1
+7 theresa and valerie have visited timisoara
+8 theresa didnt visit timisoara
+9 There is a contradiction here?	yes	1
+10 deanna has visited bucharest and giurgiu
+11 deanna didnt visit giurgiu
+12 There is a contradiction here?	yes	1
+13 albert has visited vaslui and slatina
+14 albert didnt visit oradea
+15 There is a contradiction here?	no	1
+1 deborah went to craiova and vaslui
+2 deborah didnt go to vaslui
+3 There is a contradiction here?	yes	1
+4 erin went to turda and craiova
+5 erin didnt go to bucharest
+6 There is a contradiction here?	no	1
+7 lisa and lester have visited slatina
+8 lester didnt visit turda
+9 There is a contradiction here?	no	1
+10 glenda and mark have traveled to timisoara
+11 kent didnt travel to timisoara
+12 There is a contradiction here?	no	1
+13 lois and alison have traveled to blaj
+14 lois didnt travel to blaj
+15 There is a contradiction here?	yes	1
+1 clifford has traveled to clujnapoca and blaj
+2 clifford didnt travel to deva
+3 There is a contradiction here?	no	1
+4 carl went to craiova and bucharest
+5 carl didnt go to bucharest
+6 There is a contradiction here?	yes	1
+7 cory has visited reghin and slatina
+8 cory didnt visit mangalia
+9 There is a contradiction here?	no	1
+10 maureen and florence have traveled to clujnapoca
+11 florence didnt travel to hunedoara
+12 There is a contradiction here?	no	1
+13 lucy and edgar went to clujnapoca
+14 lucy didnt go to clujnapoca
+15 There is a contradiction here?	yes	1
+1 juanita and lee have visited blaj
+2 juanita didnt visit blaj
+3 There is a contradiction here?	yes	1
+4 kristen and alex have visited oradea
+5 josephine didnt visit oradea
+6 There is a contradiction here?	no	1
+7 ann and douglas have visited slatina
+8 ann didnt visit slatina
+9 There is a contradiction here?	yes	1
+10 ida and vivian have visited timisoara
+11 ida didnt visit timisoara
+12 There is a contradiction here?	yes	1
+13 earl and samuel have visited blaj
+14 earl didnt visit vaslui
+15 There is a contradiction here?	no	1
+1 ana and julia went to craiova
+2 julia didnt go to craiova
+3 There is a contradiction here?	yes	1
+4 kathy and monique went to craiova
+5 melvin didnt go to craiova
+6 There is a contradiction here?	no	1
+7 olga and lillian went to slatina
+8 lillian didnt go to slatina
+9 There is a contradiction here?	yes	1
+10 eunice and clarence have traveled to baia mare
+11 clarence didnt travel to baia mare
+12 There is a contradiction here?	yes	1
+13 lawrence has traveled to deva and dej
+14 lawrence didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 opal has traveled to clujnapoca and baia mare
+2 opal didnt travel to baia mare
+3 There is a contradiction here?	yes	1
+4 gregory and virginia have traveled to timisoara
+5 jeff didnt travel to timisoara
+6 There is a contradiction here?	no	1
+7 tanya went to bucharest and lugoj
+8 tanya didnt go to turda
+9 There is a contradiction here?	no	1
+10 dwayne has visited slobozia and slatina
+11 lillian didnt visit slatina
+12 There is a contradiction here?	no	1
+13 travis went to deva and craiova
+14 travis didnt go to deva
+15 There is a contradiction here?	yes	1
+1 vivian has traveled to vaslui and giurgiu
+2 vivian didnt travel to vaslui
+3 There is a contradiction here?	yes	1
+4 melanie and andre went to deva
+5 andre didnt go to slatina
+6 There is a contradiction here?	no	1
+7 derrick and pauline have visited tulcea
+8 derrick didnt visit tulcea
+9 There is a contradiction here?	yes	1
+10 marcia went to baia mare and timisoara
+11 marcia didnt go to baia mare
+12 There is a contradiction here?	yes	1
+13 darrell has visited bucharest and lugoj
+14 lynda didnt visit bucharest
+15 There is a contradiction here?	no	1
+1 jaime and reginald have traveled to turda
+2 reginald didnt travel to baia mare
+3 There is a contradiction here?	no	1
+4 george and vanessa have traveled to vaslui
+5 charlie didnt travel to vaslui
+6 There is a contradiction here?	no	1
+7 nora and edna have traveled to mangalia
+8 nora didnt travel to deva
+9 There is a contradiction here?	no	1
+10 heidi has visited bucharest and deva
+11 heidi didnt visit bucharest
+12 There is a contradiction here?	yes	1
+13 ann has visited timisoara and baia mare
+14 ann didnt visit baia mare
+15 There is a contradiction here?	yes	1
+1 steve went to lugoj and slobozia
+2 sherry didnt go to slobozia
+3 There is a contradiction here?	no	1
+4 margie has traveled to oradea and giurgiu
+5 john didnt travel to oradea
+6 There is a contradiction here?	no	1
+7 johnnie has visited turda and timisoara
+8 johnnie didnt visit reghin
+9 There is a contradiction here?	no	1
+10 herman went to giurgiu and oradea
+11 herman didnt go to oradea
+12 There is a contradiction here?	yes	1
+13 naomi and jamie went to bucharest
+14 jamie didnt go to bucharest
+15 There is a contradiction here?	yes	1
+1 michelle has traveled to turda and tulcea
+2 michelle didnt travel to vaslui
+3 There is a contradiction here?	no	1
+4 karen has traveled to vaslui and timisoara
+5 charlene didnt travel to vaslui
+6 There is a contradiction here?	no	1
+7 jeanette went to turda and dej
+8 jeanette didnt go to dej
+9 There is a contradiction here?	yes	1
+10 terry went to bucharest and oradea
+11 bill didnt go to oradea
+12 There is a contradiction here?	no	1
+13 andy went to deva and arad
+14 roberta didnt go to deva
+15 There is a contradiction here?	no	1
+1 jack and roberto went to slobozia
+2 molly didnt go to slobozia
+3 There is a contradiction here?	no	1
+4 harold and isaac went to bucharest
+5 harold didnt go to bucharest
+6 There is a contradiction here?	yes	1
+7 carla went to slatina and lugoj
+8 carla didnt go to slatina
+9 There is a contradiction here?	yes	1
+10 donna and sonya have visited dej
+11 donna didnt visit craiova
+12 There is a contradiction here?	no	1
+13 brian and lindsay have visited clujnapoca
+14 brian didnt visit clujnapoca
+15 There is a contradiction here?	yes	1
+1 jo has traveled to oradea and bucharest
+2 jo didnt travel to oradea
+3 There is a contradiction here?	yes	1
+4 rachel has visited giurgiu and bucharest
+5 rachel didnt visit bucharest
+6 There is a contradiction here?	yes	1
+7 kent has visited giurgiu and lugoj
+8 kent didnt visit blaj
+9 There is a contradiction here?	no	1
+10 marc and donna have traveled to giurgiu
+11 donna didnt travel to giurgiu
+12 There is a contradiction here?	yes	1
+13 travis has visited slobozia and dej
+14 travis didnt visit giurgiu
+15 There is a contradiction here?	no	1
+1 anne and mark have visited lugoj
+2 mark didnt visit lugoj
+3 There is a contradiction here?	yes	1
+4 helen and pearl have traveled to oradea
+5 helen didnt travel to slatina
+6 There is a contradiction here?	no	1
+7 jodi and denise have visited lugoj
+8 jodi didnt visit lugoj
+9 There is a contradiction here?	yes	1
+10 darryl went to mangalia and clujnapoca
+11 darryl didnt go to mangalia
+12 There is a contradiction here?	yes	1
+13 sylvia and laurie went to slatina
+14 michelle didnt go to slatina
+15 There is a contradiction here?	no	1
+1 sidney went to reghin and arad
+2 calvin didnt go to reghin
+3 There is a contradiction here?	no	1
+4 ryan has visited mangalia and arad
+5 ryan didnt visit arad
+6 There is a contradiction here?	yes	1
+7 julian and edward have visited tulcea
+8 travis didnt visit tulcea
+9 There is a contradiction here?	no	1
+10 marion has visited bucharest and hunedoara
+11 marion didnt visit dej
+12 There is a contradiction here?	no	1
+13 kirk and eleanor have visited oradea
+14 gladys didnt visit oradea
+15 There is a contradiction here?	no	1
+1 vivian has visited hunedoara and oradea
+2 vivian didnt visit oradea
+3 There is a contradiction here?	yes	1
+4 sheila and judy have traveled to slobozia
+5 judy didnt travel to oradea
+6 There is a contradiction here?	no	1
+7 arthur and roger have visited reghin
+8 maryann didnt visit reghin
+9 There is a contradiction here?	no	1
+10 crystal has visited slatina and dej
+11 jerome didnt visit dej
+12 There is a contradiction here?	no	1
+13 marsha and eleanor have visited deva
+14 marsha didnt visit hunedoara
+15 There is a contradiction here?	no	1
+1 carla has traveled to clujnapoca and blaj
+2 holly didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 javier and tammy have traveled to dej
+5 javier didnt travel to dej
+6 There is a contradiction here?	yes	1
+7 lillie and wanda went to mangalia
+8 lillie didnt go to mangalia
+9 There is a contradiction here?	yes	1
+10 leah and cassandra have visited oradea
+11 leah didnt visit oradea
+12 There is a contradiction here?	yes	1
+13 eddie and carla have visited clujnapoca
+14 eddie didnt visit turda
+15 There is a contradiction here?	no	1
+1 eduardo and jessica have visited lugoj
+2 phyllis didnt visit lugoj
+3 There is a contradiction here?	no	1
+4 seth and enrique have traveled to giurgiu
+5 guadalupe didnt travel to giurgiu
+6 There is a contradiction here?	no	1
+7 monique has traveled to timisoara and vaslui
+8 monique didnt travel to timisoara
+9 There is a contradiction here?	yes	1
+10 lena went to bucharest and craiova
+11 catherine didnt go to craiova
+12 There is a contradiction here?	no	1
+13 ella has traveled to baia mare and mangalia
+14 ella didnt travel to baia mare
+15 There is a contradiction here?	yes	1
+1 victoria and jordan have visited deva
+2 gertrude didnt visit deva
+3 There is a contradiction here?	no	1
+4 alberto and angel have traveled to slobozia
+5 angel didnt travel to slobozia
+6 There is a contradiction here?	yes	1
+7 nathaniel has traveled to deva and timisoara
+8 nathaniel didnt travel to deva
+9 There is a contradiction here?	yes	1
+10 brittany went to hunedoara and lugoj
+11 brittany didnt go to lugoj
+12 There is a contradiction here?	yes	1
+13 jennie and dora have visited giurgiu
+14 dora didnt visit giurgiu
+15 There is a contradiction here?	yes	1
+1 danielle and dawn have traveled to mangalia
+2 danielle didnt travel to vaslui
+3 There is a contradiction here?	no	1
+4 patrick has traveled to dej and giurgiu
+5 danielle didnt travel to giurgiu
+6 There is a contradiction here?	no	1
+7 bobbie went to slatina and timisoara
+8 bobbie didnt go to slatina
+9 There is a contradiction here?	yes	1
+10 juan and leonard went to giurgiu
+11 juan didnt go to giurgiu
+12 There is a contradiction here?	yes	1
+13 sara has visited bucharest and slobozia
+14 milton didnt visit bucharest
+15 There is a contradiction here?	no	1
+1 janet has visited baia mare and timisoara
+2 janet didnt visit timisoara
+3 There is a contradiction here?	yes	1
+4 jim and rodney have visited reghin
+5 jim didnt visit arad
+6 There is a contradiction here?	no	1
+7 jessie has visited blaj and reghin
+8 jeremy didnt visit reghin
+9 There is a contradiction here?	no	1
+10 byron and terri went to bucharest
+11 terri didnt go to reghin
+12 There is a contradiction here?	no	1
+13 dustin and natasha have traveled to oradea
+14 dustin didnt travel to lugoj
+15 There is a contradiction here?	no	1
+1 monica went to timisoara and clujnapoca
+2 vernon didnt go to clujnapoca
+3 There is a contradiction here?	no	1
+4 jeffrey and laurie have visited reghin
+5 joe didnt visit reghin
+6 There is a contradiction here?	no	1
+7 brandi and bobby went to turda
+8 marsha didnt go to turda
+9 There is a contradiction here?	no	1
+10 jared went to giurgiu and hunedoara
+11 howard didnt go to giurgiu
+12 There is a contradiction here?	no	1
+13 melanie has traveled to deva and dej
+14 melanie didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 jamie and francis have traveled to mangalia
+2 jamie didnt travel to baia mare
+3 There is a contradiction here?	no	1
+4 ivan and rosie went to baia mare
+5 ivan didnt go to baia mare
+6 There is a contradiction here?	yes	1
+7 lisa and adrian have traveled to deva
+8 adrian didnt travel to dej
+9 There is a contradiction here?	no	1
+10 byron and darrell have traveled to deva
+11 darrell didnt travel to blaj
+12 There is a contradiction here?	no	1
+13 derek has traveled to reghin and mangalia
+14 derek didnt travel to reghin
+15 There is a contradiction here?	yes	1
+1 vincent has traveled to bucharest and arad
+2 vincent didnt travel to hunedoara
+3 There is a contradiction here?	no	1
+4 georgia and cecilia have traveled to mangalia
+5 georgia didnt travel to mangalia
+6 There is a contradiction here?	yes	1
+7 adrian has traveled to baia mare and arad
+8 cecilia didnt travel to baia mare
+9 There is a contradiction here?	no	1
+10 pamela and nina went to slatina
+11 pamela didnt go to slatina
+12 There is a contradiction here?	yes	1
+13 yvonne has traveled to vaslui and reghin
+14 yvonne didnt travel to blaj
+15 There is a contradiction here?	no	1
+1 sonya and tara have traveled to giurgiu
+2 sonya didnt travel to timisoara
+3 There is a contradiction here?	no	1
+4 allan and johnnie went to bucharest
+5 johnnie didnt go to bucharest
+6 There is a contradiction here?	yes	1
+7 christopher and claude have visited reghin
+8 christopher didnt visit reghin
+9 There is a contradiction here?	yes	1
+10 blanche and iris went to giurgiu
+11 blanche didnt go to giurgiu
+12 There is a contradiction here?	yes	1
+13 marie and kent went to turda
+14 kent didnt go to turda
+15 There is a contradiction here?	yes	1
+1 pauline and kelly have visited reghin
+2 pauline didnt visit reghin
+3 There is a contradiction here?	yes	1
+4 veronica and jared went to bucharest
+5 geneva didnt go to bucharest
+6 There is a contradiction here?	no	1
+7 jose has visited slobozia and bucharest
+8 jose didnt visit bucharest
+9 There is a contradiction here?	yes	1
+10 adam has traveled to dej and mangalia
+11 adam didnt travel to mangalia
+12 There is a contradiction here?	yes	1
+13 andy has traveled to reghin and giurgiu
+14 andy didnt travel to reghin
+15 There is a contradiction here?	yes	1
+1 ashley and marcus have traveled to baia mare
+2 ashley didnt travel to baia mare
+3 There is a contradiction here?	yes	1
+4 cody and don have visited bucharest
+5 don didnt visit tulcea
+6 There is a contradiction here?	no	1
+7 marjorie and verna have traveled to dej
+8 verna didnt travel to dej
+9 There is a contradiction here?	yes	1
+10 edith has visited timisoara and reghin
+11 edith didnt visit timisoara
+12 There is a contradiction here?	yes	1
+13 lloyd and willie have visited reghin
+14 lloyd didnt visit reghin
+15 There is a contradiction here?	yes	1
+1 tom went to clujnapoca and bucharest
+2 tom didnt go to bucharest
+3 There is a contradiction here?	yes	1
+4 russell has visited bucharest and dej
+5 russell didnt visit bucharest
+6 There is a contradiction here?	yes	1
+7 frederick and michelle have visited turda
+8 vernon didnt visit turda
+9 There is a contradiction here?	no	1
+10 elsie and kim have visited slatina
+11 gail didnt visit slatina
+12 There is a contradiction here?	no	1
+13 franklin went to vaslui and tulcea
+14 franklin didnt go to vaslui
+15 There is a contradiction here?	yes	1
+1 johnnie and hilda have traveled to baia mare
+2 hilda didnt travel to slobozia
+3 There is a contradiction here?	no	1
+4 claude and dorothy have visited timisoara
+5 dorothy didnt visit tulcea
+6 There is a contradiction here?	no	1
+7 irma and diane have visited blaj
+8 irma didnt visit blaj
+9 There is a contradiction here?	yes	1
+10 jimmie has traveled to dej and deva
+11 jimmie didnt travel to arad
+12 There is a contradiction here?	no	1
+13 eunice and anne have visited dej
+14 anne didnt visit dej
+15 There is a contradiction here?	yes	1
+1 jose went to turda and baia mare
+2 betty didnt go to turda
+3 There is a contradiction here?	no	1
+4 sue and sonia have visited tulcea
+5 sue didnt visit tulcea
+6 There is a contradiction here?	yes	1
+7 russell has visited slatina and bucharest
+8 thelma didnt visit bucharest
+9 There is a contradiction here?	no	1
+10 fred and margarita went to craiova
+11 maryann didnt go to craiova
+12 There is a contradiction here?	no	1
+13 martha and bradley have traveled to dej
+14 martha didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 rita has visited timisoara and bucharest
+2 rita didnt visit bucharest
+3 There is a contradiction here?	yes	1
+4 cecil has traveled to slatina and turda
+5 cecil didnt travel to turda
+6 There is a contradiction here?	yes	1
+7 lloyd and kayla went to deva
+8 lloyd didnt go to bucharest
+9 There is a contradiction here?	no	1
+10 kristen and lucille went to clujnapoca
+11 lawrence didnt go to clujnapoca
+12 There is a contradiction here?	no	1
+13 pauline and jesse went to turda
+14 pauline didnt go to lugoj
+15 There is a contradiction here?	no	1
+1 jack and hector have traveled to baia mare
+2 jane didnt travel to baia mare
+3 There is a contradiction here?	no	1
+4 georgia has visited deva and baia mare
+5 georgia didnt visit timisoara
+6 There is a contradiction here?	no	1
+7 tiffany and pamela went to oradea
+8 tiffany didnt go to oradea
+9 There is a contradiction here?	yes	1
+10 nina and greg have traveled to deva
+11 nina didnt travel to turda
+12 There is a contradiction here?	no	1
+13 martha has traveled to lugoj and turda
+14 martha didnt travel to turda
+15 There is a contradiction here?	yes	1
+1 bernard went to lugoj and bucharest
+2 bobbie didnt go to lugoj
+3 There is a contradiction here?	no	1
+4 samuel has traveled to giurgiu and turda
+5 katrina didnt travel to giurgiu
+6 There is a contradiction here?	no	1
+7 audrey has traveled to turda and tulcea
+8 audrey didnt travel to tulcea
+9 There is a contradiction here?	yes	1
+10 armando and hattie went to craiova
+11 armando didnt go to bucharest
+12 There is a contradiction here?	no	1
+13 eileen and marion have visited clujnapoca
+14 eileen didnt visit clujnapoca
+15 There is a contradiction here?	yes	1
+1 brent and marvin have visited slobozia
+2 marvin didnt visit deva
+3 There is a contradiction here?	no	1
+4 brett has traveled to clujnapoca and slobozia
+5 brett didnt travel to clujnapoca
+6 There is a contradiction here?	yes	1
+7 peter went to baia mare and craiova
+8 wesley didnt go to craiova
+9 There is a contradiction here?	no	1
+10 cecilia and dave went to clujnapoca
+11 cecilia didnt go to bucharest
+12 There is a contradiction here?	no	1
+13 patrick and teresa have visited lugoj
+14 terry didnt visit lugoj
+15 There is a contradiction here?	no	1
+1 lydia has traveled to craiova and deva
+2 lydia didnt travel to bucharest
+3 There is a contradiction here?	no	1
+4 glenda and misty went to blaj
+5 misty didnt go to blaj
+6 There is a contradiction here?	yes	1
+7 lorraine and beatrice have traveled to clujnapoca
+8 beatrice didnt travel to clujnapoca
+9 There is a contradiction here?	yes	1
+10 cecilia and erika have traveled to craiova
+11 roger didnt travel to craiova
+12 There is a contradiction here?	no	1
+13 jacob and rita went to bucharest
+14 rita didnt go to bucharest
+15 There is a contradiction here?	yes	1
+1 fernando has traveled to oradea and tulcea
+2 fernando didnt travel to oradea
+3 There is a contradiction here?	yes	1
+4 daniel and kristina have visited slatina
+5 kristina didnt visit timisoara
+6 There is a contradiction here?	no	1
+7 anna and marjorie have traveled to arad
+8 anna didnt travel to deva
+9 There is a contradiction here?	no	1
+10 gladys and joshua went to hunedoara
+11 joshua didnt go to hunedoara
+12 There is a contradiction here?	yes	1
+13 theresa went to dej and hunedoara
+14 theresa didnt go to blaj
+15 There is a contradiction here?	no	1
+1 madeline and paul have traveled to slobozia
+2 madeline didnt travel to slobozia
+3 There is a contradiction here?	yes	1
+4 amanda went to tulcea and deva
+5 amanda didnt go to deva
+6 There is a contradiction here?	yes	1
+7 cynthia and andy have visited craiova
+8 andy didnt visit tulcea
+9 There is a contradiction here?	no	1
+10 bessie has visited giurgiu and vaslui
+11 ross didnt visit giurgiu
+12 There is a contradiction here?	no	1
+13 patsy went to lugoj and bucharest
+14 patsy didnt go to bucharest
+15 There is a contradiction here?	yes	1
+1 lee went to timisoara and slatina
+2 lee didnt go to timisoara
+3 There is a contradiction here?	yes	1
+4 nellie and lucy have visited giurgiu
+5 nellie didnt visit giurgiu
+6 There is a contradiction here?	yes	1
+7 glenn and lance went to slobozia
+8 lance didnt go to slobozia
+9 There is a contradiction here?	yes	1
+10 audrey and marshall went to lugoj
+11 audrey didnt go to lugoj
+12 There is a contradiction here?	yes	1
+13 jamie went to tulcea and reghin
+14 jamie didnt go to tulcea
+15 There is a contradiction here?	yes	1
+1 salvador went to tulcea and slatina
+2 billy didnt go to slatina
+3 There is a contradiction here?	no	1
+4 steven went to reghin and bucharest
+5 steven didnt go to reghin
+6 There is a contradiction here?	yes	1
+7 pauline and diane have visited bucharest
+8 diane didnt visit craiova
+9 There is a contradiction here?	no	1
+10 clayton and cora have traveled to timisoara
+11 clayton didnt travel to timisoara
+12 There is a contradiction here?	yes	1
+13 annie has visited deva and blaj
+14 annie didnt visit blaj
+15 There is a contradiction here?	yes	1
+1 florence and tanya have visited tulcea
+2 florence didnt visit hunedoara
+3 There is a contradiction here?	no	1
+4 tamara has traveled to bucharest and lugoj
+5 tamara didnt travel to lugoj
+6 There is a contradiction here?	yes	1
+7 zachary and harold went to baia mare
+8 zachary didnt go to baia mare
+9 There is a contradiction here?	yes	1
+10 danny has visited timisoara and giurgiu
+11 danny didnt visit giurgiu
+12 There is a contradiction here?	yes	1
+13 brandy went to vaslui and hunedoara
+14 brandy didnt go to giurgiu
+15 There is a contradiction here?	no	1
+1 caroline and shawn have visited vaslui
+2 shawn didnt visit vaslui
+3 There is a contradiction here?	yes	1
+4 laurie and alfredo have traveled to hunedoara
+5 alfredo didnt travel to hunedoara
+6 There is a contradiction here?	yes	1
+7 harold and lillian went to deva
+8 lillian didnt go to deva
+9 There is a contradiction here?	yes	1
+10 vicki has visited deva and timisoara
+11 vicki didnt visit vaslui
+12 There is a contradiction here?	no	1
+13 leo has traveled to reghin and slobozia
+14 brandi didnt travel to reghin
+15 There is a contradiction here?	no	1
+1 anita went to bucharest and tulcea
+2 anita didnt go to bucharest
+3 There is a contradiction here?	yes	1
+4 allison has visited vaslui and timisoara
+5 allison didnt visit vaslui
+6 There is a contradiction here?	yes	1
+7 derrick has visited mangalia and giurgiu
+8 derrick didnt visit slobozia
+9 There is a contradiction here?	no	1
+10 heidi has traveled to reghin and clujnapoca
+11 heidi didnt travel to reghin
+12 There is a contradiction here?	yes	1
+13 kristine and lynda have visited reghin
+14 clayton didnt visit reghin
+15 There is a contradiction here?	no	1
+1 eddie and brent have traveled to vaslui
+2 lee didnt travel to vaslui
+3 There is a contradiction here?	no	1
+4 willie went to timisoara and arad
+5 lawrence didnt go to timisoara
+6 There is a contradiction here?	no	1
+7 dwayne went to vaslui and bucharest
+8 lydia didnt go to bucharest
+9 There is a contradiction here?	no	1
+10 emily went to blaj and turda
+11 emily didnt go to mangalia
+12 There is a contradiction here?	no	1
+13 lonnie went to bucharest and arad
+14 terry didnt go to bucharest
+15 There is a contradiction here?	no	1
+1 alma has traveled to dej and bucharest
+2 alma didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 milton and fannie have traveled to baia mare
+5 mark didnt travel to baia mare
+6 There is a contradiction here?	no	1
+7 kenneth and sonya went to reghin
+8 sonya didnt go to reghin
+9 There is a contradiction here?	yes	1
+10 monica and jamie have visited vaslui
+11 darren didnt visit vaslui
+12 There is a contradiction here?	no	1
+13 fred has traveled to oradea and bucharest
+14 fred didnt travel to slatina
+15 There is a contradiction here?	no	1
+1 angela has traveled to timisoara and slatina
+2 angela didnt travel to bucharest
+3 There is a contradiction here?	no	1
+4 lee and claudia have traveled to blaj
+5 lee didnt travel to craiova
+6 There is a contradiction here?	no	1
+7 raul went to giurgiu and tulcea
+8 raul didnt go to reghin
+9 There is a contradiction here?	no	1
+10 melody has visited reghin and arad
+11 melody didnt visit reghin
+12 There is a contradiction here?	yes	1
+13 bessie and christine went to bucharest
+14 bessie didnt go to bucharest
+15 There is a contradiction here?	yes	1
+1 tonya went to oradea and clujnapoca
+2 tonya didnt go to clujnapoca
+3 There is a contradiction here?	yes	1
+4 katie has visited slatina and reghin
+5 eric didnt visit slatina
+6 There is a contradiction here?	no	1
+7 sally went to bucharest and mangalia
+8 roy didnt go to bucharest
+9 There is a contradiction here?	no	1
+10 jack has visited dej and blaj
+11 jack didnt visit blaj
+12 There is a contradiction here?	yes	1
+13 jessie went to craiova and deva
+14 jessie didnt go to deva
+15 There is a contradiction here?	yes	1
+1 leonard and brandon have traveled to timisoara
+2 leonard didnt travel to clujnapoca
+3 There is a contradiction here?	no	1
+4 megan and andrea went to hunedoara
+5 megan didnt go to blaj
+6 There is a contradiction here?	no	1
+7 brenda has traveled to clujnapoca and craiova
+8 brenda didnt travel to craiova
+9 There is a contradiction here?	yes	1
+10 connie has visited craiova and bucharest
+11 connie didnt visit slobozia
+12 There is a contradiction here?	no	1
+13 amelia went to timisoara and turda
+14 amelia didnt go to turda
+15 There is a contradiction here?	yes	1
+1 belinda went to turda and baia mare
+2 judy didnt go to baia mare
+3 There is a contradiction here?	no	1
+4 pearl has visited tulcea and bucharest
+5 pearl didnt visit tulcea
+6 There is a contradiction here?	yes	1
+7 julian has visited reghin and vaslui
+8 julian didnt visit reghin
+9 There is a contradiction here?	yes	1
+10 darlene and todd have traveled to bucharest
+11 darlene didnt travel to bucharest
+12 There is a contradiction here?	yes	1
+13 willie and ellen have visited hunedoara
+14 joann didnt visit hunedoara
+15 There is a contradiction here?	no	1
+1 joan and miriam went to dej
+2 joan didnt go to dej
+3 There is a contradiction here?	yes	1
+4 elizabeth and troy have traveled to blaj
+5 randall didnt travel to blaj
+6 There is a contradiction here?	no	1
+7 bonnie and erik have traveled to tulcea
+8 erik didnt travel to tulcea
+9 There is a contradiction here?	yes	1
+10 phyllis and tanya have visited giurgiu
+11 marlene didnt visit giurgiu
+12 There is a contradiction here?	no	1
+13 margie and jeffery have traveled to bucharest
+14 jeffery didnt travel to bucharest
+15 There is a contradiction here?	yes	1
+1 emily went to turda and blaj
+2 emily didnt go to turda
+3 There is a contradiction here?	yes	1
+4 cecilia and annie have visited deva
+5 misty didnt visit deva
+6 There is a contradiction here?	no	1
+7 donald and neil have traveled to lugoj
+8 neil didnt travel to lugoj
+9 There is a contradiction here?	yes	1
+10 lois has visited bucharest and dej
+11 lois didnt visit dej
+12 There is a contradiction here?	yes	1
+13 jan and ramon have traveled to slobozia
+14 jan didnt travel to baia mare
+15 There is a contradiction here?	no	1
+1 eunice went to lugoj and arad
+2 eunice didnt go to slobozia
+3 There is a contradiction here?	no	1
+4 yvette and bruce have traveled to arad
+5 bruce didnt travel to craiova
+6 There is a contradiction here?	no	1
+7 shane went to tulcea and giurgiu
+8 shane didnt go to giurgiu
+9 There is a contradiction here?	yes	1
+10 julian has traveled to mangalia and lugoj
+11 julian didnt travel to lugoj
+12 There is a contradiction here?	yes	1
+13 thomas has traveled to bucharest and vaslui
+14 thomas didnt travel to vaslui
+15 There is a contradiction here?	yes	1
+1 wade went to turda and vaslui
+2 wade didnt go to tulcea
+3 There is a contradiction here?	no	1
+4 jon went to giurgiu and mangalia
+5 jon didnt go to giurgiu
+6 There is a contradiction here?	yes	1
+7 javier and donald have visited craiova
+8 donald didnt visit blaj
+9 There is a contradiction here?	no	1
+10 joshua and vickie have traveled to bucharest
+11 vickie didnt travel to bucharest
+12 There is a contradiction here?	yes	1
+13 clifton and alma went to mangalia
+14 iris didnt go to mangalia
+15 There is a contradiction here?	no	1
+1 charlie went to lugoj and bucharest
+2 charlie didnt go to dej
+3 There is a contradiction here?	no	1
+4 glenn has traveled to timisoara and slobozia
+5 michael didnt travel to slobozia
+6 There is a contradiction here?	no	1
+7 milton and alberta went to timisoara
+8 milton didnt go to timisoara
+9 There is a contradiction here?	yes	1
+10 jenny and thomas have traveled to lugoj
+11 barry didnt travel to lugoj
+12 There is a contradiction here?	no	1
+13 antoinette and patrick went to slobozia
+14 ruth didnt go to slobozia
+15 There is a contradiction here?	no	1
+1 tracey has visited baia mare and vaslui
+2 tracey didnt visit craiova
+3 There is a contradiction here?	no	1
+4 sean has traveled to vaslui and clujnapoca
+5 sean didnt travel to giurgiu
+6 There is a contradiction here?	no	1
+7 terrance has visited baia mare and reghin
+8 terrance didnt visit timisoara
+9 There is a contradiction here?	no	1
+10 inez has traveled to mangalia and deva
+11 inez didnt travel to clujnapoca
+12 There is a contradiction here?	no	1
+13 nicholas and jackie have visited blaj
+14 blanche didnt visit blaj
+15 There is a contradiction here?	no	1
+1 nancy has traveled to vaslui and turda
+2 nancy didnt travel to turda
+3 There is a contradiction here?	yes	1
+4 candice and clifton have traveled to slobozia
+5 clifton didnt travel to clujnapoca
+6 There is a contradiction here?	no	1
+7 kristina and bobbie have traveled to deva
+8 jay didnt travel to deva
+9 There is a contradiction here?	no	1
+10 norman has traveled to deva and turda
+11 norman didnt travel to deva
+12 There is a contradiction here?	yes	1
+13 bill has traveled to timisoara and reghin
+14 bill didnt travel to reghin
+15 There is a contradiction here?	yes	1
+1 reginald went to bucharest and dej
+2 reginald didnt go to dej
+3 There is a contradiction here?	yes	1
+4 jodi and miriam have traveled to vaslui
+5 michelle didnt travel to vaslui
+6 There is a contradiction here?	no	1
+7 luis has visited vaslui and slatina
+8 luis didnt visit slatina
+9 There is a contradiction here?	yes	1
+10 marion has traveled to turda and mangalia
+11 marion didnt travel to turda
+12 There is a contradiction here?	yes	1
+13 jacob and alicia went to oradea
+14 alicia didnt go to dej
+15 There is a contradiction here?	no	1
+1 dennis went to reghin and vaslui
+2 dennis didnt go to vaslui
+3 There is a contradiction here?	yes	1
+4 stephen has traveled to blaj and bucharest
+5 gregory didnt travel to bucharest
+6 There is a contradiction here?	no	1
+7 jan went to hunedoara and oradea
+8 angie didnt go to hunedoara
+9 There is a contradiction here?	no	1
+10 sandy went to bucharest and craiova
+11 sandy didnt go to craiova
+12 There is a contradiction here?	yes	1
+13 clarence has traveled to timisoara and craiova
+14 clarence didnt travel to timisoara
+15 There is a contradiction here?	yes	1
+1 nelson and perry have traveled to craiova
+2 juana didnt travel to craiova
+3 There is a contradiction here?	no	1
+4 vincent has traveled to oradea and bucharest
+5 vincent didnt travel to oradea
+6 There is a contradiction here?	yes	1
+7 greg has traveled to reghin and clujnapoca
+8 greg didnt travel to clujnapoca
+9 There is a contradiction here?	yes	1
+10 faye has visited reghin and hunedoara
+11 faye didnt visit vaslui
+12 There is a contradiction here?	no	1
+13 carrie and lee went to dej
+14 lee didnt go to dej
+15 There is a contradiction here?	yes	1
+1 lynda and jesse went to vaslui
+2 molly didnt go to vaslui
+3 There is a contradiction here?	no	1
+4 rose and christopher have traveled to craiova
+5 christopher didnt travel to bucharest
+6 There is a contradiction here?	no	1
+7 antonio went to turda and slobozia
+8 antonio didnt go to turda
+9 There is a contradiction here?	yes	1
+10 alma and jackie have visited lugoj
+11 alma didnt visit giurgiu
+12 There is a contradiction here?	no	1
+13 jeanette and fernando have visited deva
+14 fernando didnt visit deva
+15 There is a contradiction here?	yes	1
+1 darryl and arthur have visited slatina
+2 darryl didnt visit slatina
+3 There is a contradiction here?	yes	1
+4 derrick has traveled to timisoara and turda
+5 derrick didnt travel to bucharest
+6 There is a contradiction here?	no	1
+7 leslie and oscar went to slatina
+8 leslie didnt go to slatina
+9 There is a contradiction here?	yes	1
+10 jo has visited bucharest and deva
+11 jo didnt visit lugoj
+12 There is a contradiction here?	no	1
+13 thomas has visited mangalia and deva
+14 thomas didnt visit mangalia
+15 There is a contradiction here?	yes	1
+1 danny and jodi have traveled to arad
+2 tiffany didnt travel to arad
+3 There is a contradiction here?	no	1
+4 josephine has traveled to blaj and turda
+5 steve didnt travel to turda
+6 There is a contradiction here?	no	1
+7 brandy and mario went to reghin
+8 brandy didnt go to reghin
+9 There is a contradiction here?	yes	1
+10 rosemary and maurice have visited giurgiu
+11 cynthia didnt visit giurgiu
+12 There is a contradiction here?	no	1
+13 melinda has traveled to slobozia and bucharest
+14 melinda didnt travel to slobozia
+15 There is a contradiction here?	yes	1
+1 ramon and jeffrey have visited tulcea
+2 jeffrey didnt visit slobozia
+3 There is a contradiction here?	no	1
+4 william and pauline have visited blaj
+5 hattie didnt visit blaj
+6 There is a contradiction here?	no	1
+7 shawn has visited reghin and giurgiu
+8 shawn didnt visit reghin
+9 There is a contradiction here?	yes	1
+10 bill has traveled to timisoara and giurgiu
+11 bill didnt travel to dej
+12 There is a contradiction here?	no	1
+13 todd has visited craiova and slatina
+14 todd didnt visit blaj
+15 There is a contradiction here?	no	1
+1 tammy and stacy have visited giurgiu
+2 stacy didnt visit bucharest
+3 There is a contradiction here?	no	1
+4 misty has visited oradea and bucharest
+5 misty didnt visit bucharest
+6 There is a contradiction here?	yes	1
+7 andre has traveled to bucharest and hunedoara
+8 andre didnt travel to bucharest
+9 There is a contradiction here?	yes	1
+10 calvin went to deva and slobozia
+11 calvin didnt go to slobozia
+12 There is a contradiction here?	yes	1
+13 lee and chester have traveled to mangalia
+14 lee didnt travel to mangalia
+15 There is a contradiction here?	yes	1
+1 guadalupe and bradley went to turda
+2 guadalupe didnt go to turda
+3 There is a contradiction here?	yes	1
+4 marjorie has visited mangalia and bucharest
+5 jamie didnt visit mangalia
+6 There is a contradiction here?	no	1
+7 oscar and pedro went to vaslui
+8 oscar didnt go to timisoara
+9 There is a contradiction here?	no	1
+10 jeffrey and madeline went to dej
+11 jeffrey didnt go to dej
+12 There is a contradiction here?	yes	1
+13 tracey has traveled to craiova and blaj
+14 dale didnt travel to craiova
+15 There is a contradiction here?	no	1
+1 marilyn went to lugoj and giurgiu
+2 marilyn didnt go to dej
+3 There is a contradiction here?	no	1
+4 corey went to mangalia and dej
+5 corey didnt go to dej
+6 There is a contradiction here?	yes	1
+7 roy and jean have traveled to timisoara
+8 jean didnt travel to timisoara
+9 There is a contradiction here?	yes	1
+10 cody and gregory went to slatina
+11 cody didnt go to slatina
+12 There is a contradiction here?	yes	1
+13 caroline went to hunedoara and slatina
+14 caroline didnt go to hunedoara
+15 There is a contradiction here?	yes	1
+1 janet and bill have visited turda
+2 janet didnt visit turda
+3 There is a contradiction here?	no	1
+4 elaine went to vaslui and arad
+5 elaine didnt go to arad
+6 There is a contradiction here?	yes	1
+7 don has traveled to reghin and craiova
+8 don didnt travel to craiova
+9 There is a contradiction here?	yes	1
+10 carmen and connie have traveled to arad
+11 connie didnt travel to timisoara
+12 There is a contradiction here?	no	1
+13 ernest has visited dej and arad
+14 ernest didnt visit arad
+15 There is a contradiction here?	yes	1
+1 claire went to arad and timisoara
+2 claire didnt go to timisoara
+3 There is a contradiction here?	yes	1
+4 darren went to baia mare and clujnapoca
+5 darren didnt go to clujnapoca
+6 There is a contradiction here?	yes	1
+7 angel has visited giurgiu and lugoj
+8 angel didnt visit bucharest
+9 There is a contradiction here?	no	1
+10 bob has visited mangalia and bucharest
+11 bob didnt visit reghin
+12 There is a contradiction here?	no	1
+13 shawn and joseph have traveled to giurgiu
+14 shawn didnt travel to giurgiu
+15 There is a contradiction here?	yes	1
+1 glenda and jimmie have visited slobozia
+2 jimmie didnt visit slobozia
+3 There is a contradiction here?	yes	1
+4 kimberly has visited craiova and bucharest
+5 kimberly didnt visit slatina
+6 There is a contradiction here?	no	1
+7 richard has visited timisoara and tulcea
+8 richard didnt visit timisoara
+9 There is a contradiction here?	yes	1
+10 patrick and geneva went to timisoara
+11 patrick didnt go to reghin
+12 There is a contradiction here?	no	1
+13 beulah and kristy have visited bucharest
+14 beulah didnt visit bucharest
+15 There is a contradiction here?	yes	1
+1 leo and rene have traveled to vaslui
+2 leo didnt travel to vaslui
+3 There is a contradiction here?	yes	1
+4 flora and heather went to oradea
+5 heather didnt go to reghin
+6 There is a contradiction here?	no	1
+7 andrew has traveled to hunedoara and blaj
+8 andrew didnt travel to tulcea
+9 There is a contradiction here?	no	1
+10 edward and jaime have visited bucharest
+11 angela didnt visit bucharest
+12 There is a contradiction here?	no	1
+13 laurie and robert have traveled to reghin
+14 robert didnt travel to reghin
+15 There is a contradiction here?	yes	1
+1 theresa went to craiova and clujnapoca
+2 greg didnt go to craiova
+3 There is a contradiction here?	no	1
+4 lloyd has visited arad and reghin
+5 lloyd didnt visit bucharest
+6 There is a contradiction here?	no	1
+7 marvin went to bucharest and dej
+8 marvin didnt go to craiova
+9 There is a contradiction here?	no	1
+10 marvin and earl have traveled to baia mare
+11 earl didnt travel to baia mare
+12 There is a contradiction here?	yes	1
+13 molly went to blaj and hunedoara
+14 molly didnt go to bucharest
+15 There is a contradiction here?	no	1
+1 alberta and harold have traveled to bucharest
+2 harold didnt travel to bucharest
+3 There is a contradiction here?	yes	1
+4 corey went to vaslui and blaj
+5 corey didnt go to dej
+6 There is a contradiction here?	no	1
+7 rita has traveled to deva and timisoara
+8 rita didnt travel to craiova
+9 There is a contradiction here?	no	1
+10 chris went to hunedoara and deva
+11 chris didnt go to hunedoara
+12 There is a contradiction here?	yes	1
+13 doris and ted went to bucharest
+14 ted didnt go to bucharest
+15 There is a contradiction here?	no	1
+1 benjamin and randall have traveled to slobozia
+2 benjamin didnt travel to slobozia
+3 There is a contradiction here?	yes	1
+4 cheryl and nathaniel have visited hunedoara
+5 nathaniel didnt visit hunedoara
+6 There is a contradiction here?	yes	1
+7 roland and ian have visited clujnapoca
+8 ian didnt visit clujnapoca
+9 There is a contradiction here?	yes	1
+10 bonnie went to turda and bucharest
+11 bonnie didnt go to slobozia
+12 There is a contradiction here?	no	1
+13 elizabeth and carolyn went to clujnapoca
+14 elizabeth didnt go to clujnapoca
+15 There is a contradiction here?	yes	1
+1 curtis has traveled to hunedoara and lugoj
+2 curtis didnt travel to bucharest
+3 There is a contradiction here?	no	1
+4 agnes has visited bucharest and tulcea
+5 joanna didnt visit tulcea
+6 There is a contradiction here?	no	1
+7 emma went to mangalia and arad
+8 emma didnt go to mangalia
+9 There is a contradiction here?	yes	1
+10 maggie and carrie have traveled to blaj
+11 john didnt travel to blaj
+12 There is a contradiction here?	no	1
+13 floyd has traveled to bucharest and oradea
+14 becky didnt travel to oradea
+15 There is a contradiction here?	no	1
+1 caroline went to clujnapoca and turda
+2 caroline didnt go to turda
+3 There is a contradiction here?	yes	1
+4 terry has traveled to timisoara and giurgiu
+5 terry didnt travel to baia mare
+6 There is a contradiction here?	no	1
+7 arlene went to lugoj and deva
+8 albert didnt go to deva
+9 There is a contradiction here?	no	1
+10 diane and brittany have visited baia mare
+11 brittany didnt visit baia mare
+12 There is a contradiction here?	yes	1
+13 aaron and elsie have traveled to vaslui
+14 seth didnt travel to vaslui
+15 There is a contradiction here?	no	1
+1 gladys has traveled to hunedoara and dej
+2 gladys didnt travel to dej
+3 There is a contradiction here?	yes	1
+4 jenny and crystal have visited tulcea
+5 angie didnt visit tulcea
+6 There is a contradiction here?	no	1
+7 nancy and nathan have traveled to blaj
+8 nancy didnt travel to blaj
+9 There is a contradiction here?	yes	1
+10 deanna has traveled to bucharest and tulcea
+11 deanna didnt travel to arad
+12 There is a contradiction here?	no	1
+13 charlotte has traveled to hunedoara and baia mare
+14 charlotte didnt travel to arad
+15 There is a contradiction here?	no	1
+1 terri has traveled to turda and blaj
+2 terri didnt travel to baia mare
+3 There is a contradiction here?	no	1
+4 harold and shelley have traveled to deva
+5 harold didnt travel to deva
+6 There is a contradiction here?	yes	1
+7 john went to hunedoara and bucharest
+8 john didnt go to hunedoara
+9 There is a contradiction here?	yes	1
+10 priscilla and audrey have visited blaj
+11 priscilla didnt visit blaj
+12 There is a contradiction here?	yes	1
+13 maggie and monique went to craiova
+14 randy didnt go to craiova
+15 There is a contradiction here?	no	1
+1 adrian and elsie have visited vaslui
+2 gertrude didnt visit vaslui
+3 There is a contradiction here?	no	1
+4 stephanie and monica have traveled to baia mare
+5 monica didnt travel to baia mare
+6 There is a contradiction here?	yes	1
+7 kim and clarence have traveled to clujnapoca
+8 clarence didnt travel to clujnapoca
+9 There is a contradiction here?	yes	1
+10 dolores and peter have traveled to tulcea
+11 peter didnt travel to tulcea
+12 There is a contradiction here?	yes	1
+13 willie and max have traveled to arad
+14 max didnt travel to arad
+15 There is a contradiction here?	yes	1
+1 olivia has traveled to oradea and bucharest
+2 jill didnt travel to bucharest
+3 There is a contradiction here?	no	1
+4 alfredo has traveled to deva and bucharest
+5 esther didnt travel to deva
+6 There is a contradiction here?	no	1
+7 kevin went to arad and dej
+8 kevin didnt go to dej
+9 There is a contradiction here?	yes	1
+10 betty and cora have visited slatina
+11 betty didnt visit slatina
+12 There is a contradiction here?	yes	1
+13 gerald and sylvia went to turda
+14 gerald didnt go to turda
+15 There is a contradiction here?	yes	1
+1 angie and grace have traveled to blaj
+2 stella didnt travel to blaj
+3 There is a contradiction here?	no	1
+4 joshua has visited reghin and bucharest
+5 theodore didnt visit reghin
+6 There is a contradiction here?	no	1
+7 chad and javier went to vaslui
+8 chad didnt go to baia mare
+9 There is a contradiction here?	no	1
+10 deborah went to vaslui and slobozia
+11 deborah didnt go to slobozia
+12 There is a contradiction here?	yes	1
+13 willard went to blaj and reghin
+14 willard didnt go to reghin
+15 There is a contradiction here?	yes	1
+1 calvin has traveled to turda and mangalia
+2 calvin didnt travel to arad
+3 There is a contradiction here?	no	1
+4 lori and stephanie went to turda
+5 lori didnt go to turda
+6 There is a contradiction here?	yes	1
+7 megan has traveled to deva and vaslui
+8 megan didnt travel to deva
+9 There is a contradiction here?	yes	1
+10 peggy has traveled to clujnapoca and deva
+11 peggy didnt travel to clujnapoca
+12 There is a contradiction here?	yes	1
+13 marion and erika have visited hunedoara
+14 erika didnt visit hunedoara
+15 There is a contradiction here?	yes	1
+1 sarah has traveled to bucharest and reghin
+2 sarah didnt travel to reghin
+3 There is a contradiction here?	yes	1
+4 brandon has visited deva and vaslui
+5 brandon didnt visit vaslui
+6 There is a contradiction here?	yes	1
+7 albert has visited bucharest and oradea
+8 albert didnt visit mangalia
+9 There is a contradiction here?	no	1
+10 stephanie and kenneth have traveled to giurgiu
+11 stephanie didnt travel to giurgiu
+12 There is a contradiction here?	yes	1
+13 rita has traveled to clujnapoca and deva
+14 rita didnt travel to deva
+15 There is a contradiction here?	yes	1
+1 terrence and priscilla have traveled to clujnapoca
+2 terrence didnt travel to clujnapoca
+3 There is a contradiction here?	yes	1
+4 ida has visited tulcea and bucharest
+5 jorge didnt visit tulcea
+6 There is a contradiction here?	no	1
+7 eunice and greg went to arad
+8 eunice didnt go to arad
+9 There is a contradiction here?	yes	1
+10 ricardo and ted went to vaslui
+11 ted didnt go to vaslui
+12 There is a contradiction here?	yes	1
+13 willie has traveled to turda and slobozia
+14 willie didnt travel to turda
+15 There is a contradiction here?	yes	1
+1 sherri and peggy went to mangalia
+2 peggy didnt go to mangalia
+3 There is a contradiction here?	yes	1
+4 cora has visited mangalia and clujnapoca
+5 cora didnt visit clujnapoca
+6 There is a contradiction here?	yes	1
+7 edna and monique have visited tulcea
+8 shirley didnt visit tulcea
+9 There is a contradiction here?	no	1
+10 erika has traveled to mangalia and reghin
+11 erika didnt travel to mangalia
+12 There is a contradiction here?	yes	1
+13 leroy and ellen went to bucharest
+14 ellen didnt go to bucharest
+15 There is a contradiction here?	yes	1
+1 beulah has traveled to reghin and dej
+2 beulah didnt travel to giurgiu
+3 There is a contradiction here?	no	1
+4 derek went to bucharest and mangalia
+5 derek didnt go to mangalia
+6 There is a contradiction here?	yes	1
+7 shane and ashley went to blaj
+8 allan didnt go to blaj
+9 There is a contradiction here?	no	1
+10 stephen has traveled to baia mare and bucharest
+11 stephen didnt travel to baia mare
+12 There is a contradiction here?	yes	1
+13 edith has traveled to baia mare and bucharest
+14 edith didnt travel to baia mare
+15 There is a contradiction here?	yes	1
+1 brandi has traveled to blaj and giurgiu
+2 brandi didnt travel to blaj
+3 There is a contradiction here?	yes	1
+4 allison has visited reghin and vaslui
+5 allison didnt visit vaslui
+6 There is a contradiction here?	yes	1
+7 kyle and anthony have traveled to slatina
+8 kyle didnt travel to oradea
+9 There is a contradiction here?	no	1
+10 dorothy and nelson have traveled to oradea
+11 dorothy didnt travel to oradea
+12 There is a contradiction here?	yes	1
+13 florence and jonathan have traveled to clujnapoca
+14 jonathan didnt travel to clujnapoca
+15 There is a contradiction here?	no	1
+1 june and kathryn have traveled to bucharest
+2 tracey didnt travel to bucharest
+3 There is a contradiction here?	no	1
+4 carolyn has traveled to slobozia and giurgiu
+5 carolyn didnt travel to craiova
+6 There is a contradiction here?	no	1
+7 alicia and matthew have visited arad
+8 matthew didnt visit slobozia
+9 There is a contradiction here?	no	1
+10 joshua and carl have traveled to blaj
+11 carl didnt travel to baia mare
+12 There is a contradiction here?	no	1
+13 lucille has visited timisoara and reghin
+14 lucille didnt visit timisoara
+15 There is a contradiction here?	yes	1
+1 rosemary and holly have traveled to clujnapoca
+2 rosemary didnt travel to clujnapoca
+3 There is a contradiction here?	yes	1
+4 jeremy went to bucharest and craiova
+5 iris didnt go to bucharest
+6 There is a contradiction here?	no	1
+7 craig and dean went to timisoara
+8 dean didnt go to timisoara
+9 There is a contradiction here?	yes	1
+10 heather and jorge have visited bucharest
+11 martha didnt visit bucharest
+12 There is a contradiction here?	no	1
+13 heidi and judith went to bucharest
+14 judith didnt go to slatina
+15 There is a contradiction here?	no	1
+1 harry and ruben went to arad
+2 ruben didnt go to arad
+3 There is a contradiction here?	yes	1
+4 sandra went to blaj and oradea
+5 ramon didnt go to blaj
+6 There is a contradiction here?	no	1
+7 carole went to mangalia and tulcea
+8 carole didnt go to hunedoara
+9 There is a contradiction here?	no	1
+10 leslie went to hunedoara and timisoara
+11 leslie didnt go to timisoara
+12 There is a contradiction here?	yes	1
+13 herman has visited giurgiu and timisoara
+14 herman didnt visit baia mare
+15 There is a contradiction here?	no	1
+1 bernard has visited timisoara and tulcea
+2 bernard didnt visit mangalia
+3 There is a contradiction here?	no	1
+4 beverly has visited deva and oradea
+5 beverly didnt visit deva
+6 There is a contradiction here?	yes	1
+7 arthur and kathy went to baia mare
+8 kathy didnt go to blaj
+9 There is a contradiction here?	no	1
+10 melinda and eddie have traveled to giurgiu
+11 eddie didnt travel to giurgiu
+12 There is a contradiction here?	yes	1
+13 danielle and shane have traveled to arad
+14 shane didnt travel to baia mare
+15 There is a contradiction here?	no	1
+1 marian and margaret have visited turda
+2 manuel didnt visit turda
+3 There is a contradiction here?	no	1
+4 timothy and michael went to craiova
+5 timothy didnt go to craiova
+6 There is a contradiction here?	yes	1
+7 michele and fannie have visited dej
+8 lois didnt visit dej
+9 There is a contradiction here?	no	1
+10 eunice went to timisoara and baia mare
+11 eunice didnt go to blaj
+12 There is a contradiction here?	no	1
+13 floyd went to tulcea and hunedoara
+14 floyd didnt go to timisoara
+15 There is a contradiction here?	no	1
+1 opal and audrey have visited timisoara
+2 audrey didnt visit timisoara
+3 There is a contradiction here?	yes	1
+4 amelia went to oradea and deva
+5 amelia didnt go to deva
+6 There is a contradiction here?	yes	1
+7 tammy and marcus went to lugoj
+8 enrique didnt go to lugoj
+9 There is a contradiction here?	no	1
+10 barbara and ricardo have visited slatina
+11 ricardo didnt visit slatina
+12 There is a contradiction here?	yes	1
+13 javier went to bucharest and turda
+14 javier didnt go to turda
+15 There is a contradiction here?	yes	1
+1 hilda and janie have traveled to dej
+2 hilda didnt travel to dej
+3 There is a contradiction here?	yes	1
+4 amanda and bobbie have visited lugoj
+5 bobbie didnt visit reghin
+6 There is a contradiction here?	no	1
+7 herman and becky went to arad
+8 danny didnt go to arad
+9 There is a contradiction here?	no	1
+10 maurice and lewis went to mangalia
+11 kristen didnt go to mangalia
+12 There is a contradiction here?	no	1
+13 louis and marjorie have traveled to slatina
+14 veronica didnt travel to slatina
+15 There is a contradiction here?	no	1
+1 wayne went to slobozia and baia mare
+2 wayne didnt go to baia mare
+3 There is a contradiction here?	yes	1
+4 antoinette has visited blaj and bucharest
+5 mathew didnt visit blaj
+6 There is a contradiction here?	no	1
+7 sonia and brandon have traveled to slobozia
+8 frederick didnt travel to slobozia
+9 There is a contradiction here?	no	1
+10 alexander and thelma went to bucharest
+11 alexander didnt go to bucharest
+12 There is a contradiction here?	yes	1
+13 bertha and eduardo went to mangalia
+14 eduardo didnt go to mangalia
+15 There is a contradiction here?	yes	1
+1 tracey has visited vaslui and craiova
+2 tracey didnt visit oradea
+3 There is a contradiction here?	no	1
+4 keith and patricia have visited bucharest
+5 keith didnt visit blaj
+6 There is a contradiction here?	no	1
+7 myrtle has visited timisoara and craiova
+8 beatrice didnt visit timisoara
+9 There is a contradiction here?	no	1
+10 dora went to craiova and mangalia
+11 dora didnt go to mangalia
+12 There is a contradiction here?	yes	1
+13 dave has visited dej and bucharest
+14 dave didnt visit tulcea
+15 There is a contradiction here?	no	1
+1 harry has traveled to bucharest and giurgiu
+2 harry didnt travel to turda
+3 There is a contradiction here?	no	1
+4 kyle went to clujnapoca and giurgiu
+5 kyle didnt go to giurgiu
+6 There is a contradiction here?	yes	1
+7 francis went to clujnapoca and reghin
+8 francis didnt go to slobozia
+9 There is a contradiction here?	no	1
+10 penny went to tulcea and clujnapoca
+11 penny didnt go to clujnapoca
+12 There is a contradiction here?	yes	1
+13 tanya has traveled to vaslui and baia mare
+14 dwight didnt travel to vaslui
+15 There is a contradiction here?	no	1
+1 kent and wilma went to bucharest
+2 randall didnt go to bucharest
+3 There is a contradiction here?	no	1
+4 holly and eleanor went to lugoj
+5 holly didnt go to lugoj
+6 There is a contradiction here?	yes	1
+7 byron went to bucharest and lugoj
+8 alison didnt go to lugoj
+9 There is a contradiction here?	no	1
+10 jeff and darren went to deva
+11 darren didnt go to deva
+12 There is a contradiction here?	yes	1
+13 gregory and francisco have traveled to dej
+14 gregory didnt travel to dej
+15 There is a contradiction here?	yes	1
+1 mamie has visited vaslui and bucharest
+2 mamie didnt visit vaslui
+3 There is a contradiction here?	yes	1
+4 cynthia has traveled to timisoara and dej
+5 hugh didnt travel to timisoara
+6 There is a contradiction here?	no	1
+7 jan has traveled to reghin and turda
+8 jan didnt travel to lugoj
+9 There is a contradiction here?	no	1
+10 samantha and clinton went to turda
+11 samantha didnt go to turda
+12 There is a contradiction here?	yes	1
+13 theodore and arnold went to slobozia
+14 minnie didnt go to slobozia
+15 There is a contradiction here?	no	1
+1 rose went to giurgiu and oradea
+2 rose didnt go to lugoj
+3 There is a contradiction here?	no	1
+4 deborah has traveled to timisoara and clujnapoca
+5 deborah didnt travel to clujnapoca
+6 There is a contradiction here?	yes	1
+7 danny and kent have traveled to hunedoara
+8 mary didnt travel to hunedoara
+9 There is a contradiction here?	no	1
+10 michael and alex have traveled to clujnapoca
+11 michael didnt travel to clujnapoca
+12 There is a contradiction here?	yes	1
+13 chad and yolanda have traveled to mangalia
+14 chad didnt travel to mangalia
+15 There is a contradiction here?	yes	1
+1 felicia has visited timisoara and baia mare
+2 natalie didnt visit baia mare
+3 There is a contradiction here?	no	1
+4 constance and pamela have traveled to bucharest
+5 constance didnt travel to giurgiu
+6 There is a contradiction here?	no	1
+7 janet and tom have visited mangalia
+8 janet didnt visit mangalia
+9 There is a contradiction here?	yes	1
+10 joshua went to dej and hunedoara
+11 ana didnt go to dej
+12 There is a contradiction here?	no	1
+13 sheryl went to bucharest and mangalia
+14 sheryl didnt go to oradea
+15 There is a contradiction here?	no	1
+1 jeff has visited timisoara and deva
+2 charlie didnt visit deva
+3 There is a contradiction here?	no	1
+4 melinda and ethel have visited hunedoara
+5 melinda didnt visit hunedoara
+6 There is a contradiction here?	yes	1
+7 jenny has visited lugoj and tulcea
+8 jenny didnt visit deva
+9 There is a contradiction here?	no	1
+10 eric has visited tulcea and reghin
+11 eric didnt visit reghin
+12 There is a contradiction here?	yes	1
+13 audrey has traveled to dej and lugoj
+14 audrey didnt travel to clujnapoca
+15 There is a contradiction here?	no	1
+1 rebecca went to baia mare and dej
+2 rebecca didnt go to dej
+3 There is a contradiction here?	yes	1
+4 kristi and alan have visited giurgiu
+5 kristi didnt visit blaj
+6 There is a contradiction here?	no	1
+7 frances and jack have traveled to tulcea
+8 ray didnt travel to tulcea
+9 There is a contradiction here?	no	1
+10 cheryl and roger have visited slatina
+11 roger didnt visit oradea
+12 There is a contradiction here?	no	1
+13 willie and colleen have visited deva
+14 colleen didnt visit deva
+15 There is a contradiction here?	yes	1
+1 sherri has visited bucharest and oradea
+2 sherri didnt visit oradea
+3 There is a contradiction here?	yes	1
+4 stacey has visited craiova and mangalia
+5 marilyn didnt visit mangalia
+6 There is a contradiction here?	no	1
+7 lee has visited slatina and slatina
+8 dustin didnt visit slatina
+9 There is a contradiction here?	no	1
+10 carlos has visited giurgiu and hunedoara
+11 carlos didnt visit hunedoara
+12 There is a contradiction here?	yes	1
+13 pauline has visited mangalia and vaslui
+14 pauline didnt visit vaslui
+15 There is a contradiction here?	yes	1
+1 melanie has traveled to baia mare and mangalia
+2 melanie didnt travel to arad
+3 There is a contradiction here?	no	1
+4 eunice went to oradea and slobozia
+5 eunice didnt go to bucharest
+6 There is a contradiction here?	no	1
+7 harry and rita have traveled to deva
+8 rita didnt travel to deva
+9 There is a contradiction here?	yes	1
+10 herman and nathaniel have visited hunedoara
+11 herman didnt visit hunedoara
+12 There is a contradiction here?	yes	1
+13 marvin and jessie have traveled to vaslui
+14 jessie didnt travel to vaslui
+15 There is a contradiction here?	yes	1
+1 patrick has visited slatina and deva
+2 patrick didnt visit lugoj
+3 There is a contradiction here?	no	1
+4 june and margaret went to baia mare
+5 paul didnt go to baia mare
+6 There is a contradiction here?	no	1
+7 dianne went to timisoara and hunedoara
+8 dianne didnt go to timisoara
+9 There is a contradiction here?	yes	1
+10 jay and cora have traveled to slobozia
+11 inez didnt travel to slobozia
+12 There is a contradiction here?	no	1
+13 franklin has visited turda and bucharest
+14 franklin didnt visit mangalia
+15 There is a contradiction here?	no	1
+1 theodore went to blaj and slatina
+2 theodore didnt go to blaj
+3 There is a contradiction here?	yes	1
+4 rose went to bucharest and oradea
+5 rose didnt go to slobozia
+6 There is a contradiction here?	no	1
+7 lonnie and douglas went to baia mare
+8 lonnie didnt go to baia mare
+9 There is a contradiction here?	yes	1
+10 vincent and belinda went to deva
+11 belinda didnt go to deva
+12 There is a contradiction here?	yes	1
+13 stephanie has traveled to clujnapoca and mangalia
+14 lewis didnt travel to mangalia
+15 There is a contradiction here?	no	1

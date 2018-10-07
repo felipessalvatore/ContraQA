@@ -1,0 +1,1001 @@
+sentence1,sentence2,label
+isabel s painting is calm or isabel s painting is silly,isabel s painting isn t calm,0
+howard s painting is fancy or howard s painting is icy,howard s painting is neither fancy nor icy,1
+kelly s painting is witty or kelly s painting is hallowed,kelly s painting is neither witty nor hallowed,1
+jon s painting is beautiful or jon s painting is helpless,nicole s painting is neither beautiful nor helpless,0
+rita s painting is magnificent or rita s painting is embarrassed,rita s painting is neither magnificent nor embarrassed,1
+tamara s painting is thoughtless or tamara s painting is handsome,tamara s painting isn t thoughtless and tamara s painting isn t handsome,1
+jerome s painting is lazy or jerome s painting is gifted,joel s painting is neither lazy nor gifted,0
+naomi s painting is plump or naomi s painting is odd,naomi s painting isn t plump,0
+matthew s painting is ashy or matthew s painting is polite,matthew s painting isn t ashy and matthew s painting isn t polite,1
+sabrina s painting is ambitious or sabrina s painting is zealous,sabrina s painting is neither ambitious nor zealous,1
+jessie s painting is unimportant or jessie s painting is rich,jessie s painting isn t unimportant and jessie s painting isn t rich,1
+edna s painting is bald or edna s painting is calm,edna s painting is neither shapely nor calm,0
+ralph s painting is shapely or ralph s painting is grumpy,brent s painting is neither shapely nor grumpy,0
+jeanette s painting is helpful or jeanette s painting is uninterested,jeanette s painting isn t helpful and jeanette s painting isn t uninterested,1
+rosa s painting is mealy or rosa s painting is thoughtless,rosa s painting isn t thoughtless,0
+isabel s painting is polite or isabel s painting is delightful,isabel s painting isn t delightful,0
+patrick s painting is icy or patrick s painting is fierce,patrick s painting is neither icy nor fierce,1
+willie s painting is clean or willie s painting is itchy,willie s painting is neither clean nor itchy,1
+dan s painting is short or dan s painting is clever,dan s painting is neither short nor clever,1
+joanne s painting is witty or joanne s painting is gifted,joanne s painting isn t gifted,0
+joyce s painting is green or joyce s painting is scary,joyce s painting is neither green nor helpless,0
+clifton s painting is pitiful or clifton s painting is bald,clifton s painting is neither polite nor bald,0
+joe s painting is icy or joe s painting is scary,joe s painting isn t scary,0
+salvador s painting is polite or salvador s painting is nice,salvador s painting isn t nice,0
+marguerite s painting is brave or marguerite s painting is tender,marguerite s painting is neither brave nor tender,1
+alan s painting is wonderful or alan s painting is ugly,roberto s painting is neither wonderful nor ugly,0
+barry s painting is embarrassed or barry s painting is silly,barry s painting isn t embarrassed and barry s painting isn t silly,1
+debbie s painting is elegant or debbie s painting is clumsy,debbie s painting is neither elegant nor clumsy,1
+sidney s painting is unkempt or sidney s painting is better,sidney s painting is neither unkempt nor better,1
+randy s painting is important or randy s painting is ambitious,amy s painting is neither important nor ambitious,0
+rosemary s painting is agreeable or rosemary s painting is unsightly,rosemary s painting isn t agreeable and rosemary s painting isn t unsightly,1
+keith s painting is jealous or keith s painting is black,keith s painting isn t jealous and keith s painting isn t black,1
+nelson s painting is magnificent or nelson s painting is jolly,nelson s painting isn t magnificent,0
+guadalupe s painting is mysterious or guadalupe s painting is polite,guadalupe s painting is neither mysterious nor polite,1
+renee s painting is proud or renee s painting is clever,bill s painting is neither proud nor clever,0
+ellen s painting is proud or ellen s painting is careful,marc s painting is neither proud nor careful,0
+theodore s painting is pitiful or theodore s painting is scruffy,jon s painting is neither pitiful nor scruffy,0
+bessie s painting is witty or bessie s painting is mushy,bessie s painting isn t mushy,0
+phyllis s painting is poor or phyllis s painting is flabby,jerry s painting is neither poor nor flabby,0
+flora s painting is long or flora s painting is fancy,flora s painting isn t long and flora s painting isn t fancy,1
+penny s painting is obedient or penny s painting is hallowed,penny s painting isn t obedient and penny s painting isn t hallowed,1
+heather s painting is clever or heather s painting is repulsive,heather s painting isn t repulsive,0
+darryl s painting is attractive or darryl s painting is dead,darryl s painting is neither attractive nor black,0
+miriam s painting is gray or miriam s painting is white,miriam s painting is neither gray nor white,1
+erica s painting is muscular or erica s painting is embarrassed,eva s painting is neither muscular nor embarrassed,0
+naomi s painting is dead or naomi s painting is mango,naomi s painting is neither dead nor mango,1
+kurt s painting is eager or kurt s painting is gentle,kurt s painting isn t eager and kurt s painting isn t gentle,1
+laura s painting is uninterested or laura s painting is clean,jerome s painting is neither uninterested nor clean,0
+evelyn s painting is brave or evelyn s painting is scary,evelyn s painting is neither brave nor quaint,0
+hilda s painting is handsome or hilda s painting is victorious,hilda s painting is neither handsome nor victorious,1
+lee s painting is nice or lee s painting is easy,lee s painting is neither nice nor easy,1
+guadalupe s painting is proud or guadalupe s painting is worried,viola s painting is neither proud nor worried,0
+tanya s painting is rich or tanya s painting is plain,tanya s painting isn t rich and tanya s painting isn t plain,1
+louise s painting is tender or louise s painting is careful,louise s painting isn t tender and louise s painting isn t careful,1
+tyler s painting is zealous or tyler s painting is magnificent,tyler s painting isn t zealous and tyler s painting isn t magnificent,1
+dora s painting is unkempt or dora s painting is tender,dora s painting isn t tender,0
+terry s painting is salmon or terry s painting is green,terry s painting isn t salmon and terry s painting isn t green,1
+mike s painting is agreeable or mike s painting is poor,mike s painting is neither agreeable nor poor,1
+katrina s painting is brave or katrina s painting is thoughtless,katrina s painting is neither brave nor thoughtless,1
+billy s painting is rich or billy s painting is fierce,billy s painting is neither silly nor fierce,0
+rebecca s painting is defeated or rebecca s painting is fierce,rebecca s painting is neither defeated nor fierce,1
+cynthia s painting is eager or cynthia s painting is calm,charlotte s painting is neither eager nor calm,0
+valerie s painting is black or valerie s painting is easy,valerie s painting isn t black and valerie s painting isn t easy,1
+perry s painting is angry or perry s painting is black,perry s painting is neither angry nor black,1
+fred s painting is helpful or fred s painting is mango,fred s painting is neither helpful nor mango,1
+melinda s painting is tender or melinda s painting is gray,melinda s painting isn t tender and melinda s painting isn t gray,1
+stanley s painting is orange or stanley s painting is obedient,stanley s painting isn t obedient,0
+julie s painting is long or julie s painting is gorgeous,julie s painting isn t long and julie s painting isn t gorgeous,1
+amelia s painting is beautiful or amelia s painting is silly,amelia s painting is neither beautiful nor silly,1
+lucy s painting is lively or lucy s painting is scruffy,lucy s painting is neither lively nor scruffy,1
+randall s painting is panicky or randall s painting is calm,randall s painting is neither panicky nor calm,1
+lola s painting is plump or lola s painting is proud,lola s painting isn t proud,0
+susan s painting is red or susan s painting is black,susan s painting isn t black,0
+melvin s painting is purple or melvin s painting is gorgeous,melvin s painting is neither purple nor alive,0
+derrick s painting is unsightly or derrick s painting is repulsive,derrick s painting is neither unsightly nor repulsive,1
+jean s painting is beautiful or jean s painting is fancy,jean s painting is neither beautiful nor fancy,1
+pearl s painting is nervous or pearl s painting is helpless,pearl s painting is neither flabby nor helpless,0
+oscar s painting is clever or oscar s painting is agreeable,oscar s painting isn t clever and oscar s painting isn t agreeable,1
+ricardo s painting is gray or ricardo s painting is famous,ricardo s painting is neither gray nor famous,1
+carl s painting is blue or carl s painting is clumsy,marie s painting is neither blue nor clumsy,0
+agnes s painting is gentle or agnes s painting is rich,agnes s painting isn t rich,0
+eileen s painting is shapely or eileen s painting is happy,eileen s painting isn t shapely and eileen s painting isn t happy,1
+maxine s painting is dazzling or maxine s painting is victorious,maxine s painting isn t victorious,0
+melanie s painting is blue or melanie s painting is gray,melanie s painting is neither blue nor gray,1
+jon s painting is icy or jon s painting is happy,jon s painting is neither icy nor happy,1
+roger s painting is polite or roger s painting is fancy,roger s painting isn t fancy,0
+darryl s painting is short or darryl s painting is gorgeous,darryl s painting isn t gorgeous,0
+gloria s painting is clever or gloria s painting is ambitious,gloria s painting isn t ambitious,0
+harriet s painting is brave or harriet s painting is bewildered,harriet s painting isn t bewildered,0
+amanda s painting is calm or amanda s painting is defeated,amanda s painting is neither calm nor defeated,1
+oscar s painting is wrong or oscar s painting is attractive,frank s painting is neither wrong nor attractive,0
+harold s painting is obnoxious or harold s painting is plain,harold s painting is neither obnoxious nor plain,1
+jackie s painting is careful or jackie s painting is bewildered,virginia s painting is neither careful nor bewildered,0
+sylvia s painting is clumsy or sylvia s painting is kind,patricia s painting is neither clumsy nor kind,0
+megan s painting is wonderful or megan s painting is pitiful,megan s painting isn t pitiful,0
+josephine s painting is hallowed or josephine s painting is red,mitchell s painting is neither hallowed nor red,0
+janie s painting is attractive or janie s painting is polite,janie s painting isn t attractive,0
+josephine s painting is fancy or josephine s painting is jealous,josephine s painting is neither eager nor jealous,0
+debbie s painting is panicky or debbie s painting is powerful,roy s painting is neither panicky nor powerful,0
+darryl s painting is unimportant or darryl s painting is inexpensive,darryl s painting is neither unimportant nor ugly,0
+lance s painting is red or lance s painting is gifted,lance s painting is neither red nor hallowed,0
+lynda s painting is ugly or lynda s painting is inexpensive,marshall s painting is neither ugly nor inexpensive,0
+violet s painting is defeated or violet s painting is unsightly,violet s painting isn t defeated,0
+alison s painting is thankful or alison s painting is green,alison s painting is neither drab nor green,0
+jay s painting is nervous or jay s painting is witty,jay s painting isn t nervous and jay s painting isn t witty,1
+clinton s painting is lazy or clinton s painting is stocky,clinton s painting isn t lazy,0
+frank s painting is powerful or frank s painting is delightful,frank s painting is neither powerful nor delightful,1
+ronald s painting is shapely or ronald s painting is skinny,ronald s painting isn t shapely and ronald s painting isn t skinny,1
+billy s painting is orange or billy s painting is inexpensive,billy s painting is neither orange nor inexpensive,1
+gladys s painting is muscular or gladys s painting is important,gladys s painting is neither muscular nor important,1
+wallace s painting is fierce or wallace s painting is elegant,wallace s painting isn t fierce,0
+hilda s painting is ashy or hilda s painting is fit,shelly s painting is neither ashy nor fit,0
+kristin s painting is gray or kristin s painting is clever,kristin s painting is neither repulsive nor clever,0
+dan s painting is long or dan s painting is ashy,dan s painting is neither long nor ashy,1
+everett s painting is obnoxious or everett s painting is brave,rene s painting is neither obnoxious nor brave,0
+teresa s painting is worried or teresa s painting is obedient,teresa s painting is neither worried nor obedient,1
+delores s painting is gifted or delores s painting is famous,delores s painting isn t famous,0
+sabrina s painting is glamorous or sabrina s painting is repulsive,donald s painting is neither glamorous nor repulsive,0
+kristin s painting is odd or kristin s painting is scary,kristin s painting isn t odd and kristin s painting isn t scary,1
+marsha s painting is magnificent or marsha s painting is thoughtless,marsha s painting isn t magnificent and marsha s painting isn t thoughtless,1
+manuel s painting is wonderful or manuel s painting is plain,manuel s painting isn t wonderful,0
+jacob s painting is unimportant or jacob s painting is long,jacob s painting isn t unimportant and jacob s painting isn t long,1
+david s painting is gifted or david s painting is embarrassed,jon s painting is neither gifted nor embarrassed,0
+caroline s painting is shy or caroline s painting is itchy,caroline s painting is neither shy nor itchy,1
+mark s painting is fancy or mark s painting is easy,mark s painting isn t fancy and mark s painting isn t easy,1
+jill s painting is red or jill s painting is inexpensive,leroy s painting is neither red nor inexpensive,0
+laura s painting is grumpy or laura s painting is rich,laura s painting is neither grumpy nor rich,1
+leroy s painting is obnoxious or leroy s painting is shapely,leroy s painting isn t obnoxious and leroy s painting isn t shapely,1
+erik s painting is lazy or erik s painting is zealous,erik s painting is neither lazy nor zealous,1
+monique s painting is attractive or monique s painting is mysterious,monique s painting is neither attractive nor mysterious,1
+geneva s painting is mealy or geneva s painting is careful,geneva s painting is neither mysterious nor careful,0
+jorge s painting is beautiful or jorge s painting is eager,jorge s painting isn t beautiful and jorge s painting isn t eager,1
+guy s painting is clean or guy s painting is itchy,guy s painting isn t clean,0
+lorraine s painting is aggressive or lorraine s painting is thoughtless,lorraine s painting isn t thoughtless,0
+mabel s painting is fit or mabel s painting is beautiful,mabel s painting is neither fit nor beautiful,1
+heather s painting is polite or heather s painting is drab,heather s painting is neither polite nor drab,1
+yvette s painting is jealous or yvette s painting is black,yvette s painting isn t jealous and yvette s painting isn t black,1
+duane s painting is rich or duane s painting is stocky,duane s painting isn t stocky,0
+gina s painting is clever or gina s painting is grumpy,willie s painting is neither clever nor grumpy,0
+brandi s painting is unsightly or brandi s painting is elegant,brandi s painting isn t unsightly and brandi s painting isn t elegant,1
+martin s painting is helpful or martin s painting is shapely,martin s painting isn t helpful and martin s painting isn t shapely,1
+phillip s painting is bald or phillip s painting is dead,phillip s painting is neither bald nor dead,1
+nora s painting is beautiful or nora s painting is proud,nora s painting isn t beautiful and nora s painting isn t proud,1
+juana s painting is magnificent or juana s painting is salmon,juana s painting isn t salmon,0
+dean s painting is polite or dean s painting is wrong,dean s painting is neither polite nor wrong,1
+veronica s painting is worried or veronica s painting is blue,veronica s painting is neither worried nor blue,1
+jenny s painting is thankful or jenny s painting is mysterious,jenny s painting is neither thankful nor mysterious,1
+jeff s painting is shy or jeff s painting is polite,jeff s painting isn t polite,0
+nathaniel s painting is alive or nathaniel s painting is lazy,nathaniel s painting is neither alive nor lazy,1
+delores s painting is attractive or delores s painting is mushy,delores s painting isn t mushy,0
+lillie s painting is odd or lillie s painting is mysterious,lillie s painting isn t odd and lillie s painting isn t mysterious,1
+claudia s painting is powerful or claudia s painting is angry,claudia s painting is neither powerful nor angry,1
+madeline s painting is important or madeline s painting is aggressive,madeline s painting isn t important,0
+sue s painting is jealous or sue s painting is repulsive,sue s painting isn t jealous,0
+minnie s painting is bald or minnie s painting is nervous,minnie s painting is neither bald nor nervous,1
+gilbert s painting is quaint or gilbert s painting is silly,gilbert s painting is neither quaint nor silly,1
+zachary s painting is clean or zachary s painting is aggressive,zachary s painting isn t clean and zachary s painting isn t aggressive,1
+joanne s painting is gray or joanne s painting is beautiful,joanne s painting isn t gray and joanne s painting isn t beautiful,1
+nicholas s painting is quaint or nicholas s painting is dazzling,nicholas s painting is neither quaint nor dazzling,1
+lydia s painting is alive or lydia s painting is eager,lydia s painting is neither alive nor eager,1
+marcus s painting is skinny or marcus s painting is mushy,marcus s painting is neither skinny nor mushy,1
+michael s painting is lazy or michael s painting is better,michael s painting is neither lazy nor better,1
+jimmie s painting is bewildered or jimmie s painting is thoughtless,jimmie s painting isn t bewildered and jimmie s painting isn t thoughtless,1
+cecilia s painting is rich or cecilia s painting is zealous,christina s painting is neither rich nor zealous,0
+freddie s painting is ashy or freddie s painting is thankful,freddie s painting isn t ashy,0
+josephine s painting is delightful or josephine s painting is famous,josephine s painting isn t delightful,0
+lorraine s painting is unsightly or lorraine s painting is embarrassed,lorraine s painting is neither unsightly nor embarrassed,1
+inez s painting is lazy or inez s painting is drab,inez s painting is neither lazy nor drab,1
+rita s painting is wrong or rita s painting is plain,rita s painting isn t wrong and rita s painting isn t plain,1
+phyllis s painting is orange or phyllis s painting is delightful,tina s painting is neither orange nor delightful,0
+max s painting is zealous or max s painting is muscular,max s painting isn t zealous,0
+anna s painting is wrong or anna s painting is grumpy,anna s painting isn t grumpy,0
+willard s painting is odd or willard s painting is glamorous,willard s painting is neither odd nor glamorous,1
+glenn s painting is white or glenn s painting is odd,glenn s painting isn t white,0
+vickie s painting is panicky or vickie s painting is scary,vickie s painting isn t panicky and vickie s painting isn t scary,1
+mamie s painting is itchy or mamie s painting is agreeable,jon s painting is neither itchy nor agreeable,0
+isabel s painting is brave or isabel s painting is lazy,isabel s painting isn t brave and isabel s painting isn t lazy,1
+andrew s painting is mushy or andrew s painting is wonderful,andrew s painting isn t mushy,0
+leon s painting is poor or leon s painting is uninterested,tammy s painting is neither poor nor uninterested,0
+danielle s painting is helpful or danielle s painting is uptight,danielle s painting isn t uptight,0
+edna s painting is ashy or edna s painting is salmon,edna s painting is neither ashy nor salmon,1
+dustin s painting is witty or dustin s painting is mysterious,dustin s painting is neither nervous nor mysterious,0
+javier s painting is polite or javier s painting is elegant,javier s painting isn t elegant,0
+wade s painting is aggressive or wade s painting is green,wade s painting isn t aggressive,0
+tammy s painting is wonderful or tammy s painting is vast,naomi s painting is neither wonderful nor vast,0
+richard s painting is grumpy or richard s painting is rich,richard s painting isn t grumpy,0
+nelson s painting is powerful or nelson s painting is unkempt,nelson s painting isn t unkempt,0
+jeremy s painting is elegant or jeremy s painting is attractive,jeremy s painting is neither gifted nor attractive,0
+gordon s painting is polite or gordon s painting is unkempt,carolyn s painting is neither polite nor unkempt,0
+gilbert s painting is thankful or gilbert s painting is black,gilbert s painting is neither thankful nor black,1
+brent s painting is black or brent s painting is plump,brent s painting isn t black and brent s painting isn t plump,1
+anthony s painting is brave or anthony s painting is ugly,anthony s painting isn t brave,0
+claude s painting is red or claude s painting is unsightly,claude s painting isn t red and claude s painting isn t unsightly,1
+allison s painting is lazy or allison s painting is powerful,allison s painting is neither lazy nor powerful,1
+joel s painting is rich or joel s painting is clean,joel s painting is neither rich nor clean,1
+leon s painting is black or leon s painting is proud,leon s painting is neither black nor proud,1
+duane s painting is ashy or duane s painting is poor,duane s painting isn t ashy and duane s painting isn t poor,1
+jill s painting is important or jill s painting is agreeable,jill s painting is neither important nor agreeable,1
+kurt s painting is faithful or kurt s painting is bewildered,kurt s painting is neither faithful nor bewildered,1
+alma s painting is vast or alma s painting is elegant,alma s painting isn t vast and alma s painting isn t elegant,1
+sally s painting is gorgeous or sally s painting is stocky,sally s painting isn t gorgeous and sally s painting isn t stocky,1
+rosa s painting is nervous or rosa s painting is zealous,rosa s painting is neither nervous nor zealous,1
+jenny s painting is easy or jenny s painting is scary,jenny s painting isn t easy and jenny s painting isn t scary,1
+alma s painting is inexpensive or alma s painting is thoughtless,alma s painting isn t inexpensive and alma s painting isn t thoughtless,1
+melody s painting is obedient or melody s painting is careful,melody s painting isn t obedient and melody s painting isn t careful,1
+billie s painting is proud or billie s painting is aggressive,billie s painting is neither muscular nor aggressive,0
+jackie s painting is white or jackie s painting is silly,jackie s painting isn t white and jackie s painting isn t silly,1
+claudia s painting is angry or claudia s painting is lemon,claudia s painting is neither angry nor lemon,1
+dana s painting is helpless or dana s painting is thankful,claudia s painting is neither helpless nor thankful,0
+angel s painting is clever or angel s painting is unsightly,marlene s painting is neither clever nor unsightly,0
+melissa s painting is dazzling or melissa s painting is plain,melissa s painting isn t plain,0
+anthony s painting is icy or anthony s painting is skinny,anthony s painting isn t icy,0
+scott s painting is red or scott s painting is mushy,scott s painting is neither zealous nor mushy,0
+bonnie s painting is fancy or bonnie s painting is fit,bonnie s painting is neither fancy nor fit,1
+scott s painting is silly or scott s painting is uptight,scott s painting is neither silly nor uptight,1
+calvin s painting is hallowed or calvin s painting is skinny,calvin s painting is neither hallowed nor skinny,1
+lena s painting is powerful or lena s painting is agreeable,lena s painting is neither clever nor agreeable,0
+nora s painting is chubby or nora s painting is faithful,nora s painting isn t chubby and nora s painting isn t faithful,1
+rosa s painting is victorious or rosa s painting is white,rosa s painting isn t victorious and rosa s painting isn t white,1
+theodore s painting is orange or theodore s painting is delightful,annette s painting is neither orange nor delightful,0
+betty s painting is thankful or betty s painting is eager,betty s painting is neither thankful nor eager,1
+vera s painting is alive or vera s painting is hallowed,vera s painting isn t hallowed,0
+dave s painting is helpful or dave s painting is alive,dave s painting isn t helpful and dave s painting isn t alive,1
+nathaniel s painting is gifted or nathaniel s painting is attractive,nathaniel s painting is neither gifted nor drab,0
+hazel s painting is fierce or hazel s painting is wrong,hazel s painting is neither fierce nor wrong,1
+andrew s painting is plump or andrew s painting is kind,andrew s painting isn t kind,0
+leah s painting is glamorous or leah s painting is nice,leah s painting is neither glamorous nor nice,1
+ada s painting is happy or ada s painting is yellow,chester s painting is neither happy nor yellow,0
+marion s painting is hallowed or marion s painting is gorgeous,marion s painting is neither hallowed nor gorgeous,1
+elaine s painting is orange or elaine s painting is short,elaine s painting is neither orange nor short,1
+antonio s painting is dead or antonio s painting is easy,antonio s painting is neither dead nor easy,1
+julia s painting is lazy or julia s painting is lemon,julia s painting isn t lazy and julia s painting isn t lemon,1
+jerry s painting is fierce or jerry s painting is witty,jerry s painting isn t witty,0
+charlotte s painting is magnificent or charlotte s painting is orange,charlotte s painting isn t magnificent,0
+justin s painting is drab or justin s painting is wrong,justin s painting is neither drab nor wrong,1
+christine s painting is ugly or christine s painting is lemon,christine s painting isn t ugly and christine s painting isn t lemon,1
+marion s painting is calm or marion s painting is ugly,marion s painting isn t calm and marion s painting isn t ugly,1
+audrey s painting is yellow or audrey s painting is obnoxious,herbert s painting is neither yellow nor obnoxious,0
+ben s painting is itchy or ben s painting is embarrassed,ben s painting isn t embarrassed,0
+samuel s painting is wonderful or samuel s painting is brave,samuel s painting isn t wonderful and samuel s painting isn t brave,1
+nicholas s painting is shy or nicholas s painting is blue,jeremy s painting is neither shy nor blue,0
+jamie s painting is chubby or jamie s painting is fancy,jamie s painting isn t chubby,0
+jerry s painting is unimportant or jerry s painting is salmon,jerry s painting is neither embarrassed nor salmon,0
+tiffany s painting is agreeable or tiffany s painting is black,tiffany s painting isn t agreeable and tiffany s painting isn t black,1
+pedro s painting is purple or pedro s painting is dazzling,pedro s painting isn t dazzling,0
+misty s painting is agreeable or misty s painting is white,misty s painting isn t agreeable and misty s painting isn t white,1
+john s painting is famous or john s painting is plump,john s painting isn t plump,0
+marsha s painting is proud or marsha s painting is jealous,marsha s painting isn t proud,0
+jerry s painting is lemon or jerry s painting is yellow,jerry s painting is neither clumsy nor yellow,0
+kristina s painting is aggressive or kristina s painting is gray,kristina s painting is neither muscular nor gray,0
+rose s painting is delightful or rose s painting is easy,rose s painting isn t delightful and rose s painting isn t easy,1
+carrie s painting is odd or carrie s painting is pitiful,carrie s painting isn t odd,0
+sheryl s painting is yellow or sheryl s painting is nervous,sheryl s painting isn t nervous,0
+max s painting is wrong or max s painting is long,max s painting isn t wrong and max s painting isn t long,1
+sonia s painting is mealy or sonia s painting is handsome,lena s painting is neither mealy nor handsome,0
+micheal s painting is muscular or micheal s painting is gentle,micheal s painting isn t gentle,0
+jonathan s painting is gorgeous or jonathan s painting is inexpensive,raymond s painting is neither gorgeous nor inexpensive,0
+juanita s painting is unsightly or juanita s painting is gifted,juanita s painting is neither polite nor gifted,0
+stanley s painting is nervous or stanley s painting is tender,stanley s painting isn t nervous,0
+jeffery s painting is attractive or jeffery s painting is victorious,jeffery s painting isn t attractive,0
+ruben s painting is important or ruben s painting is careful,ruben s painting isn t important,0
+jonathan s painting is panicky or jonathan s painting is mysterious,jonathan s painting is neither panicky nor mysterious,1
+tyrone s painting is flabby or tyrone s painting is alive,tyrone s painting isn t alive,0
+anna s painting is jealous or anna s painting is gifted,brett s painting is neither jealous nor gifted,0
+franklin s painting is clever or franklin s painting is agreeable,franklin s painting isn t clever and franklin s painting isn t agreeable,1
+stella s painting is hallowed or stella s painting is proud,stella s painting is neither hallowed nor proud,1
+sue s painting is wrong or sue s painting is clumsy,sue s painting isn t wrong,0
+eddie s painting is unkempt or eddie s painting is helpless,eddie s painting isn t helpless,0
+jim s painting is better or jim s painting is long,jim s painting isn t better and jim s painting isn t long,1
+gladys s painting is rich or gladys s painting is glamorous,gladys s painting isn t rich,0
+tamara s painting is unkempt or tamara s painting is short,tamara s painting is neither yellow nor short,0
+eric s painting is black or eric s painting is hallowed,eric s painting is neither black nor hallowed,1
+harry s painting is polite or harry s painting is fancy,harry s painting isn t polite,0
+katrina s painting is helpful or katrina s painting is nice,katrina s painting is neither helpful nor nice,1
+jessie s painting is flabby or jessie s painting is easy,jessie s painting isn t easy,0
+carole s painting is lively or carole s painting is dazzling,carole s painting is neither fierce nor dazzling,0
+henry s painting is silly or henry s painting is worried,henry s painting isn t worried,0
+priscilla s painting is ashy or priscilla s painting is helpless,priscilla s painting is neither plain nor helpless,0
+misty s painting is tender or misty s painting is proud,kristina s painting is neither tender nor proud,0
+jamie s painting is gorgeous or jamie s painting is quaint,jamie s painting isn t gorgeous and jamie s painting isn t quaint,1
+jessie s painting is nervous or jessie s painting is silly,jessie s painting isn t nervous and jessie s painting isn t silly,1
+lauren s painting is pitiful or lauren s painting is clever,lauren s painting isn t pitiful and lauren s painting isn t clever,1
+theresa s painting is gray or theresa s painting is gifted,theresa s painting is neither gray nor gifted,1
+flora s painting is mysterious or flora s painting is better,viola s painting is neither mysterious nor better,0
+brian s painting is blue or brian s painting is fit,brian s painting is neither blue nor dazzling,0
+margie s painting is fierce or margie s painting is rich,margie s painting is neither fierce nor rich,1
+elmer s painting is silly or elmer s painting is drab,elmer s painting isn t silly and elmer s painting isn t drab,1
+jo s painting is fierce or jo s painting is quaint,jo s painting isn t fierce and jo s painting isn t quaint,1
+nancy s painting is alive or nancy s painting is easy,nancy s painting isn t alive and nancy s painting isn t easy,1
+dora s painting is witty or dora s painting is kind,dora s painting isn t witty,0
+becky s painting is odd or becky s painting is jolly,becky s painting is neither odd nor jolly,1
+valerie s painting is icy or valerie s painting is fierce,valerie s painting isn t icy and valerie s painting isn t fierce,1
+lee s painting is lemon or lee s painting is fit,lee s painting isn t lemon and lee s painting isn t fit,1
+kristen s painting is vast or kristen s painting is worried,calvin s painting is neither vast nor worried,0
+alfredo s painting is scary or alfredo s painting is victorious,alfredo s painting is neither scary nor victorious,1
+terrence s painting is gentle or terrence s painting is jolly,terrence s painting is neither gentle nor kind,0
+grace s painting is lemon or grace s painting is careful,grace s painting is neither lemon nor clean,0
+monique s painting is beautiful or monique s painting is alive,monique s painting isn t beautiful and monique s painting isn t alive,1
+samantha s painting is shapely or samantha s painting is ambitious,samantha s painting isn t ambitious,0
+jacob s painting is victorious or jacob s painting is worried,jacob s painting is neither victorious nor worried,1
+steven s painting is plain or steven s painting is shapely,steven s painting isn t shapely,0
+deborah s painting is gray or deborah s painting is unsightly,byron s painting is neither gray nor unsightly,0
+joy s painting is mealy or joy s painting is scruffy,joy s painting isn t mealy and joy s painting isn t scruffy,1
+madeline s painting is lively or madeline s painting is clever,madeline s painting is neither lively nor clever,1
+marlene s painting is zealous or marlene s painting is rich,marlene s painting is neither zealous nor rich,1
+julian s painting is powerful or julian s painting is scruffy,julian s painting is neither powerful nor scruffy,1
+alfred s painting is zealous or alfred s painting is uptight,alfred s painting is neither zealous nor wonderful,0
+carole s painting is flabby or carole s painting is stocky,carole s painting isn t flabby and carole s painting isn t stocky,1
+daniel s painting is powerful or daniel s painting is magnificent,christy s painting is neither powerful nor magnificent,0
+benjamin s painting is angry or benjamin s painting is agreeable,benjamin s painting isn t angry and benjamin s painting isn t agreeable,1
+katrina s painting is magnificent or katrina s painting is agreeable,willie s painting is neither magnificent nor agreeable,0
+louis s painting is tender or louis s painting is wonderful,louis s painting is neither brave nor wonderful,0
+glenda s painting is green or glenda s painting is defeated,glenda s painting isn t green,0
+kristy s painting is plain or kristy s painting is mango,kristy s painting isn t plain and kristy s painting isn t mango,1
+luz s painting is elegant or luz s painting is hallowed,luz s painting is neither elegant nor hallowed,1
+audrey s painting is gray or audrey s painting is brave,audrey s painting is neither dead nor brave,0
+florence s painting is plump or florence s painting is plain,florence s painting isn t plain,0
+pauline s painting is lively or pauline s painting is itchy,pauline s painting is neither lively nor itchy,1
+harvey s painting is hallowed or harvey s painting is flabby,harvey s painting is neither hallowed nor flabby,1
+bill s painting is plump or bill s painting is shy,bill s painting is neither pitiful nor shy,0
+clifton s painting is salmon or clifton s painting is unkempt,clifton s painting is neither lazy nor unkempt,0
+marie s painting is red or marie s painting is lemon,aaron s painting is neither red nor lemon,0
+manuel s painting is gifted or manuel s painting is wonderful,manuel s painting is neither gifted nor wonderful,1
+katie s painting is fierce or katie s painting is thoughtless,katie s painting is neither fierce nor thoughtless,1
+fernando s painting is bald or fernando s painting is lively,fernando s painting is neither bald nor mushy,0
+terry s painting is chubby or terry s painting is calm,terry s painting isn t chubby,0
+lee s painting is gorgeous or lee s painting is dazzling,lee s painting isn t gorgeous,0
+eric s painting is faithful or eric s painting is drab,eric s painting isn t faithful and eric s painting isn t drab,1
+victoria s painting is careful or victoria s painting is scruffy,victoria s painting isn t careful,0
+amanda s painting is gray or amanda s painting is fancy,amanda s painting isn t gray,0
+sherry s painting is orange or sherry s painting is vast,sherry s painting is neither orange nor vast,1
+kristin s painting is green or kristin s painting is polite,kristin s painting isn t green and kristin s painting isn t polite,1
+hattie s painting is eager or hattie s painting is chubby,hattie s painting isn t eager,0
+regina s painting is plain or regina s painting is pitiful,regina s painting is neither plain nor pitiful,1
+natalie s painting is shy or natalie s painting is yellow,natalie s painting isn t shy,0
+janice s painting is lemon or janice s painting is alive,janice s painting isn t lemon,0
+dolores s painting is agreeable or dolores s painting is clumsy,dolores s painting isn t agreeable,0
+glenn s painting is lemon or glenn s painting is pitiful,glenn s painting is neither lemon nor pitiful,1
+daniel s painting is clean or daniel s painting is embarrassed,daniel s painting is neither polite nor embarrassed,0
+lloyd s painting is itchy or lloyd s painting is brave,lloyd s painting is neither itchy nor brave,1
+gloria s painting is silly or gloria s painting is lazy,gloria s painting isn t lazy,0
+alberta s painting is gentle or alberta s painting is skinny,alberta s painting isn t skinny,0
+andy s painting is dazzling or andy s painting is repulsive,andy s painting isn t repulsive,0
+dwayne s painting is chubby or dwayne s painting is odd,dwayne s painting is neither chubby nor happy,0
+frances s painting is unsightly or frances s painting is icy,frances s painting is neither unsightly nor icy,1
+tyrone s painting is icy or tyrone s painting is odd,tyrone s painting is neither icy nor odd,1
+charlie s painting is dazzling or charlie s painting is witty,charlie s painting is neither dazzling nor hallowed,0
+lois s painting is clumsy or lois s painting is icy,lois s painting is neither clumsy nor icy,1
+leona s painting is thoughtless or leona s painting is dazzling,leona s painting is neither thoughtless nor dazzling,1
+cody s painting is mango or cody s painting is white,cody s painting isn t mango,0
+olga s painting is chubby or olga s painting is unimportant,olga s painting isn t chubby,0
+felix s painting is gifted or felix s painting is agreeable,felix s painting is neither gifted nor agreeable,1
+jennifer s painting is victorious or jennifer s painting is flabby,jennifer s painting isn t victorious and jennifer s painting isn t flabby,1
+danielle s painting is happy or danielle s painting is silly,danielle s painting isn t happy,0
+arthur s painting is elegant or arthur s painting is gifted,arthur s painting isn t elegant and arthur s painting isn t gifted,1
+leona s painting is plump or leona s painting is mushy,leona s painting isn t mushy,0
+rose s painting is mysterious or rose s painting is famous,rose s painting is neither mysterious nor famous,1
+benjamin s painting is mango or benjamin s painting is shapely,benjamin s painting is neither mango nor stocky,0
+hector s painting is calm or hector s painting is chubby,hector s painting is neither unkempt nor chubby,0
+kurt s painting is clean or kurt s painting is jolly,kurt s painting isn t clean and kurt s painting isn t jolly,1
+bryan s painting is clumsy or bryan s painting is purple,bryan s painting isn t clumsy and bryan s painting isn t purple,1
+sheryl s painting is inexpensive or sheryl s painting is nervous,sheryl s painting isn t nervous,0
+dale s painting is aggressive or dale s painting is shapely,dale s painting is neither jealous nor shapely,0
+emily s painting is famous or emily s painting is attractive,emily s painting is neither famous nor plump,0
+vivian s painting is orange or vivian s painting is powerful,vivian s painting isn t orange,0
+adam s painting is skinny or adam s painting is jealous,adam s painting isn t skinny and adam s painting isn t jealous,1
+milton s painting is mushy or milton s painting is green,milton s painting isn t mushy and milton s painting isn t green,1
+marvin s painting is gorgeous or marvin s painting is shapely,marvin s painting is neither gorgeous nor shapely,1
+kelly s painting is skinny or kelly s painting is wrong,kelly s painting isn t skinny and kelly s painting isn t wrong,1
+douglas s painting is hallowed or douglas s painting is obnoxious,douglas s painting isn t hallowed,0
+matthew s painting is shapely or matthew s painting is beautiful,matthew s painting is neither shapely nor beautiful,1
+roland s painting is orange or roland s painting is mealy,harriet s painting is neither orange nor mealy,0
+ana s painting is ugly or ana s painting is gray,ana s painting is neither ugly nor gray,1
+carl s painting is wonderful or carl s painting is muscular,carl s painting isn t wonderful,0
+brittany s painting is gifted or brittany s painting is bald,brittany s painting is neither lemon nor bald,0
+glenda s painting is glamorous or glenda s painting is silly,stella s painting is neither glamorous nor silly,0
+rachel s painting is unkempt or rachel s painting is agreeable,rachel s painting isn t unkempt and rachel s painting isn t agreeable,1
+charlene s painting is odd or charlene s painting is polite,charlene s painting is neither odd nor polite,1
+sara s painting is unsightly or sara s painting is ambitious,sara s painting isn t unsightly and sara s painting isn t ambitious,1
+velma s painting is jealous or velma s painting is clumsy,velma s painting isn t jealous,0
+marilyn s painting is black or marilyn s painting is eager,sonya s painting is neither black nor eager,0
+rick s painting is clean or rick s painting is obnoxious,rick s painting is neither flabby nor obnoxious,0
+nelson s painting is hallowed or nelson s painting is silly,nelson s painting isn t silly,0
+rosie s painting is thankful or rosie s painting is obedient,rosie s painting is neither helpful nor obedient,0
+earl s painting is beautiful or earl s painting is helpful,earl s painting isn t helpful,0
+nathan s painting is agreeable or nathan s painting is orange,nathan s painting isn t agreeable and nathan s painting isn t orange,1
+delores s painting is dead or delores s painting is ashy,delores s painting is neither dead nor ashy,1
+katherine s painting is shy or katherine s painting is drab,katherine s painting isn t shy and katherine s painting isn t drab,1
+bryan s painting is obnoxious or bryan s painting is beautiful,bryan s painting isn t beautiful,0
+evelyn s painting is black or evelyn s painting is clever,evelyn s painting isn t black and evelyn s painting isn t clever,1
+alexander s painting is yellow or alexander s painting is alive,alexander s painting isn t alive,0
+mae s painting is fit or mae s painting is thoughtless,mae s painting isn t fit and mae s painting isn t thoughtless,1
+danielle s painting is plain or danielle s painting is poor,danielle s painting isn t plain and danielle s painting isn t poor,1
+douglas s painting is dazzling or douglas s painting is easy,douglas s painting isn t dazzling and douglas s painting isn t easy,1
+francis s painting is defeated or francis s painting is bewildered,francis s painting isn t defeated and francis s painting isn t bewildered,1
+james s painting is tender or james s painting is bewildered,james s painting is neither tender nor orange,0
+sonya s painting is gentle or sonya s painting is defeated,sonya s painting is neither gentle nor defeated,1
+cassandra s painting is proud or cassandra s painting is icy,cassandra s painting is neither proud nor icy,1
+nancy s painting is short or nancy s painting is chubby,nancy s painting isn t short and nancy s painting isn t chubby,1
+annie s painting is shapely or annie s painting is ashy,annie s painting isn t shapely and annie s painting isn t ashy,1
+priscilla s painting is gifted or priscilla s painting is clever,dwight s painting is neither gifted nor clever,0
+terri s painting is victorious or terri s painting is nervous,terri s painting isn t victorious and terri s painting isn t nervous,1
+steve s painting is dead or steve s painting is gentle,felicia s painting is neither dead nor gentle,0
+robin s painting is happy or robin s painting is short,robin s painting is neither happy nor short,1
+dale s painting is easy or dale s painting is thankful,ron s painting is neither easy nor thankful,0
+justin s painting is gentle or justin s painting is shapely,justin s painting isn t gentle,0
+natalie s painting is obedient or natalie s painting is muscular,natalie s painting is neither obedient nor muscular,1
+jerry s painting is mysterious or jerry s painting is easy,jerry s painting isn t mysterious and jerry s painting isn t easy,1
+harriet s painting is odd or harriet s painting is fierce,harriet s painting isn t odd,0
+toni s painting is nervous or toni s painting is dazzling,toni s painting is neither clumsy nor dazzling,0
+elaine s painting is poor or elaine s painting is skinny,elaine s painting isn t poor,0
+kayla s painting is agreeable or kayla s painting is odd,kayla s painting isn t odd,0
+wanda s painting is orange or wanda s painting is alive,wanda s painting is neither agreeable nor alive,0
+lillian s painting is careful or lillian s painting is mysterious,lillian s painting is neither careful nor victorious,0
+deanna s painting is defeated or deanna s painting is gentle,deanna s painting isn t defeated and deanna s painting isn t gentle,1
+irma s painting is grumpy or irma s painting is gray,irma s painting is neither grumpy nor gray,1
+kathy s painting is flabby or kathy s painting is wonderful,kathy s painting isn t flabby and kathy s painting isn t wonderful,1
+javier s painting is clean or javier s painting is uptight,javier s painting isn t clean and javier s painting isn t uptight,1
+bob s painting is gentle or bob s painting is wrong,bob s painting isn t gentle and bob s painting isn t wrong,1
+irma s painting is bald or irma s painting is eager,irma s painting is neither yellow nor eager,0
+milton s painting is purple or milton s painting is obedient,milton s painting isn t purple and milton s painting isn t obedient,1
+kent s painting is nice or kent s painting is lazy,kent s painting isn t lazy,0
+kent s painting is beautiful or kent s painting is ashy,kent s painting is neither beautiful nor ashy,1
+arthur s painting is proud or arthur s painting is blue,arthur s painting is neither proud nor blue,1
+ernest s painting is fit or ernest s painting is nice,ernest s painting isn t fit,0
+holly s painting is odd or holly s painting is gifted,holly s painting isn t odd and holly s painting isn t gifted,1
+holly s painting is obedient or holly s painting is flabby,holly s painting is neither obedient nor flabby,1
+tiffany s painting is delightful or tiffany s painting is unimportant,tiffany s painting is neither delightful nor unimportant,1
+hazel s painting is plain or hazel s painting is mango,hazel s painting is neither plain nor wrong,0
+irene s painting is faithful or irene s painting is salmon,irene s painting isn t faithful and irene s painting isn t salmon,1
+richard s painting is obnoxious or richard s painting is mealy,richard s painting isn t mealy,0
+richard s painting is nice or richard s painting is uptight,richard s painting isn t nice and richard s painting isn t uptight,1
+craig s painting is red or craig s painting is embarrassed,craig s painting is neither red nor embarrassed,1
+christina s painting is better or christina s painting is quaint,christina s painting is neither better nor quaint,1
+crystal s painting is muscular or crystal s painting is mushy,crystal s painting isn t muscular and crystal s painting isn t mushy,1
+gordon s painting is uninterested or gordon s painting is faithful,herman s painting is neither uninterested nor faithful,0
+kay s painting is orange or kay s painting is victorious,lillian s painting is neither orange nor victorious,0
+jennie s painting is jolly or jennie s painting is fit,jennie s painting isn t jolly and jennie s painting isn t fit,1
+kristen s painting is victorious or kristen s painting is green,peter s painting is neither victorious nor green,0
+geneva s painting is careful or geneva s painting is attractive,geneva s painting isn t careful and geneva s painting isn t attractive,1
+connie s painting is victorious or connie s painting is thoughtless,connie s painting isn t victorious and connie s painting isn t thoughtless,1
+alma s painting is jolly or alma s painting is poor,alma s painting isn t poor,0
+alex s painting is mushy or alex s painting is famous,alex s painting is neither mushy nor glamorous,0
+karl s painting is white or karl s painting is yellow,karl s painting is neither white nor careful,0
+tammy s painting is better or tammy s painting is delightful,tammy s painting isn t better,0
+marian s painting is better or marian s painting is hallowed,marian s painting isn t better and marian s painting isn t hallowed,1
+jacqueline s painting is dazzling or jacqueline s painting is lazy,jacqueline s painting isn t dazzling,0
+marilyn s painting is happy or marilyn s painting is famous,marilyn s painting isn t famous,0
+brandy s painting is handsome or brandy s painting is ashy,angie s painting is neither handsome nor ashy,0
+alan s painting is green or alan s painting is clumsy,alan s painting isn t green and alan s painting isn t clumsy,1
+janie s painting is aggressive or janie s painting is chubby,janie s painting isn t aggressive and janie s painting isn t chubby,1
+armando s painting is fancy or armando s painting is thankful,armando s painting is neither fancy nor thankful,1
+annette s painting is witty or annette s painting is powerful,annette s painting is neither witty nor powerful,1
+marilyn s painting is pitiful or marilyn s painting is orange,marilyn s painting isn t orange,0
+toni s painting is silly or toni s painting is ashy,toni s painting isn t silly,0
+peggy s painting is obedient or peggy s painting is bewildered,peggy s painting isn t obedient and peggy s painting isn t bewildered,1
+olivia s painting is zealous or olivia s painting is nice,jan s painting is neither zealous nor nice,0
+sandy s painting is mealy or sandy s painting is fancy,sandy s painting isn t mealy,0
+timothy s painting is plump or timothy s painting is shapely,timothy s painting isn t plump and timothy s painting isn t shapely,1
+david s painting is clever or david s painting is easy,david s painting isn t clever and david s painting isn t easy,1
+holly s painting is unimportant or holly s painting is gorgeous,holly s painting is neither unimportant nor gorgeous,1
+katrina s painting is wonderful or katrina s painting is mushy,katrina s painting isn t mushy,0
+audrey s painting is helpless or audrey s painting is gorgeous,audrey s painting is neither helpless nor gorgeous,1
+kevin s painting is green or kevin s painting is eager,kevin s painting isn t green and kevin s painting isn t eager,1
+walter s painting is red or walter s painting is lemon,walter s painting isn t red and walter s painting isn t lemon,1
+kristen s painting is nice or kristen s painting is careful,elsie s painting is neither nice nor careful,0
+ellen s painting is gorgeous or ellen s painting is shapely,ellen s painting isn t gorgeous,0
+maria s painting is clean or maria s painting is lazy,maria s painting is neither clean nor bewildered,0
+benjamin s painting is shapely or benjamin s painting is lemon,benjamin s painting isn t shapely,0
+sally s painting is vast or sally s painting is gorgeous,sally s painting is neither vast nor gorgeous,1
+frederick s painting is faithful or frederick s painting is unsightly,frederick s painting is neither faithful nor unsightly,1
+kathryn s painting is chubby or kathryn s painting is black,kathryn s painting is neither chubby nor lemon,0
+leslie s painting is unimportant or leslie s painting is alive,theresa s painting is neither unimportant nor alive,0
+joanne s painting is glamorous or joanne s painting is lemon,joanne s painting isn t glamorous and joanne s painting isn t lemon,1
+juan s painting is orange or juan s painting is fierce,juan s painting is neither orange nor fierce,1
+olivia s painting is dead or olivia s painting is green,olivia s painting is neither dead nor green,1
+jamie s painting is agreeable or jamie s painting is uptight,jamie s painting is neither agreeable nor uptight,1
+sheryl s painting is fancy or sheryl s painting is panicky,ronnie s painting is neither fancy nor panicky,0
+jimmy s painting is scruffy or jimmy s painting is repulsive,jimmy s painting is neither scruffy nor repulsive,1
+zachary s painting is proud or zachary s painting is helpful,zachary s painting isn t proud and zachary s painting isn t helpful,1
+cecil s painting is angry or cecil s painting is gentle,cecil s painting isn t angry,0
+marian s painting is panicky or marian s painting is gifted,marian s painting isn t panicky and marian s painting isn t gifted,1
+anne s painting is lemon or anne s painting is flabby,anne s painting is neither lemon nor flabby,1
+shannon s painting is grumpy or shannon s painting is shy,shannon s painting is neither grumpy nor shy,1
+leslie s painting is faithful or leslie s painting is handsome,leslie s painting is neither faithful nor handsome,1
+stanley s painting is alive or stanley s painting is ashy,rose s painting is neither alive nor ashy,0
+wendy s painting is nervous or wendy s painting is chubby,wendy s painting is neither nervous nor chubby,1
+kristen s painting is mango or kristen s painting is important,kristen s painting is neither mango nor important,1
+george s painting is flabby or george s painting is rich,george s painting isn t rich,0
+yolanda s painting is glamorous or yolanda s painting is uptight,yolanda s painting is neither glamorous nor uptight,1
+ethel s painting is embarrassed or ethel s painting is yellow,ethel s painting is neither embarrassed nor repulsive,0
+danny s painting is shy or danny s painting is nervous,danny s painting is neither shy nor nervous,1
+margarita s painting is gray or margarita s painting is wonderful,margarita s painting is neither gray nor wonderful,1
+donna s painting is thoughtless or donna s painting is gifted,donna s painting is neither unsightly nor gifted,0
+nora s painting is lively or nora s painting is bewildered,nora s painting isn t lively,0
+bertha s painting is proud or bertha s painting is scruffy,bertha s painting isn t proud and bertha s painting isn t scruffy,1
+rosemary s painting is blue or rosemary s painting is odd,rosemary s painting is neither plain nor odd,0
+frances s painting is glamorous or frances s painting is red,frances s painting is neither glamorous nor red,1
+joyce s painting is pitiful or joyce s painting is gifted,joyce s painting isn t gifted,0
+megan s painting is unsightly or megan s painting is ugly,lucille s painting is neither unsightly nor ugly,0
+joe s painting is inexpensive or joe s painting is polite,joe s painting isn t inexpensive and joe s painting isn t polite,1
+edith s painting is brave or edith s painting is elegant,edith s painting is neither brave nor elegant,1
+derrick s painting is lively or derrick s painting is handsome,derrick s painting isn t handsome,0
+marion s painting is powerful or marion s painting is plain,marion s painting isn t powerful,0
+charlotte s painting is glamorous or charlotte s painting is eager,charlotte s painting is neither glamorous nor eager,1
+sherri s painting is nervous or sherri s painting is plump,sherri s painting isn t nervous and sherri s painting isn t plump,1
+alvin s painting is poor or alvin s painting is unkempt,alvin s painting isn t poor and alvin s painting isn t unkempt,1
+gilbert s painting is careful or gilbert s painting is uninterested,gilbert s painting isn t uninterested,0
+jeff s painting is unkempt or jeff s painting is lazy,jeff s painting isn t unkempt and jeff s painting isn t lazy,1
+joe s painting is scruffy or joe s painting is faithful,alma s painting is neither scruffy nor faithful,0
+jorge s painting is handsome or jorge s painting is scruffy,jorge s painting is neither handsome nor scruffy,1
+eleanor s painting is dazzling or eleanor s painting is angry,eleanor s painting is neither zealous nor angry,0
+steve s painting is embarrassed or steve s painting is elegant,steve s painting isn t embarrassed,0
+geraldine s painting is zealous or geraldine s painting is inexpensive,geraldine s painting isn t zealous and geraldine s painting isn t inexpensive,1
+gladys s painting is polite or gladys s painting is delightful,gladys s painting isn t polite and gladys s painting isn t delightful,1
+matthew s painting is vast or matthew s painting is grumpy,matthew s painting isn t vast,0
+mathew s painting is nervous or mathew s painting is famous,mathew s painting isn t nervous and mathew s painting isn t famous,1
+anne s painting is witty or anne s painting is magnificent,anne s painting isn t witty,0
+marc s painting is unkempt or marc s painting is salmon,marc s painting is neither unkempt nor salmon,1
+rosie s painting is happy or rosie s painting is brave,rosie s painting is neither happy nor brave,1
+martha s painting is scary or martha s painting is magnificent,martha s painting is neither agreeable nor magnificent,0
+travis s painting is muscular or travis s painting is better,travis s painting isn t muscular and travis s painting isn t better,1
+kay s painting is famous or kay s painting is shapely,kay s painting is neither famous nor shapely,1
+patsy s painting is long or patsy s painting is glamorous,patsy s painting is neither long nor glamorous,1
+ann s painting is mealy or ann s painting is orange,ann s painting is neither mealy nor orange,1
+rosemary s painting is grumpy or rosemary s painting is wonderful,rosemary s painting is neither grumpy nor wonderful,1
+dave s painting is unimportant or dave s painting is polite,dave s painting isn t unimportant and dave s painting isn t polite,1
+jeffery s painting is calm or jeffery s painting is red,marion s painting is neither calm nor red,0
+cindy s painting is grumpy or cindy s painting is black,norma s painting is neither grumpy nor black,0
+nancy s painting is helpful or nancy s painting is poor,nancy s painting isn t helpful and nancy s painting isn t poor,1
+jon s painting is victorious or jon s painting is clumsy,jon s painting is neither victorious nor clumsy,1
+genevieve s painting is jealous or genevieve s painting is clumsy,genevieve s painting isn t jealous and genevieve s painting isn t clumsy,1
+jimmie s painting is repulsive or jimmie s painting is unsightly,jimmie s painting isn t repulsive and jimmie s painting isn t unsightly,1
+george s painting is thankful or george s painting is defeated,george s painting is neither mysterious nor defeated,0
+janice s painting is mysterious or janice s painting is embarrassed,janice s painting is neither silly nor embarrassed,0
+erik s painting is green or erik s painting is scary,erik s painting is neither plump nor scary,0
+shelley s painting is proud or shelley s painting is brave,shelley s painting isn t proud and shelley s painting isn t brave,1
+duane s painting is obedient or duane s painting is lazy,duane s painting is neither obedient nor ashy,0
+vickie s painting is bald or vickie s painting is inexpensive,edna s painting is neither bald nor inexpensive,0
+jacob s painting is poor or jacob s painting is lemon,jacob s painting isn t poor and jacob s painting isn t lemon,1
+amy s painting is happy or amy s painting is glamorous,amy s painting is neither happy nor glamorous,1
+belinda s painting is happy or belinda s painting is orange,belinda s painting is neither helpless nor orange,0
+kelly s painting is elegant or kelly s painting is witty,kelly s painting is neither elegant nor witty,1
+lindsay s painting is glamorous or lindsay s painting is bewildered,lindsay s painting is neither glamorous nor bewildered,1
+bessie s painting is defeated or bessie s painting is purple,bessie s painting is neither defeated nor purple,1
+earl s painting is angry or earl s painting is nice,earl s painting isn t angry,0
+genevieve s painting is nice or genevieve s painting is delightful,genevieve s painting is neither poor nor delightful,0
+barry s painting is defeated or barry s painting is plump,barry s painting is neither defeated nor plump,1
+anne s painting is kind or anne s painting is fancy,anne s painting isn t kind and anne s painting isn t fancy,1
+cheryl s painting is clean or cheryl s painting is red,cheryl s painting is neither mango nor red,0
+yvonne s painting is blue or yvonne s painting is glamorous,yvonne s painting isn t blue and yvonne s painting isn t glamorous,1
+manuel s painting is short or manuel s painting is gentle,manuel s painting is neither nice nor gentle,0
+andrea s painting is fierce or andrea s painting is orange,andrea s painting is neither fierce nor orange,1
+roberta s painting is easy or roberta s painting is gorgeous,roberta s painting isn t easy and roberta s painting isn t gorgeous,1
+george s painting is wrong or george s painting is jealous,george s painting is neither wrong nor proud,0
+hattie s painting is jealous or hattie s painting is lively,hattie s painting is neither purple nor lively,0
+alex s painting is stocky or alex s painting is poor,alex s painting is neither stocky nor wrong,0
+ruth s painting is scruffy or ruth s painting is dazzling,ruth s painting isn t scruffy and ruth s painting isn t dazzling,1
+glenda s painting is hallowed or glenda s painting is dead,glenda s painting is neither helpless nor dead,0
+lucy s painting is brave or lucy s painting is dazzling,lucy s painting isn t dazzling,0
+daniel s painting is flabby or daniel s painting is pitiful,daniel s painting isn t flabby and daniel s painting isn t pitiful,1
+renee s painting is helpless or renee s painting is hallowed,renee s painting is neither black nor hallowed,0
+marjorie s painting is ashy or marjorie s painting is obnoxious,marjorie s painting isn t ashy and marjorie s painting isn t obnoxious,1
+cassandra s painting is unimportant or cassandra s painting is stocky,cassandra s painting isn t unimportant and cassandra s painting isn t stocky,1
+heidi s painting is ugly or heidi s painting is glamorous,heidi s painting is neither ugly nor glamorous,1
+opal s painting is wrong or opal s painting is better,opal s painting isn t wrong,0
+christian s painting is clumsy or christian s painting is obedient,christian s painting is neither clumsy nor obedient,1
+gary s painting is black or gary s painting is blue,gary s painting is neither black nor careful,0
+lindsey s painting is elegant or lindsey s painting is orange,lindsey s painting is neither obnoxious nor orange,0
+melvin s painting is long or melvin s painting is unkempt,melvin s painting isn t long,0
+lois s painting is glamorous or lois s painting is chubby,lois s painting is neither glamorous nor chubby,1
+natalie s painting is uptight or natalie s painting is hallowed,natalie s painting is neither uptight nor hallowed,1
+bessie s painting is witty or bessie s painting is agreeable,bessie s painting isn t agreeable,0
+josephine s painting is flabby or josephine s painting is worried,josephine s painting isn t flabby and josephine s painting isn t worried,1
+claire s painting is obnoxious or claire s painting is zealous,claire s painting is neither obnoxious nor zealous,1
+ronnie s painting is inexpensive or ronnie s painting is elegant,ronnie s painting is neither inexpensive nor elegant,1
+sherri s painting is kind or sherri s painting is purple,casey s painting is neither kind nor purple,0
+alma s painting is odd or alma s painting is lively,ron s painting is neither odd nor lively,0
+anita s painting is pitiful or anita s painting is salmon,anita s painting is neither pitiful nor unimportant,0
+marcus s painting is hallowed or marcus s painting is wrong,marcus s painting is neither hallowed nor delightful,0
+dave s painting is white or dave s painting is inexpensive,dave s painting is neither white nor inexpensive,1
+ricardo s painting is mushy or ricardo s painting is mango,ricardo s painting isn t mushy and ricardo s painting isn t mango,1
+ivan s painting is white or ivan s painting is important,gloria s painting is neither white nor important,0
+clifton s painting is stocky or clifton s painting is fierce,clifton s painting isn t stocky and clifton s painting isn t fierce,1
+catherine s painting is agreeable or catherine s painting is gray,catherine s painting isn t agreeable,0
+dwight s painting is stocky or dwight s painting is ugly,dwight s painting isn t ugly,0
+scott s painting is defeated or scott s painting is shy,scott s painting isn t shy,0
+kristina s painting is nervous or kristina s painting is wonderful,kristina s painting isn t nervous and kristina s painting isn t wonderful,1
+mitchell s painting is proud or mitchell s painting is hallowed,mitchell s painting isn t proud,0
+willie s painting is witty or willie s painting is grumpy,rene s painting is neither witty nor grumpy,0
+karen s painting is careful or karen s painting is purple,karen s painting isn t careful and karen s painting isn t purple,1
+joanna s painting is rich or joanna s painting is quaint,joanna s painting is neither rich nor helpless,0
+nicole s painting is clumsy or nicole s painting is shapely,nicole s painting is neither clumsy nor blue,0
+george s painting is rich or george s painting is defeated,george s painting isn t rich and george s painting isn t defeated,1
+dora s painting is gifted or dora s painting is jolly,dora s painting is neither gifted nor dazzling,0
+esther s painting is icy or esther s painting is inexpensive,esther s painting is neither icy nor inexpensive,1
+darlene s painting is important or darlene s painting is drab,darlene s painting isn t important,0
+geraldine s painting is flabby or geraldine s painting is embarrassed,laura s painting is neither flabby nor embarrassed,0
+jennie s painting is red or jennie s painting is repulsive,jennie s painting isn t repulsive,0
+bobby s painting is white or bobby s painting is orange,phyllis s painting is neither white nor orange,0
+toni s painting is polite or toni s painting is tender,toni s painting isn t polite and toni s painting isn t tender,1
+maureen s painting is clumsy or maureen s painting is mushy,maureen s painting isn t clumsy and maureen s painting isn t mushy,1
+kristen s painting is wonderful or kristen s painting is glamorous,kristen s painting isn t wonderful and kristen s painting isn t glamorous,1
+paul s painting is unkempt or paul s painting is long,oscar s painting is neither unkempt nor long,0
+carol s painting is scary or carol s painting is panicky,carol s painting isn t scary,0
+raymond s painting is vast or raymond s painting is repulsive,raymond s painting isn t vast,0
+clayton s painting is unkempt or clayton s painting is panicky,clayton s painting is neither inexpensive nor panicky,0
+kristine s painting is careful or kristine s painting is aggressive,kristine s painting isn t careful and kristine s painting isn t aggressive,1
+marion s painting is shapely or marion s painting is long,marion s painting is neither shapely nor long,1
+nellie s painting is panicky or nellie s painting is lively,nellie s painting isn t lively,0
+donna s painting is obedient or donna s painting is agreeable,eleanor s painting is neither obedient nor agreeable,0
+neil s painting is thoughtless or neil s painting is mushy,beth s painting is neither thoughtless nor mushy,0
+cassandra s painting is helpful or cassandra s painting is grumpy,opal s painting is neither helpful nor grumpy,0
+stella s painting is jealous or stella s painting is famous,stella s painting is neither jealous nor famous,1
+margarita s painting is helpless or margarita s painting is inexpensive,margarita s painting isn t helpless and margarita s painting isn t inexpensive,1
+thelma s painting is brave or thelma s painting is grumpy,thelma s painting isn t brave and thelma s painting isn t grumpy,1
+olivia s painting is gifted or olivia s painting is glamorous,olivia s painting isn t gifted,0
+mike s painting is brave or mike s painting is thoughtless,jamie s painting is neither brave nor thoughtless,0
+ronnie s painting is shy or ronnie s painting is panicky,ronnie s painting is neither lively nor panicky,0
+nicholas s painting is mushy or nicholas s painting is delightful,nicholas s painting is neither mushy nor delightful,1
+olivia s painting is zealous or olivia s painting is grumpy,olivia s painting is neither zealous nor grumpy,1
+felix s painting is polite or felix s painting is elegant,felix s painting isn t polite and felix s painting isn t elegant,1
+dennis s painting is hallowed or dennis s painting is short,dennis s painting isn t hallowed,0
+peter s painting is better or peter s painting is victorious,peter s painting is neither better nor victorious,1
+mike s painting is scary or mike s painting is clean,mike s painting is neither vast nor clean,0
+cory s painting is bald or cory s painting is stocky,cory s painting is neither bald nor stocky,1
+julio s painting is clever or julio s painting is famous,julio s painting is neither fit nor famous,0
+samantha s painting is gifted or samantha s painting is faithful,samantha s painting is neither gifted nor faithful,1
+kurt s painting is careful or kurt s painting is nervous,kurt s painting isn t nervous,0
+brandon s painting is zealous or brandon s painting is ugly,brandon s painting is neither zealous nor ugly,1
+hazel s painting is silly or hazel s painting is clever,zachary s painting is neither silly nor clever,0
+joseph s painting is bewildered or joseph s painting is attractive,joseph s painting is neither panicky nor attractive,0
+kayla s painting is obedient or kayla s painting is eager,kayla s painting is neither wrong nor eager,0
+brandi s painting is hallowed or brandi s painting is thoughtless,brandi s painting is neither hallowed nor thoughtless,1
+wanda s painting is obnoxious or wanda s painting is delightful,julia s painting is neither obnoxious nor delightful,0
+brenda s painting is uninterested or brenda s painting is fit,brenda s painting isn t uninterested and brenda s painting isn t fit,1
+sherry s painting is easy or sherry s painting is gifted,sherry s painting isn t easy,0
+julian s painting is stocky or julian s painting is orange,rebecca s painting is neither stocky nor orange,0
+lee s painting is plump or lee s painting is better,mitchell s painting is neither plump nor better,0
+brandi s painting is uninterested or brandi s painting is flabby,brandi s painting isn t uninterested,0
+priscilla s painting is eager or priscilla s painting is nice,tommy s painting is neither eager nor nice,0
+michele s painting is odd or michele s painting is tender,michele s painting is neither mushy nor tender,0
+christian s painting is plump or christian s painting is jealous,christian s painting is neither plump nor jealous,1
+erik s painting is handsome or erik s painting is itchy,erik s painting is neither handsome nor itchy,1
+glenn s painting is salmon or glenn s painting is unkempt,maurice s painting is neither salmon nor unkempt,0
+javier s painting is tender or javier s painting is glamorous,javier s painting isn t tender and javier s painting isn t glamorous,1
+vivian s painting is lemon or vivian s painting is better,michele s painting is neither lemon nor better,0
+virgil s painting is unsightly or virgil s painting is green,virgil s painting isn t unsightly,0
+kimberly s painting is dead or kimberly s painting is eager,kimberly s painting is neither dead nor eager,1
+andrew s painting is black or andrew s painting is uptight,andrew s painting is neither black nor uptight,1
+roy s painting is red or roy s painting is handsome,roy s painting isn t red and roy s painting isn t handsome,1
+barry s painting is obedient or barry s painting is flabby,barry s painting is neither obedient nor flabby,1
+belinda s painting is clumsy or belinda s painting is kind,belinda s painting isn t clumsy,0
+paul s painting is green or paul s painting is blue,kristine s painting is neither green nor blue,0
+gail s painting is wrong or gail s painting is green,gail s painting isn t wrong,0
+bonnie s painting is helpless or bonnie s painting is nice,bonnie s painting isn t helpless,0
+jeanette s painting is lazy or jeanette s painting is yellow,jeanette s painting is neither lazy nor yellow,1
+mamie s painting is easy or mamie s painting is plain,mamie s painting is neither easy nor plain,1
+guadalupe s painting is mango or guadalupe s painting is unsightly,guadalupe s painting isn t mango and guadalupe s painting isn t unsightly,1
+diane s painting is silly or diane s painting is thankful,diane s painting isn t silly,0
+nicole s painting is pitiful or nicole s painting is tender,nicole s painting is neither pitiful nor tender,1
+jared s painting is zealous or jared s painting is long,jared s painting isn t zealous,0
+max s painting is jolly or max s painting is drab,max s painting isn t drab,0
+julie s painting is ashy or julie s painting is uninterested,julie s painting is neither ashy nor uninterested,1
+viola s painting is faithful or viola s painting is clumsy,viola s painting is neither clever nor clumsy,0
+nellie s painting is lemon or nellie s painting is panicky,nellie s painting isn t lemon and nellie s painting isn t panicky,1
+christopher s painting is attractive or christopher s painting is hallowed,christopher s painting is neither attractive nor hallowed,1
+olivia s painting is bewildered or olivia s painting is purple,olivia s painting is neither ashy nor purple,0
+vivian s painting is polite or vivian s painting is long,vivian s painting is neither polite nor thankful,0
+rosie s painting is white or rosie s painting is important,rosie s painting isn t white,0
+don s painting is vast or don s painting is lazy,don s painting is neither mysterious nor lazy,0
+amanda s painting is clean or amanda s painting is worried,amanda s painting is neither clean nor worried,1
+patricia s painting is lively or patricia s painting is unkempt,wendy s painting is neither lively nor unkempt,0
+rita s painting is unsightly or rita s painting is vast,rita s painting isn t vast,0
+jacob s painting is mushy or jacob s painting is lazy,jacob s painting is neither mushy nor lazy,1
+hugh s painting is powerful or hugh s painting is mysterious,hugh s painting is neither repulsive nor mysterious,0
+alma s painting is red or alma s painting is fierce,alma s painting is neither scruffy nor fierce,0
+daryl s painting is short or daryl s painting is happy,daryl s painting isn t short and daryl s painting isn t happy,1
+thelma s painting is silly or thelma s painting is victorious,thelma s painting is neither silly nor fancy,0
+marcia s painting is wonderful or marcia s painting is kind,marcia s painting is neither wonderful nor kind,1
+tammy s painting is quaint or tammy s painting is helpful,tammy s painting is neither quaint nor helpful,1
+julie s painting is delightful or julie s painting is inexpensive,julie s painting isn t inexpensive,0
+armando s painting is elegant or armando s painting is fierce,armando s painting is neither elegant nor fierce,1
+charlene s painting is rich or charlene s painting is dazzling,thomas s painting is neither rich nor dazzling,0
+ian s painting is tender or ian s painting is lemon,ian s painting isn t lemon,0
+christy s painting is shapely or christy s painting is green,christy s painting isn t green,0
+ethel s painting is powerful or ethel s painting is nice,katrina s painting is neither powerful nor nice,0
+irene s painting is wonderful or irene s painting is mysterious,irene s painting is neither wonderful nor mysterious,1
+agnes s painting is gifted or agnes s painting is purple,agnes s painting is neither alive nor purple,0
+bernard s painting is thoughtless or bernard s painting is worried,bernard s painting isn t thoughtless and bernard s painting isn t worried,1
+brandon s painting is ashy or brandon s painting is fancy,george s painting is neither ashy nor fancy,0
+fernando s painting is kind or fernando s painting is gifted,fernando s painting is neither kind nor gifted,1
+tracey s painting is panicky or tracey s painting is black,tracey s painting is neither panicky nor black,1
+vanessa s painting is flabby or vanessa s painting is shapely,vanessa s painting isn t flabby and vanessa s painting isn t shapely,1
+mabel s painting is tender or mabel s painting is flabby,mabel s painting is neither ugly nor flabby,0
+daniel s painting is better or daniel s painting is zealous,daniel s painting isn t better,0
+robin s painting is careful or robin s painting is inexpensive,robin s painting is neither careful nor inexpensive,1
+gregory s painting is yellow or gregory s painting is wonderful,gregory s painting isn t wonderful,0
+jerry s painting is vast or jerry s painting is short,jerry s painting is neither vast nor short,1
+ray s painting is nice or ray s painting is poor,ray s painting isn t nice,0
+todd s painting is obedient or todd s painting is powerful,todd s painting isn t obedient and todd s painting isn t powerful,1
+cynthia s painting is ugly or cynthia s painting is ambitious,cynthia s painting is neither ugly nor ambitious,1
+frederick s painting is scruffy or frederick s painting is icy,frederick s painting isn t scruffy,0
+lillie s painting is angry or lillie s painting is mealy,lillie s painting is neither fierce nor mealy,0
+charles s painting is unkempt or charles s painting is dead,charles s painting is neither unkempt nor dead,1
+clifford s painting is ambitious or clifford s painting is quaint,angela s painting is neither ambitious nor quaint,0
+nellie s painting is agreeable or nellie s painting is worried,nellie s painting is neither agreeable nor worried,1
+paula s painting is lazy or paula s painting is rich,paula s painting is neither lazy nor rich,1
+sidney s painting is long or sidney s painting is blue,sidney s painting is neither mealy nor blue,0
+melinda s painting is angry or melinda s painting is unimportant,melinda s painting isn t unimportant,0
+clara s painting is zealous or clara s painting is clever,clara s painting isn t zealous and clara s painting isn t clever,1
+sharon s painting is blue or sharon s painting is flabby,sharon s painting is neither blue nor flabby,1
+margarita s painting is yellow or margarita s painting is clever,margarita s painting is neither yellow nor clever,1
+perry s painting is jealous or perry s painting is gorgeous,perry s painting is neither jealous nor obnoxious,0
+lonnie s painting is drab or lonnie s painting is purple,barry s painting is neither drab nor purple,0
+lynn s painting is mealy or lynn s painting is fit,lynn s painting is neither mealy nor fit,1
+tina s painting is fancy or tina s painting is beautiful,tina s painting isn t fancy,0
+dave s painting is bewildered or dave s painting is skinny,dave s painting isn t bewildered,0
+daniel s painting is calm or daniel s painting is happy,glenda s painting is neither calm nor happy,0
+harold s painting is repulsive or harold s painting is hallowed,harold s painting isn t repulsive and harold s painting isn t hallowed,1
+jo s painting is obedient or jo s painting is obnoxious,jo s painting is neither obedient nor obnoxious,1
+diane s painting is mango or diane s painting is blue,diane s painting is neither mango nor blue,1
+wade s painting is clumsy or wade s painting is muscular,wade s painting is neither proud nor muscular,0
+tamara s painting is worried or tamara s painting is elegant,tamara s painting isn t worried and tamara s painting isn t elegant,1
+rachel s painting is better or rachel s painting is jolly,rachel s painting isn t better and rachel s painting isn t jolly,1
+shirley s painting is clever or shirley s painting is happy,shirley s painting isn t happy,0
+jim s painting is chubby or jim s painting is clever,jim s painting is neither chubby nor clever,1
+ronnie s painting is beautiful or ronnie s painting is orange,ronnie s painting is neither beautiful nor easy,0
+carl s painting is jolly or carl s painting is gorgeous,carl s painting is neither jolly nor gorgeous,1
+lula s painting is bewildered or lula s painting is ugly,dolores s painting is neither bewildered nor ugly,0
+pedro s painting is powerful or pedro s painting is helpful,pedro s painting is neither powerful nor helpful,1
+lynn s painting is embarrassed or lynn s painting is thoughtless,lynn s painting isn t thoughtless,0
+charlie s painting is kind or charlie s painting is agreeable,charlie s painting isn t kind,0
+jeanette s painting is stocky or jeanette s painting is mealy,jeanette s painting isn t stocky and jeanette s painting isn t mealy,1
+edward s painting is gifted or edward s painting is magnificent,edward s painting isn t gifted,0
+madeline s painting is vast or madeline s painting is fierce,madeline s painting isn t vast,0
+christina s painting is famous or christina s painting is unkempt,christina s painting isn t unkempt,0
+willie s painting is mango or willie s painting is clean,willie s painting isn t mango and willie s painting isn t clean,1
+terry s painting is inexpensive or terry s painting is gorgeous,terry s painting isn t inexpensive and terry s painting isn t gorgeous,1
+mabel s painting is angry or mabel s painting is important,mabel s painting is neither bewildered nor important,0
+calvin s painting is long or calvin s painting is black,calvin s painting isn t long,0
+mamie s painting is ashy or mamie s painting is drab,mamie s painting isn t ashy and mamie s painting isn t drab,1
+shelly s painting is obnoxious or shelly s painting is green,shelly s painting isn t obnoxious,0
+mamie s painting is lazy or mamie s painting is thoughtless,mamie s painting is neither polite nor thoughtless,0
+morris s painting is yellow or morris s painting is nice,morris s painting isn t yellow and morris s painting isn t nice,1
+harvey s painting is short or harvey s painting is repulsive,harvey s painting is neither shapely nor repulsive,0
+anne s painting is muscular or anne s painting is important,anne s painting isn t muscular and anne s painting isn t important,1
+stephen s painting is nice or stephen s painting is shapely,stephen s painting is neither nice nor shapely,1
+seth s painting is delightful or seth s painting is lazy,jo s painting is neither delightful nor lazy,0
+tara s painting is polite or tara s painting is fancy,tara s painting isn t polite,0
+mike s painting is important or mike s painting is shapely,mike s painting isn t important,0
+monique s painting is wrong or monique s painting is attractive,monique s painting is neither wrong nor attractive,1
+bryan s painting is glamorous or bryan s painting is worried,bryan s painting is neither glamorous nor worried,1
+cecil s painting is vast or cecil s painting is witty,cecil s painting isn t vast and cecil s painting isn t witty,1
+chester s painting is odd or chester s painting is dazzling,chester s painting is neither odd nor dazzling,1
+philip s painting is helpless or philip s painting is chubby,juana s painting is neither helpless nor chubby,0
+marie s painting is bald or marie s painting is mealy,marie s painting is neither bald nor mealy,1
+ana s painting is gorgeous or ana s painting is gifted,sean s painting is neither gorgeous nor gifted,0
+frederick s painting is thoughtless or frederick s painting is rich,frederick s painting is neither thoughtless nor wrong,0
+kyle s painting is aggressive or kyle s painting is white,kyle s painting isn t aggressive and kyle s painting isn t white,1
+janice s painting is brave or janice s painting is victorious,janice s painting is neither brave nor victorious,1
+sara s painting is orange or sara s painting is vast,sara s painting is neither orange nor hallowed,0
+brittany s painting is chubby or brittany s painting is stocky,brittany s painting is neither chubby nor stocky,1
+natalie s painting is gorgeous or natalie s painting is scary,natalie s painting is neither gorgeous nor scary,1
+sally s painting is salmon or sally s painting is obedient,sally s painting isn t salmon and sally s painting isn t obedient,1
+cody s painting is zealous or cody s painting is thankful,cody s painting isn t zealous,0
+bill s painting is bewildered or bill s painting is yellow,bill s painting isn t yellow,0
+clayton s painting is scary or clayton s painting is obedient,clayton s painting is neither victorious nor obedient,0
+glenda s painting is gray or glenda s painting is attractive,glenda s painting isn t attractive,0
+russell s painting is proud or russell s painting is mango,russell s painting isn t mango,0
+ted s painting is long or ted s painting is vast,ted s painting isn t long and ted s painting isn t vast,1
+gerald s painting is thankful or gerald s painting is aggressive,gerald s painting isn t thankful,0
+genevieve s painting is lemon or genevieve s painting is vast,genevieve s painting is neither lemon nor vast,1
+monica s painting is grumpy or monica s painting is victorious,monica s painting isn t grumpy and monica s painting isn t victorious,1
+joanne s painting is beautiful or joanne s painting is victorious,bryan s painting is neither beautiful nor victorious,0
+lisa s painting is yellow or lisa s painting is mango,lisa s painting is neither yellow nor unsightly,0
+gloria s painting is delightful or gloria s painting is gorgeous,gloria s painting isn t delightful,0
+bernice s painting is uptight or bernice s painting is long,carla s painting is neither uptight nor long,0
+frederick s painting is gentle or frederick s painting is witty,frederick s painting isn t gentle and frederick s painting isn t witty,1
+harold s painting is agreeable or harold s painting is magnificent,harold s painting isn t agreeable,0
+timothy s painting is obnoxious or timothy s painting is dead,timothy s painting isn t obnoxious and timothy s painting isn t dead,1
+mitchell s painting is flabby or mitchell s painting is shapely,mitchell s painting is neither flabby nor shapely,1
+pedro s painting is thankful or pedro s painting is pitiful,jimmy s painting is neither thankful nor pitiful,0
+franklin s painting is powerful or franklin s painting is grumpy,franklin s painting isn t powerful and franklin s painting isn t grumpy,1
+eleanor s painting is mango or eleanor s painting is angry,eleanor s painting is neither mango nor angry,1
+lucille s painting is important or lucille s painting is witty,lucille s painting isn t important and lucille s painting isn t witty,1
+timothy s painting is nice or timothy s painting is flabby,timothy s painting isn t nice and timothy s painting isn t flabby,1
+andre s painting is unkempt or andre s painting is dead,andre s painting isn t dead,0
+michael s painting is hallowed or michael s painting is yellow,sean s painting is neither hallowed nor yellow,0
+faye s painting is scary or faye s painting is careful,edgar s painting is neither scary nor careful,0
+janice s painting is polite or janice s painting is inexpensive,janice s painting isn t inexpensive,0
+amanda s painting is nice or amanda s painting is long,erik s painting is neither nice nor long,0
+regina s painting is white or regina s painting is jealous,regina s painting isn t white,0
+kevin s painting is glamorous or kevin s painting is itchy,kevin s painting is neither glamorous nor itchy,1
+vera s painting is zealous or vera s painting is polite,vera s painting isn t zealous and vera s painting isn t polite,1
+lester s painting is plump or lester s painting is lazy,lester s painting is neither plump nor lazy,1
+clifton s painting is panicky or clifton s painting is glamorous,clifton s painting is neither panicky nor glamorous,1
+willie s painting is alive or willie s painting is gentle,willie s painting isn t gentle,0
+tara s painting is alive or tara s painting is scruffy,tara s painting is neither alive nor scruffy,1
+tyrone s painting is gorgeous or tyrone s painting is dazzling,tyrone s painting isn t gorgeous,0
+evelyn s painting is white or evelyn s painting is flabby,evelyn s painting isn t white and evelyn s painting isn t flabby,1
+ella s painting is aggressive or ella s painting is chubby,ella s painting isn t chubby,0
+nathan s painting is glamorous or nathan s painting is ambitious,nathan s painting isn t glamorous and nathan s painting isn t ambitious,1
+kathleen s painting is long or kathleen s painting is black,kathleen s painting is neither long nor wonderful,0
+lynn s painting is vast or lynn s painting is happy,lynn s painting isn t vast,0
+felix s painting is scruffy or felix s painting is delightful,felix s painting isn t scruffy and felix s painting isn t delightful,1
+erik s painting is powerful or erik s painting is victorious,erik s painting isn t powerful and erik s painting isn t victorious,1
+amber s painting is mealy or amber s painting is gifted,lori s painting is neither mealy nor gifted,0
+kathryn s painting is brave or kathryn s painting is bewildered,kathryn s painting isn t bewildered,0
+ian s painting is plain or ian s painting is calm,sandra s painting is neither plain nor calm,0
+nora s painting is jealous or nora s painting is vast,nora s painting is neither jealous nor vast,1
+denise s painting is proud or denise s painting is helpful,denise s painting isn t helpful,0
+hattie s painting is witty or hattie s painting is bald,hattie s painting isn t witty,0
+toni s painting is embarrassed or toni s painting is gray,toni s painting isn t embarrassed,0
+adam s painting is lazy or adam s painting is unkempt,adam s painting is neither stocky nor unkempt,0
+andrew s painting is dead or andrew s painting is skinny,andrew s painting is neither dead nor skinny,1
+ruben s painting is clean or ruben s painting is shy,ruben s painting isn t clean and ruben s painting isn t shy,1
+juanita s painting is long or juanita s painting is orange,juanita s painting is neither long nor orange,1
+june s painting is bald or june s painting is odd,june s painting is neither bald nor odd,1
+laurie s painting is nice or laurie s painting is dead,laurie s painting isn t nice,0
+matthew s painting is plain or matthew s painting is mushy,matthew s painting isn t plain and matthew s painting isn t mushy,1
+paula s painting is unkempt or paula s painting is dazzling,paula s painting isn t unkempt and paula s painting isn t dazzling,1
+charlie s painting is inexpensive or charlie s painting is salmon,jimmie s painting is neither inexpensive nor salmon,0
+tracey s painting is hallowed or tracey s painting is gray,tracey s painting is neither hallowed nor gray,1
+joshua s painting is clumsy or joshua s painting is plain,joshua s painting is neither clumsy nor plain,1
+jackie s painting is kind or jackie s painting is shapely,jackie s painting isn t kind and jackie s painting isn t shapely,1
+dianne s painting is thankful or dianne s painting is hallowed,dianne s painting is neither thankful nor hallowed,1
+angie s painting is mealy or angie s painting is muscular,angie s painting is neither mealy nor yellow,0
+ted s painting is mushy or ted s painting is shapely,ted s painting isn t mushy and ted s painting isn t shapely,1
+clifton s painting is unkempt or clifton s painting is elegant,clifton s painting isn t unkempt and clifton s painting isn t elegant,1
+mamie s painting is repulsive or mamie s painting is hallowed,mamie s painting is neither repulsive nor hallowed,1
+helen s painting is vast or helen s painting is yellow,helen s painting isn t vast and helen s painting isn t yellow,1
+kelly s painting is eager or kelly s painting is shy,kelly s painting is neither eager nor shy,1
+sean s painting is easy or sean s painting is blue,sean s painting isn t easy and sean s painting isn t blue,1
+lola s painting is unsightly or lola s painting is salmon,lola s painting isn t salmon,0
+tommy s painting is green or tommy s painting is repulsive,tommy s painting isn t repulsive,0
+gilbert s painting is rich or gilbert s painting is uptight,gilbert s painting isn t rich and gilbert s painting isn t uptight,1
+anthony s painting is fit or anthony s painting is calm,anthony s painting isn t fit and anthony s painting isn t calm,1
+marion s painting is aggressive or marion s painting is jolly,marion s painting is neither aggressive nor white,0
+alfred s painting is mysterious or alfred s painting is odd,alfred s painting isn t mysterious and alfred s painting isn t odd,1
+lloyd s painting is lively or lloyd s painting is flabby,lloyd s painting isn t lively and lloyd s painting isn t flabby,1
+leonard s painting is magnificent or leonard s painting is embarrassed,casey s painting is neither magnificent nor embarrassed,0
+melissa s painting is poor or melissa s painting is obedient,melissa s painting isn t obedient,0
+alfred s painting is quaint or alfred s painting is odd,alfred s painting isn t quaint,0
+greg s painting is skinny or greg s painting is green,greg s painting isn t skinny,0
+joshua s painting is icy or joshua s painting is salmon,joshua s painting is neither icy nor salmon,1
+tony s painting is mushy or tony s painting is dead,tony s painting is neither mushy nor dead,1
+connie s painting is alive or connie s painting is skinny,connie s painting isn t skinny,0
+judith s painting is grumpy or judith s painting is handsome,gabriel s painting is neither grumpy nor handsome,0
+yvette s painting is glamorous or yvette s painting is happy,yvette s painting isn t glamorous,0
+allen s painting is polite or allen s painting is itchy,allen s painting isn t polite and allen s painting isn t itchy,1
+justin s painting is salmon or justin s painting is short,justin s painting isn t salmon and justin s painting isn t short,1
+alfredo s painting is elegant or alfredo s painting is scruffy,alfredo s painting isn t elegant,0
+erica s painting is jolly or erica s painting is lively,erica s painting is neither jolly nor lively,1
+benjamin s painting is salmon or benjamin s painting is plain,benjamin s painting is neither salmon nor important,0
+justin s painting is happy or justin s painting is scruffy,justin s painting isn t happy and justin s painting isn t scruffy,1
+madeline s painting is calm or madeline s painting is poor,madeline s painting is neither calm nor poor,1
+brian s painting is unkempt or brian s painting is lively,brian s painting isn t unkempt and brian s painting isn t lively,1
+adrian s painting is nervous or adrian s painting is purple,adrian s painting isn t nervous,0
+roberta s painting is thankful or roberta s painting is magnificent,jerry s painting is neither thankful nor magnificent,0
+jaime s painting is gray or jaime s painting is drab,jaime s painting isn t drab,0
+june s painting is helpless or june s painting is thankful,june s painting is neither lemon nor thankful,0
+paula s painting is poor or paula s painting is easy,paula s painting is neither poor nor easy,1
+irma s painting is powerful or irma s painting is careful,irma s painting is neither powerful nor careful,1
+mitchell s painting is muscular or mitchell s painting is happy,allison s painting is neither muscular nor happy,0
+ramon s painting is plump or ramon s painting is stocky,ramon s painting isn t stocky,0
+warren s painting is grumpy or warren s painting is tender,warren s painting isn t tender,0
+raymond s painting is gorgeous or raymond s painting is thankful,raymond s painting isn t thankful,0
+joan s painting is tender or joan s painting is clumsy,joan s painting isn t clumsy,0
+gloria s painting is yellow or gloria s painting is muscular,gloria s painting isn t yellow and gloria s painting isn t muscular,1
+leslie s painting is happy or leslie s painting is panicky,leslie s painting is neither nervous nor panicky,0
+roy s painting is delightful or roy s painting is thankful,roy s painting isn t thankful,0
+hazel s painting is long or hazel s painting is brave,hazel s painting is neither plain nor brave,0
+erica s painting is shy or erica s painting is shapely,erica s painting is neither shy nor shapely,1
+amy s painting is drab or amy s painting is careful,amy s painting isn t drab and amy s painting isn t careful,1
+katie s painting is worried or katie s painting is important,katie s painting is neither worried nor long,0
+sheryl s painting is fierce or sheryl s painting is poor,sheryl s painting is neither fierce nor poor,1
+mark s painting is handsome or mark s painting is defeated,jesus s painting is neither handsome nor defeated,0
+carolyn s painting is elegant or carolyn s painting is skinny,carolyn s painting isn t elegant,0
+janice s painting is drab or janice s painting is delightful,janice s painting isn t drab and janice s painting isn t delightful,1
+cory s painting is clean or cory s painting is dazzling,cory s painting is neither beautiful nor dazzling,0
+willie s painting is muscular or willie s painting is attractive,willie s painting isn t attractive,0
+alfredo s painting is green or alfredo s painting is uninterested,alfredo s painting isn t green,0
+kristi s painting is jolly or kristi s painting is plump,kristi s painting isn t plump,0
+tamara s painting is obedient or tamara s painting is unkempt,tamara s painting isn t obedient,0
+kristine s painting is panicky or kristine s painting is happy,kristine s painting isn t panicky and kristine s painting isn t happy,1
+veronica s painting is yellow or veronica s painting is hallowed,veronica s painting is neither yellow nor hallowed,1
+oscar s painting is victorious or oscar s painting is uninterested,betty s painting is neither victorious nor uninterested,0
+lindsay s painting is orange or lindsay s painting is mushy,leslie s painting is neither orange nor mushy,0
+brett s painting is muscular or brett s painting is aggressive,brett s painting isn t muscular,0
+gordon s painting is dead or gordon s painting is embarrassed,phyllis s painting is neither dead nor embarrassed,0
+philip s painting is scary or philip s painting is faithful,philip s painting is neither scary nor faithful,1
+jessie s painting is plump or jessie s painting is nervous,jessie s painting isn t plump and jessie s painting isn t nervous,1
+troy s painting is unimportant or troy s painting is flabby,troy s painting is neither unimportant nor flabby,1
+erica s painting is eager or erica s painting is kind,erica s painting is neither white nor kind,0
+candace s painting is helpless or candace s painting is jolly,candace s painting is neither helpless nor jolly,1
+hattie s painting is shapely or hattie s painting is aggressive,hattie s painting is neither shapely nor aggressive,1
+wade s painting is aggressive or wade s painting is bewildered,wade s painting is neither aggressive nor bewildered,1
+norma s painting is repulsive or norma s painting is scary,norma s painting isn t scary,0
+sarah s painting is fancy or sarah s painting is shapely,sarah s painting is neither fancy nor shapely,1
+barry s painting is dazzling or barry s painting is icy,barry s painting is neither dazzling nor icy,1
+jean s painting is repulsive or jean s painting is icy,jean s painting is neither repulsive nor icy,1
+cynthia s painting is silly or cynthia s painting is gray,cynthia s painting isn t gray,0
+ron s painting is odd or ron s painting is worried,ron s painting is neither odd nor worried,1
+sharon s painting is white or sharon s painting is shy,sharon s painting is neither white nor shy,1
+cathy s painting is salmon or cathy s painting is brave,cathy s painting is neither salmon nor brave,1
+morris s painting is famous or morris s painting is important,morris s painting is neither famous nor vast,0
+priscilla s painting is odd or priscilla s painting is inexpensive,priscilla s painting isn t odd,0
+lola s painting is obedient or lola s painting is lively,lola s painting isn t obedient and lola s painting isn t lively,1
+antonio s painting is beautiful or antonio s painting is icy,antonio s painting is neither beautiful nor icy,1
+pearl s painting is stocky or pearl s painting is mealy,pearl s painting is neither stocky nor mealy,1
+cecilia s painting is defeated or cecilia s painting is thankful,vincent s painting is neither defeated nor thankful,0
+loretta s painting is clean or loretta s painting is hallowed,loretta s painting isn t hallowed,0
+arlene s painting is ambitious or arlene s painting is jolly,jorge s painting is neither ambitious nor jolly,0
+elaine s painting is unsightly or elaine s painting is elegant,elaine s painting isn t elegant,0
+phillip s painting is uptight or phillip s painting is stocky,diane s painting is neither uptight nor stocky,0
+gloria s painting is obedient or gloria s painting is uninterested,gloria s painting isn t obedient,0
+clayton s painting is long or clayton s painting is flabby,clayton s painting is neither long nor flabby,1
+yvonne s painting is inexpensive or yvonne s painting is embarrassed,yvonne s painting is neither inexpensive nor embarrassed,1
+sylvia s painting is jealous or sylvia s painting is zealous,sylvia s painting is neither jealous nor zealous,1
+stella s painting is mushy or stella s painting is proud,stella s painting isn t mushy and stella s painting isn t proud,1
+irma s painting is stocky or irma s painting is bald,irma s painting isn t stocky and irma s painting isn t bald,1
+lindsey s painting is magnificent or lindsey s painting is mushy,lindsey s painting isn t magnificent and lindsey s painting isn t mushy,1
+margie s painting is helpful or margie s painting is careful,margie s painting isn t helpful and margie s painting isn t careful,1
+tamara s painting is ugly or tamara s painting is unkempt,tamara s painting isn t ugly and tamara s painting isn t unkempt,1
+iris s painting is lazy or iris s painting is poor,iris s painting is neither lazy nor poor,1
+joy s painting is unsightly or joy s painting is odd,joy s painting is neither unsightly nor odd,1
+wilma s painting is lazy or wilma s painting is flabby,wilma s painting isn t lazy and wilma s painting isn t flabby,1
+heidi s painting is important or heidi s painting is inexpensive,heidi s painting is neither uptight nor inexpensive,0
+sonya s painting is beautiful or sonya s painting is nice,sonya s painting is neither beautiful nor nice,1
+rebecca s painting is nice or rebecca s painting is uninterested,rebecca s painting is neither nice nor uninterested,1
+derrick s painting is angry or derrick s painting is purple,derrick s painting is neither angry nor green,0
+june s painting is ugly or june s painting is orange,june s painting is neither ugly nor orange,1
+kristy s painting is angry or kristy s painting is zealous,kristy s painting isn t angry and kristy s painting isn t zealous,1
+russell s painting is agreeable or russell s painting is dazzling,russell s painting isn t dazzling,0
+daisy s painting is rich or daisy s painting is wonderful,daisy s painting isn t rich and daisy s painting isn t wonderful,1
+lawrence s painting is clumsy or lawrence s painting is short,lawrence s painting is neither clumsy nor short,1
+ethel s painting is purple or ethel s painting is odd,ethel s painting is neither purple nor odd,1
+cecilia s painting is agreeable or cecilia s painting is worried,cecilia s painting isn t agreeable and cecilia s painting isn t worried,1
+tara s painting is green or tara s painting is mushy,tara s painting isn t green and tara s painting isn t mushy,1
+jaime s painting is salmon or jaime s painting is ambitious,eileen s painting is neither salmon nor ambitious,0
+faye s painting is quaint or faye s painting is lively,faye s painting is neither quaint nor clean,0
+gilbert s painting is obnoxious or gilbert s painting is unkempt,gilbert s painting isn t obnoxious and gilbert s painting isn t unkempt,1
+sue s painting is wrong or sue s painting is victorious,sue s painting isn t victorious,0
+dana s painting is scruffy or dana s painting is lively,dana s painting isn t scruffy and dana s painting isn t lively,1
+hilda s painting is vast or hilda s painting is mango,hilda s painting is neither vast nor stocky,0
+tyrone s painting is bewildered or tyrone s painting is scary,tyrone s painting isn t bewildered and tyrone s painting isn t scary,1
+julian s painting is silly or julian s painting is defeated,julian s painting isn t silly and julian s painting isn t defeated,1
+harold s painting is icy or harold s painting is thankful,alex s painting is neither icy nor thankful,0
+cynthia s painting is aggressive or cynthia s painting is odd,cynthia s painting is neither aggressive nor odd,1
+esther s painting is dazzling or esther s painting is itchy,esther s painting isn t dazzling and esther s painting isn t itchy,1
+tara s painting is obedient or tara s painting is ashy,tara s painting is neither obedient nor ashy,1
+eduardo s painting is plump or eduardo s painting is flabby,eduardo s painting is neither plump nor flabby,1
+rosemary s painting is purple or rosemary s painting is witty,rosemary s painting is neither purple nor witty,1
+jennie s painting is scary or jennie s painting is mushy,jennie s painting isn t scary,0
+jack s painting is unkempt or jack s painting is elegant,jack s painting isn t unkempt,0
+lee s painting is short or lee s painting is helpful,manuel s painting is neither short nor helpful,0
+jennie s painting is white or jennie s painting is inexpensive,jennie s painting is neither white nor inexpensive,1
+corey s painting is gifted or corey s painting is unkempt,corey s painting is neither gifted nor unkempt,1
+ronald s painting is aggressive or ronald s painting is calm,ronald s painting is neither mango nor calm,0
+don s painting is attractive or don s painting is salmon,don s painting isn t salmon,0
+valerie s painting is fit or valerie s painting is dead,valerie s painting isn t fit and valerie s painting isn t dead,1
+valerie s painting is brave or valerie s painting is elegant,valerie s painting is neither brave nor elegant,1
+dennis s painting is unimportant or dennis s painting is itchy,dennis s painting is neither unimportant nor itchy,1
+lynn s painting is ambitious or lynn s painting is jealous,lynn s painting is neither green nor jealous,0
+alfred s painting is nervous or alfred s painting is jolly,alfred s painting isn t nervous,0
+juan s painting is silly or juan s painting is lemon,dora s painting is neither silly nor lemon,0
+wendy s painting is kind or wendy s painting is pitiful,wendy s painting is neither kind nor pitiful,1
+wendy s painting is thankful or wendy s painting is bald,wendy s painting isn t thankful and wendy s painting isn t bald,1
+max s painting is black or max s painting is shapely,sean s painting is neither black nor shapely,0
+vicki s painting is nice or vicki s painting is unkempt,vicki s painting is neither nice nor faithful,0
+iris s painting is happy or iris s painting is red,iris s painting isn t happy and iris s painting isn t red,1
+ann s painting is gorgeous or ann s painting is elegant,ann s painting is neither tender nor elegant,0
+seth s painting is delightful or seth s painting is scary,seth s painting isn t delightful,0
+andrew s painting is panicky or andrew s painting is glamorous,andrew s painting isn t panicky and andrew s painting isn t glamorous,1
+connie s painting is helpful or connie s painting is wrong,connie s painting isn t helpful,0
+andrew s painting is witty or andrew s painting is gorgeous,tiffany s painting is neither witty nor gorgeous,0
+ralph s painting is ugly or ralph s painting is icy,ralph s painting isn t ugly and ralph s painting isn t icy,1
+sidney s painting is nice or sidney s painting is nervous,sidney s painting is neither nice nor nervous,1
+isaac s painting is yellow or isaac s painting is helpful,isaac s painting is neither yellow nor helpful,1
+ricardo s painting is bald or ricardo s painting is helpful,ricardo s painting is neither bald nor helpful,1
+oscar s painting is repulsive or oscar s painting is dazzling,oscar s painting is neither repulsive nor dazzling,1
+eva s painting is muscular or eva s painting is chubby,eva s painting isn t muscular and eva s painting isn t chubby,1
+theodore s painting is gifted or theodore s painting is poor,theodore s painting is neither gifted nor poor,1
+marion s painting is plump or marion s painting is yellow,marion s painting is neither stocky nor yellow,0
+verna s painting is faithful or verna s painting is unsightly,verna s painting isn t faithful and verna s painting isn t unsightly,1
+sherry s painting is faithful or sherry s painting is agreeable,leo s painting is neither faithful nor agreeable,0
+veronica s painting is careful or veronica s painting is glamorous,veronica s painting isn t careful and veronica s painting isn t glamorous,1
+casey s painting is ashy or casey s painting is scary,casey s painting isn t ashy,0
+terry s painting is helpless or terry s painting is clean,terry s painting isn t helpless and terry s painting isn t clean,1
+priscilla s painting is mushy or priscilla s painting is panicky,jack s painting is neither mushy nor panicky,0
+tammy s painting is drab or tammy s painting is repulsive,tammy s painting is neither drab nor repulsive,1
+virginia s painting is white or virginia s painting is flabby,virginia s painting is neither white nor flabby,1
+vincent s painting is delightful or vincent s painting is magnificent,vincent s painting isn t delightful,0
+sandra s painting is grumpy or sandra s painting is kind,sandra s painting isn t grumpy,0
+elizabeth s painting is inexpensive or elizabeth s painting is lazy,elizabeth s painting is neither inexpensive nor lazy,1
+marion s painting is victorious or marion s painting is hallowed,marion s painting is neither victorious nor hallowed,1
+rodney s painting is nervous or rodney s painting is gorgeous,rodney s painting isn t nervous,0
+geraldine s painting is rich or geraldine s painting is clever,geraldine s painting is neither rich nor clever,1
+bernard s painting is grumpy or bernard s painting is aggressive,bernard s painting is neither grumpy nor aggressive,1

@@ -1,0 +1,1001 @@
+sentence1,sentence2,and_A,and_B,label
+Karen has visited Bucharest and Oradea,Karen didn't visit Oradea,Karen has visited Bucharest,Karen has visited Oradea,1
+Fannie has traveled to Slobozia and Dej,Colleen didn't travel to Slobozia,Fannie has traveled to Slobozia,Fannie has traveled to Dej,0
+Calvin has visited Tulcea and Timisoara,Leo didn't visit Timisoara,Calvin has visited Tulcea,Calvin has visited Timisoara,0
+Melvin has traveled to Blaj and Vaslui,Melvin didn't travel to Blaj,Melvin has traveled to Blaj,Melvin has traveled to Vaslui,1
+Philip and Dana went to Arad,Dana didn't go to Arad,Philip went to Arad,Dana went to Arad,1
+Wesley and Walter have traveled to Vaslui,Walter didn't travel to Vaslui,Wesley has traveled to Vaslui,Walter has traveled to Vaslui,1
+Blanche and Tanya have visited Dej,Kathryn didn't visit Dej,Blanche has visited Dej,Tanya has visited Dej,0
+Nathaniel has traveled to Vaslui and Arad,Nathaniel didn't travel to Reghin,Nathaniel has traveled to Vaslui,Nathaniel has traveled to Arad,0
+Raymond and Scott went to Hunedoara,Raymond didn't go to Hunedoara,Raymond went to Hunedoara,Scott went to Hunedoara,1
+Glenda and Roland have traveled to Bucharest,Margie didn't travel to Bucharest,Glenda has traveled to Bucharest,Roland has traveled to Bucharest,0
+Roy has traveled to Timisoara and Deva,Roy didn't travel to Deva,Roy has traveled to Timisoara,Roy has traveled to Deva,1
+Gary and Donna have visited Mangalia,Terri didn't visit Mangalia,Gary has visited Mangalia,Donna has visited Mangalia,0
+Frances and Marshall have visited Baia Mare,Jodi didn't visit Baia Mare,Frances has visited Baia Mare,Marshall has visited Baia Mare,0
+Nathaniel and Dale went to Oradea,Dale didn't go to Oradea,Nathaniel went to Oradea,Dale went to Oradea,1
+Jo has traveled to Baia Mare and Hunedoara,Jo didn't travel to Baia Mare,Jo has traveled to Baia Mare,Jo has traveled to Hunedoara,1
+Marsha has visited Reghin and Hunedoara,Marsha didn't visit Reghin,Marsha has visited Reghin,Marsha has visited Hunedoara,1
+Sherri and Constance have traveled to Reghin,Constance didn't travel to Reghin,Sherri has traveled to Reghin,Constance has traveled to Reghin,1
+Antoinette went to Slobozia and Craiova,Antoinette didn't go to Slobozia,Antoinette went to Slobozia,Antoinette went to Craiova,1
+Jorge and Rose went to Baia Mare,Casey didn't go to Baia Mare,Jorge went to Baia Mare,Rose went to Baia Mare,0
+Marion has traveled to Slatina and Lugoj,Terry didn't travel to Slatina,Marion has traveled to Slatina,Marion has traveled to Lugoj,0
+Mario went to Slatina and Arad,Mario didn't go to Tulcea,Mario went to Slatina,Mario went to Arad,0
+Olivia and Jodi have traveled to Timisoara,Suzanne didn't travel to Timisoara,Olivia has traveled to Timisoara,Jodi has traveled to Timisoara,0
+Constance has visited Timisoara and Blaj,Constance didn't visit Timisoara,Constance has visited Timisoara,Constance has visited Blaj,1
+Zachary and Joann went to Mangalia,Zachary didn't go to Mangalia,Zachary went to Mangalia,Joann went to Mangalia,1
+Maxine and Jessie went to Turda,Jessie didn't go to Cluj-Napoca,Maxine went to Turda,Jessie went to Turda,0
+Glenda has traveled to Arad and Reghin,Glenda didn't travel to Reghin,Glenda has traveled to Arad,Glenda has traveled to Reghin,1
+Natasha and Madeline have visited Timisoara,Madeline didn't visit Timisoara,Natasha has visited Timisoara,Madeline has visited Timisoara,1
+Penny has visited Slobozia and Bucharest,Bonnie didn't visit Slobozia,Penny has visited Slobozia,Penny has visited Bucharest,0
+Molly and Leon went to Lugoj,Leon didn't go to Lugoj,Molly went to Lugoj,Leon went to Lugoj,1
+Terrence and Robert went to Giurgiu,Veronica didn't go to Giurgiu,Terrence went to Giurgiu,Robert went to Giurgiu,0
+Wendy and Iris went to Oradea,Wendy didn't go to Vaslui,Wendy went to Oradea,Iris went to Oradea,0
+Maggie went to Bucharest and Slatina,Maggie didn't go to Slatina,Maggie went to Bucharest,Maggie went to Slatina,1
+Rose has visited Tulcea and Hunedoara,Rose didn't visit Hunedoara,Rose has visited Tulcea,Rose has visited Hunedoara,1
+Courtney and Alice have visited Hunedoara,Bill didn't visit Hunedoara,Courtney has visited Hunedoara,Alice has visited Hunedoara,0
+Alex and Gertrude have traveled to Dej,Alex didn't travel to Dej,Alex has traveled to Dej,Gertrude has traveled to Dej,1
+Jared and Misty have visited Slobozia,Misty didn't visit Reghin,Jared has visited Slobozia,Misty has visited Slobozia,0
+Daryl has traveled to Bucharest and Slatina,Eduardo didn't travel to Bucharest,Daryl has traveled to Bucharest,Daryl has traveled to Slatina,0
+Don and Lee went to Tulcea,Don didn't go to Tulcea,Don went to Tulcea,Lee went to Tulcea,0
+Cory has visited Turda and Timisoara,Cory didn't visit Tulcea,Cory has visited Turda,Cory has visited Timisoara,0
+Brett and Everett have visited Blaj,Brett didn't visit Vaslui,Brett has visited Blaj,Everett has visited Blaj,0
+Glen and Bessie have visited Bucharest,Bessie didn't visit Bucharest,Glen has visited Bucharest,Bessie has visited Bucharest,1
+Ronnie has visited Blaj and Vaslui,Ronnie didn't visit Blaj,Ronnie has visited Blaj,Ronnie has visited Vaslui,1
+Alberto has visited Lugoj and Bucharest,Alberto didn't visit Bucharest,Alberto has visited Lugoj,Alberto has visited Bucharest,1
+Harold and Andre have visited Vaslui,Andre didn't visit Vaslui,Harold has visited Vaslui,Andre has visited Vaslui,1
+Brad has visited Bucharest and Mangalia,Lauren didn't visit Bucharest,Brad has visited Bucharest,Brad has visited Mangalia,0
+Milton went to Tulcea and Turda,Milton didn't go to Tulcea,Milton went to Tulcea,Milton went to Turda,1
+Allison has visited Giurgiu and Mangalia,Allison didn't visit Giurgiu,Allison has visited Giurgiu,Allison has visited Mangalia,1
+Bobbie has traveled to Reghin and Bucharest,Bobbie didn't travel to Reghin,Bobbie has traveled to Reghin,Bobbie has traveled to Bucharest,1
+Candice and Cora have visited Oradea,Cora didn't visit Blaj,Candice has visited Oradea,Cora has visited Oradea,0
+Earl has traveled to Lugoj and Slatina,Earl didn't travel to Slatina,Earl has traveled to Lugoj,Earl has traveled to Slatina,1
+Rafael and Wayne went to Blaj,Rafael didn't go to Blaj,Rafael went to Blaj,Wayne went to Blaj,1
+Cecil went to Cluj-Napoca and Slobozia,Leslie didn't go to Cluj-Napoca,Cecil went to Cluj-Napoca,Cecil went to Slobozia,0
+Virginia and Courtney have visited Bucharest,Virginia didn't visit Blaj,Virginia has visited Bucharest,Courtney has visited Bucharest,0
+Phyllis has visited Lugoj and Turda,Phyllis didn't visit Arad,Phyllis has visited Lugoj,Phyllis has visited Turda,0
+Danielle has visited Mangalia and Arad,Danielle didn't visit Arad,Danielle has visited Mangalia,Danielle has visited Arad,1
+Rodney has traveled to Slatina and Giurgiu,Rodney didn't travel to Bucharest,Rodney has traveled to Slatina,Rodney has traveled to Giurgiu,0
+Verna has traveled to Bucharest and Dej,Verna didn't travel to Hunedoara,Verna has traveled to Bucharest,Verna has traveled to Dej,0
+Vera and Candice went to Slatina,Vera didn't go to Slatina,Vera went to Slatina,Candice went to Slatina,1
+Marc and Naomi went to Cluj-Napoca,Marc didn't go to Giurgiu,Marc went to Cluj-Napoca,Naomi went to Cluj-Napoca,0
+Mae has visited Dej and Deva,Mae didn't visit Deva,Mae has visited Dej,Mae has visited Deva,1
+Cathy has traveled to Blaj and Oradea,Amanda didn't travel to Blaj,Cathy has traveled to Blaj,Cathy has traveled to Oradea,0
+Dawn has visited Giurgiu and Baia Mare,Teresa didn't visit Giurgiu,Dawn has visited Giurgiu,Dawn has visited Baia Mare,0
+Donna has traveled to Vaslui and Mangalia,Donna didn't travel to Vaslui,Donna has traveled to Vaslui,Donna has traveled to Mangalia,1
+Beverly went to Reghin and Craiova,Beverly didn't go to Craiova,Beverly went to Reghin,Beverly went to Craiova,1
+Carl and Angie have visited Timisoara,Carl didn't visit Timisoara,Carl has visited Timisoara,Angie has visited Timisoara,1
+Alice went to Slatina and Reghin,Alice didn't go to Slatina,Alice went to Slatina,Alice went to Reghin,1
+Olivia and Amy have visited Slatina,Olivia didn't visit Slatina,Olivia has visited Slatina,Amy has visited Slatina,1
+Blanche has visited Slobozia and Slatina,Blanche didn't visit Slatina,Blanche has visited Slobozia,Blanche has visited Slatina,1
+Nathaniel went to Craiova and Cluj-Napoca,Nathaniel didn't go to Craiova,Nathaniel went to Craiova,Nathaniel went to Cluj-Napoca,1
+Iris has visited Lugoj and Slatina,Iris didn't visit Lugoj,Iris has visited Lugoj,Iris has visited Slatina,1
+Victoria has visited Slatina and Bucharest,Joseph didn't visit Bucharest,Victoria has visited Slatina,Victoria has visited Bucharest,0
+Wesley went to Timisoara and Giurgiu,Wesley didn't go to Timisoara,Wesley went to Timisoara,Wesley went to Giurgiu,1
+Hector and Leonard have visited Reghin,Hector didn't visit Reghin,Hector has visited Reghin,Leonard has visited Reghin,1
+Amy has visited Lugoj and Oradea,Anne didn't visit Lugoj,Amy has visited Lugoj,Amy has visited Oradea,0
+Julia and Jerome went to Oradea,Carol didn't go to Oradea,Julia went to Oradea,Jerome went to Oradea,0
+Carole and Jessica went to Mangalia,Carole didn't go to Slatina,Carole went to Mangalia,Jessica went to Mangalia,0
+Morris has visited Mangalia and Baia Mare,Morris didn't visit Baia Mare,Morris has visited Mangalia,Morris has visited Baia Mare,1
+Terry and Christy have visited Slatina,Terry didn't visit Slatina,Terry has visited Slatina,Christy has visited Slatina,1
+Sue has traveled to Slatina and Mangalia,Sue didn't travel to Slatina,Sue has traveled to Slatina,Sue has traveled to Mangalia,1
+Marcus and Richard have visited Tulcea,Richard didn't visit Cluj-Napoca,Marcus has visited Tulcea,Richard has visited Tulcea,0
+Ashley and Ruby went to Deva,Darlene didn't go to Deva,Ashley went to Deva,Ruby went to Deva,0
+Brittany and Jessie went to Lugoj,Jessie didn't go to Reghin,Brittany went to Lugoj,Jessie went to Lugoj,0
+Rhonda and Kevin went to Timisoara,Rhonda didn't go to Deva,Rhonda went to Timisoara,Kevin went to Timisoara,0
+Carolyn and Jeremy went to Arad,Jeremy didn't go to Arad,Carolyn went to Arad,Jeremy went to Arad,1
+Kelly went to Turda and Timisoara,Kelly didn't go to Turda,Kelly went to Turda,Kelly went to Timisoara,1
+Kristina and Mae have traveled to Blaj,George didn't travel to Blaj,Kristina has traveled to Blaj,Mae has traveled to Blaj,0
+Mattie went to Arad and Timisoara,Mattie didn't go to Timisoara,Mattie went to Arad,Mattie went to Timisoara,1
+Melvin and Samantha have traveled to Oradea,Bonnie didn't travel to Oradea,Melvin has traveled to Oradea,Samantha has traveled to Oradea,0
+Pamela and Isaac have visited Arad,Isaac didn't visit Arad,Pamela has visited Arad,Isaac has visited Arad,1
+Brandy has visited Cluj-Napoca and Deva,Brandy didn't visit Deva,Brandy has visited Cluj-Napoca,Brandy has visited Deva,1
+Belinda went to Mangalia and Tulcea,Belinda didn't go to Tulcea,Belinda went to Mangalia,Belinda went to Tulcea,1
+Brandi has traveled to Lugoj and Turda,Brandi didn't travel to Giurgiu,Brandi has traveled to Lugoj,Brandi has traveled to Turda,0
+Allison has visited Blaj and Hunedoara,Allison didn't visit Blaj,Allison has visited Blaj,Allison has visited Hunedoara,1
+Ray went to Timisoara and Giurgiu,Ray didn't go to Giurgiu,Ray went to Timisoara,Ray went to Giurgiu,1
+Doris went to Timisoara and Bucharest,Candace didn't go to Bucharest,Doris went to Timisoara,Doris went to Bucharest,0
+Lloyd and Hugh have visited Arad,Lauren didn't visit Arad,Lloyd has visited Arad,Hugh has visited Arad,0
+Manuel and Eugene went to Dej,Eugene didn't go to Dej,Manuel went to Dej,Eugene went to Dej,1
+Robert has traveled to Mangalia and Reghin,Robert didn't travel to Mangalia,Robert has traveled to Mangalia,Robert has traveled to Reghin,1
+Albert has visited Tulcea and Tulcea,Misty didn't visit Tulcea,Albert has visited Tulcea,Albert has visited Tulcea,0
+Lynda and Nathaniel have visited Mangalia,Kay didn't visit Mangalia,Lynda has visited Mangalia,Nathaniel has visited Mangalia,0
+Ernest has visited Vaslui and Mangalia,Ernest didn't visit Mangalia,Ernest has visited Vaslui,Ernest has visited Mangalia,1
+Lindsey went to Slobozia and Hunedoara,Sarah didn't go to Slobozia,Lindsey went to Slobozia,Lindsey went to Hunedoara,0
+Gina went to Vaslui and Reghin,Gina didn't go to Vaslui,Gina went to Vaslui,Gina went to Reghin,1
+Bill and Teresa went to Timisoara,Teresa didn't go to Timisoara,Bill went to Timisoara,Teresa went to Timisoara,1
+Jessie has visited Dej and Vaslui,Jessie didn't visit Vaslui,Jessie has visited Dej,Jessie has visited Vaslui,1
+Brandi went to Reghin and Lugoj,Brandi didn't go to Lugoj,Brandi went to Reghin,Brandi went to Lugoj,1
+Mamie has visited Mangalia and Arad,Mamie didn't visit Mangalia,Mamie has visited Mangalia,Mamie has visited Arad,1
+Becky and Norma went to Reghin,Becky didn't go to Reghin,Becky went to Reghin,Norma went to Reghin,1
+Eduardo has traveled to Turda and Dej,Eduardo didn't travel to Dej,Eduardo has traveled to Turda,Eduardo has traveled to Dej,1
+Jeremy went to Tulcea and Baia Mare,Andy didn't go to Baia Mare,Jeremy went to Tulcea,Jeremy went to Baia Mare,0
+Elsie has traveled to Craiova and Lugoj,Dolores didn't travel to Lugoj,Elsie has traveled to Craiova,Elsie has traveled to Lugoj,0
+Randall has visited Lugoj and Cluj-Napoca,Randall didn't visit Lugoj,Randall has visited Lugoj,Randall has visited Cluj-Napoca,1
+Alan and Wanda have visited Slobozia,Wanda didn't visit Slobozia,Alan has visited Slobozia,Wanda has visited Slobozia,1
+Paula has traveled to Craiova and Oradea,Paula didn't travel to Craiova,Paula has traveled to Craiova,Paula has traveled to Oradea,1
+Morris has visited Lugoj and Slobozia,Morris didn't visit Lugoj,Morris has visited Lugoj,Morris has visited Slobozia,1
+Priscilla has traveled to Mangalia and Oradea,Priscilla didn't travel to Turda,Priscilla has traveled to Mangalia,Priscilla has traveled to Oradea,0
+Marc went to Baia Mare and Hunedoara,Amber didn't go to Baia Mare,Marc went to Baia Mare,Marc went to Hunedoara,0
+Jack has visited Hunedoara and Lugoj,Jack didn't visit Lugoj,Jack has visited Hunedoara,Jack has visited Lugoj,1
+Alex and Stephanie went to Cluj-Napoca,Stephanie didn't go to Cluj-Napoca,Alex went to Cluj-Napoca,Stephanie went to Cluj-Napoca,1
+Ross has traveled to Tulcea and Dej,Ross didn't travel to Dej,Ross has traveled to Tulcea,Ross has traveled to Dej,1
+Jared and Sharon have traveled to Arad,Ethel didn't travel to Arad,Jared has traveled to Arad,Sharon has traveled to Arad,0
+Melvin and Leah have visited Cluj-Napoca,Melvin didn't visit Cluj-Napoca,Melvin has visited Cluj-Napoca,Leah has visited Cluj-Napoca,1
+Maureen and Salvador have traveled to Blaj,Salvador didn't travel to Blaj,Maureen has traveled to Blaj,Salvador has traveled to Blaj,1
+Kathryn has traveled to Arad and Dej,Kathryn didn't travel to Arad,Kathryn has traveled to Arad,Kathryn has traveled to Dej,1
+Annie and Dana went to Reghin,Willard didn't go to Reghin,Annie went to Reghin,Dana went to Reghin,0
+Leah went to Lugoj and Cluj-Napoca,Leah didn't go to Lugoj,Leah went to Lugoj,Leah went to Cluj-Napoca,1
+Claude has visited Baia Mare and Arad,Claude didn't visit Baia Mare,Claude has visited Baia Mare,Claude has visited Arad,1
+Jeff and Kristi went to Arad,Jeff didn't go to Arad,Jeff went to Arad,Kristi went to Arad,1
+Ted went to Hunedoara and Timisoara,Ted didn't go to Bucharest,Ted went to Hunedoara,Ted went to Timisoara,0
+Gertrude went to Cluj-Napoca and Deva,Gertrude didn't go to Cluj-Napoca,Gertrude went to Cluj-Napoca,Gertrude went to Deva,1
+Candice and Reginald have traveled to Oradea,Hector didn't travel to Oradea,Candice has traveled to Oradea,Reginald has traveled to Oradea,0
+Franklin and Kent went to Vaslui,Mark didn't go to Vaslui,Franklin went to Vaslui,Kent went to Vaslui,0
+Colleen and Kristi have visited Timisoara,Kristi didn't visit Cluj-Napoca,Colleen has visited Timisoara,Kristi has visited Timisoara,0
+Ron and Darrell have traveled to Slobozia,Colleen didn't travel to Slobozia,Ron has traveled to Slobozia,Darrell has traveled to Slobozia,0
+Ray and Edwin have visited Tulcea,Theodore didn't visit Tulcea,Ray has visited Tulcea,Edwin has visited Tulcea,0
+Hattie and Renee went to Cluj-Napoca,Tyrone didn't go to Cluj-Napoca,Hattie went to Cluj-Napoca,Renee went to Cluj-Napoca,0
+Brandon has visited Reghin and Arad,Brandon didn't visit Vaslui,Brandon has visited Reghin,Brandon has visited Arad,0
+June has visited Lugoj and Craiova,Vernon didn't visit Craiova,June has visited Lugoj,June has visited Craiova,0
+Mary has visited Oradea and Dej,Mary didn't visit Blaj,Mary has visited Oradea,Mary has visited Dej,0
+Alfredo has traveled to Dej and Cluj-Napoca,Nina didn't travel to Dej,Alfredo has traveled to Dej,Alfredo has traveled to Cluj-Napoca,0
+Gordon went to Reghin and Hunedoara,Gordon didn't go to Reghin,Gordon went to Reghin,Gordon went to Hunedoara,1
+Genevieve has traveled to Vaslui and Dej,Genevieve didn't travel to Dej,Genevieve has traveled to Vaslui,Genevieve has traveled to Dej,1
+Juan went to Giurgiu and Bucharest,Juan didn't go to Slobozia,Juan went to Giurgiu,Juan went to Bucharest,0
+Jaime went to Cluj-Napoca and Blaj,Jaime didn't go to Craiova,Jaime went to Cluj-Napoca,Jaime went to Blaj,0
+Greg went to Bucharest and Arad,Greg didn't go to Giurgiu,Greg went to Bucharest,Greg went to Arad,0
+Ramona has visited Blaj and Oradea,Ramona didn't visit Lugoj,Ramona has visited Blaj,Ramona has visited Oradea,0
+Everett and Sally went to Deva,Sally didn't go to Bucharest,Everett went to Deva,Sally went to Deva,0
+Carole has traveled to Giurgiu and Craiova,Kelly didn't travel to Giurgiu,Carole has traveled to Giurgiu,Carole has traveled to Craiova,0
+Jerome went to Turda and Deva,Jerome didn't go to Mangalia,Jerome went to Turda,Jerome went to Deva,0
+Margie and Erika have traveled to Slatina,Margie didn't travel to Baia Mare,Margie has traveled to Slatina,Erika has traveled to Slatina,0
+Jason and Duane have traveled to Vaslui,Jason didn't travel to Vaslui,Jason has traveled to Vaslui,Duane has traveled to Vaslui,1
+Julia has traveled to Slatina and Cluj-Napoca,Julia didn't travel to Turda,Julia has traveled to Slatina,Julia has traveled to Cluj-Napoca,0
+Isabel and Ramon have visited Reghin,Jane didn't visit Reghin,Isabel has visited Reghin,Ramon has visited Reghin,0
+Pamela has traveled to Giurgiu and Hunedoara,Claudia didn't travel to Hunedoara,Pamela has traveled to Giurgiu,Pamela has traveled to Hunedoara,0
+Jesse has traveled to Timisoara and Giurgiu,Don didn't travel to Timisoara,Jesse has traveled to Timisoara,Jesse has traveled to Giurgiu,0
+Jason has visited Craiova and Mangalia,Carole didn't visit Mangalia,Jason has visited Craiova,Jason has visited Mangalia,0
+Billie has visited Craiova and Arad,Dean didn't visit Arad,Billie has visited Craiova,Billie has visited Arad,0
+Sonia and Jessica went to Cluj-Napoca,Clifford didn't go to Cluj-Napoca,Sonia went to Cluj-Napoca,Jessica went to Cluj-Napoca,0
+Nathan and Erik have traveled to Slobozia,Erik didn't travel to Slobozia,Nathan has traveled to Slobozia,Erik has traveled to Slobozia,0
+Reginald and Luis have traveled to Slatina,Albert didn't travel to Slatina,Reginald has traveled to Slatina,Luis has traveled to Slatina,0
+Angel and Viola have visited Timisoara,Viola didn't visit Dej,Angel has visited Timisoara,Viola has visited Timisoara,0
+Sharon and David have visited Baia Mare,David didn't visit Baia Mare,Sharon has visited Baia Mare,David has visited Baia Mare,1
+Pearl has visited Deva and Turda,Pearl didn't visit Turda,Pearl has visited Deva,Pearl has visited Turda,1
+Cody went to Vaslui and Giurgiu,Elmer didn't go to Vaslui,Cody went to Vaslui,Cody went to Giurgiu,0
+Megan and Howard have traveled to Dej,Sherri didn't travel to Dej,Megan has traveled to Dej,Howard has traveled to Dej,0
+Andre and Cecilia have visited Blaj,Maurice didn't visit Blaj,Andre has visited Blaj,Cecilia has visited Blaj,0
+Cecilia and Jill have traveled to Deva,Cecilia didn't travel to Deva,Cecilia has traveled to Deva,Jill has traveled to Deva,1
+Sean and Felicia have visited Timisoara,Sean didn't visit Timisoara,Sean has visited Timisoara,Felicia has visited Timisoara,1
+Rhonda and Eddie went to Slobozia,Eddie didn't go to Slobozia,Rhonda went to Slobozia,Eddie went to Slobozia,1
+Loretta went to Lugoj and Slatina,Loretta didn't go to Slatina,Loretta went to Lugoj,Loretta went to Slatina,1
+Amber and Lena went to Lugoj,Toni didn't go to Lugoj,Amber went to Lugoj,Lena went to Lugoj,0
+Guadalupe went to Vaslui and Reghin,Guadalupe didn't go to Hunedoara,Guadalupe went to Vaslui,Guadalupe went to Reghin,0
+Natasha went to Timisoara and Arad,Natasha didn't go to Cluj-Napoca,Natasha went to Timisoara,Natasha went to Arad,0
+Edward has visited Slatina and Blaj,Edward didn't visit Timisoara,Edward has visited Slatina,Edward has visited Blaj,0
+Cathy and Rafael have visited Lugoj,Ben didn't visit Lugoj,Cathy has visited Lugoj,Rafael has visited Lugoj,0
+Mae and Gilbert have visited Giurgiu,Vicki didn't visit Giurgiu,Mae has visited Giurgiu,Gilbert has visited Giurgiu,0
+Scott went to Bucharest and Arad,Alex didn't go to Bucharest,Scott went to Bucharest,Scott went to Arad,0
+Tiffany and Armando have traveled to Arad,Armando didn't travel to Arad,Tiffany has traveled to Arad,Armando has traveled to Arad,1
+Randy and Matthew went to Turda,Matthew didn't go to Turda,Randy went to Turda,Matthew went to Turda,1
+Stacey has visited Cluj-Napoca and Blaj,Stacey didn't visit Lugoj,Stacey has visited Cluj-Napoca,Stacey has visited Blaj,0
+Sylvia and Molly went to Baia Mare,Jodi didn't go to Baia Mare,Sylvia went to Baia Mare,Molly went to Baia Mare,0
+Patrick has visited Slatina and Timisoara,Patrick didn't visit Timisoara,Patrick has visited Slatina,Patrick has visited Timisoara,1
+Bernard has visited Arad and Craiova,Bernard didn't visit Arad,Bernard has visited Arad,Bernard has visited Craiova,1
+Donna went to Slobozia and Deva,Donna didn't go to Slobozia,Donna went to Slobozia,Donna went to Deva,1
+Wanda went to Lugoj and Dej,Alma didn't go to Lugoj,Wanda went to Lugoj,Wanda went to Dej,0
+Mark and Suzanne have visited Arad,Suzanne didn't visit Turda,Mark has visited Arad,Suzanne has visited Arad,0
+Shelly has traveled to Bucharest and Arad,Shelly didn't travel to Bucharest,Shelly has traveled to Bucharest,Shelly has traveled to Arad,1
+Raymond and Bertha have visited Hunedoara,Lindsay didn't visit Hunedoara,Raymond has visited Hunedoara,Bertha has visited Hunedoara,0
+Janet has traveled to Giurgiu and Oradea,Zachary didn't travel to Giurgiu,Janet has traveled to Giurgiu,Janet has traveled to Oradea,0
+Brian and Kurt went to Timisoara,Kurt didn't go to Deva,Brian went to Timisoara,Kurt went to Timisoara,0
+Willie and Fred have visited Lugoj,Jerry didn't visit Lugoj,Willie has visited Lugoj,Fred has visited Lugoj,0
+Gregory and Viola have traveled to Oradea,Gregory didn't travel to Tulcea,Gregory has traveled to Oradea,Viola has traveled to Oradea,0
+Opal and Hazel have traveled to Blaj,Beulah didn't travel to Blaj,Opal has traveled to Blaj,Hazel has traveled to Blaj,0
+Maurice has visited Turda and Hunedoara,Maurice didn't visit Lugoj,Maurice has visited Turda,Maurice has visited Hunedoara,0
+Antonio has traveled to Giurgiu and Timisoara,Christy didn't travel to Timisoara,Antonio has traveled to Giurgiu,Antonio has traveled to Timisoara,0
+Clifton went to Reghin and Hunedoara,Clifton didn't go to Giurgiu,Clifton went to Reghin,Clifton went to Hunedoara,0
+Thomas and Roger went to Oradea,Roger didn't go to Bucharest,Thomas went to Oradea,Roger went to Oradea,0
+Randy and Opal went to Blaj,Joy didn't go to Blaj,Randy went to Blaj,Opal went to Blaj,0
+Kay has traveled to Giurgiu and Craiova,Kay didn't travel to Giurgiu,Kay has traveled to Giurgiu,Kay has traveled to Craiova,1
+Juanita has traveled to Cluj-Napoca and Giurgiu,Bradley didn't travel to Cluj-Napoca,Juanita has traveled to Cluj-Napoca,Juanita has traveled to Giurgiu,0
+Amy has traveled to Tulcea and Oradea,Amy didn't travel to Oradea,Amy has traveled to Tulcea,Amy has traveled to Oradea,1
+Wilma has traveled to Reghin and Slobozia,Wilma didn't travel to Lugoj,Wilma has traveled to Reghin,Wilma has traveled to Slobozia,0
+Larry has traveled to Arad and Slobozia,Daryl didn't travel to Slobozia,Larry has traveled to Arad,Larry has traveled to Slobozia,0
+Jeanette has visited Mangalia and Dej,Chad didn't visit Mangalia,Jeanette has visited Mangalia,Jeanette has visited Dej,0
+Erika has traveled to Mangalia and Slobozia,Joseph didn't travel to Mangalia,Erika has traveled to Mangalia,Erika has traveled to Slobozia,0
+Eunice and Lance went to Turda,Lance didn't go to Turda,Eunice went to Turda,Lance went to Turda,1
+Myrtle and Henry went to Cluj-Napoca,Henry didn't go to Cluj-Napoca,Myrtle went to Cluj-Napoca,Henry went to Cluj-Napoca,1
+Tamara and Albert went to Cluj-Napoca,Tamara didn't go to Slatina,Tamara went to Cluj-Napoca,Albert went to Cluj-Napoca,0
+Sally and Lewis have visited Lugoj,Melissa didn't visit Lugoj,Sally has visited Lugoj,Lewis has visited Lugoj,0
+Katie has traveled to Oradea and Deva,Katie didn't travel to Deva,Katie has traveled to Oradea,Katie has traveled to Deva,1
+Raul has traveled to Timisoara and Tulcea,Raul didn't travel to Mangalia,Raul has traveled to Timisoara,Raul has traveled to Tulcea,0
+Jan and Jeffrey have traveled to Oradea,Jeffrey didn't travel to Oradea,Jan has traveled to Oradea,Jeffrey has traveled to Oradea,1
+Lance has traveled to Deva and Cluj-Napoca,Salvador didn't travel to Cluj-Napoca,Lance has traveled to Deva,Lance has traveled to Cluj-Napoca,0
+Patricia has visited Slobozia and Deva,Christina didn't visit Slobozia,Patricia has visited Slobozia,Patricia has visited Deva,0
+Danielle and Leslie have traveled to Cluj-Napoca,Misty didn't travel to Cluj-Napoca,Danielle has traveled to Cluj-Napoca,Leslie has traveled to Cluj-Napoca,0
+Rosa has visited Craiova and Deva,Ralph didn't visit Deva,Rosa has visited Craiova,Rosa has visited Deva,0
+Bradley and Jerry went to Bucharest,Jerry didn't go to Baia Mare,Bradley went to Bucharest,Jerry went to Bucharest,0
+Kristin and Keith have visited Baia Mare,Marian didn't visit Baia Mare,Kristin has visited Baia Mare,Keith has visited Baia Mare,0
+Yvette and Edna have traveled to Slobozia,Edna didn't travel to Slobozia,Yvette has traveled to Slobozia,Edna has traveled to Slobozia,1
+Jeanette went to Mangalia and Timisoara,Jeanette didn't go to Mangalia,Jeanette went to Mangalia,Jeanette went to Timisoara,1
+Joanne and Hugh have visited Timisoara,Hugh didn't visit Mangalia,Joanne has visited Timisoara,Hugh has visited Timisoara,0
+Ruben has visited Lugoj and Deva,Ruben didn't visit Deva,Ruben has visited Lugoj,Ruben has visited Deva,1
+Kimberly went to Hunedoara and Reghin,Kimberly didn't go to Hunedoara,Kimberly went to Hunedoara,Kimberly went to Reghin,1
+Arlene and Lula have traveled to Timisoara,Janie didn't travel to Timisoara,Arlene has traveled to Timisoara,Lula has traveled to Timisoara,0
+Angel has visited Craiova and Bucharest,Angel didn't visit Craiova,Angel has visited Craiova,Angel has visited Bucharest,1
+Norma has traveled to Timisoara and Oradea,Norma didn't travel to Timisoara,Norma has traveled to Timisoara,Norma has traveled to Oradea,1
+Erica and Kurt went to Cluj-Napoca,Kurt didn't go to Mangalia,Erica went to Cluj-Napoca,Kurt went to Cluj-Napoca,0
+Albert and Ramona went to Giurgiu,Timothy didn't go to Giurgiu,Albert went to Giurgiu,Ramona went to Giurgiu,0
+Mary and Gladys went to Bucharest,Gladys didn't go to Bucharest,Mary went to Bucharest,Gladys went to Bucharest,1
+Kent went to Giurgiu and Blaj,Kent didn't go to Giurgiu,Kent went to Giurgiu,Kent went to Blaj,1
+Micheal has traveled to Dej and Slatina,Micheal didn't travel to Dej,Micheal has traveled to Dej,Micheal has traveled to Slatina,1
+Julio has visited Slatina and Dej,Jason didn't visit Dej,Julio has visited Slatina,Julio has visited Dej,0
+James has visited Blaj and Oradea,Heidi didn't visit Oradea,James has visited Blaj,James has visited Oradea,0
+Edwin went to Timisoara and Lugoj,Roberto didn't go to Timisoara,Edwin went to Timisoara,Edwin went to Lugoj,0
+Anita has traveled to Dej and Slobozia,Anita didn't travel to Dej,Anita has traveled to Dej,Anita has traveled to Slobozia,1
+Walter went to Deva and Tulcea,Walter didn't go to Deva,Walter went to Deva,Walter went to Tulcea,1
+Becky and Jesse have visited Tulcea,Jesse didn't visit Tulcea,Becky has visited Tulcea,Jesse has visited Tulcea,1
+Francisco and Frank have visited Cluj-Napoca,Susie didn't visit Cluj-Napoca,Francisco has visited Cluj-Napoca,Frank has visited Cluj-Napoca,0
+Tim has traveled to Baia Mare and Giurgiu,Tim didn't travel to Vaslui,Tim has traveled to Baia Mare,Tim has traveled to Giurgiu,0
+Jessie and Kenneth went to Tulcea,Kenneth didn't go to Tulcea,Jessie went to Tulcea,Kenneth went to Tulcea,1
+Sean and Dean have traveled to Slatina,Dean didn't travel to Slatina,Sean has traveled to Slatina,Dean has traveled to Slatina,1
+Alvin has visited Cluj-Napoca and Oradea,Sue didn't visit Oradea,Alvin has visited Cluj-Napoca,Alvin has visited Oradea,0
+Elizabeth and Marion went to Deva,Marion didn't go to Tulcea,Elizabeth went to Deva,Marion went to Deva,0
+Mattie has traveled to Arad and Lugoj,Mattie didn't travel to Arad,Mattie has traveled to Arad,Mattie has traveled to Lugoj,1
+Bob and Kevin have traveled to Mangalia,Kevin didn't travel to Dej,Bob has traveled to Mangalia,Kevin has traveled to Mangalia,0
+Lois has visited Arad and Reghin,Lois didn't visit Arad,Lois has visited Arad,Lois has visited Reghin,1
+Rosemary has visited Baia Mare and Vaslui,Rosemary didn't visit Vaslui,Rosemary has visited Baia Mare,Rosemary has visited Vaslui,1
+Andrea and Claudia went to Timisoara,Kristine didn't go to Timisoara,Andrea went to Timisoara,Claudia went to Timisoara,0
+Fred and Gladys went to Vaslui,Fred didn't go to Vaslui,Fred went to Vaslui,Gladys went to Vaslui,1
+Kristen has traveled to Hunedoara and Bucharest,Kristen didn't travel to Hunedoara,Kristen has traveled to Hunedoara,Kristen has traveled to Bucharest,1
+Janet and Francisco have visited Hunedoara,Francisco didn't visit Timisoara,Janet has visited Hunedoara,Francisco has visited Hunedoara,0
+Martha has traveled to Turda and Cluj-Napoca,Seth didn't travel to Cluj-Napoca,Martha has traveled to Turda,Martha has traveled to Cluj-Napoca,0
+Theresa and Lucy have traveled to Tulcea,Lucy didn't travel to Tulcea,Theresa has traveled to Tulcea,Lucy has traveled to Tulcea,1
+Kevin and William have traveled to Hunedoara,William didn't travel to Hunedoara,Kevin has traveled to Hunedoara,William has traveled to Hunedoara,1
+Raymond and Rhonda went to Dej,Nellie didn't go to Dej,Raymond went to Dej,Rhonda went to Dej,0
+Iris went to Timisoara and Blaj,Iris didn't go to Craiova,Iris went to Timisoara,Iris went to Blaj,0
+Vernon and Darryl have traveled to Baia Mare,Darryl didn't travel to Giurgiu,Vernon has traveled to Baia Mare,Darryl has traveled to Baia Mare,0
+Darlene and Anna went to Vaslui,Anna didn't go to Slatina,Darlene went to Vaslui,Anna went to Vaslui,0
+Peggy has visited Arad and Lugoj,Blanche didn't visit Lugoj,Peggy has visited Arad,Peggy has visited Lugoj,0
+Brandy and Iris have traveled to Slobozia,Brandy didn't travel to Slobozia,Brandy has traveled to Slobozia,Iris has traveled to Slobozia,1
+Ruben went to Vaslui and Vaslui,Tina didn't go to Vaslui,Ruben went to Vaslui,Ruben went to Vaslui,0
+Kenneth and Carmen went to Bucharest,Carmen didn't go to Bucharest,Kenneth went to Bucharest,Carmen went to Bucharest,1
+Marc went to Lugoj and Dej,Marc didn't go to Lugoj,Marc went to Lugoj,Marc went to Dej,1
+Tina has traveled to Arad and Cluj-Napoca,Tina didn't travel to Arad,Tina has traveled to Arad,Tina has traveled to Cluj-Napoca,1
+Andre has visited Oradea and Slobozia,Andre didn't visit Slobozia,Andre has visited Oradea,Andre has visited Slobozia,1
+Vanessa and Ian have traveled to Cluj-Napoca,Ian didn't travel to Cluj-Napoca,Vanessa has traveled to Cluj-Napoca,Ian has traveled to Cluj-Napoca,1
+Laurie and Joel went to Bucharest,Joel didn't go to Bucharest,Laurie went to Bucharest,Joel went to Bucharest,1
+Derrick has traveled to Bucharest and Dej,Derrick didn't travel to Bucharest,Derrick has traveled to Bucharest,Derrick has traveled to Dej,1
+Glen and Lillie have visited Bucharest,Glen didn't visit Oradea,Glen has visited Bucharest,Lillie has visited Bucharest,0
+April and Patsy have traveled to Oradea,Patsy didn't travel to Oradea,April has traveled to Oradea,Patsy has traveled to Oradea,1
+Sarah has traveled to Oradea and Tulcea,Larry didn't travel to Tulcea,Sarah has traveled to Oradea,Sarah has traveled to Tulcea,0
+Lee has visited Dej and Bucharest,Lee didn't visit Craiova,Lee has visited Dej,Lee has visited Bucharest,0
+Kim has visited Blaj and Vaslui,Kim didn't visit Turda,Kim has visited Blaj,Kim has visited Vaslui,0
+Jose has traveled to Turda and Slobozia,Jose didn't travel to Bucharest,Jose has traveled to Turda,Jose has traveled to Slobozia,0
+Janie and Gina have traveled to Arad,Gina didn't travel to Dej,Janie has traveled to Arad,Gina has traveled to Arad,0
+Justin has visited Arad and Hunedoara,Lisa didn't visit Arad,Justin has visited Arad,Justin has visited Hunedoara,0
+Martin and Velma have visited Slobozia,Velma didn't visit Hunedoara,Martin has visited Slobozia,Velma has visited Slobozia,0
+Samantha has visited Giurgiu and Deva,Samantha didn't visit Craiova,Samantha has visited Giurgiu,Samantha has visited Deva,0
+Rosie has visited Deva and Mangalia,Rosie didn't visit Mangalia,Rosie has visited Deva,Rosie has visited Mangalia,1
+Vickie went to Slatina and Vaslui,Vickie didn't go to Vaslui,Vickie went to Slatina,Vickie went to Vaslui,1
+Donna went to Deva and Vaslui,Donna didn't go to Slatina,Donna went to Deva,Donna went to Vaslui,0
+Jason went to Slatina and Hunedoara,Ann didn't go to Slatina,Jason went to Slatina,Jason went to Hunedoara,0
+Samuel has traveled to Giurgiu and Timisoara,Samuel didn't travel to Timisoara,Samuel has traveled to Giurgiu,Samuel has traveled to Timisoara,1
+Agnes and Rose have visited Reghin,Rose didn't visit Dej,Agnes has visited Reghin,Rose has visited Reghin,0
+Gina went to Bucharest and Giurgiu,Gina didn't go to Tulcea,Gina went to Bucharest,Gina went to Giurgiu,0
+Gordon and Franklin went to Mangalia,Gordon didn't go to Mangalia,Gordon went to Mangalia,Franklin went to Mangalia,1
+Karen and Tamara went to Oradea,Tamara didn't go to Dej,Karen went to Oradea,Tamara went to Oradea,0
+Natasha and Howard have visited Turda,Natasha didn't visit Turda,Natasha has visited Turda,Howard has visited Turda,1
+Belinda and Jerome went to Baia Mare,Ken didn't go to Baia Mare,Belinda went to Baia Mare,Jerome went to Baia Mare,0
+Duane has visited Deva and Craiova,Duane didn't visit Craiova,Duane has visited Deva,Duane has visited Craiova,1
+Harriet and Alison have visited Cluj-Napoca,Alison didn't visit Cluj-Napoca,Harriet has visited Cluj-Napoca,Alison has visited Cluj-Napoca,1
+Deanna has visited Giurgiu and Slobozia,Deanna didn't visit Slobozia,Deanna has visited Giurgiu,Deanna has visited Slobozia,1
+Jared has traveled to Reghin and Blaj,Jared didn't travel to Blaj,Jared has traveled to Reghin,Jared has traveled to Blaj,1
+Tyrone and Pearl went to Arad,Pearl didn't go to Arad,Tyrone went to Arad,Pearl went to Arad,1
+Susan has visited Reghin and Blaj,Kayla didn't visit Reghin,Susan has visited Reghin,Susan has visited Blaj,0
+Joann and Gregory have visited Turda,Gregory didn't visit Turda,Joann has visited Turda,Gregory has visited Turda,1
+Melinda has traveled to Slatina and Dej,Rita didn't travel to Dej,Melinda has traveled to Slatina,Melinda has traveled to Dej,0
+Leslie and Gilbert have traveled to Bucharest,Gilbert didn't travel to Timisoara,Leslie has traveled to Bucharest,Gilbert has traveled to Bucharest,0
+Jessica has visited Lugoj and Oradea,Calvin didn't visit Oradea,Jessica has visited Lugoj,Jessica has visited Oradea,0
+Irene and Norman went to Bucharest,Norman didn't go to Bucharest,Irene went to Bucharest,Norman went to Bucharest,1
+Sally has traveled to Blaj and Bucharest,Steven didn't travel to Blaj,Sally has traveled to Blaj,Sally has traveled to Bucharest,0
+Neil has visited Lugoj and Baia Mare,Neil didn't visit Lugoj,Neil has visited Lugoj,Neil has visited Baia Mare,1
+Cory has traveled to Giurgiu and Hunedoara,Cory didn't travel to Giurgiu,Cory has traveled to Giurgiu,Cory has traveled to Hunedoara,1
+Beth and Jessie went to Timisoara,Sam didn't go to Timisoara,Beth went to Timisoara,Jessie went to Timisoara,0
+John and Dean went to Bucharest,Ada didn't go to Bucharest,John went to Bucharest,Dean went to Bucharest,0
+Lisa and Howard went to Bucharest,Howard didn't go to Bucharest,Lisa went to Bucharest,Howard went to Bucharest,1
+Francisco and Faye have visited Deva,Faye didn't visit Bucharest,Francisco has visited Deva,Faye has visited Deva,0
+Sandra and Jacob have visited Bucharest,Sandra didn't visit Bucharest,Sandra has visited Bucharest,Jacob has visited Bucharest,1
+Jean and Oscar have traveled to Giurgiu,Carl didn't travel to Giurgiu,Jean has traveled to Giurgiu,Oscar has traveled to Giurgiu,0
+Chris has traveled to Arad and Mangalia,Erika didn't travel to Mangalia,Chris has traveled to Arad,Chris has traveled to Mangalia,0
+Fannie and Ethel have traveled to Dej,Ethel didn't travel to Dej,Fannie has traveled to Dej,Ethel has traveled to Dej,1
+Timothy and Michelle went to Dej,Michelle didn't go to Dej,Timothy went to Dej,Michelle went to Dej,1
+Jorge and Harry have traveled to Mangalia,Jorge didn't travel to Mangalia,Jorge has traveled to Mangalia,Harry has traveled to Mangalia,1
+James went to Lugoj and Cluj-Napoca,Barry didn't go to Lugoj,James went to Lugoj,James went to Cluj-Napoca,0
+Madeline and April have visited Arad,Madeline didn't visit Slatina,Madeline has visited Arad,April has visited Arad,0
+Arlene went to Cluj-Napoca and Slobozia,Arlene didn't go to Cluj-Napoca,Arlene went to Cluj-Napoca,Arlene went to Slobozia,1
+Jose and Janie have visited Blaj,Amber didn't visit Blaj,Jose has visited Blaj,Janie has visited Blaj,0
+Jessie went to Timisoara and Giurgiu,Jaime didn't go to Timisoara,Jessie went to Timisoara,Jessie went to Giurgiu,0
+Kay went to Blaj and Mangalia,Kay didn't go to Mangalia,Kay went to Blaj,Kay went to Mangalia,1
+Lynda went to Blaj and Oradea,Lynda didn't go to Oradea,Lynda went to Blaj,Lynda went to Oradea,1
+Ken and Jan went to Bucharest,Ken didn't go to Bucharest,Ken went to Bucharest,Jan went to Bucharest,1
+Michael went to Slatina and Tulcea,Michael didn't go to Slatina,Michael went to Slatina,Michael went to Tulcea,1
+Anna went to Dej and Turda,Hector didn't go to Dej,Anna went to Dej,Anna went to Turda,0
+Lee has traveled to Lugoj and Tulcea,Lee didn't travel to Deva,Lee has traveled to Lugoj,Lee has traveled to Tulcea,0
+Keith went to Slobozia and Mangalia,Keith didn't go to Hunedoara,Keith went to Slobozia,Keith went to Mangalia,0
+Gordon and Kim have visited Timisoara,Gordon didn't visit Timisoara,Gordon has visited Timisoara,Kim has visited Timisoara,1
+Madeline has traveled to Slobozia and Vaslui,Madeline didn't travel to Bucharest,Madeline has traveled to Slobozia,Madeline has traveled to Vaslui,0
+Jennie has visited Deva and Giurgiu,Jennie didn't visit Giurgiu,Jennie has visited Deva,Jennie has visited Giurgiu,1
+Jose went to Bucharest and Mangalia,Jose didn't go to Vaslui,Jose went to Bucharest,Jose went to Mangalia,0
+Amanda and Brent have traveled to Slobozia,Amanda didn't travel to Reghin,Amanda has traveled to Slobozia,Brent has traveled to Slobozia,0
+Sabrina and Keith have traveled to Lugoj,Sabrina didn't travel to Lugoj,Sabrina has traveled to Lugoj,Keith has traveled to Lugoj,1
+Judy has visited Tulcea and Hunedoara,Allen didn't visit Hunedoara,Judy has visited Tulcea,Judy has visited Hunedoara,0
+Bradley and Lonnie went to Slobozia,Lonnie didn't go to Slobozia,Bradley went to Slobozia,Lonnie went to Slobozia,1
+Nathaniel has traveled to Deva and Hunedoara,Nathaniel didn't travel to Hunedoara,Nathaniel has traveled to Deva,Nathaniel has traveled to Hunedoara,1
+Armando and Luis went to Deva,Luis didn't go to Deva,Armando went to Deva,Luis went to Deva,1
+Christopher and Kyle went to Blaj,Christopher didn't go to Turda,Christopher went to Blaj,Kyle went to Blaj,0
+Kathy has traveled to Tulcea and Giurgiu,Kathy didn't travel to Tulcea,Kathy has traveled to Tulcea,Kathy has traveled to Giurgiu,1
+Andre and Monica went to Vaslui,Monica didn't go to Vaslui,Andre went to Vaslui,Monica went to Vaslui,1
+Victor and Clayton went to Deva,Clayton didn't go to Vaslui,Victor went to Deva,Clayton went to Deva,0
+Roberta and Leroy have traveled to Oradea,Crystal didn't travel to Oradea,Roberta has traveled to Oradea,Leroy has traveled to Oradea,0
+Mike and Ralph went to Deva,Ralph didn't go to Hunedoara,Mike went to Deva,Ralph went to Deva,0
+Ken went to Dej and Dej,Bobby didn't go to Dej,Ken went to Dej,Ken went to Dej,0
+Alice and Frank have visited Bucharest,Frank didn't visit Vaslui,Alice has visited Bucharest,Frank has visited Bucharest,0
+Emily went to Reghin and Bucharest,Emily didn't go to Slobozia,Emily went to Reghin,Emily went to Bucharest,0
+Velma and Stacey went to Craiova,Velma didn't go to Craiova,Velma went to Craiova,Stacey went to Craiova,1
+Melinda went to Cluj-Napoca and Slobozia,Melinda didn't go to Lugoj,Melinda went to Cluj-Napoca,Melinda went to Slobozia,0
+Juanita and Sonia have traveled to Vaslui,Shelly didn't travel to Vaslui,Juanita has traveled to Vaslui,Sonia has traveled to Vaslui,0
+William and Molly have traveled to Blaj,Molly didn't travel to Blaj,William has traveled to Blaj,Molly has traveled to Blaj,1
+Cindy and Joy went to Baia Mare,Joy didn't go to Baia Mare,Cindy went to Baia Mare,Joy went to Baia Mare,1
+Carolyn and Aaron have traveled to Craiova,Aaron didn't travel to Giurgiu,Carolyn has traveled to Craiova,Aaron has traveled to Craiova,0
+Emma and Kenneth have traveled to Mangalia,Emma didn't travel to Mangalia,Emma has traveled to Mangalia,Kenneth has traveled to Mangalia,1
+Don and Andrea have traveled to Oradea,Andrea didn't travel to Oradea,Don has traveled to Oradea,Andrea has traveled to Oradea,1
+Marion and Hattie went to Deva,Ana didn't go to Deva,Marion went to Deva,Hattie went to Deva,0
+Jeanne has traveled to Vaslui and Hunedoara,Jeanne didn't travel to Hunedoara,Jeanne has traveled to Vaslui,Jeanne has traveled to Hunedoara,1
+Claudia and Edward went to Timisoara,Claudia didn't go to Timisoara,Claudia went to Timisoara,Edward went to Timisoara,1
+Timothy went to Mangalia and Timisoara,Timothy didn't go to Mangalia,Timothy went to Mangalia,Timothy went to Timisoara,1
+Steve has visited Hunedoara and Cluj-Napoca,Steve didn't visit Cluj-Napoca,Steve has visited Hunedoara,Steve has visited Cluj-Napoca,1
+Colleen went to Oradea and Mangalia,Kristen didn't go to Oradea,Colleen went to Oradea,Colleen went to Mangalia,0
+Dennis has traveled to Craiova and Bucharest,Dennis didn't travel to Bucharest,Dennis has traveled to Craiova,Dennis has traveled to Bucharest,1
+Rita went to Arad and Baia Mare,Angel didn't go to Baia Mare,Rita went to Arad,Rita went to Baia Mare,0
+Lillie has visited Slatina and Vaslui,Lillie didn't visit Vaslui,Lillie has visited Slatina,Lillie has visited Vaslui,1
+Minnie and Jackie have traveled to Turda,Jackie didn't travel to Turda,Minnie has traveled to Turda,Jackie has traveled to Turda,1
+Leroy has visited Vaslui and Hunedoara,Leroy didn't visit Hunedoara,Leroy has visited Vaslui,Leroy has visited Hunedoara,1
+Mamie has visited Blaj and Bucharest,Mamie didn't visit Blaj,Mamie has visited Blaj,Mamie has visited Bucharest,1
+Duane went to Oradea and Lugoj,Helen didn't go to Lugoj,Duane went to Oradea,Duane went to Lugoj,0
+Edward went to Timisoara and Baia Mare,Edward didn't go to Blaj,Edward went to Timisoara,Edward went to Baia Mare,0
+Thelma and Jay went to Giurgiu,Thelma didn't go to Giurgiu,Thelma went to Giurgiu,Jay went to Giurgiu,1
+Fannie has traveled to Baia Mare and Lugoj,Fannie didn't travel to Lugoj,Fannie has traveled to Baia Mare,Fannie has traveled to Lugoj,1
+Billy and Darrell have traveled to Baia Mare,Billy didn't travel to Baia Mare,Billy has traveled to Baia Mare,Darrell has traveled to Baia Mare,1
+Alison and Cory have visited Timisoara,Cory didn't visit Deva,Alison has visited Timisoara,Cory has visited Timisoara,0
+Leah has visited Slobozia and Timisoara,Leah didn't visit Slobozia,Leah has visited Slobozia,Leah has visited Timisoara,1
+Rebecca and Bob have visited Reghin,Randall didn't visit Reghin,Rebecca has visited Reghin,Bob has visited Reghin,0
+Ruth and Dave went to Bucharest,Ruth didn't go to Arad,Ruth went to Bucharest,Dave went to Bucharest,0
+Andre and Jo have traveled to Lugoj,Jo didn't travel to Lugoj,Andre has traveled to Lugoj,Jo has traveled to Lugoj,1
+Mitchell has visited Bucharest and Dej,Mitchell didn't visit Slobozia,Mitchell has visited Bucharest,Mitchell has visited Dej,0
+Veronica and Iris have visited Lugoj,Jessie didn't visit Lugoj,Veronica has visited Lugoj,Iris has visited Lugoj,0
+Stephen went to Oradea and Baia Mare,Stephen didn't go to Giurgiu,Stephen went to Oradea,Stephen went to Baia Mare,0
+Clifford has traveled to Bucharest and Blaj,Sylvia didn't travel to Blaj,Clifford has traveled to Bucharest,Clifford has traveled to Blaj,0
+Marlene and Luz have traveled to Lugoj,Marlene didn't travel to Lugoj,Marlene has traveled to Lugoj,Luz has traveled to Lugoj,1
+Lonnie and Ben have visited Baia Mare,Dolores didn't visit Baia Mare,Lonnie has visited Baia Mare,Ben has visited Baia Mare,0
+Josephine and Allen have visited Mangalia,Allen didn't visit Lugoj,Josephine has visited Mangalia,Allen has visited Mangalia,0
+Alberto has traveled to Tulcea and Oradea,Alberto didn't travel to Tulcea,Alberto has traveled to Tulcea,Alberto has traveled to Oradea,1
+Luz has visited Slatina and Hunedoara,Francisco didn't visit Hunedoara,Luz has visited Slatina,Luz has visited Hunedoara,0
+Vivian and Brittany have visited Arad,Brittany didn't visit Arad,Vivian has visited Arad,Brittany has visited Arad,1
+Mark and Leo have traveled to Tulcea,Mark didn't travel to Tulcea,Mark has traveled to Tulcea,Leo has traveled to Tulcea,1
+Roland and Anne have traveled to Cluj-Napoca,Anne didn't travel to Blaj,Roland has traveled to Cluj-Napoca,Anne has traveled to Cluj-Napoca,0
+Marlene has visited Hunedoara and Blaj,Marlene didn't visit Cluj-Napoca,Marlene has visited Hunedoara,Marlene has visited Blaj,0
+Deborah and Mathew have visited Cluj-Napoca,Carmen didn't visit Cluj-Napoca,Deborah has visited Cluj-Napoca,Mathew has visited Cluj-Napoca,0
+Dora and Betty have traveled to Baia Mare,Jackie didn't travel to Baia Mare,Dora has traveled to Baia Mare,Betty has traveled to Baia Mare,0
+Barry went to Slobozia and Baia Mare,Patsy didn't go to Baia Mare,Barry went to Slobozia,Barry went to Baia Mare,0
+Todd has traveled to Dej and Cluj-Napoca,Jason didn't travel to Cluj-Napoca,Todd has traveled to Dej,Todd has traveled to Cluj-Napoca,0
+Bob and Gary went to Baia Mare,Gary didn't go to Baia Mare,Bob went to Baia Mare,Gary went to Baia Mare,1
+Eileen has visited Blaj and Oradea,Eileen didn't visit Tulcea,Eileen has visited Blaj,Eileen has visited Oradea,0
+Terry and Theresa have visited Hunedoara,Theresa didn't visit Hunedoara,Terry has visited Hunedoara,Theresa has visited Hunedoara,1
+Steve went to Giurgiu and Hunedoara,Steve didn't go to Giurgiu,Steve went to Giurgiu,Steve went to Hunedoara,1
+Jacqueline and Toni have traveled to Blaj,Melissa didn't travel to Blaj,Jacqueline has traveled to Blaj,Toni has traveled to Blaj,0
+Eddie and Annie went to Craiova,Eddie didn't go to Craiova,Eddie went to Craiova,Annie went to Craiova,1
+Sherry went to Lugoj and Blaj,Sherry didn't go to Blaj,Sherry went to Lugoj,Sherry went to Blaj,1
+Byron went to Reghin and Tulcea,Byron didn't go to Reghin,Byron went to Reghin,Byron went to Tulcea,1
+Carol and Joy went to Blaj,Carol didn't go to Deva,Carol went to Blaj,Joy went to Blaj,0
+Beulah and Timothy went to Cluj-Napoca,Beulah didn't go to Cluj-Napoca,Beulah went to Cluj-Napoca,Timothy went to Cluj-Napoca,1
+Alison went to Timisoara and Hunedoara,Judith didn't go to Hunedoara,Alison went to Timisoara,Alison went to Hunedoara,0
+Derrick and Charles have visited Oradea,Ramona didn't visit Oradea,Derrick has visited Oradea,Charles has visited Oradea,0
+Victor went to Blaj and Hunedoara,Victor didn't go to Blaj,Victor went to Blaj,Victor went to Hunedoara,1
+Nancy has visited Mangalia and Bucharest,Nancy didn't visit Bucharest,Nancy has visited Mangalia,Nancy has visited Bucharest,1
+Toni and Carl have traveled to Arad,Toni didn't travel to Arad,Toni has traveled to Arad,Carl has traveled to Arad,1
+Janie and Duane have traveled to Turda,Janie didn't travel to Blaj,Janie has traveled to Turda,Duane has traveled to Turda,0
+Cecilia and Penny have visited Slobozia,Penny didn't visit Slobozia,Cecilia has visited Slobozia,Penny has visited Slobozia,1
+Jerome and Dana have visited Arad,Marguerite didn't visit Arad,Jerome has visited Arad,Dana has visited Arad,0
+Aaron has traveled to Giurgiu and Tulcea,Aaron didn't travel to Tulcea,Aaron has traveled to Giurgiu,Aaron has traveled to Tulcea,1
+Micheal and Terrance went to Slobozia,Edward didn't go to Slobozia,Micheal went to Slobozia,Terrance went to Slobozia,0
+Joshua has visited Baia Mare and Deva,Joshua didn't visit Deva,Joshua has visited Baia Mare,Joshua has visited Deva,1
+Michelle and Ricky have traveled to Slobozia,Michelle didn't travel to Slobozia,Michelle has traveled to Slobozia,Ricky has traveled to Slobozia,1
+Justin has visited Deva and Craiova,Delores didn't visit Craiova,Justin has visited Deva,Justin has visited Craiova,0
+Elizabeth has visited Dej and Timisoara,Elizabeth didn't visit Arad,Elizabeth has visited Dej,Elizabeth has visited Timisoara,0
+Nathaniel and Nellie have traveled to Blaj,Nellie didn't travel to Slobozia,Nathaniel has traveled to Blaj,Nellie has traveled to Blaj,0
+Constance went to Blaj and Giurgiu,Jessica didn't go to Giurgiu,Constance went to Blaj,Constance went to Giurgiu,0
+Becky and Andre have traveled to Blaj,Becky didn't travel to Bucharest,Becky has traveled to Blaj,Andre has traveled to Blaj,0
+Jeffery and Yvonne have visited Blaj,Hugh didn't visit Blaj,Jeffery has visited Blaj,Yvonne has visited Blaj,0
+Marion and Everett went to Tulcea,Marion didn't go to Vaslui,Marion went to Tulcea,Everett went to Tulcea,0
+Gene and Helen have traveled to Hunedoara,Helen didn't travel to Hunedoara,Gene has traveled to Hunedoara,Helen has traveled to Hunedoara,0
+Jack and Jessie have visited Oradea,Jessie didn't visit Oradea,Jack has visited Oradea,Jessie has visited Oradea,1
+Dave and Mathew have visited Baia Mare,Theodore didn't visit Baia Mare,Dave has visited Baia Mare,Mathew has visited Baia Mare,0
+Lois and Darlene have traveled to Cluj-Napoca,Pedro didn't travel to Cluj-Napoca,Lois has traveled to Cluj-Napoca,Darlene has traveled to Cluj-Napoca,0
+Brenda has traveled to Deva and Vaslui,Ida didn't travel to Vaslui,Brenda has traveled to Deva,Brenda has traveled to Vaslui,0
+Darlene has visited Slobozia and Timisoara,Belinda didn't visit Timisoara,Darlene has visited Slobozia,Darlene has visited Timisoara,0
+Rose and Vickie went to Baia Mare,Vickie didn't go to Giurgiu,Rose went to Baia Mare,Vickie went to Baia Mare,0
+Arlene has visited Baia Mare and Timisoara,Scott didn't visit Baia Mare,Arlene has visited Baia Mare,Arlene has visited Timisoara,0
+Tonya has visited Slobozia and Mangalia,Tonya didn't visit Giurgiu,Tonya has visited Slobozia,Tonya has visited Mangalia,0
+Kim has traveled to Mangalia and Slobozia,Kim didn't travel to Slatina,Kim has traveled to Mangalia,Kim has traveled to Slobozia,0
+Bernard and Dustin went to Hunedoara,Bernard didn't go to Hunedoara,Bernard went to Hunedoara,Dustin went to Hunedoara,1
+Benjamin and April have visited Mangalia,April didn't visit Mangalia,Benjamin has visited Mangalia,April has visited Mangalia,1
+Kim has visited Giurgiu and Hunedoara,Lee didn't visit Hunedoara,Kim has visited Giurgiu,Kim has visited Hunedoara,0
+Donald and Miriam went to Bucharest,Miriam didn't go to Vaslui,Donald went to Bucharest,Miriam went to Bucharest,0
+Brad and Maureen have traveled to Slatina,Brad didn't travel to Slatina,Brad has traveled to Slatina,Maureen has traveled to Slatina,1
+Rodney went to Slobozia and Slatina,Rodney didn't go to Deva,Rodney went to Slobozia,Rodney went to Slatina,0
+Leona went to Tulcea and Slobozia,Leona didn't go to Baia Mare,Leona went to Tulcea,Leona went to Slobozia,0
+Kim went to Slatina and Slobozia,Kim didn't go to Tulcea,Kim went to Slatina,Kim went to Slobozia,0
+Carole has visited Bucharest and Lugoj,Carole didn't visit Lugoj,Carole has visited Bucharest,Carole has visited Lugoj,1
+Cody and Samantha have traveled to Mangalia,Cody didn't travel to Mangalia,Cody has traveled to Mangalia,Samantha has traveled to Mangalia,1
+Roberta and Carla went to Arad,Roberta didn't go to Arad,Roberta went to Arad,Carla went to Arad,1
+Debra and Leona have visited Cluj-Napoca,Leona didn't visit Cluj-Napoca,Debra has visited Cluj-Napoca,Leona has visited Cluj-Napoca,1
+Gary and Melissa went to Lugoj,Gary didn't go to Lugoj,Gary went to Lugoj,Melissa went to Lugoj,1
+Lorraine and Ana have visited Slobozia,Ana didn't visit Hunedoara,Lorraine has visited Slobozia,Ana has visited Slobozia,0
+Claire has visited Deva and Oradea,Claire didn't visit Oradea,Claire has visited Deva,Claire has visited Oradea,1
+Frances and Kirk have visited Hunedoara,Theresa didn't visit Hunedoara,Frances has visited Hunedoara,Kirk has visited Hunedoara,0
+Wade went to Dej and Mangalia,Wade didn't go to Mangalia,Wade went to Dej,Wade went to Mangalia,1
+Tara and Leonard went to Giurgiu,Leonard didn't go to Giurgiu,Tara went to Giurgiu,Leonard went to Giurgiu,1
+Ivan has visited Mangalia and Dej,Ivan didn't visit Hunedoara,Ivan has visited Mangalia,Ivan has visited Dej,0
+Antonio went to Slatina and Dej,Antonio didn't go to Bucharest,Antonio went to Slatina,Antonio went to Dej,0
+Melanie and Tommy have traveled to Timisoara,Melanie didn't travel to Timisoara,Melanie has traveled to Timisoara,Tommy has traveled to Timisoara,1
+Sonia has visited Cluj-Napoca and Slatina,Geneva didn't visit Slatina,Sonia has visited Cluj-Napoca,Sonia has visited Slatina,0
+Doris has visited Tulcea and Bucharest,Doris didn't visit Tulcea,Doris has visited Tulcea,Doris has visited Bucharest,1
+Harry went to Bucharest and Vaslui,Harry didn't go to Dej,Harry went to Bucharest,Harry went to Vaslui,0
+Maria went to Dej and Hunedoara,Maria didn't go to Dej,Maria went to Dej,Maria went to Hunedoara,1
+Leslie and Marcia have traveled to Lugoj,Marcia didn't travel to Oradea,Leslie has traveled to Lugoj,Marcia has traveled to Lugoj,0
+Warren and Maurice have visited Craiova,Maurice didn't visit Craiova,Warren has visited Craiova,Maurice has visited Craiova,1
+Yvonne has traveled to Giurgiu and Oradea,Yvonne didn't travel to Arad,Yvonne has traveled to Giurgiu,Yvonne has traveled to Oradea,0
+Brandy went to Hunedoara and Timisoara,Michele didn't go to Timisoara,Brandy went to Hunedoara,Brandy went to Timisoara,0
+Brad and Mitchell have visited Reghin,Jessie didn't visit Reghin,Brad has visited Reghin,Mitchell has visited Reghin,0
+Dwayne has traveled to Arad and Tulcea,Dwayne didn't travel to Arad,Dwayne has traveled to Arad,Dwayne has traveled to Tulcea,1
+Mitchell has traveled to Lugoj and Oradea,Mitchell didn't travel to Dej,Mitchell has traveled to Lugoj,Mitchell has traveled to Oradea,0
+Dianne and Jason went to Timisoara,Maxine didn't go to Timisoara,Dianne went to Timisoara,Jason went to Timisoara,0
+Elizabeth and Benjamin went to Hunedoara,Benjamin didn't go to Vaslui,Elizabeth went to Hunedoara,Benjamin went to Hunedoara,0
+Sandra has visited Giurgiu and Tulcea,Vivian didn't visit Tulcea,Sandra has visited Giurgiu,Sandra has visited Tulcea,0
+Melvin has visited Slobozia and Slatina,Melvin didn't visit Slobozia,Melvin has visited Slobozia,Melvin has visited Slatina,1
+Lori and Seth have traveled to Timisoara,Lori didn't travel to Dej,Lori has traveled to Timisoara,Seth has traveled to Timisoara,0
+Ron and Judy have visited Vaslui,Judy didn't visit Vaslui,Ron has visited Vaslui,Judy has visited Vaslui,1
+Daisy and Jacob have visited Craiova,Christina didn't visit Craiova,Daisy has visited Craiova,Jacob has visited Craiova,0
+Nancy and Aaron have traveled to Oradea,Nancy didn't travel to Oradea,Nancy has traveled to Oradea,Aaron has traveled to Oradea,1
+Maureen and Opal have traveled to Tulcea,Opal didn't travel to Tulcea,Maureen has traveled to Tulcea,Opal has traveled to Tulcea,1
+Victor went to Cluj-Napoca and Craiova,Victor didn't go to Craiova,Victor went to Cluj-Napoca,Victor went to Craiova,1
+Wade went to Giurgiu and Mangalia,Wade didn't go to Mangalia,Wade went to Giurgiu,Wade went to Mangalia,1
+Max has traveled to Slobozia and Bucharest,Max didn't travel to Mangalia,Max has traveled to Slobozia,Max has traveled to Bucharest,0
+Angela and Kelly went to Reghin,Angela didn't go to Reghin,Angela went to Reghin,Kelly went to Reghin,1
+Marion has visited Mangalia and Vaslui,Marion didn't visit Dej,Marion has visited Mangalia,Marion has visited Vaslui,0
+Jessie and Carole have traveled to Oradea,Jessie didn't travel to Oradea,Jessie has traveled to Oradea,Carole has traveled to Oradea,1
+Jean has visited Turda and Blaj,Kurt didn't visit Turda,Jean has visited Turda,Jean has visited Blaj,0
+Ida has traveled to Slatina and Dej,Ida didn't travel to Dej,Ida has traveled to Slatina,Ida has traveled to Dej,1
+Beatrice and Jaime went to Turda,Paula didn't go to Turda,Beatrice went to Turda,Jaime went to Turda,0
+Craig has traveled to Blaj and Arad,Craig didn't travel to Hunedoara,Craig has traveled to Blaj,Craig has traveled to Arad,0
+Rosie has visited Mangalia and Slobozia,Phillip didn't visit Mangalia,Rosie has visited Mangalia,Rosie has visited Slobozia,0
+Theresa and Valerie have visited Timisoara,Theresa didn't visit Timisoara,Theresa has visited Timisoara,Valerie has visited Timisoara,1
+Deanna has visited Bucharest and Giurgiu,Deanna didn't visit Giurgiu,Deanna has visited Bucharest,Deanna has visited Giurgiu,1
+Albert has visited Vaslui and Slatina,Albert didn't visit Oradea,Albert has visited Vaslui,Albert has visited Slatina,0
+Deborah went to Craiova and Vaslui,Deborah didn't go to Vaslui,Deborah went to Craiova,Deborah went to Vaslui,1
+Erin went to Turda and Craiova,Erin didn't go to Bucharest,Erin went to Turda,Erin went to Craiova,0
+Lisa and Lester have visited Slatina,Lester didn't visit Turda,Lisa has visited Slatina,Lester has visited Slatina,0
+Glenda and Mark have traveled to Timisoara,Kent didn't travel to Timisoara,Glenda has traveled to Timisoara,Mark has traveled to Timisoara,0
+Lois and Alison have traveled to Blaj,Lois didn't travel to Blaj,Lois has traveled to Blaj,Alison has traveled to Blaj,1
+Clifford has traveled to Cluj-Napoca and Blaj,Clifford didn't travel to Deva,Clifford has traveled to Cluj-Napoca,Clifford has traveled to Blaj,0
+Carl went to Craiova and Bucharest,Carl didn't go to Bucharest,Carl went to Craiova,Carl went to Bucharest,1
+Cory has visited Reghin and Slatina,Cory didn't visit Mangalia,Cory has visited Reghin,Cory has visited Slatina,0
+Maureen and Florence have traveled to Cluj-Napoca,Florence didn't travel to Hunedoara,Maureen has traveled to Cluj-Napoca,Florence has traveled to Cluj-Napoca,0
+Lucy and Edgar went to Cluj-Napoca,Lucy didn't go to Cluj-Napoca,Lucy went to Cluj-Napoca,Edgar went to Cluj-Napoca,1
+Juanita and Lee have visited Blaj,Juanita didn't visit Blaj,Juanita has visited Blaj,Lee has visited Blaj,1
+Kristen and Alex have visited Oradea,Josephine didn't visit Oradea,Kristen has visited Oradea,Alex has visited Oradea,0
+Ann and Douglas have visited Slatina,Ann didn't visit Slatina,Ann has visited Slatina,Douglas has visited Slatina,1
+Ida and Vivian have visited Timisoara,Ida didn't visit Timisoara,Ida has visited Timisoara,Vivian has visited Timisoara,1
+Earl and Samuel have visited Blaj,Earl didn't visit Vaslui,Earl has visited Blaj,Samuel has visited Blaj,0
+Ana and Julia went to Craiova,Julia didn't go to Craiova,Ana went to Craiova,Julia went to Craiova,1
+Kathy and Monique went to Craiova,Melvin didn't go to Craiova,Kathy went to Craiova,Monique went to Craiova,0
+Olga and Lillian went to Slatina,Lillian didn't go to Slatina,Olga went to Slatina,Lillian went to Slatina,1
+Eunice and Clarence have traveled to Baia Mare,Clarence didn't travel to Baia Mare,Eunice has traveled to Baia Mare,Clarence has traveled to Baia Mare,1
+Lawrence has traveled to Deva and Dej,Lawrence didn't travel to Dej,Lawrence has traveled to Deva,Lawrence has traveled to Dej,1
+Opal has traveled to Cluj-Napoca and Baia Mare,Opal didn't travel to Baia Mare,Opal has traveled to Cluj-Napoca,Opal has traveled to Baia Mare,1
+Gregory and Virginia have traveled to Timisoara,Jeff didn't travel to Timisoara,Gregory has traveled to Timisoara,Virginia has traveled to Timisoara,0
+Tanya went to Bucharest and Lugoj,Tanya didn't go to Turda,Tanya went to Bucharest,Tanya went to Lugoj,0
+Dwayne has visited Slobozia and Slatina,Lillian didn't visit Slatina,Dwayne has visited Slobozia,Dwayne has visited Slatina,0
+Travis went to Deva and Craiova,Travis didn't go to Deva,Travis went to Deva,Travis went to Craiova,1
+Vivian has traveled to Vaslui and Giurgiu,Vivian didn't travel to Vaslui,Vivian has traveled to Vaslui,Vivian has traveled to Giurgiu,1
+Melanie and Andre went to Deva,Andre didn't go to Slatina,Melanie went to Deva,Andre went to Deva,0
+Derrick and Pauline have visited Tulcea,Derrick didn't visit Tulcea,Derrick has visited Tulcea,Pauline has visited Tulcea,1
+Marcia went to Baia Mare and Timisoara,Marcia didn't go to Baia Mare,Marcia went to Baia Mare,Marcia went to Timisoara,1
+Darrell has visited Bucharest and Lugoj,Lynda didn't visit Bucharest,Darrell has visited Bucharest,Darrell has visited Lugoj,0
+Jaime and Reginald have traveled to Turda,Reginald didn't travel to Baia Mare,Jaime has traveled to Turda,Reginald has traveled to Turda,0
+George and Vanessa have traveled to Vaslui,Charlie didn't travel to Vaslui,George has traveled to Vaslui,Vanessa has traveled to Vaslui,0
+Nora and Edna have traveled to Mangalia,Nora didn't travel to Deva,Nora has traveled to Mangalia,Edna has traveled to Mangalia,0
+Heidi has visited Bucharest and Deva,Heidi didn't visit Bucharest,Heidi has visited Bucharest,Heidi has visited Deva,1
+Ann has visited Timisoara and Baia Mare,Ann didn't visit Baia Mare,Ann has visited Timisoara,Ann has visited Baia Mare,1
+Steve went to Lugoj and Slobozia,Sherry didn't go to Slobozia,Steve went to Lugoj,Steve went to Slobozia,0
+Margie has traveled to Oradea and Giurgiu,John didn't travel to Oradea,Margie has traveled to Oradea,Margie has traveled to Giurgiu,0
+Johnnie has visited Turda and Timisoara,Johnnie didn't visit Reghin,Johnnie has visited Turda,Johnnie has visited Timisoara,0
+Herman went to Giurgiu and Oradea,Herman didn't go to Oradea,Herman went to Giurgiu,Herman went to Oradea,1
+Naomi and Jamie went to Bucharest,Jamie didn't go to Bucharest,Naomi went to Bucharest,Jamie went to Bucharest,1
+Michelle has traveled to Turda and Tulcea,Michelle didn't travel to Vaslui,Michelle has traveled to Turda,Michelle has traveled to Tulcea,0
+Karen has traveled to Vaslui and Timisoara,Charlene didn't travel to Vaslui,Karen has traveled to Vaslui,Karen has traveled to Timisoara,0
+Jeanette went to Turda and Dej,Jeanette didn't go to Dej,Jeanette went to Turda,Jeanette went to Dej,1
+Terry went to Bucharest and Oradea,Bill didn't go to Oradea,Terry went to Bucharest,Terry went to Oradea,0
+Andy went to Deva and Arad,Roberta didn't go to Deva,Andy went to Deva,Andy went to Arad,0
+Jack and Roberto went to Slobozia,Molly didn't go to Slobozia,Jack went to Slobozia,Roberto went to Slobozia,0
+Harold and Isaac went to Bucharest,Harold didn't go to Bucharest,Harold went to Bucharest,Isaac went to Bucharest,1
+Carla went to Slatina and Lugoj,Carla didn't go to Slatina,Carla went to Slatina,Carla went to Lugoj,1
+Donna and Sonya have visited Dej,Donna didn't visit Craiova,Donna has visited Dej,Sonya has visited Dej,0
+Brian and Lindsay have visited Cluj-Napoca,Brian didn't visit Cluj-Napoca,Brian has visited Cluj-Napoca,Lindsay has visited Cluj-Napoca,1
+Jo has traveled to Oradea and Bucharest,Jo didn't travel to Oradea,Jo has traveled to Oradea,Jo has traveled to Bucharest,1
+Rachel has visited Giurgiu and Bucharest,Rachel didn't visit Bucharest,Rachel has visited Giurgiu,Rachel has visited Bucharest,1
+Kent has visited Giurgiu and Lugoj,Kent didn't visit Blaj,Kent has visited Giurgiu,Kent has visited Lugoj,0
+Marc and Donna have traveled to Giurgiu,Donna didn't travel to Giurgiu,Marc has traveled to Giurgiu,Donna has traveled to Giurgiu,1
+Travis has visited Slobozia and Dej,Travis didn't visit Giurgiu,Travis has visited Slobozia,Travis has visited Dej,0
+Anne and Mark have visited Lugoj,Mark didn't visit Lugoj,Anne has visited Lugoj,Mark has visited Lugoj,1
+Helen and Pearl have traveled to Oradea,Helen didn't travel to Slatina,Helen has traveled to Oradea,Pearl has traveled to Oradea,0
+Jodi and Denise have visited Lugoj,Jodi didn't visit Lugoj,Jodi has visited Lugoj,Denise has visited Lugoj,1
+Darryl went to Mangalia and Cluj-Napoca,Darryl didn't go to Mangalia,Darryl went to Mangalia,Darryl went to Cluj-Napoca,1
+Sylvia and Laurie went to Slatina,Michelle didn't go to Slatina,Sylvia went to Slatina,Laurie went to Slatina,0
+Sidney went to Reghin and Arad,Calvin didn't go to Reghin,Sidney went to Reghin,Sidney went to Arad,0
+Ryan has visited Mangalia and Arad,Ryan didn't visit Arad,Ryan has visited Mangalia,Ryan has visited Arad,1
+Julian and Edward have visited Tulcea,Travis didn't visit Tulcea,Julian has visited Tulcea,Edward has visited Tulcea,0
+Marion has visited Bucharest and Hunedoara,Marion didn't visit Dej,Marion has visited Bucharest,Marion has visited Hunedoara,0
+Kirk and Eleanor have visited Oradea,Gladys didn't visit Oradea,Kirk has visited Oradea,Eleanor has visited Oradea,0
+Vivian has visited Hunedoara and Oradea,Vivian didn't visit Oradea,Vivian has visited Hunedoara,Vivian has visited Oradea,1
+Sheila and Judy have traveled to Slobozia,Judy didn't travel to Oradea,Sheila has traveled to Slobozia,Judy has traveled to Slobozia,0
+Arthur and Roger have visited Reghin,Maryann didn't visit Reghin,Arthur has visited Reghin,Roger has visited Reghin,0
+Crystal has visited Slatina and Dej,Jerome didn't visit Dej,Crystal has visited Slatina,Crystal has visited Dej,0
+Marsha and Eleanor have visited Deva,Marsha didn't visit Hunedoara,Marsha has visited Deva,Eleanor has visited Deva,0
+Carla has traveled to Cluj-Napoca and Blaj,Holly didn't travel to Blaj,Carla has traveled to Cluj-Napoca,Carla has traveled to Blaj,0
+Javier and Tammy have traveled to Dej,Javier didn't travel to Dej,Javier has traveled to Dej,Tammy has traveled to Dej,1
+Lillie and Wanda went to Mangalia,Lillie didn't go to Mangalia,Lillie went to Mangalia,Wanda went to Mangalia,1
+Leah and Cassandra have visited Oradea,Leah didn't visit Oradea,Leah has visited Oradea,Cassandra has visited Oradea,1
+Eddie and Carla have visited Cluj-Napoca,Eddie didn't visit Turda,Eddie has visited Cluj-Napoca,Carla has visited Cluj-Napoca,0
+Eduardo and Jessica have visited Lugoj,Phyllis didn't visit Lugoj,Eduardo has visited Lugoj,Jessica has visited Lugoj,0
+Seth and Enrique have traveled to Giurgiu,Guadalupe didn't travel to Giurgiu,Seth has traveled to Giurgiu,Enrique has traveled to Giurgiu,0
+Monique has traveled to Timisoara and Vaslui,Monique didn't travel to Timisoara,Monique has traveled to Timisoara,Monique has traveled to Vaslui,1
+Lena went to Bucharest and Craiova,Catherine didn't go to Craiova,Lena went to Bucharest,Lena went to Craiova,0
+Ella has traveled to Baia Mare and Mangalia,Ella didn't travel to Baia Mare,Ella has traveled to Baia Mare,Ella has traveled to Mangalia,1
+Victoria and Jordan have visited Deva,Gertrude didn't visit Deva,Victoria has visited Deva,Jordan has visited Deva,0
+Alberto and Angel have traveled to Slobozia,Angel didn't travel to Slobozia,Alberto has traveled to Slobozia,Angel has traveled to Slobozia,1
+Nathaniel has traveled to Deva and Timisoara,Nathaniel didn't travel to Deva,Nathaniel has traveled to Deva,Nathaniel has traveled to Timisoara,1
+Brittany went to Hunedoara and Lugoj,Brittany didn't go to Lugoj,Brittany went to Hunedoara,Brittany went to Lugoj,1
+Jennie and Dora have visited Giurgiu,Dora didn't visit Giurgiu,Jennie has visited Giurgiu,Dora has visited Giurgiu,1
+Danielle and Dawn have traveled to Mangalia,Danielle didn't travel to Vaslui,Danielle has traveled to Mangalia,Dawn has traveled to Mangalia,0
+Patrick has traveled to Dej and Giurgiu,Danielle didn't travel to Giurgiu,Patrick has traveled to Dej,Patrick has traveled to Giurgiu,0
+Bobbie went to Slatina and Timisoara,Bobbie didn't go to Slatina,Bobbie went to Slatina,Bobbie went to Timisoara,1
+Juan and Leonard went to Giurgiu,Juan didn't go to Giurgiu,Juan went to Giurgiu,Leonard went to Giurgiu,1
+Sara has visited Bucharest and Slobozia,Milton didn't visit Bucharest,Sara has visited Bucharest,Sara has visited Slobozia,0
+Janet has visited Baia Mare and Timisoara,Janet didn't visit Timisoara,Janet has visited Baia Mare,Janet has visited Timisoara,1
+Jim and Rodney have visited Reghin,Jim didn't visit Arad,Jim has visited Reghin,Rodney has visited Reghin,0
+Jessie has visited Blaj and Reghin,Jeremy didn't visit Reghin,Jessie has visited Blaj,Jessie has visited Reghin,0
+Byron and Terri went to Bucharest,Terri didn't go to Reghin,Byron went to Bucharest,Terri went to Bucharest,0
+Dustin and Natasha have traveled to Oradea,Dustin didn't travel to Lugoj,Dustin has traveled to Oradea,Natasha has traveled to Oradea,0
+Monica went to Timisoara and Cluj-Napoca,Vernon didn't go to Cluj-Napoca,Monica went to Timisoara,Monica went to Cluj-Napoca,0
+Jeffrey and Laurie have visited Reghin,Joe didn't visit Reghin,Jeffrey has visited Reghin,Laurie has visited Reghin,0
+Brandi and Bobby went to Turda,Marsha didn't go to Turda,Brandi went to Turda,Bobby went to Turda,0
+Jared went to Giurgiu and Hunedoara,Howard didn't go to Giurgiu,Jared went to Giurgiu,Jared went to Hunedoara,0
+Melanie has traveled to Deva and Dej,Melanie didn't travel to Dej,Melanie has traveled to Deva,Melanie has traveled to Dej,1
+Jamie and Francis have traveled to Mangalia,Jamie didn't travel to Baia Mare,Jamie has traveled to Mangalia,Francis has traveled to Mangalia,0
+Ivan and Rosie went to Baia Mare,Ivan didn't go to Baia Mare,Ivan went to Baia Mare,Rosie went to Baia Mare,1
+Lisa and Adrian have traveled to Deva,Adrian didn't travel to Dej,Lisa has traveled to Deva,Adrian has traveled to Deva,0
+Byron and Darrell have traveled to Deva,Darrell didn't travel to Blaj,Byron has traveled to Deva,Darrell has traveled to Deva,0
+Derek has traveled to Reghin and Mangalia,Derek didn't travel to Reghin,Derek has traveled to Reghin,Derek has traveled to Mangalia,1
+Vincent has traveled to Bucharest and Arad,Vincent didn't travel to Hunedoara,Vincent has traveled to Bucharest,Vincent has traveled to Arad,0
+Georgia and Cecilia have traveled to Mangalia,Georgia didn't travel to Mangalia,Georgia has traveled to Mangalia,Cecilia has traveled to Mangalia,1
+Adrian has traveled to Baia Mare and Arad,Cecilia didn't travel to Baia Mare,Adrian has traveled to Baia Mare,Adrian has traveled to Arad,0
+Pamela and Nina went to Slatina,Pamela didn't go to Slatina,Pamela went to Slatina,Nina went to Slatina,1
+Yvonne has traveled to Vaslui and Reghin,Yvonne didn't travel to Blaj,Yvonne has traveled to Vaslui,Yvonne has traveled to Reghin,0
+Sonya and Tara have traveled to Giurgiu,Sonya didn't travel to Timisoara,Sonya has traveled to Giurgiu,Tara has traveled to Giurgiu,0
+Allan and Johnnie went to Bucharest,Johnnie didn't go to Bucharest,Allan went to Bucharest,Johnnie went to Bucharest,1
+Christopher and Claude have visited Reghin,Christopher didn't visit Reghin,Christopher has visited Reghin,Claude has visited Reghin,1
+Blanche and Iris went to Giurgiu,Blanche didn't go to Giurgiu,Blanche went to Giurgiu,Iris went to Giurgiu,1
+Marie and Kent went to Turda,Kent didn't go to Turda,Marie went to Turda,Kent went to Turda,1
+Pauline and Kelly have visited Reghin,Pauline didn't visit Reghin,Pauline has visited Reghin,Kelly has visited Reghin,1
+Veronica and Jared went to Bucharest,Geneva didn't go to Bucharest,Veronica went to Bucharest,Jared went to Bucharest,0
+Jose has visited Slobozia and Bucharest,Jose didn't visit Bucharest,Jose has visited Slobozia,Jose has visited Bucharest,1
+Adam has traveled to Dej and Mangalia,Adam didn't travel to Mangalia,Adam has traveled to Dej,Adam has traveled to Mangalia,1
+Andy has traveled to Reghin and Giurgiu,Andy didn't travel to Reghin,Andy has traveled to Reghin,Andy has traveled to Giurgiu,1
+Ashley and Marcus have traveled to Baia Mare,Ashley didn't travel to Baia Mare,Ashley has traveled to Baia Mare,Marcus has traveled to Baia Mare,1
+Cody and Don have visited Bucharest,Don didn't visit Tulcea,Cody has visited Bucharest,Don has visited Bucharest,0
+Marjorie and Verna have traveled to Dej,Verna didn't travel to Dej,Marjorie has traveled to Dej,Verna has traveled to Dej,1
+Edith has visited Timisoara and Reghin,Edith didn't visit Timisoara,Edith has visited Timisoara,Edith has visited Reghin,1
+Lloyd and Willie have visited Reghin,Lloyd didn't visit Reghin,Lloyd has visited Reghin,Willie has visited Reghin,1
+Tom went to Cluj-Napoca and Bucharest,Tom didn't go to Bucharest,Tom went to Cluj-Napoca,Tom went to Bucharest,1
+Russell has visited Bucharest and Dej,Russell didn't visit Bucharest,Russell has visited Bucharest,Russell has visited Dej,1
+Frederick and Michelle have visited Turda,Vernon didn't visit Turda,Frederick has visited Turda,Michelle has visited Turda,0
+Elsie and Kim have visited Slatina,Gail didn't visit Slatina,Elsie has visited Slatina,Kim has visited Slatina,0
+Franklin went to Vaslui and Tulcea,Franklin didn't go to Vaslui,Franklin went to Vaslui,Franklin went to Tulcea,1
+Johnnie and Hilda have traveled to Baia Mare,Hilda didn't travel to Slobozia,Johnnie has traveled to Baia Mare,Hilda has traveled to Baia Mare,0
+Claude and Dorothy have visited Timisoara,Dorothy didn't visit Tulcea,Claude has visited Timisoara,Dorothy has visited Timisoara,0
+Irma and Diane have visited Blaj,Irma didn't visit Blaj,Irma has visited Blaj,Diane has visited Blaj,1
+Jimmie has traveled to Dej and Deva,Jimmie didn't travel to Arad,Jimmie has traveled to Dej,Jimmie has traveled to Deva,0
+Eunice and Anne have visited Dej,Anne didn't visit Dej,Eunice has visited Dej,Anne has visited Dej,1
+Jose went to Turda and Baia Mare,Betty didn't go to Turda,Jose went to Turda,Jose went to Baia Mare,0
+Sue and Sonia have visited Tulcea,Sue didn't visit Tulcea,Sue has visited Tulcea,Sonia has visited Tulcea,1
+Russell has visited Slatina and Bucharest,Thelma didn't visit Bucharest,Russell has visited Slatina,Russell has visited Bucharest,0
+Fred and Margarita went to Craiova,Maryann didn't go to Craiova,Fred went to Craiova,Margarita went to Craiova,0
+Martha and Bradley have traveled to Dej,Martha didn't travel to Dej,Martha has traveled to Dej,Bradley has traveled to Dej,1
+Rita has visited Timisoara and Bucharest,Rita didn't visit Bucharest,Rita has visited Timisoara,Rita has visited Bucharest,1
+Cecil has traveled to Slatina and Turda,Cecil didn't travel to Turda,Cecil has traveled to Slatina,Cecil has traveled to Turda,1
+Lloyd and Kayla went to Deva,Lloyd didn't go to Bucharest,Lloyd went to Deva,Kayla went to Deva,0
+Kristen and Lucille went to Cluj-Napoca,Lawrence didn't go to Cluj-Napoca,Kristen went to Cluj-Napoca,Lucille went to Cluj-Napoca,0
+Pauline and Jesse went to Turda,Pauline didn't go to Lugoj,Pauline went to Turda,Jesse went to Turda,0
+Jack and Hector have traveled to Baia Mare,Jane didn't travel to Baia Mare,Jack has traveled to Baia Mare,Hector has traveled to Baia Mare,0
+Georgia has visited Deva and Baia Mare,Georgia didn't visit Timisoara,Georgia has visited Deva,Georgia has visited Baia Mare,0
+Tiffany and Pamela went to Oradea,Tiffany didn't go to Oradea,Tiffany went to Oradea,Pamela went to Oradea,1
+Nina and Greg have traveled to Deva,Nina didn't travel to Turda,Nina has traveled to Deva,Greg has traveled to Deva,0
+Martha has traveled to Lugoj and Turda,Martha didn't travel to Turda,Martha has traveled to Lugoj,Martha has traveled to Turda,1
+Bernard went to Lugoj and Bucharest,Bobbie didn't go to Lugoj,Bernard went to Lugoj,Bernard went to Bucharest,0
+Samuel has traveled to Giurgiu and Turda,Katrina didn't travel to Giurgiu,Samuel has traveled to Giurgiu,Samuel has traveled to Turda,0
+Audrey has traveled to Turda and Tulcea,Audrey didn't travel to Tulcea,Audrey has traveled to Turda,Audrey has traveled to Tulcea,1
+Armando and Hattie went to Craiova,Armando didn't go to Bucharest,Armando went to Craiova,Hattie went to Craiova,0
+Eileen and Marion have visited Cluj-Napoca,Eileen didn't visit Cluj-Napoca,Eileen has visited Cluj-Napoca,Marion has visited Cluj-Napoca,1
+Brent and Marvin have visited Slobozia,Marvin didn't visit Deva,Brent has visited Slobozia,Marvin has visited Slobozia,0
+Brett has traveled to Cluj-Napoca and Slobozia,Brett didn't travel to Cluj-Napoca,Brett has traveled to Cluj-Napoca,Brett has traveled to Slobozia,1
+Peter went to Baia Mare and Craiova,Wesley didn't go to Craiova,Peter went to Baia Mare,Peter went to Craiova,0
+Cecilia and Dave went to Cluj-Napoca,Cecilia didn't go to Bucharest,Cecilia went to Cluj-Napoca,Dave went to Cluj-Napoca,0
+Patrick and Teresa have visited Lugoj,Terry didn't visit Lugoj,Patrick has visited Lugoj,Teresa has visited Lugoj,0
+Lydia has traveled to Craiova and Deva,Lydia didn't travel to Bucharest,Lydia has traveled to Craiova,Lydia has traveled to Deva,0
+Glenda and Misty went to Blaj,Misty didn't go to Blaj,Glenda went to Blaj,Misty went to Blaj,1
+Lorraine and Beatrice have traveled to Cluj-Napoca,Beatrice didn't travel to Cluj-Napoca,Lorraine has traveled to Cluj-Napoca,Beatrice has traveled to Cluj-Napoca,1
+Cecilia and Erika have traveled to Craiova,Roger didn't travel to Craiova,Cecilia has traveled to Craiova,Erika has traveled to Craiova,0
+Jacob and Rita went to Bucharest,Rita didn't go to Bucharest,Jacob went to Bucharest,Rita went to Bucharest,1
+Fernando has traveled to Oradea and Tulcea,Fernando didn't travel to Oradea,Fernando has traveled to Oradea,Fernando has traveled to Tulcea,1
+Daniel and Kristina have visited Slatina,Kristina didn't visit Timisoara,Daniel has visited Slatina,Kristina has visited Slatina,0
+Anna and Marjorie have traveled to Arad,Anna didn't travel to Deva,Anna has traveled to Arad,Marjorie has traveled to Arad,0
+Gladys and Joshua went to Hunedoara,Joshua didn't go to Hunedoara,Gladys went to Hunedoara,Joshua went to Hunedoara,1
+Theresa went to Dej and Hunedoara,Theresa didn't go to Blaj,Theresa went to Dej,Theresa went to Hunedoara,0
+Madeline and Paul have traveled to Slobozia,Madeline didn't travel to Slobozia,Madeline has traveled to Slobozia,Paul has traveled to Slobozia,1
+Amanda went to Tulcea and Deva,Amanda didn't go to Deva,Amanda went to Tulcea,Amanda went to Deva,1
+Cynthia and Andy have visited Craiova,Andy didn't visit Tulcea,Cynthia has visited Craiova,Andy has visited Craiova,0
+Bessie has visited Giurgiu and Vaslui,Ross didn't visit Giurgiu,Bessie has visited Giurgiu,Bessie has visited Vaslui,0
+Patsy went to Lugoj and Bucharest,Patsy didn't go to Bucharest,Patsy went to Lugoj,Patsy went to Bucharest,1
+Lee went to Timisoara and Slatina,Lee didn't go to Timisoara,Lee went to Timisoara,Lee went to Slatina,1
+Nellie and Lucy have visited Giurgiu,Nellie didn't visit Giurgiu,Nellie has visited Giurgiu,Lucy has visited Giurgiu,1
+Glenn and Lance went to Slobozia,Lance didn't go to Slobozia,Glenn went to Slobozia,Lance went to Slobozia,1
+Audrey and Marshall went to Lugoj,Audrey didn't go to Lugoj,Audrey went to Lugoj,Marshall went to Lugoj,1
+Jamie went to Tulcea and Reghin,Jamie didn't go to Tulcea,Jamie went to Tulcea,Jamie went to Reghin,1
+Salvador went to Tulcea and Slatina,Billy didn't go to Slatina,Salvador went to Tulcea,Salvador went to Slatina,0
+Steven went to Reghin and Bucharest,Steven didn't go to Reghin,Steven went to Reghin,Steven went to Bucharest,1
+Pauline and Diane have visited Bucharest,Diane didn't visit Craiova,Pauline has visited Bucharest,Diane has visited Bucharest,0
+Clayton and Cora have traveled to Timisoara,Clayton didn't travel to Timisoara,Clayton has traveled to Timisoara,Cora has traveled to Timisoara,1
+Annie has visited Deva and Blaj,Annie didn't visit Blaj,Annie has visited Deva,Annie has visited Blaj,1
+Florence and Tanya have visited Tulcea,Florence didn't visit Hunedoara,Florence has visited Tulcea,Tanya has visited Tulcea,0
+Tamara has traveled to Bucharest and Lugoj,Tamara didn't travel to Lugoj,Tamara has traveled to Bucharest,Tamara has traveled to Lugoj,1
+Zachary and Harold went to Baia Mare,Zachary didn't go to Baia Mare,Zachary went to Baia Mare,Harold went to Baia Mare,1
+Danny has visited Timisoara and Giurgiu,Danny didn't visit Giurgiu,Danny has visited Timisoara,Danny has visited Giurgiu,1
+Brandy went to Vaslui and Hunedoara,Brandy didn't go to Giurgiu,Brandy went to Vaslui,Brandy went to Hunedoara,0
+Caroline and Shawn have visited Vaslui,Shawn didn't visit Vaslui,Caroline has visited Vaslui,Shawn has visited Vaslui,1
+Laurie and Alfredo have traveled to Hunedoara,Alfredo didn't travel to Hunedoara,Laurie has traveled to Hunedoara,Alfredo has traveled to Hunedoara,1
+Harold and Lillian went to Deva,Lillian didn't go to Deva,Harold went to Deva,Lillian went to Deva,1
+Vicki has visited Deva and Timisoara,Vicki didn't visit Vaslui,Vicki has visited Deva,Vicki has visited Timisoara,0
+Leo has traveled to Reghin and Slobozia,Brandi didn't travel to Reghin,Leo has traveled to Reghin,Leo has traveled to Slobozia,0
+Anita went to Bucharest and Tulcea,Anita didn't go to Bucharest,Anita went to Bucharest,Anita went to Tulcea,1
+Allison has visited Vaslui and Timisoara,Allison didn't visit Vaslui,Allison has visited Vaslui,Allison has visited Timisoara,1
+Derrick has visited Mangalia and Giurgiu,Derrick didn't visit Slobozia,Derrick has visited Mangalia,Derrick has visited Giurgiu,0
+Heidi has traveled to Reghin and Cluj-Napoca,Heidi didn't travel to Reghin,Heidi has traveled to Reghin,Heidi has traveled to Cluj-Napoca,1
+Kristine and Lynda have visited Reghin,Clayton didn't visit Reghin,Kristine has visited Reghin,Lynda has visited Reghin,0
+Eddie and Brent have traveled to Vaslui,Lee didn't travel to Vaslui,Eddie has traveled to Vaslui,Brent has traveled to Vaslui,0
+Willie went to Timisoara and Arad,Lawrence didn't go to Timisoara,Willie went to Timisoara,Willie went to Arad,0
+Dwayne went to Vaslui and Bucharest,Lydia didn't go to Bucharest,Dwayne went to Vaslui,Dwayne went to Bucharest,0
+Emily went to Blaj and Turda,Emily didn't go to Mangalia,Emily went to Blaj,Emily went to Turda,0
+Lonnie went to Bucharest and Arad,Terry didn't go to Bucharest,Lonnie went to Bucharest,Lonnie went to Arad,0
+Alma has traveled to Dej and Bucharest,Alma didn't travel to Blaj,Alma has traveled to Dej,Alma has traveled to Bucharest,0
+Milton and Fannie have traveled to Baia Mare,Mark didn't travel to Baia Mare,Milton has traveled to Baia Mare,Fannie has traveled to Baia Mare,0
+Kenneth and Sonya went to Reghin,Sonya didn't go to Reghin,Kenneth went to Reghin,Sonya went to Reghin,1
+Monica and Jamie have visited Vaslui,Darren didn't visit Vaslui,Monica has visited Vaslui,Jamie has visited Vaslui,0
+Fred has traveled to Oradea and Bucharest,Fred didn't travel to Slatina,Fred has traveled to Oradea,Fred has traveled to Bucharest,0
+Angela has traveled to Timisoara and Slatina,Angela didn't travel to Bucharest,Angela has traveled to Timisoara,Angela has traveled to Slatina,0
+Lee and Claudia have traveled to Blaj,Lee didn't travel to Craiova,Lee has traveled to Blaj,Claudia has traveled to Blaj,0
+Raul went to Giurgiu and Tulcea,Raul didn't go to Reghin,Raul went to Giurgiu,Raul went to Tulcea,0
+Melody has visited Reghin and Arad,Melody didn't visit Reghin,Melody has visited Reghin,Melody has visited Arad,1
+Bessie and Christine went to Bucharest,Bessie didn't go to Bucharest,Bessie went to Bucharest,Christine went to Bucharest,1
+Tonya went to Oradea and Cluj-Napoca,Tonya didn't go to Cluj-Napoca,Tonya went to Oradea,Tonya went to Cluj-Napoca,1
+Katie has visited Slatina and Reghin,Eric didn't visit Slatina,Katie has visited Slatina,Katie has visited Reghin,0
+Sally went to Bucharest and Mangalia,Roy didn't go to Bucharest,Sally went to Bucharest,Sally went to Mangalia,0
+Jack has visited Dej and Blaj,Jack didn't visit Blaj,Jack has visited Dej,Jack has visited Blaj,1
+Jessie went to Craiova and Deva,Jessie didn't go to Deva,Jessie went to Craiova,Jessie went to Deva,1
+Leonard and Brandon have traveled to Timisoara,Leonard didn't travel to Cluj-Napoca,Leonard has traveled to Timisoara,Brandon has traveled to Timisoara,0
+Megan and Andrea went to Hunedoara,Megan didn't go to Blaj,Megan went to Hunedoara,Andrea went to Hunedoara,0
+Brenda has traveled to Cluj-Napoca and Craiova,Brenda didn't travel to Craiova,Brenda has traveled to Cluj-Napoca,Brenda has traveled to Craiova,1
+Connie has visited Craiova and Bucharest,Connie didn't visit Slobozia,Connie has visited Craiova,Connie has visited Bucharest,0
+Amelia went to Timisoara and Turda,Amelia didn't go to Turda,Amelia went to Timisoara,Amelia went to Turda,1
+Belinda went to Turda and Baia Mare,Judy didn't go to Baia Mare,Belinda went to Turda,Belinda went to Baia Mare,0
+Pearl has visited Tulcea and Bucharest,Pearl didn't visit Tulcea,Pearl has visited Tulcea,Pearl has visited Bucharest,1
+Julian has visited Reghin and Vaslui,Julian didn't visit Reghin,Julian has visited Reghin,Julian has visited Vaslui,1
+Darlene and Todd have traveled to Bucharest,Darlene didn't travel to Bucharest,Darlene has traveled to Bucharest,Todd has traveled to Bucharest,1
+Willie and Ellen have visited Hunedoara,Joann didn't visit Hunedoara,Willie has visited Hunedoara,Ellen has visited Hunedoara,0
+Joan and Miriam went to Dej,Joan didn't go to Dej,Joan went to Dej,Miriam went to Dej,1
+Elizabeth and Troy have traveled to Blaj,Randall didn't travel to Blaj,Elizabeth has traveled to Blaj,Troy has traveled to Blaj,0
+Bonnie and Erik have traveled to Tulcea,Erik didn't travel to Tulcea,Bonnie has traveled to Tulcea,Erik has traveled to Tulcea,1
+Phyllis and Tanya have visited Giurgiu,Marlene didn't visit Giurgiu,Phyllis has visited Giurgiu,Tanya has visited Giurgiu,0
+Margie and Jeffery have traveled to Bucharest,Jeffery didn't travel to Bucharest,Margie has traveled to Bucharest,Jeffery has traveled to Bucharest,1
+Emily went to Turda and Blaj,Emily didn't go to Turda,Emily went to Turda,Emily went to Blaj,1
+Cecilia and Annie have visited Deva,Misty didn't visit Deva,Cecilia has visited Deva,Annie has visited Deva,0
+Donald and Neil have traveled to Lugoj,Neil didn't travel to Lugoj,Donald has traveled to Lugoj,Neil has traveled to Lugoj,1
+Lois has visited Bucharest and Dej,Lois didn't visit Dej,Lois has visited Bucharest,Lois has visited Dej,1
+Jan and Ramon have traveled to Slobozia,Jan didn't travel to Baia Mare,Jan has traveled to Slobozia,Ramon has traveled to Slobozia,0
+Eunice went to Lugoj and Arad,Eunice didn't go to Slobozia,Eunice went to Lugoj,Eunice went to Arad,0
+Yvette and Bruce have traveled to Arad,Bruce didn't travel to Craiova,Yvette has traveled to Arad,Bruce has traveled to Arad,0
+Shane went to Tulcea and Giurgiu,Shane didn't go to Giurgiu,Shane went to Tulcea,Shane went to Giurgiu,1
+Julian has traveled to Mangalia and Lugoj,Julian didn't travel to Lugoj,Julian has traveled to Mangalia,Julian has traveled to Lugoj,1
+Thomas has traveled to Bucharest and Vaslui,Thomas didn't travel to Vaslui,Thomas has traveled to Bucharest,Thomas has traveled to Vaslui,1
+Wade went to Turda and Vaslui,Wade didn't go to Tulcea,Wade went to Turda,Wade went to Vaslui,0
+Jon went to Giurgiu and Mangalia,Jon didn't go to Giurgiu,Jon went to Giurgiu,Jon went to Mangalia,1
+Javier and Donald have visited Craiova,Donald didn't visit Blaj,Javier has visited Craiova,Donald has visited Craiova,0
+Joshua and Vickie have traveled to Bucharest,Vickie didn't travel to Bucharest,Joshua has traveled to Bucharest,Vickie has traveled to Bucharest,1
+Clifton and Alma went to Mangalia,Iris didn't go to Mangalia,Clifton went to Mangalia,Alma went to Mangalia,0
+Charlie went to Lugoj and Bucharest,Charlie didn't go to Dej,Charlie went to Lugoj,Charlie went to Bucharest,0
+Glenn has traveled to Timisoara and Slobozia,Michael didn't travel to Slobozia,Glenn has traveled to Timisoara,Glenn has traveled to Slobozia,0
+Milton and Alberta went to Timisoara,Milton didn't go to Timisoara,Milton went to Timisoara,Alberta went to Timisoara,1
+Jenny and Thomas have traveled to Lugoj,Barry didn't travel to Lugoj,Jenny has traveled to Lugoj,Thomas has traveled to Lugoj,0
+Antoinette and Patrick went to Slobozia,Ruth didn't go to Slobozia,Antoinette went to Slobozia,Patrick went to Slobozia,0
+Tracey has visited Baia Mare and Vaslui,Tracey didn't visit Craiova,Tracey has visited Baia Mare,Tracey has visited Vaslui,0
+Sean has traveled to Vaslui and Cluj-Napoca,Sean didn't travel to Giurgiu,Sean has traveled to Vaslui,Sean has traveled to Cluj-Napoca,0
+Terrance has visited Baia Mare and Reghin,Terrance didn't visit Timisoara,Terrance has visited Baia Mare,Terrance has visited Reghin,0
+Inez has traveled to Mangalia and Deva,Inez didn't travel to Cluj-Napoca,Inez has traveled to Mangalia,Inez has traveled to Deva,0
+Nicholas and Jackie have visited Blaj,Blanche didn't visit Blaj,Nicholas has visited Blaj,Jackie has visited Blaj,0
+Nancy has traveled to Vaslui and Turda,Nancy didn't travel to Turda,Nancy has traveled to Vaslui,Nancy has traveled to Turda,1
+Candice and Clifton have traveled to Slobozia,Clifton didn't travel to Cluj-Napoca,Candice has traveled to Slobozia,Clifton has traveled to Slobozia,0
+Kristina and Bobbie have traveled to Deva,Jay didn't travel to Deva,Kristina has traveled to Deva,Bobbie has traveled to Deva,0
+Norman has traveled to Deva and Turda,Norman didn't travel to Deva,Norman has traveled to Deva,Norman has traveled to Turda,1
+Bill has traveled to Timisoara and Reghin,Bill didn't travel to Reghin,Bill has traveled to Timisoara,Bill has traveled to Reghin,1
+Reginald went to Bucharest and Dej,Reginald didn't go to Dej,Reginald went to Bucharest,Reginald went to Dej,1
+Jodi and Miriam have traveled to Vaslui,Michelle didn't travel to Vaslui,Jodi has traveled to Vaslui,Miriam has traveled to Vaslui,0
+Luis has visited Vaslui and Slatina,Luis didn't visit Slatina,Luis has visited Vaslui,Luis has visited Slatina,1
+Marion has traveled to Turda and Mangalia,Marion didn't travel to Turda,Marion has traveled to Turda,Marion has traveled to Mangalia,1
+Jacob and Alicia went to Oradea,Alicia didn't go to Dej,Jacob went to Oradea,Alicia went to Oradea,0
+Dennis went to Reghin and Vaslui,Dennis didn't go to Vaslui,Dennis went to Reghin,Dennis went to Vaslui,1
+Stephen has traveled to Blaj and Bucharest,Gregory didn't travel to Bucharest,Stephen has traveled to Blaj,Stephen has traveled to Bucharest,0
+Jan went to Hunedoara and Oradea,Angie didn't go to Hunedoara,Jan went to Hunedoara,Jan went to Oradea,0
+Sandy went to Bucharest and Craiova,Sandy didn't go to Craiova,Sandy went to Bucharest,Sandy went to Craiova,1
+Clarence has traveled to Timisoara and Craiova,Clarence didn't travel to Timisoara,Clarence has traveled to Timisoara,Clarence has traveled to Craiova,1
+Nelson and Perry have traveled to Craiova,Juana didn't travel to Craiova,Nelson has traveled to Craiova,Perry has traveled to Craiova,0
+Vincent has traveled to Oradea and Bucharest,Vincent didn't travel to Oradea,Vincent has traveled to Oradea,Vincent has traveled to Bucharest,1
+Greg has traveled to Reghin and Cluj-Napoca,Greg didn't travel to Cluj-Napoca,Greg has traveled to Reghin,Greg has traveled to Cluj-Napoca,1
+Faye has visited Reghin and Hunedoara,Faye didn't visit Vaslui,Faye has visited Reghin,Faye has visited Hunedoara,0
+Carrie and Lee went to Dej,Lee didn't go to Dej,Carrie went to Dej,Lee went to Dej,1
+Lynda and Jesse went to Vaslui,Molly didn't go to Vaslui,Lynda went to Vaslui,Jesse went to Vaslui,0
+Rose and Christopher have traveled to Craiova,Christopher didn't travel to Bucharest,Rose has traveled to Craiova,Christopher has traveled to Craiova,0
+Antonio went to Turda and Slobozia,Antonio didn't go to Turda,Antonio went to Turda,Antonio went to Slobozia,1
+Alma and Jackie have visited Lugoj,Alma didn't visit Giurgiu,Alma has visited Lugoj,Jackie has visited Lugoj,0
+Jeanette and Fernando have visited Deva,Fernando didn't visit Deva,Jeanette has visited Deva,Fernando has visited Deva,1
+Darryl and Arthur have visited Slatina,Darryl didn't visit Slatina,Darryl has visited Slatina,Arthur has visited Slatina,1
+Derrick has traveled to Timisoara and Turda,Derrick didn't travel to Bucharest,Derrick has traveled to Timisoara,Derrick has traveled to Turda,0
+Leslie and Oscar went to Slatina,Leslie didn't go to Slatina,Leslie went to Slatina,Oscar went to Slatina,1
+Jo has visited Bucharest and Deva,Jo didn't visit Lugoj,Jo has visited Bucharest,Jo has visited Deva,0
+Thomas has visited Mangalia and Deva,Thomas didn't visit Mangalia,Thomas has visited Mangalia,Thomas has visited Deva,1
+Danny and Jodi have traveled to Arad,Tiffany didn't travel to Arad,Danny has traveled to Arad,Jodi has traveled to Arad,0
+Josephine has traveled to Blaj and Turda,Steve didn't travel to Turda,Josephine has traveled to Blaj,Josephine has traveled to Turda,0
+Brandy and Mario went to Reghin,Brandy didn't go to Reghin,Brandy went to Reghin,Mario went to Reghin,1
+Rosemary and Maurice have visited Giurgiu,Cynthia didn't visit Giurgiu,Rosemary has visited Giurgiu,Maurice has visited Giurgiu,0
+Melinda has traveled to Slobozia and Bucharest,Melinda didn't travel to Slobozia,Melinda has traveled to Slobozia,Melinda has traveled to Bucharest,1
+Ramon and Jeffrey have visited Tulcea,Jeffrey didn't visit Slobozia,Ramon has visited Tulcea,Jeffrey has visited Tulcea,0
+William and Pauline have visited Blaj,Hattie didn't visit Blaj,William has visited Blaj,Pauline has visited Blaj,0
+Shawn has visited Reghin and Giurgiu,Shawn didn't visit Reghin,Shawn has visited Reghin,Shawn has visited Giurgiu,1
+Bill has traveled to Timisoara and Giurgiu,Bill didn't travel to Dej,Bill has traveled to Timisoara,Bill has traveled to Giurgiu,0
+Todd has visited Craiova and Slatina,Todd didn't visit Blaj,Todd has visited Craiova,Todd has visited Slatina,0
+Tammy and Stacy have visited Giurgiu,Stacy didn't visit Bucharest,Tammy has visited Giurgiu,Stacy has visited Giurgiu,0
+Misty has visited Oradea and Bucharest,Misty didn't visit Bucharest,Misty has visited Oradea,Misty has visited Bucharest,1
+Andre has traveled to Bucharest and Hunedoara,Andre didn't travel to Bucharest,Andre has traveled to Bucharest,Andre has traveled to Hunedoara,1
+Calvin went to Deva and Slobozia,Calvin didn't go to Slobozia,Calvin went to Deva,Calvin went to Slobozia,1
+Lee and Chester have traveled to Mangalia,Lee didn't travel to Mangalia,Lee has traveled to Mangalia,Chester has traveled to Mangalia,1
+Guadalupe and Bradley went to Turda,Guadalupe didn't go to Turda,Guadalupe went to Turda,Bradley went to Turda,1
+Marjorie has visited Mangalia and Bucharest,Jamie didn't visit Mangalia,Marjorie has visited Mangalia,Marjorie has visited Bucharest,0
+Oscar and Pedro went to Vaslui,Oscar didn't go to Timisoara,Oscar went to Vaslui,Pedro went to Vaslui,0
+Jeffrey and Madeline went to Dej,Jeffrey didn't go to Dej,Jeffrey went to Dej,Madeline went to Dej,1
+Tracey has traveled to Craiova and Blaj,Dale didn't travel to Craiova,Tracey has traveled to Craiova,Tracey has traveled to Blaj,0
+Marilyn went to Lugoj and Giurgiu,Marilyn didn't go to Dej,Marilyn went to Lugoj,Marilyn went to Giurgiu,0
+Corey went to Mangalia and Dej,Corey didn't go to Dej,Corey went to Mangalia,Corey went to Dej,1
+Roy and Jean have traveled to Timisoara,Jean didn't travel to Timisoara,Roy has traveled to Timisoara,Jean has traveled to Timisoara,1
+Cody and Gregory went to Slatina,Cody didn't go to Slatina,Cody went to Slatina,Gregory went to Slatina,1
+Caroline went to Hunedoara and Slatina,Caroline didn't go to Hunedoara,Caroline went to Hunedoara,Caroline went to Slatina,1
+Janet and Bill have visited Turda,Janet didn't visit Turda,Janet has visited Turda,Bill has visited Turda,0
+Elaine went to Vaslui and Arad,Elaine didn't go to Arad,Elaine went to Vaslui,Elaine went to Arad,1
+Don has traveled to Reghin and Craiova,Don didn't travel to Craiova,Don has traveled to Reghin,Don has traveled to Craiova,1
+Carmen and Connie have traveled to Arad,Connie didn't travel to Timisoara,Carmen has traveled to Arad,Connie has traveled to Arad,0
+Ernest has visited Dej and Arad,Ernest didn't visit Arad,Ernest has visited Dej,Ernest has visited Arad,1
+Claire went to Arad and Timisoara,Claire didn't go to Timisoara,Claire went to Arad,Claire went to Timisoara,1
+Darren went to Baia Mare and Cluj-Napoca,Darren didn't go to Cluj-Napoca,Darren went to Baia Mare,Darren went to Cluj-Napoca,1
+Angel has visited Giurgiu and Lugoj,Angel didn't visit Bucharest,Angel has visited Giurgiu,Angel has visited Lugoj,0
+Bob has visited Mangalia and Bucharest,Bob didn't visit Reghin,Bob has visited Mangalia,Bob has visited Bucharest,0
+Shawn and Joseph have traveled to Giurgiu,Shawn didn't travel to Giurgiu,Shawn has traveled to Giurgiu,Joseph has traveled to Giurgiu,1
+Glenda and Jimmie have visited Slobozia,Jimmie didn't visit Slobozia,Glenda has visited Slobozia,Jimmie has visited Slobozia,1
+Kimberly has visited Craiova and Bucharest,Kimberly didn't visit Slatina,Kimberly has visited Craiova,Kimberly has visited Bucharest,0
+Richard has visited Timisoara and Tulcea,Richard didn't visit Timisoara,Richard has visited Timisoara,Richard has visited Tulcea,1
+Patrick and Geneva went to Timisoara,Patrick didn't go to Reghin,Patrick went to Timisoara,Geneva went to Timisoara,0
+Beulah and Kristy have visited Bucharest,Beulah didn't visit Bucharest,Beulah has visited Bucharest,Kristy has visited Bucharest,1
+Leo and Rene have traveled to Vaslui,Leo didn't travel to Vaslui,Leo has traveled to Vaslui,Rene has traveled to Vaslui,1
+Flora and Heather went to Oradea,Heather didn't go to Reghin,Flora went to Oradea,Heather went to Oradea,0
+Andrew has traveled to Hunedoara and Blaj,Andrew didn't travel to Tulcea,Andrew has traveled to Hunedoara,Andrew has traveled to Blaj,0
+Edward and Jaime have visited Bucharest,Angela didn't visit Bucharest,Edward has visited Bucharest,Jaime has visited Bucharest,0
+Laurie and Robert have traveled to Reghin,Robert didn't travel to Reghin,Laurie has traveled to Reghin,Robert has traveled to Reghin,1
+Theresa went to Craiova and Cluj-Napoca,Greg didn't go to Craiova,Theresa went to Craiova,Theresa went to Cluj-Napoca,0
+Lloyd has visited Arad and Reghin,Lloyd didn't visit Bucharest,Lloyd has visited Arad,Lloyd has visited Reghin,0
+Marvin went to Bucharest and Dej,Marvin didn't go to Craiova,Marvin went to Bucharest,Marvin went to Dej,0
+Marvin and Earl have traveled to Baia Mare,Earl didn't travel to Baia Mare,Marvin has traveled to Baia Mare,Earl has traveled to Baia Mare,1
+Molly went to Blaj and Hunedoara,Molly didn't go to Bucharest,Molly went to Blaj,Molly went to Hunedoara,0
+Alberta and Harold have traveled to Bucharest,Harold didn't travel to Bucharest,Alberta has traveled to Bucharest,Harold has traveled to Bucharest,1
+Corey went to Vaslui and Blaj,Corey didn't go to Dej,Corey went to Vaslui,Corey went to Blaj,0
+Rita has traveled to Deva and Timisoara,Rita didn't travel to Craiova,Rita has traveled to Deva,Rita has traveled to Timisoara,0
+Chris went to Hunedoara and Deva,Chris didn't go to Hunedoara,Chris went to Hunedoara,Chris went to Deva,1
+Doris and Ted went to Bucharest,Ted didn't go to Bucharest,Doris went to Bucharest,Ted went to Bucharest,0
+Benjamin and Randall have traveled to Slobozia,Benjamin didn't travel to Slobozia,Benjamin has traveled to Slobozia,Randall has traveled to Slobozia,1
+Cheryl and Nathaniel have visited Hunedoara,Nathaniel didn't visit Hunedoara,Cheryl has visited Hunedoara,Nathaniel has visited Hunedoara,1
+Roland and Ian have visited Cluj-Napoca,Ian didn't visit Cluj-Napoca,Roland has visited Cluj-Napoca,Ian has visited Cluj-Napoca,1
+Bonnie went to Turda and Bucharest,Bonnie didn't go to Slobozia,Bonnie went to Turda,Bonnie went to Bucharest,0
+Elizabeth and Carolyn went to Cluj-Napoca,Elizabeth didn't go to Cluj-Napoca,Elizabeth went to Cluj-Napoca,Carolyn went to Cluj-Napoca,1
+Curtis has traveled to Hunedoara and Lugoj,Curtis didn't travel to Bucharest,Curtis has traveled to Hunedoara,Curtis has traveled to Lugoj,0
+Agnes has visited Bucharest and Tulcea,Joanna didn't visit Tulcea,Agnes has visited Bucharest,Agnes has visited Tulcea,0
+Emma went to Mangalia and Arad,Emma didn't go to Mangalia,Emma went to Mangalia,Emma went to Arad,1
+Maggie and Carrie have traveled to Blaj,John didn't travel to Blaj,Maggie has traveled to Blaj,Carrie has traveled to Blaj,0
+Floyd has traveled to Bucharest and Oradea,Becky didn't travel to Oradea,Floyd has traveled to Bucharest,Floyd has traveled to Oradea,0
+Caroline went to Cluj-Napoca and Turda,Caroline didn't go to Turda,Caroline went to Cluj-Napoca,Caroline went to Turda,1
+Terry has traveled to Timisoara and Giurgiu,Terry didn't travel to Baia Mare,Terry has traveled to Timisoara,Terry has traveled to Giurgiu,0
+Arlene went to Lugoj and Deva,Albert didn't go to Deva,Arlene went to Lugoj,Arlene went to Deva,0
+Diane and Brittany have visited Baia Mare,Brittany didn't visit Baia Mare,Diane has visited Baia Mare,Brittany has visited Baia Mare,1
+Aaron and Elsie have traveled to Vaslui,Seth didn't travel to Vaslui,Aaron has traveled to Vaslui,Elsie has traveled to Vaslui,0
+Gladys has traveled to Hunedoara and Dej,Gladys didn't travel to Dej,Gladys has traveled to Hunedoara,Gladys has traveled to Dej,1
+Jenny and Crystal have visited Tulcea,Angie didn't visit Tulcea,Jenny has visited Tulcea,Crystal has visited Tulcea,0
+Nancy and Nathan have traveled to Blaj,Nancy didn't travel to Blaj,Nancy has traveled to Blaj,Nathan has traveled to Blaj,1
+Deanna has traveled to Bucharest and Tulcea,Deanna didn't travel to Arad,Deanna has traveled to Bucharest,Deanna has traveled to Tulcea,0
+Charlotte has traveled to Hunedoara and Baia Mare,Charlotte didn't travel to Arad,Charlotte has traveled to Hunedoara,Charlotte has traveled to Baia Mare,0
+Terri has traveled to Turda and Blaj,Terri didn't travel to Baia Mare,Terri has traveled to Turda,Terri has traveled to Blaj,0
+Harold and Shelley have traveled to Deva,Harold didn't travel to Deva,Harold has traveled to Deva,Shelley has traveled to Deva,1
+John went to Hunedoara and Bucharest,John didn't go to Hunedoara,John went to Hunedoara,John went to Bucharest,1
+Priscilla and Audrey have visited Blaj,Priscilla didn't visit Blaj,Priscilla has visited Blaj,Audrey has visited Blaj,1
+Maggie and Monique went to Craiova,Randy didn't go to Craiova,Maggie went to Craiova,Monique went to Craiova,0
+Adrian and Elsie have visited Vaslui,Gertrude didn't visit Vaslui,Adrian has visited Vaslui,Elsie has visited Vaslui,0
+Stephanie and Monica have traveled to Baia Mare,Monica didn't travel to Baia Mare,Stephanie has traveled to Baia Mare,Monica has traveled to Baia Mare,1
+Kim and Clarence have traveled to Cluj-Napoca,Clarence didn't travel to Cluj-Napoca,Kim has traveled to Cluj-Napoca,Clarence has traveled to Cluj-Napoca,1
+Dolores and Peter have traveled to Tulcea,Peter didn't travel to Tulcea,Dolores has traveled to Tulcea,Peter has traveled to Tulcea,1
+Willie and Max have traveled to Arad,Max didn't travel to Arad,Willie has traveled to Arad,Max has traveled to Arad,1
+Olivia has traveled to Oradea and Bucharest,Jill didn't travel to Bucharest,Olivia has traveled to Oradea,Olivia has traveled to Bucharest,0
+Alfredo has traveled to Deva and Bucharest,Esther didn't travel to Deva,Alfredo has traveled to Deva,Alfredo has traveled to Bucharest,0
+Kevin went to Arad and Dej,Kevin didn't go to Dej,Kevin went to Arad,Kevin went to Dej,1
+Betty and Cora have visited Slatina,Betty didn't visit Slatina,Betty has visited Slatina,Cora has visited Slatina,1
+Gerald and Sylvia went to Turda,Gerald didn't go to Turda,Gerald went to Turda,Sylvia went to Turda,1
+Angie and Grace have traveled to Blaj,Stella didn't travel to Blaj,Angie has traveled to Blaj,Grace has traveled to Blaj,0
+Joshua has visited Reghin and Bucharest,Theodore didn't visit Reghin,Joshua has visited Reghin,Joshua has visited Bucharest,0
+Chad and Javier went to Vaslui,Chad didn't go to Baia Mare,Chad went to Vaslui,Javier went to Vaslui,0
+Deborah went to Vaslui and Slobozia,Deborah didn't go to Slobozia,Deborah went to Vaslui,Deborah went to Slobozia,1
+Willard went to Blaj and Reghin,Willard didn't go to Reghin,Willard went to Blaj,Willard went to Reghin,1
+Calvin has traveled to Turda and Mangalia,Calvin didn't travel to Arad,Calvin has traveled to Turda,Calvin has traveled to Mangalia,0
+Lori and Stephanie went to Turda,Lori didn't go to Turda,Lori went to Turda,Stephanie went to Turda,1
+Megan has traveled to Deva and Vaslui,Megan didn't travel to Deva,Megan has traveled to Deva,Megan has traveled to Vaslui,1
+Peggy has traveled to Cluj-Napoca and Deva,Peggy didn't travel to Cluj-Napoca,Peggy has traveled to Cluj-Napoca,Peggy has traveled to Deva,1
+Marion and Erika have visited Hunedoara,Erika didn't visit Hunedoara,Marion has visited Hunedoara,Erika has visited Hunedoara,1
+Sarah has traveled to Bucharest and Reghin,Sarah didn't travel to Reghin,Sarah has traveled to Bucharest,Sarah has traveled to Reghin,1
+Brandon has visited Deva and Vaslui,Brandon didn't visit Vaslui,Brandon has visited Deva,Brandon has visited Vaslui,1
+Albert has visited Bucharest and Oradea,Albert didn't visit Mangalia,Albert has visited Bucharest,Albert has visited Oradea,0
+Stephanie and Kenneth have traveled to Giurgiu,Stephanie didn't travel to Giurgiu,Stephanie has traveled to Giurgiu,Kenneth has traveled to Giurgiu,1
+Rita has traveled to Cluj-Napoca and Deva,Rita didn't travel to Deva,Rita has traveled to Cluj-Napoca,Rita has traveled to Deva,1
+Terrence and Priscilla have traveled to Cluj-Napoca,Terrence didn't travel to Cluj-Napoca,Terrence has traveled to Cluj-Napoca,Priscilla has traveled to Cluj-Napoca,1
+Ida has visited Tulcea and Bucharest,Jorge didn't visit Tulcea,Ida has visited Tulcea,Ida has visited Bucharest,0
+Eunice and Greg went to Arad,Eunice didn't go to Arad,Eunice went to Arad,Greg went to Arad,1
+Ricardo and Ted went to Vaslui,Ted didn't go to Vaslui,Ricardo went to Vaslui,Ted went to Vaslui,1
+Willie has traveled to Turda and Slobozia,Willie didn't travel to Turda,Willie has traveled to Turda,Willie has traveled to Slobozia,1
+Sherri and Peggy went to Mangalia,Peggy didn't go to Mangalia,Sherri went to Mangalia,Peggy went to Mangalia,1
+Cora has visited Mangalia and Cluj-Napoca,Cora didn't visit Cluj-Napoca,Cora has visited Mangalia,Cora has visited Cluj-Napoca,1
+Edna and Monique have visited Tulcea,Shirley didn't visit Tulcea,Edna has visited Tulcea,Monique has visited Tulcea,0
+Erika has traveled to Mangalia and Reghin,Erika didn't travel to Mangalia,Erika has traveled to Mangalia,Erika has traveled to Reghin,1
+Leroy and Ellen went to Bucharest,Ellen didn't go to Bucharest,Leroy went to Bucharest,Ellen went to Bucharest,1
+Beulah has traveled to Reghin and Dej,Beulah didn't travel to Giurgiu,Beulah has traveled to Reghin,Beulah has traveled to Dej,0
+Derek went to Bucharest and Mangalia,Derek didn't go to Mangalia,Derek went to Bucharest,Derek went to Mangalia,1
+Shane and Ashley went to Blaj,Allan didn't go to Blaj,Shane went to Blaj,Ashley went to Blaj,0
+Stephen has traveled to Baia Mare and Bucharest,Stephen didn't travel to Baia Mare,Stephen has traveled to Baia Mare,Stephen has traveled to Bucharest,1
+Edith has traveled to Baia Mare and Bucharest,Edith didn't travel to Baia Mare,Edith has traveled to Baia Mare,Edith has traveled to Bucharest,1
+Brandi has traveled to Blaj and Giurgiu,Brandi didn't travel to Blaj,Brandi has traveled to Blaj,Brandi has traveled to Giurgiu,1
+Allison has visited Reghin and Vaslui,Allison didn't visit Vaslui,Allison has visited Reghin,Allison has visited Vaslui,1
+Kyle and Anthony have traveled to Slatina,Kyle didn't travel to Oradea,Kyle has traveled to Slatina,Anthony has traveled to Slatina,0
+Dorothy and Nelson have traveled to Oradea,Dorothy didn't travel to Oradea,Dorothy has traveled to Oradea,Nelson has traveled to Oradea,1
+Florence and Jonathan have traveled to Cluj-Napoca,Jonathan didn't travel to Cluj-Napoca,Florence has traveled to Cluj-Napoca,Jonathan has traveled to Cluj-Napoca,0
+June and Kathryn have traveled to Bucharest,Tracey didn't travel to Bucharest,June has traveled to Bucharest,Kathryn has traveled to Bucharest,0
+Carolyn has traveled to Slobozia and Giurgiu,Carolyn didn't travel to Craiova,Carolyn has traveled to Slobozia,Carolyn has traveled to Giurgiu,0
+Alicia and Matthew have visited Arad,Matthew didn't visit Slobozia,Alicia has visited Arad,Matthew has visited Arad,0
+Joshua and Carl have traveled to Blaj,Carl didn't travel to Baia Mare,Joshua has traveled to Blaj,Carl has traveled to Blaj,0
+Lucille has visited Timisoara and Reghin,Lucille didn't visit Timisoara,Lucille has visited Timisoara,Lucille has visited Reghin,1
+Rosemary and Holly have traveled to Cluj-Napoca,Rosemary didn't travel to Cluj-Napoca,Rosemary has traveled to Cluj-Napoca,Holly has traveled to Cluj-Napoca,1
+Jeremy went to Bucharest and Craiova,Iris didn't go to Bucharest,Jeremy went to Bucharest,Jeremy went to Craiova,0
+Craig and Dean went to Timisoara,Dean didn't go to Timisoara,Craig went to Timisoara,Dean went to Timisoara,1
+Heather and Jorge have visited Bucharest,Martha didn't visit Bucharest,Heather has visited Bucharest,Jorge has visited Bucharest,0
+Heidi and Judith went to Bucharest,Judith didn't go to Slatina,Heidi went to Bucharest,Judith went to Bucharest,0
+Harry and Ruben went to Arad,Ruben didn't go to Arad,Harry went to Arad,Ruben went to Arad,1
+Sandra went to Blaj and Oradea,Ramon didn't go to Blaj,Sandra went to Blaj,Sandra went to Oradea,0
+Carole went to Mangalia and Tulcea,Carole didn't go to Hunedoara,Carole went to Mangalia,Carole went to Tulcea,0
+Leslie went to Hunedoara and Timisoara,Leslie didn't go to Timisoara,Leslie went to Hunedoara,Leslie went to Timisoara,1
+Herman has visited Giurgiu and Timisoara,Herman didn't visit Baia Mare,Herman has visited Giurgiu,Herman has visited Timisoara,0
+Bernard has visited Timisoara and Tulcea,Bernard didn't visit Mangalia,Bernard has visited Timisoara,Bernard has visited Tulcea,0
+Beverly has visited Deva and Oradea,Beverly didn't visit Deva,Beverly has visited Deva,Beverly has visited Oradea,1
+Arthur and Kathy went to Baia Mare,Kathy didn't go to Blaj,Arthur went to Baia Mare,Kathy went to Baia Mare,0
+Melinda and Eddie have traveled to Giurgiu,Eddie didn't travel to Giurgiu,Melinda has traveled to Giurgiu,Eddie has traveled to Giurgiu,1
+Danielle and Shane have traveled to Arad,Shane didn't travel to Baia Mare,Danielle has traveled to Arad,Shane has traveled to Arad,0
+Marian and Margaret have visited Turda,Manuel didn't visit Turda,Marian has visited Turda,Margaret has visited Turda,0
+Timothy and Michael went to Craiova,Timothy didn't go to Craiova,Timothy went to Craiova,Michael went to Craiova,1
+Michele and Fannie have visited Dej,Lois didn't visit Dej,Michele has visited Dej,Fannie has visited Dej,0
+Eunice went to Timisoara and Baia Mare,Eunice didn't go to Blaj,Eunice went to Timisoara,Eunice went to Baia Mare,0
+Floyd went to Tulcea and Hunedoara,Floyd didn't go to Timisoara,Floyd went to Tulcea,Floyd went to Hunedoara,0
+Opal and Audrey have visited Timisoara,Audrey didn't visit Timisoara,Opal has visited Timisoara,Audrey has visited Timisoara,1
+Amelia went to Oradea and Deva,Amelia didn't go to Deva,Amelia went to Oradea,Amelia went to Deva,1
+Tammy and Marcus went to Lugoj,Enrique didn't go to Lugoj,Tammy went to Lugoj,Marcus went to Lugoj,0
+Barbara and Ricardo have visited Slatina,Ricardo didn't visit Slatina,Barbara has visited Slatina,Ricardo has visited Slatina,1
+Javier went to Bucharest and Turda,Javier didn't go to Turda,Javier went to Bucharest,Javier went to Turda,1
+Hilda and Janie have traveled to Dej,Hilda didn't travel to Dej,Hilda has traveled to Dej,Janie has traveled to Dej,1
+Amanda and Bobbie have visited Lugoj,Bobbie didn't visit Reghin,Amanda has visited Lugoj,Bobbie has visited Lugoj,0
+Herman and Becky went to Arad,Danny didn't go to Arad,Herman went to Arad,Becky went to Arad,0
+Maurice and Lewis went to Mangalia,Kristen didn't go to Mangalia,Maurice went to Mangalia,Lewis went to Mangalia,0
+Louis and Marjorie have traveled to Slatina,Veronica didn't travel to Slatina,Louis has traveled to Slatina,Marjorie has traveled to Slatina,0
+Wayne went to Slobozia and Baia Mare,Wayne didn't go to Baia Mare,Wayne went to Slobozia,Wayne went to Baia Mare,1
+Antoinette has visited Blaj and Bucharest,Mathew didn't visit Blaj,Antoinette has visited Blaj,Antoinette has visited Bucharest,0
+Sonia and Brandon have traveled to Slobozia,Frederick didn't travel to Slobozia,Sonia has traveled to Slobozia,Brandon has traveled to Slobozia,0
+Alexander and Thelma went to Bucharest,Alexander didn't go to Bucharest,Alexander went to Bucharest,Thelma went to Bucharest,1
+Bertha and Eduardo went to Mangalia,Eduardo didn't go to Mangalia,Bertha went to Mangalia,Eduardo went to Mangalia,1
+Tracey has visited Vaslui and Craiova,Tracey didn't visit Oradea,Tracey has visited Vaslui,Tracey has visited Craiova,0
+Keith and Patricia have visited Bucharest,Keith didn't visit Blaj,Keith has visited Bucharest,Patricia has visited Bucharest,0
+Myrtle has visited Timisoara and Craiova,Beatrice didn't visit Timisoara,Myrtle has visited Timisoara,Myrtle has visited Craiova,0
+Dora went to Craiova and Mangalia,Dora didn't go to Mangalia,Dora went to Craiova,Dora went to Mangalia,1
+Dave has visited Dej and Bucharest,Dave didn't visit Tulcea,Dave has visited Dej,Dave has visited Bucharest,0
+Harry has traveled to Bucharest and Giurgiu,Harry didn't travel to Turda,Harry has traveled to Bucharest,Harry has traveled to Giurgiu,0
+Kyle went to Cluj-Napoca and Giurgiu,Kyle didn't go to Giurgiu,Kyle went to Cluj-Napoca,Kyle went to Giurgiu,1
+Francis went to Cluj-Napoca and Reghin,Francis didn't go to Slobozia,Francis went to Cluj-Napoca,Francis went to Reghin,0
+Penny went to Tulcea and Cluj-Napoca,Penny didn't go to Cluj-Napoca,Penny went to Tulcea,Penny went to Cluj-Napoca,1
+Tanya has traveled to Vaslui and Baia Mare,Dwight didn't travel to Vaslui,Tanya has traveled to Vaslui,Tanya has traveled to Baia Mare,0
+Kent and Wilma went to Bucharest,Randall didn't go to Bucharest,Kent went to Bucharest,Wilma went to Bucharest,0
+Holly and Eleanor went to Lugoj,Holly didn't go to Lugoj,Holly went to Lugoj,Eleanor went to Lugoj,1
+Byron went to Bucharest and Lugoj,Alison didn't go to Lugoj,Byron went to Bucharest,Byron went to Lugoj,0
+Jeff and Darren went to Deva,Darren didn't go to Deva,Jeff went to Deva,Darren went to Deva,1
+Gregory and Francisco have traveled to Dej,Gregory didn't travel to Dej,Gregory has traveled to Dej,Francisco has traveled to Dej,1
+Mamie has visited Vaslui and Bucharest,Mamie didn't visit Vaslui,Mamie has visited Vaslui,Mamie has visited Bucharest,1
+Cynthia has traveled to Timisoara and Dej,Hugh didn't travel to Timisoara,Cynthia has traveled to Timisoara,Cynthia has traveled to Dej,0
+Jan has traveled to Reghin and Turda,Jan didn't travel to Lugoj,Jan has traveled to Reghin,Jan has traveled to Turda,0
+Samantha and Clinton went to Turda,Samantha didn't go to Turda,Samantha went to Turda,Clinton went to Turda,1
+Theodore and Arnold went to Slobozia,Minnie didn't go to Slobozia,Theodore went to Slobozia,Arnold went to Slobozia,0
+Rose went to Giurgiu and Oradea,Rose didn't go to Lugoj,Rose went to Giurgiu,Rose went to Oradea,0
+Deborah has traveled to Timisoara and Cluj-Napoca,Deborah didn't travel to Cluj-Napoca,Deborah has traveled to Timisoara,Deborah has traveled to Cluj-Napoca,1
+Danny and Kent have traveled to Hunedoara,Mary didn't travel to Hunedoara,Danny has traveled to Hunedoara,Kent has traveled to Hunedoara,0
+Michael and Alex have traveled to Cluj-Napoca,Michael didn't travel to Cluj-Napoca,Michael has traveled to Cluj-Napoca,Alex has traveled to Cluj-Napoca,1
+Chad and Yolanda have traveled to Mangalia,Chad didn't travel to Mangalia,Chad has traveled to Mangalia,Yolanda has traveled to Mangalia,1
+Felicia has visited Timisoara and Baia Mare,Natalie didn't visit Baia Mare,Felicia has visited Timisoara,Felicia has visited Baia Mare,0
+Constance and Pamela have traveled to Bucharest,Constance didn't travel to Giurgiu,Constance has traveled to Bucharest,Pamela has traveled to Bucharest,0
+Janet and Tom have visited Mangalia,Janet didn't visit Mangalia,Janet has visited Mangalia,Tom has visited Mangalia,1
+Joshua went to Dej and Hunedoara,Ana didn't go to Dej,Joshua went to Dej,Joshua went to Hunedoara,0
+Sheryl went to Bucharest and Mangalia,Sheryl didn't go to Oradea,Sheryl went to Bucharest,Sheryl went to Mangalia,0
+Jeff has visited Timisoara and Deva,Charlie didn't visit Deva,Jeff has visited Timisoara,Jeff has visited Deva,0
+Melinda and Ethel have visited Hunedoara,Melinda didn't visit Hunedoara,Melinda has visited Hunedoara,Ethel has visited Hunedoara,1
+Jenny has visited Lugoj and Tulcea,Jenny didn't visit Deva,Jenny has visited Lugoj,Jenny has visited Tulcea,0
+Eric has visited Tulcea and Reghin,Eric didn't visit Reghin,Eric has visited Tulcea,Eric has visited Reghin,1
+Audrey has traveled to Dej and Lugoj,Audrey didn't travel to Cluj-Napoca,Audrey has traveled to Dej,Audrey has traveled to Lugoj,0
+Rebecca went to Baia Mare and Dej,Rebecca didn't go to Dej,Rebecca went to Baia Mare,Rebecca went to Dej,1
+Kristi and Alan have visited Giurgiu,Kristi didn't visit Blaj,Kristi has visited Giurgiu,Alan has visited Giurgiu,0
+Frances and Jack have traveled to Tulcea,Ray didn't travel to Tulcea,Frances has traveled to Tulcea,Jack has traveled to Tulcea,0
+Cheryl and Roger have visited Slatina,Roger didn't visit Oradea,Cheryl has visited Slatina,Roger has visited Slatina,0
+Willie and Colleen have visited Deva,Colleen didn't visit Deva,Willie has visited Deva,Colleen has visited Deva,1
+Sherri has visited Bucharest and Oradea,Sherri didn't visit Oradea,Sherri has visited Bucharest,Sherri has visited Oradea,1
+Stacey has visited Craiova and Mangalia,Marilyn didn't visit Mangalia,Stacey has visited Craiova,Stacey has visited Mangalia,0
+Lee has visited Slatina and Slatina,Dustin didn't visit Slatina,Lee has visited Slatina,Lee has visited Slatina,0
+Carlos has visited Giurgiu and Hunedoara,Carlos didn't visit Hunedoara,Carlos has visited Giurgiu,Carlos has visited Hunedoara,1
+Pauline has visited Mangalia and Vaslui,Pauline didn't visit Vaslui,Pauline has visited Mangalia,Pauline has visited Vaslui,1
+Melanie has traveled to Baia Mare and Mangalia,Melanie didn't travel to Arad,Melanie has traveled to Baia Mare,Melanie has traveled to Mangalia,0
+Eunice went to Oradea and Slobozia,Eunice didn't go to Bucharest,Eunice went to Oradea,Eunice went to Slobozia,0
+Harry and Rita have traveled to Deva,Rita didn't travel to Deva,Harry has traveled to Deva,Rita has traveled to Deva,1
+Herman and Nathaniel have visited Hunedoara,Herman didn't visit Hunedoara,Herman has visited Hunedoara,Nathaniel has visited Hunedoara,1
+Marvin and Jessie have traveled to Vaslui,Jessie didn't travel to Vaslui,Marvin has traveled to Vaslui,Jessie has traveled to Vaslui,1
+Patrick has visited Slatina and Deva,Patrick didn't visit Lugoj,Patrick has visited Slatina,Patrick has visited Deva,0
+June and Margaret went to Baia Mare,Paul didn't go to Baia Mare,June went to Baia Mare,Margaret went to Baia Mare,0
+Dianne went to Timisoara and Hunedoara,Dianne didn't go to Timisoara,Dianne went to Timisoara,Dianne went to Hunedoara,1
+Jay and Cora have traveled to Slobozia,Inez didn't travel to Slobozia,Jay has traveled to Slobozia,Cora has traveled to Slobozia,0
+Franklin has visited Turda and Bucharest,Franklin didn't visit Mangalia,Franklin has visited Turda,Franklin has visited Bucharest,0
+Theodore went to Blaj and Slatina,Theodore didn't go to Blaj,Theodore went to Blaj,Theodore went to Slatina,1
+Rose went to Bucharest and Oradea,Rose didn't go to Slobozia,Rose went to Bucharest,Rose went to Oradea,0
+Lonnie and Douglas went to Baia Mare,Lonnie didn't go to Baia Mare,Lonnie went to Baia Mare,Douglas went to Baia Mare,1
+Vincent and Belinda went to Deva,Belinda didn't go to Deva,Vincent went to Deva,Belinda went to Deva,1
+Stephanie has traveled to Cluj-Napoca and Mangalia,Lewis didn't travel to Mangalia,Stephanie has traveled to Cluj-Napoca,Stephanie has traveled to Mangalia,0

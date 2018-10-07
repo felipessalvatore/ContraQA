@@ -1,0 +1,1001 @@
+sentence1,sentence2,label
+Japan or Germany won the last world cup, neither Japan nor Germany won the last world cup,1
+Sweden or Panama won the last world cup, neither Saudi Arabia nor Sweden won the last world cup,0
+Candace has visited Lugoj or Baia Mare,Candace didn't visit Baia Mare,0
+Denmark or England got to the quarter finals last year, neither Denmark nor England got to the quarter finals last year,1
+Maurice has visited Bucharest or Lugoj,Maurice didn't visit Bucharest and Maurice didn't visit Lugoj,1
+Dora has visited Slatina or Bucharest,Dora visited neither Slatina nor Bucharest,1
+Croatia or Brazil won the last world cup,Croatia didn't win the last world cup,0
+Brazil or Costa Rica are in the geopolitical position of Sweden, neither Brazil nor Costa Rica are in the geopolitical position of Sweden,1
+Brittany went to Slobozia or Tulcea,Brittany didn't go to Slobozia,0
+Joan traveled to Cluj-Napoca or Timisoara,Joan traveled to neither Cluj-Napoca nor Timisoara,1
+Mark traveled to Bucharest or Dej,Mark didn't travel to Dej,0
+Peru or Senegal are in the geopolitical position of Mexico, neither Peru nor Senegal are in the geopolitical position of Mexico,1
+Colombia or Switzerland  got to the quarter finals last year,Switzerland  didn't get to the quarter finals last year,0
+Anna has visited Bucharest or Lugoj,Anna didn't visit Bucharest and Anna didn't visit Lugoj,1
+Iran or Portugal won the last world cup, neither Uruguay nor Iran won the last world cup,0
+Poland or Denmark won the last world cup, neither Poland nor Iran won the last world cup,0
+Dan traveled to Giurgiu or Craiova,Julia traveled to neither Giurgiu nor Craiova,0
+Switzerland  or Brazil won the last world cup,Brazil didn't win the last world cup,0
+Spain or Korea Republic got to the quarter finals last year, neither Spain nor Korea Republic got to the quarter finals last year,1
+Iceland or Senegal won the last world cup,Iceland didn't win the last world cup and Senegal didn't win the last world cup,1
+Fred traveled to Baia Mare or Oradea,Shelly traveled to neither Baia Mare nor Oradea,0
+Jeanette went to Bucharest or Slobozia,Susie went to neither Bucharest nor Slobozia,0
+Wendy went to Oradea or Dej,Wendy didn't go to Dej,0
+Alberta went to Tulcea or Arad,Alberta didn't go to Tulcea and Alberta didn't go to Arad,1
+Everett traveled to Timisoara or Oradea,Everett traveled to neither Timisoara nor Oradea,1
+Carole has visited Slatina or Deva,Carole visited neither Slatina nor Deva,1
+Panama or Argentina won the last world cup, neither Panama nor Argentina won the last world cup,1
+Marian traveled to Dej or Cluj-Napoca,Ricardo traveled to neither Dej nor Cluj-Napoca,0
+Priscilla traveled to Slatina or Blaj,Priscilla traveled to neither Slatina nor Blaj,1
+Aaron traveled to Tulcea or Arad,Aaron traveled to neither Tulcea nor Deva,0
+Clarence traveled to Timisoara or Tulcea,Clarence traveled to neither Timisoara nor Tulcea,1
+Uruguay or France got to the quarter finals last year,Uruguay didn't get to the quarter finals last year,0
+England or Portugal won the last world cup,England didn't win the last world cup and Portugal didn't win the last world cup,1
+Phyllis has visited Bucharest or Tulcea,Gerald visited neither Bucharest nor Tulcea,0
+Antonio has visited Turda or Blaj,Antonio visited neither Turda nor Blaj,1
+Korea Republic or Egypt got to the quarter finals last year, neither Belgium nor Korea Republic got to the quarter finals last year,0
+Colombia or Costa Rica got to the quarter finals last year,Costa Rica didn't get to the quarter finals last year,0
+Donna has visited Slobozia or Bucharest,Donna didn't visit Slobozia and Donna didn't visit Bucharest,1
+Nathaniel has visited Dej or Reghin,Nathaniel didn't visit Dej,0
+Panama or Brazil got to the quarter finals last year,Panama didn't get to the quarter finals last year and Brazil didn't get to the quarter finals last year,1
+Portugal or Nigeria are in the geopolitical position of Argentina, neither Portugal nor Iceland are in the geopolitical position of Argentina,0
+Peru or Switzerland  got to the quarter finals last year,Peru didn't get to the quarter finals last year and Switzerland  didn't get to the quarter finals last year,1
+Beulah has visited Blaj or Giurgiu,Beulah visited neither Blaj nor Giurgiu,1
+France or Costa Rica got to the quarter finals last year, neither France nor Argentina got to the quarter finals last year,0
+Jackie traveled to Hunedoara or Slobozia,Jackie didn't travel to Hunedoara,0
+Jose went to Reghin or Cluj-Napoca,Cynthia went to neither Reghin nor Cluj-Napoca,0
+Milton has visited Deva or Giurgiu,Milton visited neither Timisoara nor Giurgiu,0
+Franklin has visited Hunedoara or Cluj-Napoca,Clyde visited neither Hunedoara nor Cluj-Napoca,0
+Colombia or Spain won the last world cup, neither Argentina nor Colombia won the last world cup,0
+Panama or Korea Republic got to the quarter finals last year, neither Panama nor Korea Republic got to the quarter finals last year,1
+France or Spain won the last world cup, neither France nor Spain won the last world cup,1
+Switzerland  or Colombia got to the quarter finals last year, neither Switzerland  nor Colombia got to the quarter finals last year,1
+Andre has visited Bucharest or Timisoara,Andre visited neither Bucharest nor Timisoara,1
+Albert went to Baia Mare or Blaj,Albert went to neither Baia Mare nor Blaj,1
+Tamara has visited Vaslui or Timisoara,Tamara visited neither Vaslui nor Timisoara,1
+Portugal or Russia are in the geopolitical position of Switzerland , neither Portugal nor Russia are in the geopolitical position of Switzerland ,1
+Colombia or Morocco got to the quarter finals last year, neither Colombia nor Morocco got to the quarter finals last year,1
+Eddie has visited Oradea or Reghin,Eddie didn't visit Oradea and Eddie didn't visit Reghin,1
+Costa Rica or Russia are in the geopolitical position of Mexico,Russia isn't in the geopolitical position of Mexico,0
+Stella has visited Arad or Mangalia,Stella didn't visit Arad,0
+Ralph has visited Arad or Vaslui,Ralph visited neither Lugoj nor Vaslui,0
+Gertrude went to Vaslui or Craiova,Gertrude didn't go to Vaslui,0
+Corey traveled to Mangalia or Slatina,Scott traveled to neither Mangalia nor Slatina,0
+Uruguay or Denmark got to the quarter finals last year, neither Uruguay nor Denmark got to the quarter finals last year,1
+Elaine traveled to Dej or Bucharest,Elaine didn't travel to Dej,0
+Paul traveled to Vaslui or Mangalia,Paul didn't travel to Vaslui,0
+Max went to Lugoj or Slatina,Max went to neither Lugoj nor Slatina,1
+Nigeria or Uruguay are in the geopolitical position of Switzerland ,Nigeria isn't in the geopolitical position of Switzerland ,0
+Tracy traveled to Tulcea or Giurgiu,Tracy didn't travel to Giurgiu,0
+Spain or Nigeria are in the geopolitical position of Uruguay, neither Spain nor Nigeria are in the geopolitical position of Uruguay,1
+Sherry traveled to Lugoj or Blaj,Howard traveled to neither Lugoj nor Blaj,0
+Leo traveled to Timisoara or Mangalia,Leo traveled to neither Timisoara nor Mangalia,1
+John has visited Bucharest or Deva,John visited neither Bucharest nor Deva,1
+England or Korea Republic got to the quarter finals last year,Korea Republic didn't get to the quarter finals last year,0
+Peru or Spain are in the geopolitical position of Japan,Peru isn't in the geopolitical position of Japan and Spain isn't in the geopolitical position of Japan,1
+Gary traveled to Vaslui or Lugoj,Gary traveled to neither Vaslui nor Oradea,0
+Spain or Morocco won the last world cup, neither Spain nor Panama won the last world cup,0
+Japan or Colombia won the last world cup, neither Japan nor Colombia won the last world cup,1
+Kristin went to Giurgiu or Turda,Kristin went to neither Giurgiu nor Turda,1
+Portugal or Japan are in the geopolitical position of Saudi Arabia, neither Portugal nor Japan are in the geopolitical position of Saudi Arabia,1
+Clifford went to Hunedoara or Arad,Blanche went to neither Hunedoara nor Arad,0
+Valerie went to Dej or Timisoara,Valerie didn't go to Dej,0
+Kristy traveled to Reghin or Mangalia,Kristy didn't travel to Reghin and Kristy didn't travel to Mangalia,1
+Korea Republic or Spain won the last world cup, neither Korea Republic nor Spain won the last world cup,1
+Belgium or Senegal are in the geopolitical position of Saudi Arabia,Belgium isn't in the geopolitical position of Saudi Arabia,0
+Max traveled to Oradea or Slatina,Max didn't travel to Oradea and Max didn't travel to Slatina,1
+Charles went to Vaslui or Bucharest,Charles didn't go to Vaslui and Charles didn't go to Bucharest,1
+Douglas went to Oradea or Slatina,Douglas didn't go to Oradea and Douglas didn't go to Slatina,1
+France or Poland got to the quarter finals last year, neither France nor Belgium got to the quarter finals last year,0
+England or Sweden got to the quarter finals last year,England didn't get to the quarter finals last year and Sweden didn't get to the quarter finals last year,1
+Senegal or Germany got to the quarter finals last year, neither Senegal nor Germany got to the quarter finals last year,1
+Kathy went to Vaslui or Hunedoara,Kathy didn't go to Hunedoara,0
+Carla traveled to Blaj or Hunedoara,Carla didn't travel to Blaj and Carla didn't travel to Hunedoara,1
+Spain or Denmark got to the quarter finals last year,Denmark didn't get to the quarter finals last year,0
+Betty went to Tulcea or Baia Mare,Betty went to neither Arad nor Baia Mare,0
+Portugal or Germany won the last world cup, neither Uruguay nor Portugal won the last world cup,0
+Milton traveled to Oradea or Baia Mare,Milton didn't travel to Oradea,0
+Nigeria or Croatia are in the geopolitical position of Sweden, neither Nigeria nor Portugal are in the geopolitical position of Sweden,0
+Troy has visited Vaslui or Tulcea,Troy didn't visit Vaslui and Troy didn't visit Tulcea,1
+Nigeria or Peru won the last world cup,Nigeria didn't win the last world cup and Peru didn't win the last world cup,1
+Kristy went to Giurgiu or Bucharest,Kristy went to neither Giurgiu nor Bucharest,1
+Belgium or Panama got to the quarter finals last year,Belgium didn't get to the quarter finals last year and Panama didn't get to the quarter finals last year,1
+Colombia or Peru are in the geopolitical position of Senegal, neither Iran nor Colombia are in the geopolitical position of Senegal,0
+Naomi went to Baia Mare or Slobozia,Naomi went to neither Baia Mare nor Slobozia,1
+Iran or Colombia won the last world cup, neither Iran nor France won the last world cup,0
+Egypt or Australia won the last world cup,Australia didn't win the last world cup,0
+Egypt or Costa Rica won the last world cup, neither Egypt nor Costa Rica won the last world cup,1
+Monica traveled to Deva or Bucharest,Monica didn't travel to Deva and Monica didn't travel to Bucharest,1
+Tracey went to Tulcea or Hunedoara,Tracey went to neither Tulcea nor Hunedoara,1
+England or Germany won the last world cup, neither England nor Germany won the last world cup,1
+Poland or Iceland won the last world cup,Poland didn't win the last world cup and Iceland didn't win the last world cup,1
+Jeffery traveled to Bucharest or Vaslui,Jeffery didn't travel to Bucharest and Jeffery didn't travel to Vaslui,1
+Belgium or England won the last world cup,England didn't win the last world cup,0
+Dolores traveled to Hunedoara or Giurgiu,Dolores didn't travel to Giurgiu,0
+Nathaniel has visited Mangalia or Hunedoara,Nathaniel didn't visit Mangalia and Nathaniel didn't visit Hunedoara,1
+Mary went to Reghin or Timisoara,Mary didn't go to Reghin and Mary didn't go to Timisoara,1
+Nigeria or Iceland won the last world cup,Iceland didn't win the last world cup,0
+Croatia or Russia won the last world cup, neither England nor Croatia won the last world cup,0
+Gene went to Tulcea or Oradea,Gene went to neither Bucharest nor Oradea,0
+Harry has visited Timisoara or Tulcea,Harry didn't visit Timisoara,0
+Egypt or Spain got to the quarter finals last year, neither Egypt nor Denmark got to the quarter finals last year,0
+England or Egypt won the last world cup,England didn't win the last world cup,0
+Colombia or Argentina won the last world cup,Colombia didn't win the last world cup,0
+Daryl went to Slobozia or Turda,Thelma went to neither Slobozia nor Turda,0
+Christina has visited Timisoara or Reghin,Christina visited neither Timisoara nor Reghin,1
+Cecilia went to Slatina or Bucharest,Cecilia went to neither Slatina nor Bucharest,1
+Darlene went to Lugoj or Bucharest,Darlene didn't go to Bucharest,0
+Iceland or Denmark got to the quarter finals last year,Iceland didn't get to the quarter finals last year and Denmark didn't get to the quarter finals last year,1
+Australia or Morocco won the last world cup,Australia didn't win the last world cup,0
+Rosie traveled to Blaj or Lugoj,Rosie didn't travel to Blaj and Rosie didn't travel to Lugoj,1
+Vickie has visited Cluj-Napoca or Bucharest,Vickie visited neither Cluj-Napoca nor Bucharest,1
+Peru or Egypt got to the quarter finals last year,Peru didn't get to the quarter finals last year,0
+Emma traveled to Cluj-Napoca or Blaj,Emma didn't travel to Blaj,0
+Denmark or Australia won the last world cup, neither Senegal nor Denmark won the last world cup,0
+Portugal or Serbia won the last world cup,Portugal didn't win the last world cup and Serbia didn't win the last world cup,1
+Colombia or Russia got to the quarter finals last year,Colombia didn't get to the quarter finals last year,0
+Irma has visited Hunedoara or Cluj-Napoca,Irma visited neither Slatina nor Cluj-Napoca,0
+Jodi went to Oradea or Dej,Jodi went to neither Oradea nor Dej,1
+Spain or Portugal won the last world cup, neither Spain nor Uruguay won the last world cup,0
+Japan or Iran won the last world cup, neither Japan nor Germany won the last world cup,0
+Lawrence went to Slatina or Arad,Lawrence went to neither Slatina nor Arad,1
+Belgium or Germany are in the geopolitical position of Spain, neither Belgium nor Egypt are in the geopolitical position of Spain,0
+Tim went to Reghin or Bucharest,Tim didn't go to Reghin,0
+Iceland or Spain won the last world cup,Iceland didn't win the last world cup and Spain didn't win the last world cup,1
+Korea Republic or Panama got to the quarter finals last year,Korea Republic didn't get to the quarter finals last year,0
+Jason has visited Lugoj or Arad,Jason didn't visit Lugoj and Jason didn't visit Arad,1
+Nathan has visited Deva or Vaslui,Nathan visited neither Deva nor Vaslui,1
+Betty traveled to Bucharest or Arad,Betty didn't travel to Bucharest and Betty didn't travel to Arad,1
+Tunisia or Panama got to the quarter finals last year,Tunisia didn't get to the quarter finals last year and Panama didn't get to the quarter finals last year,1
+Rosie has visited Cluj-Napoca or Lugoj,Rosie visited neither Cluj-Napoca nor Lugoj,1
+England or Uruguay are in the geopolitical position of Senegal, neither England nor Uruguay are in the geopolitical position of Senegal,1
+Nigeria or Egypt got to the quarter finals last year,Nigeria didn't get to the quarter finals last year,0
+Denmark or Australia won the last world cup,Australia didn't win the last world cup,0
+Claude has visited Baia Mare or Hunedoara,Claude didn't visit Hunedoara,0
+Allison went to Blaj or Cluj-Napoca,Allison went to neither Slobozia nor Cluj-Napoca,0
+Vivian has visited Bucharest or Dej,Vivian visited neither Bucharest nor Dej,1
+Angela went to Hunedoara or Vaslui,Debbie went to neither Hunedoara nor Vaslui,0
+Russia or Spain are in the geopolitical position of Uruguay, neither Costa Rica nor Russia are in the geopolitical position of Uruguay,0
+Germany or Spain got to the quarter finals last year, neither Brazil nor Germany got to the quarter finals last year,0
+Tunisia or Russia are in the geopolitical position of Nigeria,Tunisia isn't in the geopolitical position of Nigeria,0
+Diana went to Mangalia or Slatina,Diana went to neither Mangalia nor Slatina,1
+Tina traveled to Cluj-Napoca or Slobozia,Tina didn't travel to Cluj-Napoca and Tina didn't travel to Slobozia,1
+Germany or Costa Rica won the last world cup,Germany didn't win the last world cup,0
+Allison went to Vaslui or Timisoara,Allison went to neither Vaslui nor Timisoara,1
+Costa Rica or Argentina got to the quarter finals last year, neither Costa Rica nor Argentina got to the quarter finals last year,1
+Sweden or Egypt won the last world cup,Egypt didn't win the last world cup,0
+Portugal or Japan are in the geopolitical position of Serbia,Portugal isn't in the geopolitical position of Serbia and Japan isn't in the geopolitical position of Serbia,1
+Uruguay or Sweden won the last world cup, neither Saudi Arabia nor Uruguay won the last world cup,0
+England or Saudi Arabia won the last world cup, neither England nor Saudi Arabia won the last world cup,1
+Travis traveled to Deva or Bucharest,Travis didn't travel to Deva and Travis didn't travel to Bucharest,1
+Daniel has visited Giurgiu or Dej,Daniel didn't visit Giurgiu and Daniel didn't visit Dej,1
+Russia or Saudi Arabia are in the geopolitical position of Australia, neither Korea Republic nor Russia are in the geopolitical position of Australia,0
+Poland or Panama won the last world cup,Poland didn't win the last world cup and Panama didn't win the last world cup,1
+Eunice traveled to Bucharest or Craiova,Eunice didn't travel to Bucharest and Eunice didn't travel to Craiova,1
+Katie went to Cluj-Napoca or Arad,Katie didn't go to Arad,0
+Alfredo went to Blaj or Oradea,Alfredo went to neither Blaj nor Oradea,1
+Switzerland  or Brazil are in the geopolitical position of Portugal,Switzerland  isn't in the geopolitical position of Portugal and Brazil isn't in the geopolitical position of Portugal,1
+Sweden or Russia got to the quarter finals last year,Sweden didn't get to the quarter finals last year,0
+Japan or Australia are in the geopolitical position of Panama,Japan isn't in the geopolitical position of Panama,0
+Everett traveled to Tulcea or Deva,Eugene traveled to neither Tulcea nor Deva,0
+Iran or Spain won the last world cup,Iran didn't win the last world cup,0
+Edith has visited Vaslui or Deva,Nicole visited neither Vaslui nor Deva,0
+Germany or Korea Republic are in the geopolitical position of Tunisia,Germany isn't in the geopolitical position of Tunisia and Korea Republic isn't in the geopolitical position of Tunisia,1
+Yvette went to Hunedoara or Tulcea,Yvette went to neither Mangalia nor Tulcea,0
+Michael went to Lugoj or Mangalia,Denise went to neither Lugoj nor Mangalia,0
+Uruguay or Costa Rica won the last world cup, neither England nor Uruguay won the last world cup,0
+Kristy traveled to Bucharest or Hunedoara,Kristy didn't travel to Bucharest,0
+Brazil or Egypt got to the quarter finals last year, neither Australia nor Brazil got to the quarter finals last year,0
+Belinda has visited Arad or Bucharest,Belinda didn't visit Bucharest,0
+Lynn has visited Vaslui or Giurgiu,Lynn didn't visit Vaslui and Lynn didn't visit Giurgiu,1
+Spain or Germany are in the geopolitical position of Panama, neither Iran nor Spain are in the geopolitical position of Panama,0
+Martin went to Dej or Slobozia,Martin didn't go to Dej and Martin didn't go to Slobozia,1
+Marshall traveled to Slobozia or Giurgiu,Marshall didn't travel to Giurgiu,0
+Natalie went to Slatina or Oradea,Natalie went to neither Slatina nor Oradea,1
+Ryan went to Mangalia or Blaj,Ryan didn't go to Mangalia,0
+Grace has visited Bucharest or Dej,Grace didn't visit Bucharest and Grace didn't visit Dej,1
+Ramon has visited Timisoara or Tulcea,Ramon visited neither Bucharest nor Tulcea,0
+Portugal or Switzerland  won the last world cup,Portugal didn't win the last world cup,0
+Daisy has visited Giurgiu or Slatina,Daisy visited neither Dej nor Slatina,0
+Stacy went to Hunedoara or Slobozia,Stacy didn't go to Hunedoara and Stacy didn't go to Slobozia,1
+Sonia has visited Oradea or Turda,Sonia didn't visit Oradea,0
+Candice has visited Deva or Giurgiu,Candice visited neither Bucharest nor Giurgiu,0
+Jared went to Turda or Blaj,Jared didn't go to Blaj,0
+Gene went to Cluj-Napoca or Oradea,Gene didn't go to Oradea,0
+Lydia traveled to Blaj or Slatina,Lydia traveled to neither Blaj nor Slatina,1
+Elsie went to Slatina or Tulcea,Elsie didn't go to Slatina and Elsie didn't go to Tulcea,1
+Costa Rica or Spain got to the quarter finals last year,Costa Rica didn't get to the quarter finals last year and Spain didn't get to the quarter finals last year,1
+Annie went to Giurgiu or Deva,Annie went to neither Giurgiu nor Deva,1
+Spain or Korea Republic are in the geopolitical position of Senegal,Spain isn't in the geopolitical position of Senegal and Korea Republic isn't in the geopolitical position of Senegal,1
+Jeanne traveled to Oradea or Bucharest,Jeanne didn't travel to Oradea,0
+Egypt or Germany got to the quarter finals last year, neither Egypt nor Germany got to the quarter finals last year,1
+Theresa traveled to Turda or Vaslui,Theresa didn't travel to Vaslui,0
+Senegal or Colombia got to the quarter finals last year, neither Iran nor Senegal got to the quarter finals last year,0
+Candace traveled to Blaj or Reghin,Candace traveled to neither Blaj nor Reghin,1
+Tunisia or Russia are in the geopolitical position of Australia, neither Tunisia nor Japan are in the geopolitical position of Australia,0
+Tunisia or Egypt got to the quarter finals last year,Tunisia didn't get to the quarter finals last year and Egypt didn't get to the quarter finals last year,1
+Courtney has visited Giurgiu or Bucharest,Courtney didn't visit Giurgiu and Courtney didn't visit Bucharest,1
+Chad traveled to Blaj or Reghin,Chad traveled to neither Blaj nor Reghin,1
+Germany or Colombia are in the geopolitical position of Sweden, neither Germany nor Colombia are in the geopolitical position of Sweden,1
+Kim traveled to Slatina or Reghin,Kim didn't travel to Reghin,0
+Portugal or Iceland got to the quarter finals last year,Portugal didn't get to the quarter finals last year and Iceland didn't get to the quarter finals last year,1
+Sweden or Costa Rica won the last world cup, neither Sweden nor Costa Rica won the last world cup,1
+Portugal or Sweden won the last world cup, neither Portugal nor Sweden won the last world cup,1
+Edgar has visited Lugoj or Oradea,Edgar didn't visit Lugoj and Edgar didn't visit Oradea,1
+Denmark or Portugal got to the quarter finals last year,Denmark didn't get to the quarter finals last year,0
+Earl went to Giurgiu or Turda,Sheryl went to neither Giurgiu nor Turda,0
+Rafael went to Deva or Baia Mare,Rafael didn't go to Deva and Rafael didn't go to Baia Mare,1
+Sweden or Argentina are in the geopolitical position of Portugal,Sweden isn't in the geopolitical position of Portugal and Argentina isn't in the geopolitical position of Portugal,1
+Australia or Japan won the last world cup,Australia didn't win the last world cup and Japan didn't win the last world cup,1
+Lucille has visited Reghin or Slatina,Lucille visited neither Reghin nor Slatina,1
+Croatia or Belgium are in the geopolitical position of Serbia,Croatia isn't in the geopolitical position of Serbia,0
+Barry has visited Craiova or Bucharest,Barry visited neither Cluj-Napoca nor Bucharest,0
+Kathy traveled to Mangalia or Oradea,Kathy didn't travel to Mangalia,0
+Ida has visited Timisoara or Dej,Ida didn't visit Timisoara,0
+Laurie has visited Giurgiu or Lugoj,Earl visited neither Giurgiu nor Lugoj,0
+Australia or Brazil got to the quarter finals last year, neither Australia nor Saudi Arabia got to the quarter finals last year,0
+Willie has visited Craiova or Baia Mare,Joann visited neither Craiova nor Baia Mare,0
+Henry has visited Arad or Dej,Henry didn't visit Dej,0
+Walter went to Tulcea or Vaslui,Walter didn't go to Vaslui,0
+Vanessa traveled to Arad or Blaj,Vanessa traveled to neither Arad nor Blaj,1
+Russia or Panama won the last world cup, neither Russia nor Panama won the last world cup,1
+Croatia or Morocco won the last world cup,Croatia didn't win the last world cup,0
+Denmark or Korea Republic are in the geopolitical position of Colombia,Denmark isn't in the geopolitical position of Colombia,0
+Victor went to Mangalia or Giurgiu,Victor didn't go to Mangalia and Victor didn't go to Giurgiu,1
+Peru or Iran won the last world cup,Peru didn't win the last world cup and Iran didn't win the last world cup,1
+Nathaniel went to Reghin or Giurgiu,Nathaniel went to neither Reghin nor Giurgiu,1
+Germany or Tunisia got to the quarter finals last year,Germany didn't get to the quarter finals last year and Tunisia didn't get to the quarter finals last year,1
+Melinda traveled to Hunedoara or Vaslui,Melinda didn't travel to Hunedoara and Melinda didn't travel to Vaslui,1
+Portugal or Japan won the last world cup,Portugal didn't win the last world cup and Japan didn't win the last world cup,1
+Claudia went to Dej or Blaj,Claudia didn't go to Dej,0
+Iran or Brazil got to the quarter finals last year,Iran didn't get to the quarter finals last year and Brazil didn't get to the quarter finals last year,1
+Francis has visited Bucharest or Vaslui,Bertha visited neither Bucharest nor Vaslui,0
+Bernard went to Turda or Reghin,Bernard didn't go to Turda and Bernard didn't go to Reghin,1
+Clifford traveled to Tulcea or Craiova,Clifford traveled to neither Tulcea nor Craiova,1
+Egypt or Spain won the last world cup,Egypt didn't win the last world cup,0
+Tunisia or Croatia got to the quarter finals last year, neither Switzerland  nor Tunisia got to the quarter finals last year,0
+Argentina or Colombia are in the geopolitical position of Costa Rica,Colombia isn't in the geopolitical position of Costa Rica,0
+Leon has visited Cluj-Napoca or Deva,Leon didn't visit Cluj-Napoca and Leon didn't visit Deva,1
+Germany or Korea Republic are in the geopolitical position of Poland,Korea Republic isn't in the geopolitical position of Poland,0
+Lawrence went to Arad or Hunedoara,Lawrence didn't go to Arad and Lawrence didn't go to Hunedoara,1
+Brad went to Slatina or Hunedoara,Brad didn't go to Slatina and Brad didn't go to Hunedoara,1
+Switzerland  or Nigeria are in the geopolitical position of Mexico, neither France nor Switzerland  are in the geopolitical position of Mexico,0
+Sweden or Poland are in the geopolitical position of Panama, neither Spain nor Sweden are in the geopolitical position of Panama,0
+Iceland or Sweden got to the quarter finals last year, neither Iceland nor Sweden got to the quarter finals last year,1
+Stephanie went to Lugoj or Deva,Stephanie went to neither Lugoj nor Deva,1
+Australia or France won the last world cup,Australia didn't win the last world cup and France didn't win the last world cup,1
+Fannie has visited Cluj-Napoca or Reghin,Bobby visited neither Cluj-Napoca nor Reghin,0
+Serbia or Portugal won the last world cup, neither Serbia nor Portugal won the last world cup,1
+Antoinette traveled to Arad or Tulcea,Antoinette traveled to neither Arad nor Tulcea,1
+Iran or Colombia are in the geopolitical position of Mexico,Iran isn't in the geopolitical position of Mexico,0
+Sweden or Uruguay are in the geopolitical position of France,Sweden isn't in the geopolitical position of France,0
+Jan went to Tulcea or Blaj,Jan went to neither Tulcea nor Blaj,1
+Colombia or Mexico got to the quarter finals last year, neither Colombia nor Mexico got to the quarter finals last year,1
+Costa Rica or Russia won the last world cup, neither England nor Costa Rica won the last world cup,0
+Max traveled to Turda or Hunedoara,Max didn't travel to Turda and Max didn't travel to Hunedoara,1
+Mexico or Spain won the last world cup,Spain didn't win the last world cup,0
+Belgium or Switzerland  are in the geopolitical position of Costa Rica, neither Belgium nor Switzerland  are in the geopolitical position of Costa Rica,1
+Saudi Arabia or Panama are in the geopolitical position of Portugal,Saudi Arabia isn't in the geopolitical position of Portugal and Panama isn't in the geopolitical position of Portugal,1
+Spain or Denmark got to the quarter finals last year, neither France nor Spain got to the quarter finals last year,0
+Nigeria or Spain are in the geopolitical position of Tunisia, neither Nigeria nor Spain are in the geopolitical position of Tunisia,1
+Lisa traveled to Hunedoara or Deva,Lisa traveled to neither Hunedoara nor Cluj-Napoca,0
+Kristen went to Dej or Mangalia,Kristen didn't go to Dej and Kristen didn't go to Mangalia,1
+Senegal or Argentina are in the geopolitical position of Australia, neither Senegal nor Argentina are in the geopolitical position of Australia,1
+Poland or Russia won the last world cup, neither Poland nor Russia won the last world cup,1
+Lillian has visited Arad or Craiova,Alexander visited neither Arad nor Craiova,0
+Carl traveled to Giurgiu or Hunedoara,Carl traveled to neither Giurgiu nor Hunedoara,1
+Sam traveled to Oradea or Blaj,Sam didn't travel to Blaj,0
+Mexico or Croatia are in the geopolitical position of Portugal, neither Mexico nor Poland are in the geopolitical position of Portugal,0
+Spain or Switzerland  are in the geopolitical position of Costa Rica, neither Argentina nor Spain are in the geopolitical position of Costa Rica,0
+Alison traveled to Slobozia or Bucharest,Alison didn't travel to Slobozia,0
+Michele traveled to Baia Mare or Bucharest,Michele traveled to neither Baia Mare nor Bucharest,1
+Panama or Portugal won the last world cup, neither Panama nor Portugal won the last world cup,1
+Portugal or Poland got to the quarter finals last year, neither Portugal nor Japan got to the quarter finals last year,0
+Kelly traveled to Bucharest or Dej,Kelly traveled to neither Bucharest nor Reghin,0
+Guadalupe has visited Dej or Oradea,Guadalupe visited neither Dej nor Oradea,1
+Costa Rica or Sweden are in the geopolitical position of Peru, neither Costa Rica nor Sweden are in the geopolitical position of Peru,1
+Lola has visited Giurgiu or Deva,Lola visited neither Giurgiu nor Deva,1
+Argentina or Nigeria got to the quarter finals last year,Argentina didn't get to the quarter finals last year and Nigeria didn't get to the quarter finals last year,1
+Shirley went to Hunedoara or Craiova,Shirley didn't go to Hunedoara and Shirley didn't go to Craiova,1
+Morocco or Switzerland  are in the geopolitical position of Poland,Morocco isn't in the geopolitical position of Poland and Switzerland  isn't in the geopolitical position of Poland,1
+Ken traveled to Slatina or Dej,Ken didn't travel to Dej,0
+Spain or Germany got to the quarter finals last year, neither Spain nor Belgium got to the quarter finals last year,0
+Spain or Poland got to the quarter finals last year,Poland didn't get to the quarter finals last year,0
+Portugal or Costa Rica won the last world cup, neither Iceland nor Portugal won the last world cup,0
+Dan traveled to Mangalia or Slatina,Dan traveled to neither Mangalia nor Slatina,1
+Colombia or Germany are in the geopolitical position of Switzerland , neither Colombia nor Germany are in the geopolitical position of Switzerland ,1
+Genevieve went to Reghin or Bucharest,Genevieve didn't go to Reghin and Genevieve didn't go to Bucharest,1
+Tommy traveled to Giurgiu or Slatina,Tommy traveled to neither Giurgiu nor Vaslui,0
+Tyler has visited Arad or Hunedoara,Tyler didn't visit Arad,0
+Matthew has visited Dej or Slobozia,Matthew didn't visit Slobozia,0
+Argentina or England are in the geopolitical position of Sweden, neither Argentina nor England are in the geopolitical position of Sweden,1
+Portugal or Egypt won the last world cup,Portugal didn't win the last world cup,0
+Guy went to Arad or Slobozia,Guy went to neither Craiova nor Slobozia,0
+Colombia or Serbia are in the geopolitical position of Japan,Colombia isn't in the geopolitical position of Japan and Serbia isn't in the geopolitical position of Japan,1
+Portugal or Brazil got to the quarter finals last year, neither Portugal nor Brazil got to the quarter finals last year,1
+Mitchell traveled to Giurgiu or Craiova,Mitchell didn't travel to Craiova,0
+Opal traveled to Blaj or Arad,Opal traveled to neither Blaj nor Arad,1
+Fred went to Vaslui or Reghin,Fred didn't go to Vaslui and Fred didn't go to Reghin,1
+Lula went to Lugoj or Arad,Lula went to neither Timisoara nor Arad,0
+Tunisia or Poland won the last world cup,Tunisia didn't win the last world cup and Poland didn't win the last world cup,1
+Francis traveled to Arad or Reghin,Francis didn't travel to Reghin,0
+Iceland or Mexico got to the quarter finals last year,Iceland didn't get to the quarter finals last year and Mexico didn't get to the quarter finals last year,1
+Argentina or Iran got to the quarter finals last year, neither Argentina nor Peru got to the quarter finals last year,0
+Costa Rica or Senegal got to the quarter finals last year, neither Costa Rica nor Senegal got to the quarter finals last year,1
+Maryann went to Bucharest or Tulcea,Calvin went to neither Bucharest nor Tulcea,0
+Marshall traveled to Bucharest or Baia Mare,Marshall didn't travel to Bucharest and Marshall didn't travel to Baia Mare,1
+Iran or Nigeria got to the quarter finals last year, neither Iran nor Tunisia got to the quarter finals last year,0
+Brazil or Poland got to the quarter finals last year, neither Brazil nor Poland got to the quarter finals last year,1
+Brian traveled to Oradea or Giurgiu,Brian didn't travel to Giurgiu,0
+Denmark or Saudi Arabia won the last world cup, neither Denmark nor Saudi Arabia won the last world cup,1
+Monique went to Blaj or Arad,Monique didn't go to Blaj and Monique didn't go to Arad,1
+Egypt or Switzerland  won the last world cup, neither Egypt nor Switzerland  won the last world cup,1
+Croatia or Brazil won the last world cup,Croatia didn't win the last world cup and Brazil didn't win the last world cup,1
+Laurie traveled to Timisoara or Baia Mare,Juan traveled to neither Timisoara nor Baia Mare,0
+Cecil has visited Lugoj or Bucharest,Billie visited neither Lugoj nor Bucharest,0
+Iran or Japan won the last world cup,Japan didn't win the last world cup,0
+Priscilla went to Blaj or Craiova,Priscilla went to neither Blaj nor Craiova,1
+Costa Rica or Belgium are in the geopolitical position of Korea Republic, neither Costa Rica nor Belgium are in the geopolitical position of Korea Republic,1
+Switzerland  or Australia won the last world cup,Switzerland  didn't win the last world cup and Australia didn't win the last world cup,1
+Argentina or Poland won the last world cup,Argentina didn't win the last world cup,0
+Eduardo went to Lugoj or Arad,Eduardo went to neither Lugoj nor Arad,1
+Brazil or Colombia got to the quarter finals last year, neither Brazil nor Colombia got to the quarter finals last year,1
+Steven has visited Deva or Cluj-Napoca,Steven didn't visit Deva,0
+Portugal or Croatia won the last world cup, neither Portugal nor Tunisia won the last world cup,0
+Serbia or Tunisia got to the quarter finals last year, neither Panama nor Serbia got to the quarter finals last year,0
+Ida went to Vaslui or Giurgiu,Ida didn't go to Giurgiu,0
+Costa Rica or Colombia won the last world cup,Costa Rica didn't win the last world cup,0
+Nigeria or Costa Rica are in the geopolitical position of Egypt,Nigeria isn't in the geopolitical position of Egypt and Costa Rica isn't in the geopolitical position of Egypt,1
+Peru or Portugal won the last world cup, neither Spain nor Peru won the last world cup,0
+Dwight went to Bucharest or Hunedoara,Dwight went to neither Bucharest nor Hunedoara,1
+Croatia or Tunisia won the last world cup,Croatia didn't win the last world cup,0
+Wendy traveled to Hunedoara or Timisoara,Wendy traveled to neither Hunedoara nor Bucharest,0
+Marcia has visited Blaj or Cluj-Napoca,Marcia didn't visit Blaj and Marcia didn't visit Cluj-Napoca,1
+Kenneth went to Slobozia or Giurgiu,Kenneth didn't go to Slobozia and Kenneth didn't go to Giurgiu,1
+Shirley traveled to Slatina or Bucharest,Shirley didn't travel to Slatina and Shirley didn't travel to Bucharest,1
+Renee has visited Cluj-Napoca or Slobozia,Renee visited neither Cluj-Napoca nor Slobozia,1
+Japan or Belgium got to the quarter finals last year,Japan didn't get to the quarter finals last year and Belgium didn't get to the quarter finals last year,1
+Denmark or Russia won the last world cup,Denmark didn't win the last world cup and Russia didn't win the last world cup,1
+Constance went to Mangalia or Slobozia,Constance went to neither Mangalia nor Slobozia,1
+Clyde went to Hunedoara or Cluj-Napoca,Clyde went to neither Turda nor Cluj-Napoca,0
+Tunisia or Senegal got to the quarter finals last year,Senegal didn't get to the quarter finals last year,0
+Switzerland  or Colombia won the last world cup,Switzerland  didn't win the last world cup and Colombia didn't win the last world cup,1
+Mexico or Panama are in the geopolitical position of Sweden,Mexico isn't in the geopolitical position of Sweden and Panama isn't in the geopolitical position of Sweden,1
+Argentina or Egypt are in the geopolitical position of Australia,Argentina isn't in the geopolitical position of Australia and Egypt isn't in the geopolitical position of Australia,1
+Senegal or Argentina won the last world cup,Argentina didn't win the last world cup,0
+Irene went to Deva or Slatina,Irene went to neither Deva nor Slatina,1
+Candace traveled to Cluj-Napoca or Baia Mare,Candace didn't travel to Baia Mare,0
+Harry has visited Cluj-Napoca or Tulcea,Harry visited neither Giurgiu nor Tulcea,0
+Dan went to Lugoj or Slobozia,Dan didn't go to Slobozia,0
+Darrell went to Bucharest or Deva,Darrell didn't go to Bucharest and Darrell didn't go to Deva,1
+Argentina or Sweden won the last world cup, neither Argentina nor Sweden won the last world cup,1
+Iceland or Tunisia got to the quarter finals last year, neither Iceland nor Tunisia got to the quarter finals last year,1
+Theresa has visited Reghin or Oradea,Theresa visited neither Reghin nor Oradea,1
+Croatia or Spain won the last world cup,Croatia didn't win the last world cup and Spain didn't win the last world cup,1
+Panama or Mexico are in the geopolitical position of Portugal,Panama isn't in the geopolitical position of Portugal,0
+Nicole went to Oradea or Timisoara,Nicole didn't go to Oradea and Nicole didn't go to Timisoara,1
+Russia or Uruguay are in the geopolitical position of Brazil,Russia isn't in the geopolitical position of Brazil and Uruguay isn't in the geopolitical position of Brazil,1
+Mexico or Sweden are in the geopolitical position of Argentina,Sweden isn't in the geopolitical position of Argentina,0
+Margie traveled to Bucharest or Hunedoara,Michele traveled to neither Bucharest nor Hunedoara,0
+Australia or Poland got to the quarter finals last year,Australia didn't get to the quarter finals last year,0
+Toni went to Mangalia or Arad,Byron went to neither Mangalia nor Arad,0
+Raul has visited Cluj-Napoca or Dej,Raul visited neither Cluj-Napoca nor Dej,1
+Arnold went to Craiova or Lugoj,Naomi went to neither Craiova nor Lugoj,0
+Brazil or Russia won the last world cup,Russia didn't win the last world cup,0
+Belinda traveled to Vaslui or Turda,Belinda didn't travel to Vaslui and Belinda didn't travel to Turda,1
+Iran or Russia got to the quarter finals last year,Iran didn't get to the quarter finals last year and Russia didn't get to the quarter finals last year,1
+Adam went to Slatina or Baia Mare,Adam went to neither Slatina nor Baia Mare,1
+France or Brazil won the last world cup,Brazil didn't win the last world cup,0
+Denmark or Switzerland  won the last world cup,Denmark didn't win the last world cup,0
+Dora has visited Giurgiu or Mangalia,Dora didn't visit Mangalia,0
+Peru or Panama are in the geopolitical position of Brazil, neither Peru nor Panama are in the geopolitical position of Brazil,1
+Travis traveled to Tulcea or Timisoara,Travis traveled to neither Tulcea nor Baia Mare,0
+Violet traveled to Vaslui or Turda,Violet didn't travel to Vaslui and Violet didn't travel to Turda,1
+Angel went to Bucharest or Slobozia,Angel didn't go to Slobozia,0
+Javier went to Deva or Reghin,Javier went to neither Deva nor Reghin,1
+Costa Rica or Sweden won the last world cup,Costa Rica didn't win the last world cup,0
+Olivia went to Dej or Reghin,Jason went to neither Dej nor Reghin,0
+Brandon has visited Turda or Oradea,Brandon didn't visit Turda and Brandon didn't visit Oradea,1
+Senegal or Belgium are in the geopolitical position of Sweden, neither Poland nor Senegal are in the geopolitical position of Sweden,0
+Uruguay or Tunisia got to the quarter finals last year, neither Brazil nor Uruguay got to the quarter finals last year,0
+Mexico or Germany got to the quarter finals last year,Germany didn't get to the quarter finals last year,0
+Vivian has visited Cluj-Napoca or Lugoj,Vivian didn't visit Cluj-Napoca and Vivian didn't visit Lugoj,1
+Colombia or Argentina won the last world cup,Colombia didn't win the last world cup and Argentina didn't win the last world cup,1
+Morocco or Belgium are in the geopolitical position of Australia, neither Morocco nor Belgium are in the geopolitical position of Australia,1
+Belgium or Argentina got to the quarter finals last year, neither Belgium nor Argentina got to the quarter finals last year,1
+Colombia or Spain got to the quarter finals last year,Colombia didn't get to the quarter finals last year and Spain didn't get to the quarter finals last year,1
+Jennifer has visited Slobozia or Baia Mare,Jennifer visited neither Lugoj nor Baia Mare,0
+Candice went to Deva or Hunedoara,Shirley went to neither Deva nor Hunedoara,0
+Nigeria or Denmark won the last world cup, neither Nigeria nor Denmark won the last world cup,1
+Japan or Colombia got to the quarter finals last year,Japan didn't get to the quarter finals last year,0
+Russia or Poland are in the geopolitical position of Nigeria,Russia isn't in the geopolitical position of Nigeria,0
+Delores went to Hunedoara or Bucharest,Delores didn't go to Bucharest,0
+Mexico or Iceland are in the geopolitical position of Panama,Mexico isn't in the geopolitical position of Panama and Iceland isn't in the geopolitical position of Panama,1
+Daniel traveled to Baia Mare or Lugoj,Daniel traveled to neither Baia Mare nor Lugoj,1
+Iceland or Panama are in the geopolitical position of Spain, neither Iceland nor Portugal are in the geopolitical position of Spain,0
+Jay has visited Mangalia or Slobozia,Katie visited neither Mangalia nor Slobozia,0
+Iran or Iceland got to the quarter finals last year, neither Morocco nor Iran got to the quarter finals last year,0
+Morocco or Serbia got to the quarter finals last year,Morocco didn't get to the quarter finals last year and Serbia didn't get to the quarter finals last year,1
+Brandon went to Slobozia or Giurgiu,Brandon went to neither Slobozia nor Giurgiu,1
+Chester went to Reghin or Vaslui,Chester didn't go to Reghin and Chester didn't go to Vaslui,1
+Belgium or Panama are in the geopolitical position of Sweden,Panama isn't in the geopolitical position of Sweden,0
+Sergio traveled to Hunedoara or Mangalia,Sergio didn't travel to Mangalia,0
+Samuel has visited Reghin or Oradea,Samuel didn't visit Oradea,0
+Germany or Sweden won the last world cup,Germany didn't win the last world cup and Sweden didn't win the last world cup,1
+Florence traveled to Lugoj or Mangalia,Florence didn't travel to Mangalia,0
+Freddie traveled to Timisoara or Arad,Freddie didn't travel to Timisoara,0
+France or Egypt won the last world cup, neither Saudi Arabia nor France won the last world cup,0
+Nigeria or Egypt won the last world cup,Nigeria didn't win the last world cup,0
+Russia or Croatia got to the quarter finals last year, neither Russia nor Croatia got to the quarter finals last year,1
+Argentina or France are in the geopolitical position of Mexico, neither Argentina nor France are in the geopolitical position of Mexico,1
+Barry went to Baia Mare or Craiova,Norma went to neither Baia Mare nor Craiova,0
+Russia or Japan won the last world cup, neither Russia nor Japan won the last world cup,1
+France or Sweden won the last world cup,France didn't win the last world cup and Sweden didn't win the last world cup,1
+Danny went to Bucharest or Tulcea,Danny went to neither Bucharest nor Tulcea,1
+Colombia or Morocco won the last world cup,Colombia didn't win the last world cup and Morocco didn't win the last world cup,1
+Olga traveled to Oradea or Timisoara,Olga didn't travel to Timisoara,0
+Alvin went to Reghin or Baia Mare,Johnny went to neither Reghin nor Baia Mare,0
+Jon went to Baia Mare or Slobozia,Jon went to neither Slatina nor Slobozia,0
+Japan or Iceland are in the geopolitical position of Costa Rica,Japan isn't in the geopolitical position of Costa Rica and Iceland isn't in the geopolitical position of Costa Rica,1
+Morocco or Argentina got to the quarter finals last year,Argentina didn't get to the quarter finals last year,0
+England or Australia won the last world cup, neither England nor Australia won the last world cup,1
+Hattie traveled to Blaj or Dej,Hattie didn't travel to Blaj and Hattie didn't travel to Dej,1
+Billy went to Bucharest or Blaj,Billy went to neither Vaslui nor Blaj,0
+France or Nigeria got to the quarter finals last year, neither Japan nor France got to the quarter finals last year,0
+Guy traveled to Oradea or Craiova,Guy didn't travel to Craiova,0
+Croatia or Portugal won the last world cup, neither Croatia nor Costa Rica won the last world cup,0
+Iran or Portugal are in the geopolitical position of Mexico,Iran isn't in the geopolitical position of Mexico and Portugal isn't in the geopolitical position of Mexico,1
+Argentina or Brazil won the last world cup, neither Argentina nor Russia won the last world cup,0
+Virginia has visited Dej or Mangalia,Virginia visited neither Dej nor Mangalia,1
+Switzerland  or Croatia won the last world cup,Switzerland  didn't win the last world cup,0
+Bernard went to Deva or Slatina,Glen went to neither Deva nor Slatina,0
+Jose has visited Cluj-Napoca or Vaslui,Jose didn't visit Cluj-Napoca,0
+Brazil or Croatia got to the quarter finals last year,Croatia didn't get to the quarter finals last year,0
+Brett has visited Mangalia or Timisoara,Brett didn't visit Mangalia,0
+Serbia or France won the last world cup,Serbia didn't win the last world cup,0
+Juanita has visited Deva or Bucharest,Juanita visited neither Arad nor Bucharest,0
+Byron went to Oradea or Tulcea,Byron didn't go to Oradea,0
+Saudi Arabia or Portugal got to the quarter finals last year, neither Saudi Arabia nor Switzerland  got to the quarter finals last year,0
+Christian has visited Giurgiu or Turda,Christian visited neither Slatina nor Turda,0
+Wesley traveled to Slatina or Giurgiu,Wesley didn't travel to Slatina and Wesley didn't travel to Giurgiu,1
+Robert went to Mangalia or Blaj,Robert went to neither Mangalia nor Blaj,1
+Brazil or Serbia are in the geopolitical position of Germany, neither Brazil nor Serbia are in the geopolitical position of Germany,1
+Germany or Tunisia got to the quarter finals last year,Germany didn't get to the quarter finals last year,0
+Philip went to Reghin or Cluj-Napoca,Louise went to neither Reghin nor Cluj-Napoca,0
+Korea Republic or Egypt won the last world cup, neither Korea Republic nor Egypt won the last world cup,1
+Daisy went to Tulcea or Bucharest,Daisy went to neither Baia Mare nor Bucharest,0
+Peru or Poland won the last world cup,Peru didn't win the last world cup and Poland didn't win the last world cup,1
+England or Uruguay won the last world cup, neither Sweden nor England won the last world cup,0
+Saudi Arabia or Poland got to the quarter finals last year,Saudi Arabia didn't get to the quarter finals last year and Poland didn't get to the quarter finals last year,1
+Argentina or Morocco got to the quarter finals last year,Argentina didn't get to the quarter finals last year and Morocco didn't get to the quarter finals last year,1
+Clayton traveled to Hunedoara or Lugoj,Alberta traveled to neither Hunedoara nor Lugoj,0
+Korea Republic or Spain are in the geopolitical position of Egypt, neither Korea Republic nor Spain are in the geopolitical position of Egypt,1
+Spain or Germany got to the quarter finals last year,Spain didn't get to the quarter finals last year and Germany didn't get to the quarter finals last year,1
+Russia or Switzerland  are in the geopolitical position of Denmark,Russia isn't in the geopolitical position of Denmark and Switzerland  isn't in the geopolitical position of Denmark,1
+Iceland or Costa Rica got to the quarter finals last year, neither Iceland nor Costa Rica got to the quarter finals last year,1
+Dorothy has visited Timisoara or Turda,Dorothy visited neither Lugoj nor Turda,0
+Senegal or Egypt are in the geopolitical position of Brazil,Senegal isn't in the geopolitical position of Brazil,0
+Ella traveled to Slobozia or Baia Mare,Ella traveled to neither Slobozia nor Baia Mare,1
+Melvin went to Tulcea or Blaj,Melvin didn't go to Tulcea and Melvin didn't go to Blaj,1
+Marsha has visited Timisoara or Deva,Wesley visited neither Timisoara nor Deva,0
+Uruguay or Peru got to the quarter finals last year,Uruguay didn't get to the quarter finals last year,0
+Jessie has visited Tulcea or Baia Mare,Wilma visited neither Tulcea nor Baia Mare,0
+Katherine has visited Dej or Giurgiu,Katherine didn't visit Dej,0
+Rita has visited Hunedoara or Cluj-Napoca,Rita didn't visit Cluj-Napoca,0
+Theresa has visited Craiova or Reghin,Theresa didn't visit Craiova,0
+Japan or Saudi Arabia won the last world cup, neither Japan nor Costa Rica won the last world cup,0
+Iran or Poland got to the quarter finals last year,Iran didn't get to the quarter finals last year,0
+Sandy traveled to Mangalia or Dej,Sandy traveled to neither Mangalia nor Timisoara,0
+Marc went to Lugoj or Timisoara,Marc went to neither Slatina nor Timisoara,0
+Senegal or Panama got to the quarter finals last year, neither Senegal nor Panama got to the quarter finals last year,1
+Brandon has visited Bucharest or Tulcea,Brandon didn't visit Bucharest and Brandon didn't visit Tulcea,1
+Jenny traveled to Bucharest or Vaslui,Jenny traveled to neither Bucharest nor Vaslui,1
+Susie has visited Turda or Baia Mare,Susie visited neither Mangalia nor Baia Mare,0
+Laurie went to Blaj or Mangalia,Laurie went to neither Slatina nor Mangalia,0
+Egypt or England got to the quarter finals last year,Egypt didn't get to the quarter finals last year and England didn't get to the quarter finals last year,1
+Denmark or France are in the geopolitical position of Brazil, neither Denmark nor France are in the geopolitical position of Brazil,1
+Senegal or Belgium won the last world cup,Senegal didn't win the last world cup and Belgium didn't win the last world cup,1
+Sweden or Uruguay are in the geopolitical position of Croatia,Uruguay isn't in the geopolitical position of Croatia,0
+Iceland or Tunisia got to the quarter finals last year,Iceland didn't get to the quarter finals last year and Tunisia didn't get to the quarter finals last year,1
+Alberta has visited Hunedoara or Bucharest,Alberta didn't visit Hunedoara and Alberta didn't visit Bucharest,1
+Brazil or Sweden are in the geopolitical position of Japan,Brazil isn't in the geopolitical position of Japan and Sweden isn't in the geopolitical position of Japan,1
+Kathleen went to Reghin or Deva,Kathleen didn't go to Reghin,0
+Marion went to Baia Mare or Oradea,Marion didn't go to Oradea,0
+Morocco or Korea Republic are in the geopolitical position of Saudi Arabia,Morocco isn't in the geopolitical position of Saudi Arabia and Korea Republic isn't in the geopolitical position of Saudi Arabia,1
+Sam went to Vaslui or Baia Mare,Sam went to neither Craiova nor Baia Mare,0
+Colombia or Germany won the last world cup,Colombia didn't win the last world cup and Germany didn't win the last world cup,1
+Florence traveled to Hunedoara or Blaj,Florence didn't travel to Hunedoara and Florence didn't travel to Blaj,1
+England or Tunisia got to the quarter finals last year, neither England nor Tunisia got to the quarter finals last year,1
+Lawrence went to Reghin or Vaslui,Lawrence didn't go to Vaslui,0
+Poland or Sweden got to the quarter finals last year, neither Poland nor Sweden got to the quarter finals last year,1
+Egypt or England won the last world cup,Egypt didn't win the last world cup,0
+Saudi Arabia or Panama won the last world cup,Saudi Arabia didn't win the last world cup and Panama didn't win the last world cup,1
+Judith traveled to Dej or Lugoj,Judith didn't travel to Dej and Judith didn't travel to Lugoj,1
+Saudi Arabia or Iran won the last world cup,Saudi Arabia didn't win the last world cup and Iran didn't win the last world cup,1
+Spain or Nigeria are in the geopolitical position of Korea Republic, neither Spain nor Nigeria are in the geopolitical position of Korea Republic,1
+Tunisia or Mexico got to the quarter finals last year, neither Tunisia nor Mexico got to the quarter finals last year,1
+Switzerland  or Portugal are in the geopolitical position of Costa Rica, neither Switzerland  nor Portugal are in the geopolitical position of Costa Rica,1
+Dorothy has visited Blaj or Tulcea,Dorothy didn't visit Blaj and Dorothy didn't visit Tulcea,1
+Morocco or Switzerland  are in the geopolitical position of Russia,Switzerland  isn't in the geopolitical position of Russia,0
+Rafael went to Oradea or Bucharest,Rafael went to neither Arad nor Bucharest,0
+Uruguay or Panama got to the quarter finals last year, neither Uruguay nor Egypt got to the quarter finals last year,0
+Hattie went to Reghin or Lugoj,Jimmy went to neither Reghin nor Lugoj,0
+England or Germany won the last world cup,England didn't win the last world cup and Germany didn't win the last world cup,1
+Jenny has visited Vaslui or Oradea,Jenny visited neither Cluj-Napoca nor Oradea,0
+Brandy traveled to Slatina or Craiova,Brandy didn't travel to Craiova,0
+Australia or Portugal won the last world cup, neither Australia nor Portugal won the last world cup,1
+Poland or Mexico won the last world cup, neither Poland nor Mexico won the last world cup,1
+Poland or Spain got to the quarter finals last year, neither Poland nor Spain got to the quarter finals last year,1
+Marcus went to Giurgiu or Cluj-Napoca,Barbara went to neither Giurgiu nor Cluj-Napoca,0
+Nigeria or Croatia won the last world cup,Nigeria didn't win the last world cup,0
+Maxine traveled to Turda or Giurgiu,Maxine didn't travel to Turda,0
+Poland or Iran got to the quarter finals last year,Poland didn't get to the quarter finals last year,0
+Australia or Sweden won the last world cup, neither Australia nor Sweden won the last world cup,1
+Peru or Germany won the last world cup,Peru didn't win the last world cup,0
+Brandi has visited Bucharest or Baia Mare,Brandi didn't visit Bucharest and Brandi didn't visit Baia Mare,1
+Tanya went to Giurgiu or Cluj-Napoca,Tanya went to neither Hunedoara nor Cluj-Napoca,0
+France or Saudi Arabia got to the quarter finals last year, neither Germany nor France got to the quarter finals last year,0
+Tunisia or Germany are in the geopolitical position of Croatia, neither Tunisia nor Germany are in the geopolitical position of Croatia,1
+Uruguay or France got to the quarter finals last year, neither Uruguay nor Egypt got to the quarter finals last year,0
+Argentina or Egypt got to the quarter finals last year,Argentina didn't get to the quarter finals last year and Egypt didn't get to the quarter finals last year,1
+Tracy has visited Hunedoara or Timisoara,Tracy visited neither Hunedoara nor Timisoara,1
+Bernice went to Giurgiu or Tulcea,Bernice didn't go to Giurgiu and Bernice didn't go to Tulcea,1
+Switzerland  or France got to the quarter finals last year,France didn't get to the quarter finals last year,0
+Flora traveled to Baia Mare or Slatina,Tom traveled to neither Baia Mare nor Slatina,0
+England or Poland are in the geopolitical position of Brazil,England isn't in the geopolitical position of Brazil,0
+Andy traveled to Mangalia or Cluj-Napoca,Kirk traveled to neither Mangalia nor Cluj-Napoca,0
+Anne went to Blaj or Bucharest,Anne went to neither Lugoj nor Bucharest,0
+Stacey has visited Dej or Turda,Stacey visited neither Dej nor Turda,1
+Egypt or Mexico are in the geopolitical position of Japan,Egypt isn't in the geopolitical position of Japan,0
+Mitchell went to Mangalia or Slobozia,Mitchell didn't go to Mangalia and Mitchell didn't go to Slobozia,1
+Senegal or Morocco got to the quarter finals last year, neither Senegal nor Morocco got to the quarter finals last year,1
+Darryl went to Slobozia or Arad,Arthur went to neither Slobozia nor Arad,0
+Bessie traveled to Tulcea or Slatina,Rebecca traveled to neither Tulcea nor Slatina,0
+Paul traveled to Reghin or Hunedoara,Paul didn't travel to Hunedoara,0
+Ruth went to Lugoj or Baia Mare,Ruth didn't go to Lugoj,0
+Tunisia or Korea Republic are in the geopolitical position of Belgium,Tunisia isn't in the geopolitical position of Belgium and Korea Republic isn't in the geopolitical position of Belgium,1
+Sweden or England got to the quarter finals last year, neither Sweden nor England got to the quarter finals last year,1
+Jonathan went to Lugoj or Tulcea,Irma went to neither Lugoj nor Tulcea,0
+France or Egypt are in the geopolitical position of England, neither France nor Egypt are in the geopolitical position of England,1
+Marjorie traveled to Dej or Bucharest,Marjorie traveled to neither Dej nor Mangalia,0
+Uruguay or Tunisia won the last world cup,Tunisia didn't win the last world cup,0
+Florence went to Blaj or Arad,Florence didn't go to Blaj,0
+Iran or Brazil are in the geopolitical position of France,Iran isn't in the geopolitical position of France,0
+Lewis traveled to Giurgiu or Blaj,Lewis traveled to neither Giurgiu nor Blaj,1
+Tunisia or France got to the quarter finals last year,Tunisia didn't get to the quarter finals last year,0
+Belgium or Morocco are in the geopolitical position of England,Belgium isn't in the geopolitical position of England and Morocco isn't in the geopolitical position of England,1
+Switzerland  or Denmark got to the quarter finals last year, neither Switzerland  nor Japan got to the quarter finals last year,0
+Marion has visited Mangalia or Deva,Marion didn't visit Mangalia and Marion didn't visit Deva,1
+Peru or Russia got to the quarter finals last year, neither Peru nor Russia got to the quarter finals last year,1
+Cheryl went to Reghin or Mangalia,Kristy went to neither Reghin nor Mangalia,0
+Iceland or Nigeria are in the geopolitical position of Germany, neither Iceland nor Nigeria are in the geopolitical position of Germany,1
+Denmark or Morocco are in the geopolitical position of Poland, neither Croatia nor Denmark are in the geopolitical position of Poland,0
+Tunisia or Iceland won the last world cup, neither Tunisia nor Germany won the last world cup,0
+Denmark or Panama got to the quarter finals last year,Denmark didn't get to the quarter finals last year and Panama didn't get to the quarter finals last year,1
+Bessie has visited Giurgiu or Baia Mare,Bessie didn't visit Giurgiu,0
+Aaron has visited Mangalia or Baia Mare,Aaron didn't visit Baia Mare,0
+Miriam went to Timisoara or Tulcea,Miriam went to neither Timisoara nor Tulcea,1
+Helen traveled to Bucharest or Oradea,Helen didn't travel to Bucharest and Helen didn't travel to Oradea,1
+Germany or France won the last world cup,Germany didn't win the last world cup and France didn't win the last world cup,1
+Ruby went to Cluj-Napoca or Craiova,Ruby went to neither Cluj-Napoca nor Craiova,1
+Belgium or Saudi Arabia are in the geopolitical position of Iran,Belgium isn't in the geopolitical position of Iran and Saudi Arabia isn't in the geopolitical position of Iran,1
+Belgium or Serbia got to the quarter finals last year,Belgium didn't get to the quarter finals last year and Serbia didn't get to the quarter finals last year,1
+Germany or Korea Republic won the last world cup, neither Germany nor Korea Republic won the last world cup,1
+Australia or Brazil got to the quarter finals last year,Brazil didn't get to the quarter finals last year,0
+Salvador went to Vaslui or Baia Mare,Salvador didn't go to Vaslui,0
+Timothy traveled to Craiova or Slatina,Timothy traveled to neither Craiova nor Slatina,1
+Brazil or Spain are in the geopolitical position of Switzerland ,Brazil isn't in the geopolitical position of Switzerland  and Spain isn't in the geopolitical position of Switzerland ,1
+Costa Rica or England won the last world cup, neither Costa Rica nor England won the last world cup,1
+Mabel has visited Oradea or Slobozia,Duane visited neither Oradea nor Slobozia,0
+Angel traveled to Slobozia or Dej,Angel didn't travel to Slobozia and Angel didn't travel to Dej,1
+Frances went to Baia Mare or Craiova,Frances didn't go to Baia Mare and Frances didn't go to Craiova,1
+Poland or Russia got to the quarter finals last year,Poland didn't get to the quarter finals last year and Russia didn't get to the quarter finals last year,1
+Tunisia or Argentina won the last world cup,Tunisia didn't win the last world cup and Argentina didn't win the last world cup,1
+Henry traveled to Vaslui or Turda,Henry didn't travel to Vaslui and Henry didn't travel to Turda,1
+Sweden or Russia are in the geopolitical position of Colombia, neither Sweden nor Russia are in the geopolitical position of Colombia,1
+Judith traveled to Craiova or Timisoara,Alison traveled to neither Craiova nor Timisoara,0
+Willie has visited Blaj or Craiova,Willie visited neither Reghin nor Craiova,0
+Colombia or Switzerland  won the last world cup, neither Colombia nor Switzerland  won the last world cup,1
+Argentina or Iceland got to the quarter finals last year, neither Croatia nor Argentina got to the quarter finals last year,0
+Morocco or Russia got to the quarter finals last year, neither Nigeria nor Morocco got to the quarter finals last year,0
+Tunisia or Morocco won the last world cup,Tunisia didn't win the last world cup and Morocco didn't win the last world cup,1
+Japan or Korea Republic got to the quarter finals last year, neither England nor Japan got to the quarter finals last year,0
+Courtney has visited Giurgiu or Oradea,Courtney didn't visit Giurgiu,0
+Jackie went to Arad or Cluj-Napoca,Jackie didn't go to Cluj-Napoca,0
+Ashley traveled to Craiova or Turda,Allen traveled to neither Craiova nor Turda,0
+Croatia or Japan won the last world cup,Japan didn't win the last world cup,0
+Fernando traveled to Mangalia or Timisoara,Fernando traveled to neither Mangalia nor Arad,0
+Denmark or Germany got to the quarter finals last year, neither Denmark nor Germany got to the quarter finals last year,1
+Senegal or Colombia got to the quarter finals last year, neither Senegal nor Colombia got to the quarter finals last year,1
+Uruguay or Serbia won the last world cup,Uruguay didn't win the last world cup and Serbia didn't win the last world cup,1
+Japan or Portugal won the last world cup,Japan didn't win the last world cup,0
+Felix traveled to Deva or Turda,Felix traveled to neither Deva nor Turda,1
+Colombia or Uruguay got to the quarter finals last year,Colombia didn't get to the quarter finals last year and Uruguay didn't get to the quarter finals last year,1
+Daryl has visited Deva or Baia Mare,Daryl visited neither Deva nor Baia Mare,1
+Denmark or Iceland won the last world cup,Iceland didn't win the last world cup,0
+Croatia or Japan got to the quarter finals last year, neither Croatia nor Japan got to the quarter finals last year,1
+Lisa traveled to Baia Mare or Slatina,Lisa didn't travel to Baia Mare and Lisa didn't travel to Slatina,1
+Jordan traveled to Mangalia or Deva,Jordan traveled to neither Mangalia nor Deva,1
+Jared has visited Turda or Slobozia,Jared didn't visit Turda and Jared didn't visit Slobozia,1
+Jennifer went to Arad or Slobozia,Jennifer went to neither Arad nor Slobozia,1
+Switzerland  or Poland won the last world cup, neither Switzerland  nor Korea Republic won the last world cup,0
+Eugene traveled to Slatina or Bucharest,Eugene didn't travel to Slatina and Eugene didn't travel to Bucharest,1
+Peggy went to Bucharest or Slobozia,Antoinette went to neither Bucharest nor Slobozia,0
+Mattie traveled to Oradea or Mangalia,Mattie traveled to neither Oradea nor Mangalia,1
+Iran or Uruguay won the last world cup,Iran didn't win the last world cup and Uruguay didn't win the last world cup,1
+Panama or Nigeria are in the geopolitical position of Saudi Arabia,Panama isn't in the geopolitical position of Saudi Arabia and Nigeria isn't in the geopolitical position of Saudi Arabia,1
+Christopher traveled to Slatina or Dej,Christopher traveled to neither Slatina nor Blaj,0
+Crystal went to Giurgiu or Tulcea,Crystal didn't go to Giurgiu and Crystal didn't go to Tulcea,1
+Spain or Croatia got to the quarter finals last year, neither Saudi Arabia nor Spain got to the quarter finals last year,0
+Viola has visited Baia Mare or Deva,Viola visited neither Baia Mare nor Deva,1
+Switzerland  or Germany won the last world cup, neither Switzerland  nor Germany won the last world cup,1
+Jon traveled to Timisoara or Blaj,Jon didn't travel to Timisoara,0
+Costa Rica or Denmark won the last world cup,Costa Rica didn't win the last world cup and Denmark didn't win the last world cup,1
+Mexico or Portugal are in the geopolitical position of Peru, neither Mexico nor Portugal are in the geopolitical position of Peru,1
+Costa Rica or Poland are in the geopolitical position of Sweden, neither Brazil nor Costa Rica are in the geopolitical position of Sweden,0
+Costa Rica or Egypt got to the quarter finals last year, neither Costa Rica nor Egypt got to the quarter finals last year,1
+Marjorie went to Baia Mare or Turda,Marjorie didn't go to Baia Mare and Marjorie didn't go to Turda,1
+Spain or Iceland got to the quarter finals last year,Spain didn't get to the quarter finals last year and Iceland didn't get to the quarter finals last year,1
+Belgium or Spain won the last world cup, neither Belgium nor Spain won the last world cup,1
+Veronica has visited Timisoara or Giurgiu,Shirley visited neither Timisoara nor Giurgiu,0
+Faye went to Tulcea or Deva,Faye went to neither Tulcea nor Deva,1
+Saudi Arabia or Argentina got to the quarter finals last year,Saudi Arabia didn't get to the quarter finals last year,0
+Julio went to Giurgiu or Deva,Gail went to neither Giurgiu nor Deva,0
+Mexico or Peru are in the geopolitical position of Sweden, neither Nigeria nor Mexico are in the geopolitical position of Sweden,0
+Johnny went to Bucharest or Slobozia,Johnny didn't go to Bucharest and Johnny didn't go to Slobozia,1
+Japan or Poland won the last world cup, neither Japan nor Denmark won the last world cup,0
+Mexico or Iceland are in the geopolitical position of Brazil,Mexico isn't in the geopolitical position of Brazil,0
+England or Germany won the last world cup, neither England nor Germany won the last world cup,1
+Sherry went to Baia Mare or Dej,Sherry didn't go to Baia Mare and Sherry didn't go to Dej,1
+Edwin went to Bucharest or Dej,Edwin didn't go to Bucharest and Edwin didn't go to Dej,1
+Korea Republic or Iceland won the last world cup,Korea Republic didn't win the last world cup,0
+Alan has visited Vaslui or Slobozia,Alan didn't visit Vaslui,0
+Germany or Croatia got to the quarter finals last year, neither Germany nor Croatia got to the quarter finals last year,1
+Kayla traveled to Bucharest or Cluj-Napoca,Kayla didn't travel to Bucharest and Kayla didn't travel to Cluj-Napoca,1
+Max traveled to Baia Mare or Reghin,Max didn't travel to Baia Mare and Max didn't travel to Reghin,1
+Norma has visited Tulcea or Bucharest,Norma didn't visit Tulcea,0
+Portugal or Korea Republic got to the quarter finals last year,Korea Republic didn't get to the quarter finals last year,0
+Costa Rica or Poland won the last world cup, neither Costa Rica nor Poland won the last world cup,1
+Russia or Iceland got to the quarter finals last year, neither Russia nor Sweden got to the quarter finals last year,0
+England or Poland got to the quarter finals last year, neither England nor Poland got to the quarter finals last year,1
+Eddie has visited Vaslui or Slobozia,Eddie didn't visit Vaslui and Eddie didn't visit Slobozia,1
+Saudi Arabia or Panama are in the geopolitical position of Australia, neither Saudi Arabia nor Korea Republic are in the geopolitical position of Australia,0
+Natalie traveled to Vaslui or Slobozia,Natalie didn't travel to Slobozia,0
+Argentina or Costa Rica won the last world cup, neither Croatia nor Argentina won the last world cup,0
+Costa Rica or Peru are in the geopolitical position of Colombia,Costa Rica isn't in the geopolitical position of Colombia and Peru isn't in the geopolitical position of Colombia,1
+Wanda traveled to Craiova or Hunedoara,Wanda didn't travel to Craiova and Wanda didn't travel to Hunedoara,1
+David went to Hunedoara or Reghin,David didn't go to Hunedoara and David didn't go to Reghin,1
+Portugal or Mexico won the last world cup,Portugal didn't win the last world cup,0
+Senegal or France won the last world cup, neither Senegal nor France won the last world cup,1
+England or Germany got to the quarter finals last year,England didn't get to the quarter finals last year,0
+Brazil or Saudi Arabia won the last world cup, neither Brazil nor Saudi Arabia won the last world cup,1
+Portugal or Sweden won the last world cup,Portugal didn't win the last world cup,0
+Judy has visited Bucharest or Reghin,Judy visited neither Dej nor Reghin,0
+Renee traveled to Slatina or Hunedoara,Renee traveled to neither Slatina nor Hunedoara,1
+Argentina or Egypt won the last world cup,Argentina didn't win the last world cup,0
+Jeanette has visited Tulcea or Turda,Jeanette visited neither Tulcea nor Turda,1
+Yvonne went to Blaj or Mangalia,Yvonne didn't go to Mangalia,0
+Alexander has visited Oradea or Slobozia,Alexander visited neither Oradea nor Slobozia,1
+Mexico or Argentina are in the geopolitical position of Costa Rica,Mexico isn't in the geopolitical position of Costa Rica and Argentina isn't in the geopolitical position of Costa Rica,1
+June has visited Tulcea or Giurgiu,June didn't visit Tulcea,0
+Marion has visited Mangalia or Cluj-Napoca,Marion visited neither Craiova nor Cluj-Napoca,0
+Guadalupe has visited Slobozia or Dej,Guadalupe visited neither Reghin nor Dej,0
+Spain or Iran are in the geopolitical position of Tunisia, neither Belgium nor Spain are in the geopolitical position of Tunisia,0
+Costa Rica or Russia are in the geopolitical position of Portugal, neither Costa Rica nor Russia are in the geopolitical position of Portugal,1
+Ernest traveled to Mangalia or Arad,Ernest didn't travel to Mangalia and Ernest didn't travel to Arad,1
+Wanda traveled to Slobozia or Vaslui,Wanda didn't travel to Slobozia,0
+Christina went to Deva or Turda,Lois went to neither Deva nor Turda,0
+France or Senegal won the last world cup, neither France nor Senegal won the last world cup,1
+Marsha has visited Baia Mare or Dej,Marsha didn't visit Baia Mare and Marsha didn't visit Dej,1
+Armando has visited Lugoj or Timisoara,Chris visited neither Lugoj nor Timisoara,0
+Mexico or Saudi Arabia won the last world cup, neither Mexico nor Saudi Arabia won the last world cup,1
+Marsha traveled to Cluj-Napoca or Baia Mare,Marsha traveled to neither Cluj-Napoca nor Baia Mare,1
+Bradley went to Craiova or Reghin,Bradley didn't go to Reghin,0
+Senegal or Brazil got to the quarter finals last year,Brazil didn't get to the quarter finals last year,0
+Poland or Denmark got to the quarter finals last year, neither Poland nor Denmark got to the quarter finals last year,1
+Brazil or Serbia won the last world cup,Brazil didn't win the last world cup,0
+Costa Rica or Egypt won the last world cup,Costa Rica didn't win the last world cup,0
+Rosemary has visited Baia Mare or Timisoara,Rosemary visited neither Baia Mare nor Timisoara,1
+Gabriel went to Slatina or Tulcea,Gabriel went to neither Timisoara nor Tulcea,0
+Brazil or Denmark won the last world cup, neither Senegal nor Brazil won the last world cup,0
+Brazil or Korea Republic got to the quarter finals last year,Brazil didn't get to the quarter finals last year and Korea Republic didn't get to the quarter finals last year,1
+Peru or Japan got to the quarter finals last year, neither Peru nor Belgium got to the quarter finals last year,0
+Kevin has visited Lugoj or Reghin,Kevin didn't visit Lugoj and Kevin didn't visit Reghin,1
+Glenn has visited Reghin or Dej,Glenn didn't visit Reghin and Glenn didn't visit Dej,1
+Ryan traveled to Oradea or Reghin,Ryan didn't travel to Oradea,0
+Laura traveled to Mangalia or Craiova,Laura didn't travel to Mangalia and Laura didn't travel to Craiova,1
+Portugal or Iceland won the last world cup,Portugal didn't win the last world cup and Iceland didn't win the last world cup,1
+Croatia or Portugal won the last world cup, neither Croatia nor Portugal won the last world cup,1
+Anthony went to Giurgiu or Cluj-Napoca,Anthony didn't go to Giurgiu and Anthony didn't go to Cluj-Napoca,1
+Oscar went to Lugoj or Baia Mare,Oscar went to neither Lugoj nor Baia Mare,1
+Costa Rica or Argentina got to the quarter finals last year, neither Costa Rica nor Argentina got to the quarter finals last year,1
+Maria has visited Cluj-Napoca or Giurgiu,Carole visited neither Cluj-Napoca nor Giurgiu,0
+Marshall has visited Baia Mare or Slatina,Marshall didn't visit Baia Mare,0
+Charles went to Bucharest or Hunedoara,Charles didn't go to Hunedoara,0
+Jenny has visited Slobozia or Reghin,Maggie visited neither Slobozia nor Reghin,0
+Gary traveled to Arad or Slatina,Adrian traveled to neither Arad nor Slatina,0
+Sue went to Bucharest or Lugoj,Sue didn't go to Bucharest and Sue didn't go to Lugoj,1
+Uruguay or Saudi Arabia got to the quarter finals last year,Uruguay didn't get to the quarter finals last year and Saudi Arabia didn't get to the quarter finals last year,1
+Molly traveled to Dej or Bucharest,Molly traveled to neither Dej nor Hunedoara,0
+Croatia or Saudi Arabia won the last world cup,Croatia didn't win the last world cup,0
+Japan or Switzerland  got to the quarter finals last year,Japan didn't get to the quarter finals last year,0
+Sheila went to Cluj-Napoca or Baia Mare,Sheila didn't go to Baia Mare,0
+Jared traveled to Cluj-Napoca or Dej,Jared traveled to neither Cluj-Napoca nor Craiova,0
+Spain or Morocco got to the quarter finals last year,Spain didn't get to the quarter finals last year and Morocco didn't get to the quarter finals last year,1
+Denmark or Switzerland  got to the quarter finals last year, neither Denmark nor Nigeria got to the quarter finals last year,0
+Nigeria or Serbia are in the geopolitical position of Brazil, neither Nigeria nor Mexico are in the geopolitical position of Brazil,0
+Anna traveled to Craiova or Lugoj,Anna didn't travel to Craiova and Anna didn't travel to Lugoj,1
+Costa Rica or Serbia got to the quarter finals last year,Serbia didn't get to the quarter finals last year,0
+Australia or Spain got to the quarter finals last year,Australia didn't get to the quarter finals last year,0
+Germany or Mexico got to the quarter finals last year, neither Germany nor Mexico got to the quarter finals last year,1
+France or Croatia won the last world cup,France didn't win the last world cup and Croatia didn't win the last world cup,1
+Japan or Australia are in the geopolitical position of Panama, neither Japan nor Brazil are in the geopolitical position of Panama,0
+Scott traveled to Lugoj or Hunedoara,Scott didn't travel to Lugoj,0
+Joann went to Timisoara or Slatina,Joann went to neither Timisoara nor Slatina,1
+Margie traveled to Bucharest or Giurgiu,Margie didn't travel to Bucharest and Margie didn't travel to Giurgiu,1
+Argentina or Iran won the last world cup, neither Argentina nor Iran won the last world cup,1
+Colombia or Nigeria won the last world cup,Nigeria didn't win the last world cup,0
+Colombia or Russia got to the quarter finals last year,Colombia didn't get to the quarter finals last year and Russia didn't get to the quarter finals last year,1
+Bruce has visited Mangalia or Arad,Bruce didn't visit Mangalia and Bruce didn't visit Arad,1
+Brazil or Japan are in the geopolitical position of Saudi Arabia, neither Brazil nor Japan are in the geopolitical position of Saudi Arabia,1
+Spain or Serbia are in the geopolitical position of Brazil,Spain isn't in the geopolitical position of Brazil and Serbia isn't in the geopolitical position of Brazil,1
+Jimmie traveled to Reghin or Blaj,Ramon traveled to neither Reghin nor Blaj,0
+Korea Republic or Belgium won the last world cup, neither Korea Republic nor Belgium won the last world cup,1
+Brazil or France are in the geopolitical position of Portugal, neither Brazil nor France are in the geopolitical position of Portugal,1
+Tyler has visited Slatina or Craiova,Tyler visited neither Lugoj nor Craiova,0
+Mexico or Australia got to the quarter finals last year,Mexico didn't get to the quarter finals last year,0
+Arlene has visited Lugoj or Turda,Arlene visited neither Bucharest nor Turda,0
+Russia or Poland got to the quarter finals last year, neither Russia nor Saudi Arabia got to the quarter finals last year,0
+Croatia or Peru won the last world cup,Croatia didn't win the last world cup and Peru didn't win the last world cup,1
+Lori traveled to Reghin or Hunedoara,Lori traveled to neither Reghin nor Slatina,0
+Portugal or Colombia got to the quarter finals last year, neither Portugal nor Colombia got to the quarter finals last year,1
+Iceland or Costa Rica won the last world cup,Costa Rica didn't win the last world cup,0
+Spain or Argentina won the last world cup,Spain didn't win the last world cup and Argentina didn't win the last world cup,1
+Kristi has visited Tulcea or Slatina,Kristi didn't visit Tulcea,0
+Cheryl went to Bucharest or Mangalia,Cheryl didn't go to Bucharest,0
+Australia or Poland are in the geopolitical position of Argentina, neither Saudi Arabia nor Australia are in the geopolitical position of Argentina,0
+Australia or England won the last world cup, neither Australia nor England won the last world cup,1
+Colombia or Korea Republic are in the geopolitical position of Uruguay, neither Denmark nor Colombia are in the geopolitical position of Uruguay,0
+Croatia or Saudi Arabia are in the geopolitical position of Korea Republic, neither Croatia nor Senegal are in the geopolitical position of Korea Republic,0
+June has visited Reghin or Bucharest,June visited neither Craiova nor Bucharest,0
+Cora went to Slobozia or Blaj,Cora went to neither Slobozia nor Blaj,1
+Saudi Arabia or Croatia got to the quarter finals last year, neither Saudi Arabia nor Switzerland  got to the quarter finals last year,0
+Iran or Sweden won the last world cup,Iran didn't win the last world cup and Sweden didn't win the last world cup,1
+Denmark or Colombia won the last world cup,Denmark didn't win the last world cup and Colombia didn't win the last world cup,1
+Luis traveled to Lugoj or Slobozia,Luis didn't travel to Lugoj and Luis didn't travel to Slobozia,1
+Alfredo went to Deva or Tulcea,Alfredo didn't go to Deva and Alfredo didn't go to Tulcea,1
+France or Korea Republic got to the quarter finals last year, neither Serbia nor France got to the quarter finals last year,0
+Switzerland  or Morocco won the last world cup,Switzerland  didn't win the last world cup and Morocco didn't win the last world cup,1
+Switzerland  or Egypt got to the quarter finals last year,Switzerland  didn't get to the quarter finals last year,0
+Carolyn has visited Giurgiu or Reghin,Carolyn visited neither Craiova nor Reghin,0
+Genevieve went to Arad or Tulcea,Genevieve didn't go to Arad,0
+Raul traveled to Bucharest or Baia Mare,Wade traveled to neither Bucharest nor Baia Mare,0
+Claude has visited Mangalia or Vaslui,Claude didn't visit Vaslui,0
+Poland or Croatia won the last world cup,Poland didn't win the last world cup and Croatia didn't win the last world cup,1
+Frank traveled to Mangalia or Arad,Frank didn't travel to Mangalia and Frank didn't travel to Arad,1
+Mexico or Spain won the last world cup,Mexico didn't win the last world cup and Spain didn't win the last world cup,1
+Isaac traveled to Timisoara or Cluj-Napoca,Donald traveled to neither Timisoara nor Cluj-Napoca,0
+Portugal or Argentina won the last world cup, neither Portugal nor Argentina won the last world cup,1
+Reginald went to Deva or Dej,Reginald went to neither Lugoj nor Dej,0
+Vanessa has visited Mangalia or Craiova,Vanessa visited neither Mangalia nor Craiova,1
+Gina has visited Dej or Bucharest,Marcus visited neither Dej nor Bucharest,0
+Shane has visited Slatina or Mangalia,Shane visited neither Slobozia nor Mangalia,0
+Judy has visited Tulcea or Timisoara,Judy didn't visit Tulcea and Judy didn't visit Timisoara,1
+June has visited Oradea or Baia Mare,June visited neither Bucharest nor Baia Mare,0
+Portugal or Colombia won the last world cup,Portugal didn't win the last world cup and Colombia didn't win the last world cup,1
+Germany or Tunisia got to the quarter finals last year, neither Germany nor Tunisia got to the quarter finals last year,1
+Kimberly has visited Tulcea or Arad,Kimberly didn't visit Tulcea,0
+Mike has visited Hunedoara or Reghin,Mike didn't visit Hunedoara,0
+Russia or Peru got to the quarter finals last year,Peru didn't get to the quarter finals last year,0
+Heidi went to Dej or Baia Mare,Heidi went to neither Dej nor Baia Mare,1
+Japan or Switzerland  are in the geopolitical position of Russia, neither Japan nor Sweden are in the geopolitical position of Russia,0
+Herbert traveled to Slobozia or Dej,Herbert traveled to neither Slobozia nor Deva,0
+Vanessa went to Deva or Timisoara,Alexander went to neither Deva nor Timisoara,0
+Terri traveled to Dej or Baia Mare,Terri traveled to neither Dej nor Baia Mare,1
+Annie has visited Mangalia or Arad,Annie didn't visit Mangalia and Annie didn't visit Arad,1
+Croatia or Russia are in the geopolitical position of Belgium,Croatia isn't in the geopolitical position of Belgium and Russia isn't in the geopolitical position of Belgium,1
+Debra traveled to Hunedoara or Arad,Debra traveled to neither Hunedoara nor Arad,1
+Terri traveled to Craiova or Cluj-Napoca,Terri didn't travel to Craiova and Terri didn't travel to Cluj-Napoca,1
+England or Croatia are in the geopolitical position of Saudi Arabia,England isn't in the geopolitical position of Saudi Arabia,0
+Jose has visited Vaslui or Bucharest,Jose didn't visit Vaslui,0
+Australia or Japan are in the geopolitical position of Mexico,Australia isn't in the geopolitical position of Mexico,0
+England or Japan got to the quarter finals last year,Japan didn't get to the quarter finals last year,0
+Jorge went to Dej or Arad,Jorge went to neither Craiova nor Arad,0
+Peter has visited Arad or Tulcea,Peter didn't visit Arad and Peter didn't visit Tulcea,1
+Colombia or Spain got to the quarter finals last year, neither Egypt nor Colombia got to the quarter finals last year,0
+Germany or England won the last world cup, neither Iran nor Germany won the last world cup,0
+France or Portugal got to the quarter finals last year,France didn't get to the quarter finals last year and Portugal didn't get to the quarter finals last year,1
+Mexico or Saudi Arabia got to the quarter finals last year,Saudi Arabia didn't get to the quarter finals last year,0
+Serbia or Panama are in the geopolitical position of Spain, neither Serbia nor Panama are in the geopolitical position of Spain,1
+Catherine has visited Bucharest or Cluj-Napoca,Catherine didn't visit Bucharest,0
+Terry has visited Giurgiu or Tulcea,Eva visited neither Giurgiu nor Tulcea,0
+Switzerland  or Japan got to the quarter finals last year,Japan didn't get to the quarter finals last year,0
+Beatrice traveled to Arad or Lugoj,Beatrice traveled to neither Arad nor Lugoj,1
+Peru or Senegal are in the geopolitical position of Sweden, neither Peru nor Costa Rica are in the geopolitical position of Sweden,0
+Iran or Germany are in the geopolitical position of Peru, neither Iran nor Germany are in the geopolitical position of Peru,1
+Switzerland  or Japan won the last world cup, neither Switzerland  nor Japan won the last world cup,1
+Tyler traveled to Mangalia or Deva,Tyler didn't travel to Mangalia,0
+Tunisia or France won the last world cup, neither Tunisia nor France won the last world cup,1
+Gerald has visited Slobozia or Deva,Jorge visited neither Slobozia nor Deva,0
+Cecil went to Bucharest or Arad,Kevin went to neither Bucharest nor Arad,0
+Susie traveled to Hunedoara or Giurgiu,Susie traveled to neither Hunedoara nor Giurgiu,1
+Jordan traveled to Blaj or Dej,Jordan traveled to neither Blaj nor Dej,1
+Nancy has visited Hunedoara or Reghin,Nancy didn't visit Hunedoara and Nancy didn't visit Reghin,1
+Belgium or Denmark got to the quarter finals last year, neither Belgium nor Denmark got to the quarter finals last year,1
+Willard traveled to Turda or Tulcea,Willard didn't travel to Turda and Willard didn't travel to Tulcea,1
+Egypt or Serbia are in the geopolitical position of Senegal,Serbia isn't in the geopolitical position of Senegal,0
+Patrick has visited Deva or Giurgiu,Patrick didn't visit Deva and Patrick didn't visit Giurgiu,1
+Saudi Arabia or Switzerland  got to the quarter finals last year,Switzerland  didn't get to the quarter finals last year,0
+Karl went to Bucharest or Reghin,Karl didn't go to Bucharest and Karl didn't go to Reghin,1
+Paula went to Bucharest or Dej,Paula didn't go to Bucharest and Paula didn't go to Dej,1
+Greg has visited Turda or Oradea,Greg didn't visit Oradea,0
+Renee traveled to Baia Mare or Dej,Roger traveled to neither Baia Mare nor Dej,0
+Duane traveled to Bucharest or Arad,Duane traveled to neither Bucharest nor Blaj,0
+Uruguay or Portugal are in the geopolitical position of Peru,Uruguay isn't in the geopolitical position of Peru,0
+Costa Rica or England got to the quarter finals last year, neither Costa Rica nor England got to the quarter finals last year,1
+Howard has visited Blaj or Craiova,Howard didn't visit Blaj and Howard didn't visit Craiova,1
+Portugal or Poland are in the geopolitical position of Korea Republic,Poland isn't in the geopolitical position of Korea Republic,0
+Peru or Belgium won the last world cup, neither Peru nor Belgium won the last world cup,1
+Dwayne went to Reghin or Vaslui,Dwayne went to neither Reghin nor Vaslui,1
+Viola has visited Reghin or Craiova,Viola didn't visit Reghin and Viola didn't visit Craiova,1
+Serbia or France are in the geopolitical position of Iceland,Serbia isn't in the geopolitical position of Iceland and France isn't in the geopolitical position of Iceland,1
+Germany or France got to the quarter finals last year, neither Brazil nor Germany got to the quarter finals last year,0
+Carole has visited Slobozia or Bucharest,Carole didn't visit Slobozia and Carole didn't visit Bucharest,1
+Nigeria or Korea Republic got to the quarter finals last year,Nigeria didn't get to the quarter finals last year and Korea Republic didn't get to the quarter finals last year,1
+Egypt or Poland are in the geopolitical position of Iceland, neither Egypt nor Poland are in the geopolitical position of Iceland,1
+Gerald went to Lugoj or Timisoara,Gerald didn't go to Lugoj and Gerald didn't go to Timisoara,1
+Jon went to Giurgiu or Hunedoara,Jon didn't go to Hunedoara,0
+Saudi Arabia or Croatia won the last world cup, neither Saudi Arabia nor Iran won the last world cup,0
+Costa Rica or Nigeria got to the quarter finals last year, neither Costa Rica nor Nigeria got to the quarter finals last year,1
+Switzerland  or Uruguay got to the quarter finals last year, neither Switzerland  nor Uruguay got to the quarter finals last year,1
+Judy has visited Lugoj or Cluj-Napoca,Judy didn't visit Cluj-Napoca,0
+Costa Rica or Australia won the last world cup,Costa Rica didn't win the last world cup,0
+Robert went to Cluj-Napoca or Reghin,Robert went to neither Arad nor Reghin,0
+Morocco or Belgium got to the quarter finals last year, neither Morocco nor Belgium got to the quarter finals last year,1
+Julio went to Deva or Slobozia,Julio didn't go to Deva,0
+Leo has visited Slatina or Blaj,Clara visited neither Slatina nor Blaj,0
+Dean has visited Deva or Oradea,Dean visited neither Deva nor Oradea,1
+Denmark or Uruguay got to the quarter finals last year,Denmark didn't get to the quarter finals last year and Uruguay didn't get to the quarter finals last year,1
+Mexico or Brazil got to the quarter finals last year,Mexico didn't get to the quarter finals last year and Brazil didn't get to the quarter finals last year,1
+Nigeria or Russia are in the geopolitical position of Peru,Nigeria isn't in the geopolitical position of Peru and Russia isn't in the geopolitical position of Peru,1
+Raymond has visited Lugoj or Bucharest,Raymond didn't visit Bucharest,0
+Poland or Serbia got to the quarter finals last year, neither Poland nor Serbia got to the quarter finals last year,1
+France or Senegal got to the quarter finals last year,France didn't get to the quarter finals last year and Senegal didn't get to the quarter finals last year,1
+Neil traveled to Dej or Mangalia,Neil didn't travel to Dej,0
+Lynn went to Oradea or Reghin,Lynn went to neither Slobozia nor Reghin,0
+Lance has visited Mangalia or Reghin,Lance visited neither Mangalia nor Reghin,1
+Colombia or Denmark got to the quarter finals last year, neither Colombia nor Denmark got to the quarter finals last year,1
+Willie traveled to Turda or Arad,Willie didn't travel to Turda,0
+Iceland or Iran got to the quarter finals last year,Iceland didn't get to the quarter finals last year and Iran didn't get to the quarter finals last year,1
+Panama or Croatia are in the geopolitical position of Nigeria,Croatia isn't in the geopolitical position of Nigeria,0
+Germany or Mexico got to the quarter finals last year, neither Russia nor Germany got to the quarter finals last year,0
+Poland or Costa Rica got to the quarter finals last year,Poland didn't get to the quarter finals last year,0
+Joyce went to Tulcea or Reghin,Joyce didn't go to Tulcea,0
+Harry traveled to Oradea or Bucharest,Harry didn't travel to Oradea and Harry didn't travel to Bucharest,1
+Egypt or Poland got to the quarter finals last year,Egypt didn't get to the quarter finals last year and Poland didn't get to the quarter finals last year,1
+Felicia went to Cluj-Napoca or Bucharest,Anthony went to neither Cluj-Napoca nor Bucharest,0
+Croatia or Mexico are in the geopolitical position of Colombia,Croatia isn't in the geopolitical position of Colombia,0
+Andre has visited Slatina or Hunedoara,Andre visited neither Mangalia nor Hunedoara,0
+Sally went to Cluj-Napoca or Slatina,Sally went to neither Cluj-Napoca nor Slatina,1
+Esther traveled to Deva or Dej,Esther didn't travel to Deva and Esther didn't travel to Dej,1
+Belgium or Croatia won the last world cup,Belgium didn't win the last world cup and Croatia didn't win the last world cup,1
+Russia or Brazil won the last world cup,Brazil didn't win the last world cup,0
+Australia or Croatia won the last world cup, neither Australia nor Croatia won the last world cup,1
+Doris went to Bucharest or Oradea,Doris didn't go to Bucharest and Doris didn't go to Oradea,1
+Australia or Nigeria got to the quarter finals last year,Australia didn't get to the quarter finals last year,0
+Korea Republic or Iceland are in the geopolitical position of Colombia,Iceland isn't in the geopolitical position of Colombia,0
+Francisco went to Arad or Cluj-Napoca,Benjamin went to neither Arad nor Cluj-Napoca,0
+Peru or Germany won the last world cup,Germany didn't win the last world cup,0
+Argentina or Brazil are in the geopolitical position of Sweden, neither Argentina nor Egypt are in the geopolitical position of Sweden,0
+Korea Republic or Senegal got to the quarter finals last year,Senegal didn't get to the quarter finals last year,0
+Peru or Panama won the last world cup, neither Peru nor Panama won the last world cup,1
+Russia or England got to the quarter finals last year,Russia didn't get to the quarter finals last year,0
+Iran or Egypt won the last world cup, neither Iran nor Egypt won the last world cup,1
+Brazil or Colombia won the last world cup,Brazil didn't win the last world cup and Colombia didn't win the last world cup,1
+Japan or Uruguay got to the quarter finals last year,Japan didn't get to the quarter finals last year and Uruguay didn't get to the quarter finals last year,1
+Iran or Argentina won the last world cup,Iran didn't win the last world cup and Argentina didn't win the last world cup,1
+Tunisia or Sweden got to the quarter finals last year,Tunisia didn't get to the quarter finals last year and Sweden didn't get to the quarter finals last year,1
+Uruguay or Nigeria got to the quarter finals last year,Nigeria didn't get to the quarter finals last year,0
+Australia or Croatia won the last world cup, neither Australia nor Panama won the last world cup,0
+Japan or Denmark got to the quarter finals last year,Denmark didn't get to the quarter finals last year,0
+Sweden or Spain are in the geopolitical position of Denmark, neither Sweden nor Spain are in the geopolitical position of Denmark,1
+Jennifer traveled to Oradea or Slobozia,Jennifer traveled to neither Oradea nor Slobozia,1
+Dora has visited Tulcea or Hunedoara,Dora didn't visit Tulcea,0
+Gary went to Giurgiu or Oradea,Darlene went to neither Giurgiu nor Oradea,0
+Senegal or Panama won the last world cup, neither Senegal nor Nigeria won the last world cup,0
+Ross went to Dej or Blaj,Ross went to neither Bucharest nor Blaj,0
+Morocco or Portugal are in the geopolitical position of Egypt, neither Morocco nor Portugal are in the geopolitical position of Egypt,1
+Jesse has visited Lugoj or Dej,Jesse visited neither Bucharest nor Dej,0
+Lindsey traveled to Slatina or Oradea,Lindsey didn't travel to Slatina and Lindsey didn't travel to Oradea,1
+Germany or Croatia won the last world cup,Germany didn't win the last world cup,0
+Corey has visited Arad or Bucharest,Corey didn't visit Arad and Corey didn't visit Bucharest,1
+Australia or Senegal are in the geopolitical position of Iceland,Australia isn't in the geopolitical position of Iceland and Senegal isn't in the geopolitical position of Iceland,1
+Costa Rica or Senegal got to the quarter finals last year, neither Costa Rica nor Saudi Arabia got to the quarter finals last year,0
+Brazil or Senegal won the last world cup, neither Brazil nor Senegal won the last world cup,1
+Joe has visited Giurgiu or Reghin,Joe didn't visit Giurgiu,0
+Germany or Tunisia are in the geopolitical position of Nigeria,Germany isn't in the geopolitical position of Nigeria and Tunisia isn't in the geopolitical position of Nigeria,1
+Tunisia or Peru are in the geopolitical position of Costa Rica,Tunisia isn't in the geopolitical position of Costa Rica and Peru isn't in the geopolitical position of Costa Rica,1
+Senegal or Iceland are in the geopolitical position of Tunisia, neither Senegal nor Iceland are in the geopolitical position of Tunisia,1
+Colombia or France won the last world cup,Colombia didn't win the last world cup,0
+Christian has visited Craiova or Dej,Christian didn't visit Dej,0
+Tunisia or Iran won the last world cup,Tunisia didn't win the last world cup and Iran didn't win the last world cup,1
+Manuel traveled to Arad or Reghin,Manuel didn't travel to Arad and Manuel didn't travel to Reghin,1
+Sherri went to Oradea or Mangalia,Sherri went to neither Oradea nor Mangalia,1
+Holly traveled to Cluj-Napoca or Craiova,Holly didn't travel to Cluj-Napoca and Holly didn't travel to Craiova,1
+Lindsay went to Cluj-Napoca or Deva,Lindsay didn't go to Cluj-Napoca,0
+Serbia or Denmark got to the quarter finals last year, neither Serbia nor Denmark got to the quarter finals last year,1
+Uruguay or Costa Rica won the last world cup, neither Uruguay nor Tunisia won the last world cup,0
+Australia or Saudi Arabia are in the geopolitical position of Nigeria,Australia isn't in the geopolitical position of Nigeria and Saudi Arabia isn't in the geopolitical position of Nigeria,1
+Cynthia went to Craiova or Baia Mare,Cynthia went to neither Craiova nor Baia Mare,1
+Constance went to Turda or Vaslui,Constance went to neither Bucharest nor Vaslui,0
+Norman traveled to Cluj-Napoca or Deva,Norman didn't travel to Cluj-Napoca and Norman didn't travel to Deva,1
+Korea Republic or Poland are in the geopolitical position of Japan,Korea Republic isn't in the geopolitical position of Japan and Poland isn't in the geopolitical position of Japan,1
+Peter has visited Baia Mare or Timisoara,Peter visited neither Baia Mare nor Timisoara,1
+Reginald has visited Craiova or Timisoara,Reginald visited neither Giurgiu nor Timisoara,0
+Russia or Germany won the last world cup,Russia didn't win the last world cup and Germany didn't win the last world cup,1
+Argentina or Korea Republic got to the quarter finals last year, neither Denmark nor Argentina got to the quarter finals last year,0
+Denmark or Portugal won the last world cup,Portugal didn't win the last world cup,0
+Japan or Brazil won the last world cup,Japan didn't win the last world cup,0
+Serbia or Costa Rica are in the geopolitical position of Croatia, neither Serbia nor Costa Rica are in the geopolitical position of Croatia,1
+Kristi went to Slatina or Slobozia,Kristi went to neither Slatina nor Slobozia,1
+Korea Republic or Japan won the last world cup, neither Korea Republic nor Japan won the last world cup,1
+Craig has visited Deva or Cluj-Napoca,Craig didn't visit Deva and Craig didn't visit Cluj-Napoca,1
+Clara has visited Turda or Reghin,Clara didn't visit Turda,0
+Colombia or Germany got to the quarter finals last year,Colombia didn't get to the quarter finals last year,0
+Saudi Arabia or Iceland got to the quarter finals last year, neither Saudi Arabia nor Uruguay got to the quarter finals last year,0
+Sweden or Korea Republic won the last world cup,Sweden didn't win the last world cup,0
+Germany or Poland got to the quarter finals last year, neither Germany nor Serbia got to the quarter finals last year,0
+Tunisia or Australia won the last world cup, neither Tunisia nor Australia won the last world cup,1
+Iceland or Poland won the last world cup, neither Iceland nor Poland won the last world cup,1
+Calvin went to Craiova or Tulcea,Eric went to neither Craiova nor Tulcea,0
+Sweden or France got to the quarter finals last year,Sweden didn't get to the quarter finals last year and France didn't get to the quarter finals last year,1
+Franklin has visited Baia Mare or Hunedoara,Franklin visited neither Baia Mare nor Hunedoara,1
+Geneva has visited Arad or Giurgiu,Geneva visited neither Arad nor Giurgiu,1
+Iran or England won the last world cup, neither Iran nor England won the last world cup,1
+Danny traveled to Oradea or Mangalia,Danny traveled to neither Oradea nor Mangalia,1
+Marvin went to Lugoj or Tulcea,Marvin didn't go to Tulcea,0
+Candice went to Blaj or Bucharest,Candice went to neither Blaj nor Bucharest,1
+Switzerland  or Saudi Arabia are in the geopolitical position of Korea Republic,Switzerland  isn't in the geopolitical position of Korea Republic,0
+Korea Republic or Colombia got to the quarter finals last year, neither Panama nor Korea Republic got to the quarter finals last year,0
+Erica traveled to Craiova or Bucharest,Erica traveled to neither Craiova nor Bucharest,1
+Tyrone has visited Oradea or Baia Mare,Tyrone visited neither Deva nor Baia Mare,0
+Daisy went to Lugoj or Mangalia,Daisy went to neither Slatina nor Mangalia,0
+Tunisia or Brazil got to the quarter finals last year, neither Tunisia nor Costa Rica got to the quarter finals last year,0
+Germany or Saudi Arabia are in the geopolitical position of Serbia,Saudi Arabia isn't in the geopolitical position of Serbia,0
+Peru or Saudi Arabia won the last world cup, neither Peru nor Saudi Arabia won the last world cup,1
+Morocco or Panama are in the geopolitical position of Colombia, neither Morocco nor Japan are in the geopolitical position of Colombia,0
+France or Portugal are in the geopolitical position of Brazil, neither France nor Mexico are in the geopolitical position of Brazil,0
+Jerome traveled to Bucharest or Blaj,Clinton traveled to neither Bucharest nor Blaj,0
+England or Morocco are in the geopolitical position of Colombia, neither England nor Serbia are in the geopolitical position of Colombia,0
+Margaret has visited Arad or Dej,Margaret visited neither Arad nor Dej,1
+Lois went to Reghin or Slobozia,Lois went to neither Dej nor Slobozia,0
+Valerie has visited Timisoara or Turda,Valerie didn't visit Timisoara and Valerie didn't visit Turda,1
+Brazil or Spain won the last world cup, neither Brazil nor Switzerland  won the last world cup,0
+Debbie has visited Tulcea or Bucharest,Debbie visited neither Mangalia nor Bucharest,0
+Candace has visited Dej or Giurgiu,Candace visited neither Cluj-Napoca nor Giurgiu,0
+Jennie traveled to Dej or Blaj,Jennie didn't travel to Dej and Jennie didn't travel to Blaj,1
+Saudi Arabia or Sweden got to the quarter finals last year, neither Saudi Arabia nor Morocco got to the quarter finals last year,0
+Herman has visited Turda or Bucharest,Herman visited neither Deva nor Bucharest,0
+Carol went to Blaj or Reghin,Carol went to neither Blaj nor Reghin,1
+Spain or Morocco won the last world cup,Spain didn't win the last world cup and Morocco didn't win the last world cup,1
+James has visited Bucharest or Oradea,James didn't visit Bucharest and James didn't visit Oradea,1
+Brazil or Switzerland  are in the geopolitical position of Iceland, neither Denmark nor Brazil are in the geopolitical position of Iceland,0
+Christian traveled to Bucharest or Turda,Christian didn't travel to Bucharest and Christian didn't travel to Turda,1
+Alfredo went to Lugoj or Blaj,Alfredo went to neither Lugoj nor Blaj,1
+Mexico or Switzerland  won the last world cup,Switzerland  didn't win the last world cup,0
+Egypt or France got to the quarter finals last year,Egypt didn't get to the quarter finals last year and France didn't get to the quarter finals last year,1
+France or Serbia won the last world cup, neither France nor Iceland won the last world cup,0
+Costa Rica or France got to the quarter finals last year,Costa Rica didn't get to the quarter finals last year and France didn't get to the quarter finals last year,1
+Gwendolyn went to Lugoj or Cluj-Napoca,Gwendolyn went to neither Arad nor Cluj-Napoca,0
+Spain or Korea Republic won the last world cup,Spain didn't win the last world cup,0
+Leon traveled to Bucharest or Slobozia,Leon didn't travel to Bucharest and Leon didn't travel to Slobozia,1
+Colombia or Croatia are in the geopolitical position of Argentina, neither Colombia nor Croatia are in the geopolitical position of Argentina,1
+Nellie has visited Giurgiu or Slobozia,Nellie didn't visit Giurgiu and Nellie didn't visit Slobozia,1
+Spain or Iceland are in the geopolitical position of Korea Republic, neither Spain nor Russia are in the geopolitical position of Korea Republic,0
+Nigeria or Morocco got to the quarter finals last year, neither Nigeria nor Morocco got to the quarter finals last year,1
+Costa Rica or Belgium are in the geopolitical position of England,Belgium isn't in the geopolitical position of England,0
+Brazil or Costa Rica are in the geopolitical position of Switzerland ,Brazil isn't in the geopolitical position of Switzerland ,0
+Mamie went to Bucharest or Dej,Mamie went to neither Turda nor Dej,0
+Mabel traveled to Dej or Tulcea,Mabel didn't travel to Tulcea,0
+Mexico or Senegal won the last world cup, neither Mexico nor Senegal won the last world cup,1

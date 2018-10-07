@@ -1,0 +1,1001 @@
+sentence1,sentence2,and_A,and_B,label
+Joann is zealous and Kelly is delightful, Joann is not zealous,Joann is zealous,Kelly is delightful,1
+Shannon is alive and Betty is poor, Betty is not poor,Shannon is alive,Betty is poor,1
+Leslie is thankful and Evelyn is faithful, Leslie is not thankful,Leslie is thankful,Evelyn is faithful,1
+Mitchell is tender and Alberto is helpful, Alberto is not helpful,Mitchell is tender,Alberto is helpful,1
+Sherri is silly and Ross is jolly, Sherri is not silly,Sherri is silly,Ross is jolly,1
+Dennis is delightful and Janet is faithful, Dennis is not delightful,Dennis is delightful,Janet is faithful,1
+Dale is faithful and Dwayne is thankful, Dale is not faithful,Dale is faithful,Dwayne is thankful,1
+Antoinette is kind and Agnes is delightful, Martha is careful,Antoinette is kind,Agnes is delightful,0
+Kay is easy and Juan is shy, Juan is not shy,Kay is easy,Juan is shy,1
+Lee is lively and Derrick is happy, Lee is not lively,Lee is lively,Derrick is happy,1
+Maxine is alive and Claude is dead, Claude is not dead,Maxine is alive,Claude is dead,1
+Herbert is odd and Joel is tender, Joel is not tender,Herbert is odd,Joel is tender,1
+Brenda is nice and Dennis is powerful, Brenda is not powerful,Brenda is nice,Dennis is powerful,0
+Sally is tender and Eunice is powerful, Eunice is not powerful,Sally is tender,Eunice is powerful,1
+Bernard is mealy and Tammy is hallowed, Tammy is not hallowed,Bernard is mealy,Tammy is hallowed,1
+Russell is brave and Ann is aggressive, Nelson is not wrong,Russell is brave,Ann is aggressive,0
+Stacey is dead and Allison is alive, Allison is not alive,Stacey is dead,Allison is alive,1
+Ana is delightful and Juana is zealous, Jamie is powerful,Ana is delightful,Juana is zealous,0
+Allan is happy and Sandra is delightful, Allan is not happy,Allan is happy,Sandra is delightful,1
+Patrick is calm and Lonnie is tender, Patrick is not tender,Patrick is calm,Lonnie is tender,0
+Sylvia is lively and Gerald is eager, Kimberly is not clever,Sylvia is lively,Gerald is eager,0
+Willard is unimportant and Anne is hallowed, Anne is not hallowed,Willard is unimportant,Anne is hallowed,1
+Lillian is proud and Rose is aggressive, Leo is careful,Lillian is proud,Rose is aggressive,0
+Sally is thankful and Tamara is faithful, Sally is not thankful,Sally is thankful,Tamara is faithful,1
+Harvey is wonderful and Julio is wonderful, Tracy is hallowed,Harvey is wonderful,Julio is wonderful,0
+Diane is calm and Reginald is calm, Diane is not calm,Diane is calm,Reginald is calm,1
+James is ambitious and Jo is witty, James is not ambitious,James is ambitious,Jo is witty,1
+Erica is wonderful and Scott is delightful, Erica is not wonderful,Erica is wonderful,Scott is delightful,1
+Monica is zealous and Marcus is dead, Monica is not dead,Monica is zealous,Marcus is dead,0
+Clyde is silly and Justin is obedient, Paula is not better,Clyde is silly,Justin is obedient,0
+Nathaniel is jolly and Edgar is kind, Nathaniel is not jolly,Nathaniel is jolly,Edgar is kind,1
+Loretta is agreeable and Terrence is famous, Loretta is not famous,Loretta is agreeable,Terrence is famous,0
+Ella is happy and Sheryl is uninterested, Ella is not uninterested,Ella is happy,Sheryl is uninterested,0
+Andrew is careful and Arlene is odd, Arlene is not odd,Andrew is careful,Arlene is odd,1
+Keith is gentle and Sally is lively, Norman is not easy,Keith is gentle,Sally is lively,0
+Lula is obedient and Cathy is helpful, Cathy is not obedient,Lula is obedient,Cathy is helpful,0
+Loretta is jolly and Matthew is easy, Loretta is not easy,Loretta is jolly,Matthew is easy,0
+Caroline is delightful and Brian is obedient, Javier is not vast,Caroline is delightful,Brian is obedient,0
+Tamara is aggressive and Miriam is eager, Tamara is not aggressive,Tamara is aggressive,Miriam is eager,1
+Betty is wonderful and Susie is proud, Betty is not wonderful,Betty is wonderful,Susie is proud,1
+Flora is calm and Harold is aggressive, Wayne is not uninterested,Flora is calm,Harold is aggressive,0
+Lena is obedient and Constance is calm, Lena is not obedient,Lena is obedient,Constance is calm,1
+Molly is gentle and Rose is aggressive, Norma is better,Molly is gentle,Rose is aggressive,0
+Faye is lively and Bessie is thankful, Frederick is rich,Faye is lively,Bessie is thankful,0
+Michelle is victorious and Grace is delightful, Seth is important,Michelle is victorious,Grace is delightful,0
+Gail is kind and Kimberly is uninterested, Kimberly is not kind,Gail is kind,Kimberly is uninterested,0
+Bob is kind and Mary is powerful, Mary is not kind,Bob is kind,Mary is powerful,0
+Shirley is better and Valerie is important, Valerie is not important,Shirley is better,Valerie is important,1
+Deanna is jolly and Esther is odd, Deanna is not odd,Deanna is jolly,Esther is odd,0
+Lena is eager and Franklin is witty, Lena is not eager,Lena is eager,Franklin is witty,1
+Eddie is delightful and Rick is victorious, Joe is not careful,Eddie is delightful,Rick is victorious,0
+Deanna is poor and Brittany is inexpensive, Brittany is not inexpensive,Deanna is poor,Brittany is inexpensive,1
+Arthur is witty and Gabriel is nice, Arthur is not witty,Arthur is witty,Gabriel is nice,1
+Christy is odd and Monica is clever, Monica is not clever,Christy is odd,Monica is clever,1
+Tiffany is polite and Robert is eager, Matthew is important,Tiffany is polite,Robert is eager,0
+Marie is unimportant and Bill is helpful, Bill is not helpful,Marie is unimportant,Bill is helpful,1
+Leo is careful and Wilma is poor, Wilma is not poor,Leo is careful,Wilma is poor,1
+Eddie is faithful and Ron is nice, Danny is easy,Eddie is faithful,Ron is nice,0
+Ricardo is brave and Eunice is silly, Ricardo is not brave,Ricardo is brave,Eunice is silly,1
+Wendy is uninterested and Kim is dead, Kim is not dead,Wendy is uninterested,Kim is dead,1
+Mike is happy and Joan is inexpensive, Mike is not inexpensive,Mike is happy,Joan is inexpensive,0
+Corey is thankful and Terry is wrong, Terry is not thankful,Corey is thankful,Terry is wrong,0
+Regina is jolly and Franklin is jolly, Regina is not jolly,Regina is jolly,Franklin is jolly,1
+Allan is zealous and Anthony is helpful, Anthony is not zealous,Allan is zealous,Anthony is helpful,0
+Rhonda is wonderful and Rachel is kind, Carrie is not rich,Rhonda is wonderful,Rachel is kind,0
+Caroline is aggressive and Felicia is eager, Katie is easy,Caroline is aggressive,Felicia is eager,0
+Caroline is zealous and Ross is victorious, Darlene is not unimportant,Caroline is zealous,Ross is victorious,0
+Robin is eager and Wade is nice, Robin is not eager,Robin is eager,Wade is nice,1
+Kristin is mushy and Isaac is alive, Isaac is not alive,Kristin is mushy,Isaac is alive,1
+Bertha is wrong and Kelly is wrong, Kelly is not wrong,Bertha is wrong,Kelly is wrong,1
+Lillie is obedient and Cheryl is jolly, Lillie is not obedient,Lillie is obedient,Cheryl is jolly,1
+Ruby is proud and Carolyn is obedient, Ruby is not proud,Ruby is proud,Carolyn is obedient,1
+Jo is mealy and Bryan is alive, Bryan is not alive,Jo is mealy,Bryan is alive,1
+Barbara is faithful and Sonya is better, Sonya is not faithful,Barbara is faithful,Sonya is better,0
+Clifton is aggressive and Debra is brave, Sarah is not poor,Clifton is aggressive,Debra is brave,0
+Doris is wonderful and George is gifted, George is not wonderful,Doris is wonderful,George is gifted,0
+Alberta is eager and Tamara is obedient, Alberta is not eager,Alberta is eager,Tamara is obedient,1
+Carmen is nice and Leon is brave, Wayne is not tender,Carmen is nice,Leon is brave,0
+Theresa is silly and Iris is nice, Theresa is not silly,Theresa is silly,Iris is nice,1
+Connie is obedient and Steve is brave, Pamela is helpful,Connie is obedient,Steve is brave,0
+Marcus is thankful and Brian is clever, Brian is not thankful,Marcus is thankful,Brian is clever,0
+Frank is ambitious and Cheryl is faithful, Frank is not ambitious,Frank is ambitious,Cheryl is faithful,1
+Charlie is lively and Jodi is brave, Charlie is not lively,Charlie is lively,Jodi is brave,1
+Leslie is ambitious and Dana is mealy, Dana is not ambitious,Leslie is ambitious,Dana is mealy,0
+Priscilla is gentle and Jan is faithful, Priscilla is not gentle,Priscilla is gentle,Jan is faithful,1
+Sheryl is polite and Marsha is jolly, Philip is not rich,Sheryl is polite,Marsha is jolly,0
+Erika is lively and Penny is wonderful, Sonia is not easy,Erika is lively,Penny is wonderful,0
+Andre is happy and Crystal is victorious, Andre is not happy,Andre is happy,Crystal is victorious,1
+Toni is obedient and Verna is agreeable, Susie is helpful,Toni is obedient,Verna is agreeable,0
+Alvin is mealy and Shelly is gifted, Shelly is not gifted,Alvin is mealy,Shelly is gifted,1
+Rodney is faithful and Flora is thankful, Rodney is not faithful,Rodney is faithful,Flora is thankful,1
+Luz is gentle and Beatrice is kind, Leroy is clever,Luz is gentle,Beatrice is kind,0
+Joel is gentle and Tony is kind, Carole is not vast,Joel is gentle,Tony is kind,0
+Audrey is victorious and Rebecca is important, Rebecca is not victorious,Audrey is victorious,Rebecca is important,0
+Naomi is unimportant and Kurt is famous, Kurt is not famous,Naomi is unimportant,Kurt is famous,1
+Everett is delightful and Allen is shy, Everett is not shy,Everett is delightful,Allen is shy,0
+Marjorie is gifted and Ruben is rich, Ruben is not rich,Marjorie is gifted,Ruben is rich,1
+Terrence is unimportant and Cindy is alive, Cindy is not alive,Terrence is unimportant,Cindy is alive,1
+Edgar is victorious and Wanda is faithful, Edgar is not victorious,Edgar is victorious,Wanda is faithful,1
+Eileen is happy and Gene is agreeable, Edwin is not wrong,Eileen is happy,Gene is agreeable,0
+Chris is poor and Erin is easy, Erin is not easy,Chris is poor,Erin is easy,1
+Catherine is famous and Reginald is clever, Reginald is not clever,Catherine is famous,Reginald is clever,1
+Mario is important and Irma is tender, Irma is not tender,Mario is important,Irma is tender,1
+Stephanie is easy and Ben is better, Ben is not better,Stephanie is easy,Ben is better,1
+Denise is powerful and Alma is uninterested, Alma is not uninterested,Denise is powerful,Alma is uninterested,1
+Marsha is gentle and Lauren is nice, Marsha is not gentle,Marsha is gentle,Lauren is nice,1
+Karen is obedient and Daryl is zealous, Tanya is better,Karen is obedient,Daryl is zealous,0
+Curtis is jolly and Blanche is gentle, Lauren is helpful,Curtis is jolly,Blanche is gentle,0
+Rachel is eager and Leon is careful, Leon is not eager,Rachel is eager,Leon is careful,0
+Teresa is eager and Adam is zealous, Jordan is easy,Teresa is eager,Adam is zealous,0
+Manuel is jolly and Lynn is vast, Lynn is not jolly,Manuel is jolly,Lynn is vast,0
+Claire is careful and Erica is tender, Erica is not tender,Claire is careful,Erica is tender,1
+Jared is careful and Amanda is rich, Amanda is not rich,Jared is careful,Amanda is rich,1
+Jonathan is calm and Jeanette is alive, Jeanette is not calm,Jonathan is calm,Jeanette is alive,0
+Inez is inexpensive and Nicole is mealy, Nicole is not mealy,Inez is inexpensive,Nicole is mealy,1
+Melinda is agreeable and Regina is happy, Kayla is not clever,Melinda is agreeable,Regina is happy,0
+Renee is brave and Juan is obedient, Gwendolyn is not unimportant,Renee is brave,Juan is obedient,0
+Sue is helpful and Margarita is gifted, Margarita is not gifted,Sue is helpful,Margarita is gifted,1
+Edwin is clever and Harold is easy, Harold is not easy,Edwin is clever,Harold is easy,1
+Clifton is eager and Ricardo is alive, Ricardo is not eager,Clifton is eager,Ricardo is alive,0
+Audrey is faithful and Jaime is polite, Florence is famous,Audrey is faithful,Jaime is polite,0
+Darren is aggressive and Dan is aggressive, Helen is not alive,Darren is aggressive,Dan is aggressive,0
+Ann is witty and Jonathan is polite, Travis is not tender,Ann is witty,Jonathan is polite,0
+Johnny is polite and Sherri is ambitious, Clifford is not hallowed,Johnny is polite,Sherri is ambitious,0
+Aaron is tender and Agnes is important, Agnes is not important,Aaron is tender,Agnes is important,1
+Brad is brave and Rachel is ambitious, Anne is not careful,Brad is brave,Rachel is ambitious,0
+Jesus is victorious and Alvin is happy, Joanna is wrong,Jesus is victorious,Alvin is happy,0
+Clifford is obedient and Nelson is careful, Nelson is not obedient,Clifford is obedient,Nelson is careful,0
+Karen is obedient and Anita is important, Karen is not important,Karen is obedient,Anita is important,0
+Robin is polite and Vera is gifted, Robin is not gifted,Robin is polite,Vera is gifted,0
+Maggie is eager and Michelle is victorious, Joshua is not powerful,Maggie is eager,Michelle is victorious,0
+Herbert is happy and Marcia is silly, Danny is hallowed,Herbert is happy,Marcia is silly,0
+Leroy is obedient and Jeanne is wrong, Jeanne is not obedient,Leroy is obedient,Jeanne is wrong,0
+Robert is faithful and Janice is polite, Robert is not faithful,Robert is faithful,Janice is polite,1
+Kathy is wrong and Alfred is odd, Alfred is not odd,Kathy is wrong,Alfred is odd,1
+Nicole is eager and Dora is happy, Geraldine is dead,Nicole is eager,Dora is happy,0
+Gail is eager and Marcia is witty, Jose is important,Gail is eager,Marcia is witty,0
+Barbara is agreeable and Laurie is thankful, Barbara is not agreeable,Barbara is agreeable,Laurie is thankful,1
+Daisy is inexpensive and Ana is tender, Ana is not tender,Daisy is inexpensive,Ana is tender,1
+Eric is jolly and Byron is rich, Byron is not jolly,Eric is jolly,Byron is rich,0
+Yolanda is calm and Ian is witty, Yolanda is not calm,Yolanda is calm,Ian is witty,1
+Marshall is obedient and Carmen is eager, Hilda is powerful,Marshall is obedient,Carmen is eager,0
+Kelly is kind and Joyce is mealy, Kelly is not mealy,Kelly is kind,Joyce is mealy,0
+Gerald is brave and Tony is unimportant, Gerald is not unimportant,Gerald is brave,Tony is unimportant,0
+Ryan is zealous and Ralph is powerful, Ralph is not zealous,Ryan is zealous,Ralph is powerful,0
+Kristina is inexpensive and Irma is unimportant, Irma is not unimportant,Kristina is inexpensive,Irma is unimportant,1
+Bruce is calm and Juana is thankful, Ron is not important,Bruce is calm,Juana is thankful,0
+Lester is happy and Megan is gifted, Megan is not happy,Lester is happy,Megan is gifted,0
+Marlene is uninterested and Nora is gifted, Nora is not gifted,Marlene is uninterested,Nora is gifted,1
+Vanessa is agreeable and Jon is inexpensive, Vanessa is not inexpensive,Vanessa is agreeable,Jon is inexpensive,0
+Mario is kind and Mitchell is witty, Mario is not kind,Mario is kind,Mitchell is witty,1
+Jeremy is unimportant and Rhonda is uninterested, Rhonda is not uninterested,Jeremy is unimportant,Rhonda is uninterested,1
+Lynda is proud and Valerie is careful, Valerie is not proud,Lynda is proud,Valerie is careful,0
+Claude is eager and Fred is lively, Claude is not eager,Claude is eager,Fred is lively,1
+Jimmy is easy and Dale is dead, Dale is not dead,Jimmy is easy,Dale is dead,1
+Kim is unimportant and Ben is powerful, Ben is not powerful,Kim is unimportant,Ben is powerful,1
+Nora is calm and Arthur is inexpensive, Arthur is not calm,Nora is calm,Arthur is inexpensive,0
+Maryann is agreeable and Christian is calm, Ethel is not powerful,Maryann is agreeable,Christian is calm,0
+Ruby is hallowed and Victoria is dead, Victoria is not dead,Ruby is hallowed,Victoria is dead,1
+Fernando is aggressive and Kathryn is kind, Jennifer is easy,Fernando is aggressive,Kathryn is kind,0
+Louis is polite and George is easy, George is not polite,Louis is polite,George is easy,0
+Gene is odd and Justin is important, Justin is not important,Gene is odd,Justin is important,1
+Violet is nice and Julia is dead, Julia is not nice,Violet is nice,Julia is dead,0
+Charlotte is kind and Shelly is unimportant, Charlotte is not unimportant,Charlotte is kind,Shelly is unimportant,0
+Shelley is hallowed and Lester is shy, Lester is not shy,Shelley is hallowed,Lester is shy,1
+Harold is proud and Nina is clever, Harold is not clever,Harold is proud,Nina is clever,0
+Maryann is delightful and Sandy is ambitious, Vickie is mushy,Maryann is delightful,Sandy is ambitious,0
+Gwendolyn is mealy and Daniel is rich, Daniel is not rich,Gwendolyn is mealy,Daniel is rich,1
+Tyler is gentle and Brenda is tender, Brenda is not gentle,Tyler is gentle,Brenda is tender,0
+Ethel is faithful and Vivian is faithful, Ethel is not faithful,Ethel is faithful,Vivian is faithful,1
+Evelyn is aggressive and Georgia is brave, Evelyn is not aggressive,Evelyn is aggressive,Georgia is brave,1
+Rick is aggressive and Elizabeth is delightful, Bertha is powerful,Rick is aggressive,Elizabeth is delightful,0
+Anthony is agreeable and Derek is careful, Anthony is not careful,Anthony is agreeable,Derek is careful,0
+Ralph is alive and Thelma is unimportant, Thelma is not unimportant,Ralph is alive,Thelma is unimportant,1
+Bobby is nice and George is thankful, Bobby is not nice,Bobby is nice,George is thankful,1
+Elmer is wonderful and Kelly is eager, Elmer is not wonderful,Elmer is wonderful,Kelly is eager,1
+Philip is happy and Andrea is thankful, Howard is not inexpensive,Philip is happy,Andrea is thankful,0
+Ricky is eager and Marjorie is wonderful, Bob is mealy,Ricky is eager,Marjorie is wonderful,0
+Lola is wonderful and Faye is alive, Faye is not wonderful,Lola is wonderful,Faye is alive,0
+Bessie is polite and Don is tender, Bessie is not tender,Bessie is polite,Don is tender,0
+Edith is agreeable and Sheryl is happy, Edith is not agreeable,Edith is agreeable,Sheryl is happy,1
+Tom is jolly and Karen is helpful, Karen is not jolly,Tom is jolly,Karen is helpful,0
+Ricky is mealy and Julio is helpful, Julio is not helpful,Ricky is mealy,Julio is helpful,1
+Brandon is ambitious and Gilbert is uninterested, Brandon is not uninterested,Brandon is ambitious,Gilbert is uninterested,0
+Adam is better and Margarita is inexpensive, Margarita is not inexpensive,Adam is better,Margarita is inexpensive,1
+Mary is faithful and Shawn is shy, Mary is not shy,Mary is faithful,Shawn is shy,0
+Jay is wrong and Chester is shy, Chester is not shy,Jay is wrong,Chester is shy,1
+Sabrina is calm and Leonard is dead, Sabrina is not dead,Sabrina is calm,Leonard is dead,0
+Danielle is ambitious and George is silly, Danielle is not ambitious,Danielle is ambitious,George is silly,1
+Edna is gentle and Sam is wrong, Edna is not wrong,Edna is gentle,Sam is wrong,0
+Juanita is wonderful and Ron is famous, Ron is not wonderful,Juanita is wonderful,Ron is famous,0
+Melvin is eager and Sean is polite, Nathaniel is careful,Melvin is eager,Sean is polite,0
+Brandi is obedient and Holly is zealous, Holly is rich,Brandi is obedient,Holly is zealous,0
+Janet is polite and Doris is eager, Janet is not polite,Janet is polite,Doris is eager,1
+Eileen is calm and Flora is kind, Eileen is not calm,Eileen is calm,Flora is kind,1
+Jeff is delightful and Tim is happy, Jeff is not delightful,Jeff is delightful,Tim is happy,1
+Cecilia is aggressive and Lee is nice, Ryan is inexpensive,Cecilia is aggressive,Lee is nice,0
+Lillian is tender and Maryann is inexpensive, Maryann is not inexpensive,Lillian is tender,Maryann is inexpensive,1
+Tamara is proud and Edith is ambitious, Keith is not gifted,Tamara is proud,Edith is ambitious,0
+Lindsay is inexpensive and Anthony is vast, Anthony is not vast,Lindsay is inexpensive,Anthony is vast,1
+Melinda is jolly and Sean is gifted, Melinda is not gifted,Melinda is jolly,Sean is gifted,0
+Samuel is unimportant and Sylvia is poor, Sylvia is not poor,Samuel is unimportant,Sylvia is poor,1
+Melody is poor and Sue is gifted, Sue is not gifted,Melody is poor,Sue is gifted,1
+Phillip is delightful and Terry is wonderful, Phillip is not delightful,Phillip is delightful,Terry is wonderful,1
+Patrick is witty and Patrick is happy, Francisco is hallowed,Patrick is witty,Patrick is happy,0
+Lydia is obedient and Corey is agreeable, Lydia is not obedient,Lydia is obedient,Corey is agreeable,1
+James is victorious and Marlene is odd, Marlene is not victorious,James is victorious,Marlene is odd,0
+Glen is calm and Floyd is wrong, Floyd is not calm,Glen is calm,Floyd is wrong,0
+Pedro is gentle and Patrick is faithful, Lonnie is mushy,Pedro is gentle,Patrick is faithful,0
+Claire is thankful and Tim is powerful, Tim is not thankful,Claire is thankful,Tim is powerful,0
+Edwin is happy and Genevieve is kind, Norman is not hallowed,Edwin is happy,Genevieve is kind,0
+Grace is happy and Amanda is nice, Grace is not happy,Grace is happy,Amanda is nice,1
+Jordan is gifted and Matthew is mushy, Matthew is not mushy,Jordan is gifted,Matthew is mushy,1
+Stephanie is aggressive and Samuel is inexpensive, Samuel is not aggressive,Stephanie is aggressive,Samuel is inexpensive,0
+Ross is faithful and Steve is powerful, Ross is not powerful,Ross is faithful,Steve is powerful,0
+Marcia is brave and Jaime is lively, Marcia is not brave,Marcia is brave,Jaime is lively,1
+Victor is silly and Andy is gentle, Victor is not silly,Victor is silly,Andy is gentle,1
+Ted is wonderful and Katrina is nice, Ted is not wonderful,Ted is wonderful,Katrina is nice,1
+Edgar is eager and Dan is important, Edgar is not important,Edgar is eager,Dan is important,0
+Colleen is easy and Roger is powerful, Roger is not powerful,Colleen is easy,Roger is powerful,1
+Martin is silly and Kevin is brave, Tammy is rich,Martin is silly,Kevin is brave,0
+Joyce is gifted and Rita is careful, Rita is not careful,Joyce is gifted,Rita is careful,1
+Lola is tender and Sarah is alive, Sarah is not alive,Lola is tender,Sarah is alive,1
+Jessie is ambitious and Rosie is jolly, Greg is not helpful,Jessie is ambitious,Rosie is jolly,0
+Alice is alive and Hector is wrong, Hector is not wrong,Alice is alive,Hector is wrong,1
+Michael is alive and Marsha is alive, Marsha is not alive,Michael is alive,Marsha is alive,1
+Amy is calm and Tamara is zealous, Ricardo is not gifted,Amy is calm,Tamara is zealous,0
+Terry is gifted and Freddie is gifted, Freddie is not gifted,Terry is gifted,Freddie is gifted,1
+Marsha is obedient and Lindsay is lively, Timothy is odd,Marsha is obedient,Lindsay is lively,0
+Derek is silly and Joy is uninterested, Joy is not silly,Derek is silly,Joy is uninterested,0
+Darlene is calm and Chad is faithful, Albert is not alive,Darlene is calm,Chad is faithful,0
+Joseph is brave and Erik is famous, Joseph is not famous,Joseph is brave,Erik is famous,0
+Felicia is silly and Dustin is zealous, Rick is vast,Felicia is silly,Dustin is zealous,0
+Tiffany is thankful and Laurie is calm, Tiffany is not thankful,Tiffany is thankful,Laurie is calm,1
+Rachel is gentle and Bessie is alive, Rachel is not alive,Rachel is gentle,Bessie is alive,0
+Florence is careful and Florence is famous, Florence is not famous,Florence is careful,Florence is famous,1
+Nina is gentle and Florence is dead, Nina is not dead,Nina is gentle,Florence is dead,0
+Blanche is unimportant and Lisa is better, Lisa is not better,Blanche is unimportant,Lisa is better,1
+Tyrone is obedient and Nora is mealy, Nora is not obedient,Tyrone is obedient,Nora is mealy,0
+Milton is poor and Cody is careful, Cody is not careful,Milton is poor,Cody is careful,1
+Jaime is lively and Jeff is unimportant, Jeff is not lively,Jaime is lively,Jeff is unimportant,0
+Jan is jolly and Bob is delightful, Shirley is not powerful,Jan is jolly,Bob is delightful,0
+Joy is calm and Justin is hallowed, Justin is not calm,Joy is calm,Justin is hallowed,0
+Michelle is witty and Ashley is poor, Michelle is not poor,Michelle is witty,Ashley is poor,0
+Christine is obedient and Eunice is happy, Christine is not obedient,Christine is obedient,Eunice is happy,1
+Bernard is obedient and Lauren is eager, Rachel is shy,Bernard is obedient,Lauren is eager,0
+Jodi is happy and Christine is alive, Jodi is not alive,Jodi is happy,Christine is alive,0
+Kyle is ambitious and Cecilia is proud, Kyle is not ambitious,Kyle is ambitious,Cecilia is proud,1
+Rhonda is faithful and Mary is polite, Rhonda is not faithful,Rhonda is faithful,Mary is polite,1
+Wilma is silly and Melody is gifted, Melody is not silly,Wilma is silly,Melody is gifted,0
+Sue is vast and Ernest is careful, Ernest is not careful,Sue is vast,Ernest is careful,1
+Theresa is tender and Katherine is easy, Katherine is not easy,Theresa is tender,Katherine is easy,1
+Melissa is ambitious and Ted is aggressive, Darlene is not wrong,Melissa is ambitious,Ted is aggressive,0
+Gordon is aggressive and Roger is dead, Roger is not aggressive,Gordon is aggressive,Roger is dead,0
+Delores is poor and Vincent is wrong, Vincent is not wrong,Delores is poor,Vincent is wrong,1
+Felix is obedient and Theodore is wonderful, Antoinette is careful,Felix is obedient,Theodore is wonderful,0
+Billie is obedient and Yvonne is clever, Yvonne is not obedient,Billie is obedient,Yvonne is clever,0
+Jessie is wonderful and Ronald is calm, Jessie is not wonderful,Jessie is wonderful,Ronald is calm,1
+Roberto is eager and Linda is agreeable, Willie is clever,Roberto is eager,Linda is agreeable,0
+Marshall is ambitious and Johnnie is ambitious, Lena is gifted,Marshall is ambitious,Johnnie is ambitious,0
+Brett is zealous and Nina is delightful, Darren is mushy,Brett is zealous,Nina is delightful,0
+Gladys is aggressive and Hattie is clever, Hattie is not aggressive,Gladys is aggressive,Hattie is clever,0
+Gordon is powerful and Margie is wrong, Margie is not wrong,Gordon is powerful,Margie is wrong,1
+Shelley is polite and Frank is vast, Shelley is not vast,Shelley is polite,Frank is vast,0
+Lindsay is lively and Wesley is easy, Lindsay is not easy,Lindsay is lively,Wesley is easy,0
+Sara is nice and Dora is wonderful, Sara is not nice,Sara is nice,Dora is wonderful,1
+Henry is obedient and Wesley is tender, Henry is not tender,Henry is obedient,Wesley is tender,0
+Alison is delightful and Susan is gentle, Rhonda is not hallowed,Alison is delightful,Susan is gentle,0
+Margaret is brave and Madeline is wonderful, Gail is better,Margaret is brave,Madeline is wonderful,0
+Myrtle is kind and Cody is careful, Cody is not kind,Myrtle is kind,Cody is careful,0
+Willard is witty and Pauline is poor, Willard is not poor,Willard is witty,Pauline is poor,0
+Johnny is witty and Clifford is agreeable, Johnny is not witty,Johnny is witty,Clifford is agreeable,1
+Gladys is shy and Rosemary is mushy, Rosemary is not mushy,Gladys is shy,Rosemary is mushy,1
+Sandra is faithful and Ashley is rich, Ashley is not faithful,Sandra is faithful,Ashley is rich,0
+Sonya is victorious and Clinton is gentle, Sonya is not victorious,Sonya is victorious,Clinton is gentle,1
+Samantha is silly and Rachel is silly, Elizabeth is poor,Samantha is silly,Rachel is silly,0
+Allen is zealous and Terri is nice, Allen is not zealous,Allen is zealous,Terri is nice,1
+Jimmie is ambitious and Albert is careful, Jimmie is not careful,Jimmie is ambitious,Albert is careful,0
+Paul is brave and Jimmy is ambitious, Paul is not brave,Paul is brave,Jimmy is ambitious,1
+Rosa is jolly and Leon is thankful, Rosa is not jolly,Rosa is jolly,Leon is thankful,1
+Holly is silly and Danielle is polite, Holly is not silly,Holly is silly,Danielle is polite,1
+Franklin is proud and Misty is eager, Edith is mealy,Franklin is proud,Misty is eager,0
+Arlene is shy and Alma is tender, Alma is not tender,Arlene is shy,Alma is tender,1
+Clara is agreeable and Amber is agreeable, Clara is not agreeable,Clara is agreeable,Amber is agreeable,1
+Howard is happy and Randall is aggressive, Howard is not happy,Howard is happy,Randall is aggressive,1
+Anita is victorious and Louis is witty, Troy is not careful,Anita is victorious,Louis is witty,0
+Arthur is lively and Douglas is jolly, Joe is not unimportant,Arthur is lively,Douglas is jolly,0
+Mary is kind and Morris is kind, Mary is not kind,Mary is kind,Morris is kind,1
+Juanita is helpful and Jeanette is uninterested, Jeanette is not uninterested,Juanita is helpful,Jeanette is uninterested,1
+Guadalupe is ambitious and Natalie is jolly, Janet is shy,Guadalupe is ambitious,Natalie is jolly,0
+Bessie is dead and Pamela is dead, Pamela is not dead,Bessie is dead,Pamela is dead,1
+Milton is thankful and Ida is aggressive, Milton is not thankful,Milton is thankful,Ida is aggressive,1
+Jessie is lively and Rosa is shy, Rosa is not lively,Jessie is lively,Rosa is shy,0
+Sylvia is agreeable and Martin is hallowed, Martin is not agreeable,Sylvia is agreeable,Martin is hallowed,0
+Brenda is gentle and Stanley is inexpensive, Brenda is not inexpensive,Brenda is gentle,Stanley is inexpensive,0
+Rafael is uninterested and Jeff is mealy, Jeff is not mealy,Rafael is uninterested,Jeff is mealy,1
+Ada is wonderful and Nelson is famous, Ada is not famous,Ada is wonderful,Nelson is famous,0
+Hazel is happy and Evelyn is tender, Evelyn is not happy,Hazel is happy,Evelyn is tender,0
+Veronica is proud and Tom is obedient, Leah is not gifted,Veronica is proud,Tom is obedient,0
+Casey is victorious and Billie is polite, Casey is not victorious,Casey is victorious,Billie is polite,1
+Rhonda is witty and Cecilia is eager, Rhonda is not witty,Rhonda is witty,Cecilia is eager,1
+Eva is faithful and Caroline is tender, Caroline is not faithful,Eva is faithful,Caroline is tender,0
+Marcus is obedient and Lloyd is wonderful, Marcus is not obedient,Marcus is obedient,Lloyd is wonderful,1
+Josephine is aggressive and Nathaniel is polite, Josephine is not aggressive,Josephine is aggressive,Nathaniel is polite,1
+Vernon is delightful and Carlos is polite, Jon is not odd,Vernon is delightful,Carlos is polite,0
+Nathan is ambitious and Kirk is jolly, Nathan is not ambitious,Nathan is ambitious,Kirk is jolly,1
+Cheryl is happy and Alberto is careful, Cheryl is not careful,Cheryl is happy,Alberto is careful,0
+Brandon is eager and Anna is calm, Brandon is not eager,Brandon is eager,Anna is calm,1
+Marjorie is obedient and Darrell is proud, Sue is not easy,Marjorie is obedient,Darrell is proud,0
+Molly is tender and George is poor, George is not poor,Molly is tender,George is poor,1
+Megan is calm and Jacqueline is zealous, Megan is not calm,Megan is calm,Jacqueline is zealous,1
+Adam is mealy and Randy is clever, Randy is not clever,Adam is mealy,Randy is clever,1
+Jorge is ambitious and Wendy is aggressive, Gail is not famous,Jorge is ambitious,Wendy is aggressive,0
+Faye is aggressive and Anthony is lively, Faye is not aggressive,Faye is aggressive,Anthony is lively,1
+Miriam is kind and Pauline is poor, Miriam is not poor,Miriam is kind,Pauline is poor,0
+Jodi is agreeable and Dwight is important, Dwight is not agreeable,Jodi is agreeable,Dwight is important,0
+Vicki is hallowed and Juanita is famous, Juanita is not famous,Vicki is hallowed,Juanita is famous,1
+Bobbie is thankful and Olga is ambitious, Bobbie is not thankful,Bobbie is thankful,Olga is ambitious,1
+Kathy is delightful and Virgil is hallowed, Virgil is not delightful,Kathy is delightful,Virgil is hallowed,0
+Deborah is dead and Bobbie is odd, Bobbie is not odd,Deborah is dead,Bobbie is odd,1
+Gary is eager and Paula is lively, Melinda is not hallowed,Gary is eager,Paula is lively,0
+Amber is thankful and Herman is wonderful, Jamie is tender,Amber is thankful,Herman is wonderful,0
+Terrance is calm and Victor is powerful, Victor is not calm,Terrance is calm,Victor is powerful,0
+Miriam is victorious and Julie is tender, Miriam is not tender,Miriam is victorious,Julie is tender,0
+Jon is gentle and Bobbie is delightful, Jon is not gentle,Jon is gentle,Bobbie is delightful,1
+Floyd is brave and Jamie is poor, Floyd is not poor,Floyd is brave,Jamie is poor,0
+Dennis is unimportant and Randy is shy, Randy is not shy,Dennis is unimportant,Randy is shy,1
+Wayne is agreeable and Kirk is inexpensive, Kirk is not agreeable,Wayne is agreeable,Kirk is inexpensive,0
+Dorothy is victorious and Flora is better, Flora is not victorious,Dorothy is victorious,Flora is better,0
+Travis is kind and Lee is brave, Oscar is famous,Travis is kind,Lee is brave,0
+Rachel is silly and Joel is aggressive, Kyle is powerful,Rachel is silly,Joel is aggressive,0
+Karl is polite and Clara is tender, Clara is not polite,Karl is polite,Clara is tender,0
+Judy is rich and Lester is mealy, Lester is not mealy,Judy is rich,Lester is mealy,1
+Kathy is wonderful and Jerome is jolly, Jorge is inexpensive,Kathy is wonderful,Jerome is jolly,0
+Jacob is agreeable and Blanche is agreeable, Ramon is wrong,Jacob is agreeable,Blanche is agreeable,0
+Marie is gentle and Randall is proud, Marie is not gentle,Marie is gentle,Randall is proud,1
+Allan is aggressive and Ann is nice, Allan is not aggressive,Allan is aggressive,Ann is nice,1
+Eunice is lively and Kristen is calm, Cecilia is not odd,Eunice is lively,Kristen is calm,0
+Byron is polite and Jessica is thankful, Tracey is not powerful,Byron is polite,Jessica is thankful,0
+Pamela is poor and Victoria is clever, Victoria is not clever,Pamela is poor,Victoria is clever,1
+Patsy is obedient and Sheila is aggressive, Patsy is not obedient,Patsy is obedient,Sheila is aggressive,1
+Audrey is jolly and Victor is hallowed, Victor is not jolly,Audrey is jolly,Victor is hallowed,0
+Leonard is proud and Bonnie is ambitious, Paula is not rich,Leonard is proud,Bonnie is ambitious,0
+Floyd is zealous and Daniel is aggressive, Ida is vast,Floyd is zealous,Daniel is aggressive,0
+Lawrence is witty and Cora is gifted, Lawrence is not gifted,Lawrence is witty,Cora is gifted,0
+Lonnie is mushy and Jay is hallowed, Jay is not hallowed,Lonnie is mushy,Jay is hallowed,1
+Zachary is shy and Dwayne is alive, Dwayne is not alive,Zachary is shy,Dwayne is alive,1
+Danny is gifted and Ruth is rich, Ruth is not rich,Danny is gifted,Ruth is rich,1
+Christine is thankful and Rosemary is happy, Jerome is not poor,Christine is thankful,Rosemary is happy,0
+Wayne is faithful and Erica is powerful, Wayne is not powerful,Wayne is faithful,Erica is powerful,0
+Guadalupe is witty and Olivia is vast, Olivia is not witty,Guadalupe is witty,Olivia is vast,0
+Barbara is lively and Terry is jolly, Barbara is not lively,Barbara is lively,Terry is jolly,1
+Randall is agreeable and Claire is unimportant, Randall is not unimportant,Randall is agreeable,Claire is unimportant,0
+Patricia is ambitious and Kristen is thankful, Nina is rich,Patricia is ambitious,Kristen is thankful,0
+Ella is victorious and Curtis is calm, Gladys is not dead,Ella is victorious,Curtis is calm,0
+Johnny is clever and Herbert is clever, Herbert is not clever,Johnny is clever,Herbert is clever,1
+Sonia is calm and Marc is alive, Sonia is not alive,Sonia is calm,Marc is alive,0
+Antonio is brave and Derrick is agreeable, Antonio is not brave,Antonio is brave,Derrick is agreeable,1
+Ethel is silly and Sidney is important, Sidney is not silly,Ethel is silly,Sidney is important,0
+Kenneth is careful and Ruby is better, Ruby is not better,Kenneth is careful,Ruby is better,1
+Theodore is gentle and Claudia is unimportant, Claudia is not gentle,Theodore is gentle,Claudia is unimportant,0
+Samantha is kind and Craig is wrong, Craig is not kind,Samantha is kind,Craig is wrong,0
+Deanna is ambitious and Jaime is helpful, Deanna is not helpful,Deanna is ambitious,Jaime is helpful,0
+Victor is helpful and Wanda is shy, Wanda is not shy,Victor is helpful,Wanda is shy,1
+Cindy is aggressive and Eduardo is kind, Jeffrey is powerful,Cindy is aggressive,Eduardo is kind,0
+Luz is nice and Dianne is alive, Luz is not alive,Luz is nice,Dianne is alive,0
+Jim is jolly and Erin is vast, Jim is not vast,Jim is jolly,Erin is vast,0
+Anita is brave and Craig is wonderful, James is shy,Anita is brave,Craig is wonderful,0
+Daniel is better and Fernando is vast, Fernando is not vast,Daniel is better,Fernando is vast,1
+Julio is polite and David is hallowed, David is not polite,Julio is polite,David is hallowed,0
+Sam is agreeable and Jeanne is mealy, Sam is not mealy,Sam is agreeable,Jeanne is mealy,0
+Lindsey is famous and Glenda is better, Glenda is not better,Lindsey is famous,Glenda is better,1
+Lynn is inexpensive and Alberta is alive, Alberta is not alive,Lynn is inexpensive,Alberta is alive,1
+Anna is aggressive and Kent is tender, Anna is not tender,Anna is aggressive,Kent is tender,0
+Janet is witty and Joanna is ambitious, Janet is not witty,Janet is witty,Joanna is ambitious,1
+Seth is silly and Lula is better, Seth is not better,Seth is silly,Lula is better,0
+Marilyn is thankful and Betty is better, Betty is not thankful,Marilyn is thankful,Betty is better,0
+Diane is agreeable and Esther is easy, Diane is not easy,Diane is agreeable,Esther is easy,0
+Terri is proud and Gertrude is careful, Gertrude is not proud,Terri is proud,Gertrude is careful,0
+Rodney is jolly and Jamie is eager, Dolores is not rich,Rodney is jolly,Jamie is eager,0
+Clifford is better and Duane is mealy, Duane is not mealy,Clifford is better,Duane is mealy,1
+Janice is victorious and Rosie is rich, Janice is not rich,Janice is victorious,Rosie is rich,0
+Billy is polite and Maryann is easy, Maryann is not polite,Billy is polite,Maryann is easy,0
+Angela is important and Melanie is gifted, Melanie is not gifted,Angela is important,Melanie is gifted,1
+Violet is victorious and Belinda is brave, Valerie is not clever,Violet is victorious,Belinda is brave,0
+Amber is delightful and Constance is nice, Amber is not delightful,Amber is delightful,Constance is nice,1
+Maurice is jolly and Fernando is wonderful, Maurice is not jolly,Maurice is jolly,Fernando is wonderful,1
+Antoinette is eager and Jill is polite, Doris is not wrong,Antoinette is eager,Jill is polite,0
+Violet is calm and Sonia is poor, Sonia is not calm,Violet is calm,Sonia is poor,0
+Dan is silly and Marcus is alive, Marcus is not silly,Dan is silly,Marcus is alive,0
+Hazel is aggressive and Fred is helpful, Fred is not aggressive,Hazel is aggressive,Fred is helpful,0
+Billie is brave and Annette is clever, Billie is not clever,Billie is brave,Annette is clever,0
+Leona is agreeable and Vincent is wrong, Leona is not wrong,Leona is agreeable,Vincent is wrong,0
+Benjamin is calm and Andrew is nice, Benjamin is not calm,Benjamin is calm,Andrew is nice,1
+Sheryl is silly and Rosie is delightful, Sheryl is not silly,Sheryl is silly,Rosie is delightful,1
+Bobbie is witty and Mathew is zealous, Ricardo is not easy,Bobbie is witty,Mathew is zealous,0
+Alma is gentle and Greg is calm, Alma is not gentle,Alma is gentle,Greg is calm,1
+Linda is eager and Viola is tender, Viola is not eager,Linda is eager,Viola is tender,0
+Shawn is uninterested and Sherry is vast, Sherry is not vast,Shawn is uninterested,Sherry is vast,1
+Sara is eager and Dustin is lively, Kent is better,Sara is eager,Dustin is lively,0
+Janet is obedient and Verna is alive, Verna is not obedient,Janet is obedient,Verna is alive,0
+Jodi is shy and Leslie is uninterested, Leslie is not uninterested,Jodi is shy,Leslie is uninterested,1
+Paul is zealous and Phillip is thankful, Ray is not mushy,Paul is zealous,Phillip is thankful,0
+Erik is important and Ralph is mealy, Ralph is not mealy,Erik is important,Ralph is mealy,1
+Julian is poor and Nelson is dead, Nelson is not dead,Julian is poor,Nelson is dead,1
+Lawrence is victorious and Jimmie is victorious, Thelma is not mushy,Lawrence is victorious,Jimmie is victorious,0
+Emma is thankful and Katherine is unimportant, Katherine is not thankful,Emma is thankful,Katherine is unimportant,0
+Zachary is faithful and Blanche is silly, Lynda is not inexpensive,Zachary is faithful,Blanche is silly,0
+Tonya is gentle and Milton is witty, Katie is odd,Tonya is gentle,Milton is witty,0
+Pedro is silly and Penny is brave, Irma is not helpful,Pedro is silly,Penny is brave,0
+Timothy is delightful and Eddie is ambitious, Corey is mealy,Timothy is delightful,Eddie is ambitious,0
+Ross is rich and Theodore is careful, Theodore is not careful,Ross is rich,Theodore is careful,1
+Marvin is zealous and Katherine is alive, Marvin is not alive,Marvin is zealous,Katherine is alive,0
+Charlene is gentle and Samantha is clever, Charlene is not clever,Charlene is gentle,Samantha is clever,0
+Carol is wonderful and Felix is jolly, Calvin is not easy,Carol is wonderful,Felix is jolly,0
+Pearl is polite and Deanna is ambitious, Carla is not helpful,Pearl is polite,Deanna is ambitious,0
+Alan is kind and Flora is faithful, Kristina is poor,Alan is kind,Flora is faithful,0
+Dwayne is nice and Valerie is clever, Valerie is not nice,Dwayne is nice,Valerie is clever,0
+Misty is lively and Kristen is thankful, Warren is not tender,Misty is lively,Kristen is thankful,0
+Adam is famous and Glen is hallowed, Glen is not hallowed,Adam is famous,Glen is hallowed,1
+Sergio is nice and Teresa is eager, William is not tender,Sergio is nice,Teresa is eager,0
+Tommy is aggressive and Robin is faithful, George is odd,Tommy is aggressive,Robin is faithful,0
+Marc is nice and Rodney is kind, Marc is not nice,Marc is nice,Rodney is kind,1
+Joanne is ambitious and Nellie is obedient, Joanne is not ambitious,Joanne is ambitious,Nellie is obedient,1
+Richard is nice and Shirley is ambitious, Richard is not nice,Richard is nice,Shirley is ambitious,1
+Janie is calm and Javier is hallowed, Javier is not calm,Janie is calm,Javier is hallowed,0
+Jordan is ambitious and Guadalupe is brave, Harry is rich,Jordan is ambitious,Guadalupe is brave,0
+Natasha is jolly and Katrina is easy, Katrina is not jolly,Natasha is jolly,Katrina is easy,0
+Marc is obedient and Nora is mealy, Marc is not mealy,Marc is obedient,Nora is mealy,0
+Molly is mushy and Janet is famous, Janet is not famous,Molly is mushy,Janet is famous,1
+Tracey is witty and Tracy is gifted, Tracey is not gifted,Tracey is witty,Tracy is gifted,0
+Ivan is gentle and Philip is eager, Ivan is not gentle,Ivan is gentle,Philip is eager,1
+Felix is important and Rosie is uninterested, Rosie is not uninterested,Felix is important,Rosie is uninterested,1
+Sara is mealy and Gary is famous, Gary is not famous,Sara is mealy,Gary is famous,1
+Maurice is hallowed and Annie is better, Annie is not better,Maurice is hallowed,Annie is better,1
+Bertha is nice and Bradley is lively, Bertha is not nice,Bertha is nice,Bradley is lively,1
+Aaron is important and Virginia is unimportant, Virginia is not unimportant,Aaron is important,Virginia is unimportant,1
+Geraldine is brave and Eduardo is lively, Geraldine is not brave,Geraldine is brave,Eduardo is lively,1
+Daryl is aggressive and Courtney is silly, Daryl is not aggressive,Daryl is aggressive,Courtney is silly,1
+Dwayne is rich and Paula is hallowed, Paula is not hallowed,Dwayne is rich,Paula is hallowed,1
+Dustin is jolly and Todd is calm, Lola is not famous,Dustin is jolly,Todd is calm,0
+Erika is eager and Heidi is alive, Erika is not alive,Erika is eager,Heidi is alive,0
+Leslie is important and Ricky is tender, Ricky is not tender,Leslie is important,Ricky is tender,1
+Janet is rich and Megan is clever, Megan is not clever,Janet is rich,Megan is clever,1
+Brad is helpful and Hugh is alive, Hugh is not alive,Brad is helpful,Hugh is alive,1
+Velma is powerful and Sonia is important, Sonia is not important,Velma is powerful,Sonia is important,1
+Natalie is dead and Kirk is vast, Kirk is not vast,Natalie is dead,Kirk is vast,1
+Hector is calm and Ida is obedient, Hector is not calm,Hector is calm,Ida is obedient,1
+Nora is uninterested and Eric is powerful, Eric is not powerful,Nora is uninterested,Eric is powerful,1
+Marie is dead and Eric is rich, Eric is not rich,Marie is dead,Eric is rich,1
+Albert is zealous and Kent is rich, Albert is not rich,Albert is zealous,Kent is rich,0
+Peggy is gifted and Elsie is dead, Elsie is not dead,Peggy is gifted,Elsie is dead,1
+Eric is eager and Gail is important, Gail is not eager,Eric is eager,Gail is important,0
+Charlotte is happy and Tom is faithful, Rosie is not vast,Charlotte is happy,Tom is faithful,0
+Annie is witty and Bob is aggressive, Allan is powerful,Annie is witty,Bob is aggressive,0
+Delores is zealous and Julia is obedient, Delores is not zealous,Delores is zealous,Julia is obedient,1
+Andrew is jolly and Andre is witty, Perry is not unimportant,Andrew is jolly,Andre is witty,0
+Becky is wonderful and Yvette is brave, Kristi is not dead,Becky is wonderful,Yvette is brave,0
+Daryl is happy and Angel is lively, Daryl is not happy,Daryl is happy,Angel is lively,1
+Jill is calm and Rebecca is tender, Rebecca is not calm,Jill is calm,Rebecca is tender,0
+Eleanor is victorious and Mae is kind, Eleanor is not victorious,Eleanor is victorious,Mae is kind,1
+Richard is aggressive and Faye is kind, Roy is uninterested,Richard is aggressive,Faye is kind,0
+Ivan is happy and Max is faithful, Florence is important,Ivan is happy,Max is faithful,0
+Chad is jolly and Jacob is proud, Chad is not jolly,Chad is jolly,Jacob is proud,1
+Joshua is victorious and Cody is obedient, Joshua is not victorious,Joshua is victorious,Cody is obedient,1
+Tracy is clever and Willard is shy, Willard is not shy,Tracy is clever,Willard is shy,1
+Harry is eager and Teresa is kind, Harry is not eager,Harry is eager,Teresa is kind,1
+Virginia is happy and Janet is kind, Virginia is not happy,Virginia is happy,Janet is kind,1
+Leslie is nice and Shelley is brave, April is not poor,Leslie is nice,Shelley is brave,0
+Jeffery is eager and Rhonda is brave, Rosie is rich,Jeffery is eager,Rhonda is brave,0
+Christina is tender and Phillip is important, Phillip is not important,Christina is tender,Phillip is important,1
+Emma is uninterested and Alice is gifted, Alice is not gifted,Emma is uninterested,Alice is gifted,1
+June is easy and Edgar is hallowed, Edgar is not hallowed,June is easy,Edgar is hallowed,1
+Terrance is ambitious and Perry is victorious, Terrance is not ambitious,Terrance is ambitious,Perry is victorious,1
+Alfredo is polite and Vernon is gifted, Alfredo is not gifted,Alfredo is polite,Vernon is gifted,0
+Tara is uninterested and Deborah is better, Deborah is not better,Tara is uninterested,Deborah is better,1
+Kathryn is polite and Pamela is silly, Kathryn is not polite,Kathryn is polite,Pamela is silly,1
+Theodore is victorious and Larry is better, Theodore is not better,Theodore is victorious,Larry is better,0
+Alice is easy and Vickie is clever, Vickie is not clever,Alice is easy,Vickie is clever,1
+Susie is proud and Ivan is witty, Elsie is important,Susie is proud,Ivan is witty,0
+Justin is lively and Randall is jolly, Leslie is not careful,Justin is lively,Randall is jolly,0
+Lorraine is eager and Willie is odd, Willie is not eager,Lorraine is eager,Willie is odd,0
+Jesus is polite and Carla is lively, Eva is not rich,Jesus is polite,Carla is lively,0
+Kevin is rich and Kent is powerful, Kent is not powerful,Kevin is rich,Kent is powerful,1
+Jeremy is ambitious and Kyle is brave, Jeremy is not ambitious,Jeremy is ambitious,Kyle is brave,1
+Hilda is proud and Jeanne is gentle, Alison is not rich,Hilda is proud,Jeanne is gentle,0
+Marian is jolly and Russell is jolly, Marian is not jolly,Marian is jolly,Russell is jolly,1
+Enrique is proud and Joe is careful, Enrique is not careful,Enrique is proud,Joe is careful,0
+Albert is important and Annie is alive, Annie is not alive,Albert is important,Annie is alive,1
+Kristin is happy and Harold is calm, Becky is famous,Kristin is happy,Harold is calm,0
+Kristy is kind and Reginald is uninterested, Reginald is not kind,Kristy is kind,Reginald is uninterested,0
+Leonard is obedient and Michael is helpful, Leonard is not helpful,Leonard is obedient,Michael is helpful,0
+Darryl is poor and Brandon is uninterested, Brandon is not uninterested,Darryl is poor,Brandon is uninterested,1
+Geraldine is zealous and Jeanette is victorious, Geraldine is not zealous,Geraldine is zealous,Jeanette is victorious,1
+Lee is important and Rosie is better, Rosie is not better,Lee is important,Rosie is better,1
+Angela is obedient and Betty is jolly, Marion is not unimportant,Angela is obedient,Betty is jolly,0
+Sarah is aggressive and Mamie is proud, Todd is not odd,Sarah is aggressive,Mamie is proud,0
+Tara is careful and Ron is careful, Ron is not careful,Tara is careful,Ron is careful,1
+Edith is gifted and Annie is mealy, Annie is not mealy,Edith is gifted,Annie is mealy,1
+Erica is calm and Dorothy is poor, Dorothy is not calm,Erica is calm,Dorothy is poor,0
+Willie is silly and Lula is vast, Lula is not silly,Willie is silly,Lula is vast,0
+Mattie is ambitious and Donna is ambitious, Erin is clever,Mattie is ambitious,Donna is ambitious,0
+Gerald is gentle and Gordon is thankful, Ian is dead,Gerald is gentle,Gordon is thankful,0
+Fernando is faithful and Pauline is aggressive, Marie is mealy,Fernando is faithful,Pauline is aggressive,0
+Dolores is brave and Carole is witty, Christina is uninterested,Dolores is brave,Carole is witty,0
+Colleen is hallowed and Harriet is mushy, Harriet is not mushy,Colleen is hallowed,Harriet is mushy,1
+Ruben is wonderful and Frederick is faithful, Ruben is not wonderful,Ruben is wonderful,Frederick is faithful,1
+Scott is gentle and Dorothy is polite, Johnnie is not odd,Scott is gentle,Dorothy is polite,0
+Jacqueline is ambitious and Elizabeth is proud, Jacqueline is not ambitious,Jacqueline is ambitious,Elizabeth is proud,1
+Allison is eager and Lucy is obedient, Minnie is wrong,Allison is eager,Lucy is obedient,0
+Courtney is ambitious and Brenda is zealous, Courtney is not ambitious,Courtney is ambitious,Brenda is zealous,1
+Miriam is calm and Dianne is thankful, Robert is clever,Miriam is calm,Dianne is thankful,0
+Patricia is odd and Kevin is poor, Kevin is not poor,Patricia is odd,Kevin is poor,1
+Kristen is proud and Harriet is better, Harriet is not proud,Kristen is proud,Harriet is better,0
+Katherine is easy and Sean is mushy, Sean is not mushy,Katherine is easy,Sean is mushy,1
+Craig is mushy and Herbert is poor, Herbert is not poor,Craig is mushy,Herbert is poor,1
+Ruben is odd and Rosa is odd, Rosa is not odd,Ruben is odd,Rosa is odd,1
+Tina is thankful and Elmer is calm, Jane is not rich,Tina is thankful,Elmer is calm,0
+Derek is tender and William is careful, William is not careful,Derek is tender,William is careful,1
+Kristine is calm and Emma is proud, Kristine is not calm,Kristine is calm,Emma is proud,1
+Erica is inexpensive and Jordan is unimportant, Jordan is not unimportant,Erica is inexpensive,Jordan is unimportant,1
+Molly is wonderful and Gordon is kind, Molly is not wonderful,Molly is wonderful,Gordon is kind,1
+Jo is proud and Heidi is aggressive, Greg is rich,Jo is proud,Heidi is aggressive,0
+Brian is gentle and Verna is proud, Lillie is mushy,Brian is gentle,Verna is proud,0
+Patsy is nice and Ann is zealous, Patsy is not nice,Patsy is nice,Ann is zealous,1
+Crystal is eager and Suzanne is witty, Crystal is not eager,Crystal is eager,Suzanne is witty,1
+Jim is eager and Sherry is tender, Sherry is not eager,Jim is eager,Sherry is tender,0
+Brian is victorious and Doris is nice, Ernest is powerful,Brian is victorious,Doris is nice,0
+Hazel is agreeable and Casey is gifted, Hazel is not gifted,Hazel is agreeable,Casey is gifted,0
+Sharon is agreeable and Melanie is famous, Sharon is not famous,Sharon is agreeable,Melanie is famous,0
+Gertrude is brave and Rose is easy, Rose is not brave,Gertrude is brave,Rose is easy,0
+Leroy is delightful and Amanda is silly, Leroy is not delightful,Leroy is delightful,Amanda is silly,1
+Melody is faithful and Cathy is eager, Delores is not uninterested,Melody is faithful,Cathy is eager,0
+Stacey is wonderful and Claudia is obedient, Stacey is not wonderful,Stacey is wonderful,Claudia is obedient,1
+Derek is wonderful and Thomas is important, Derek is not important,Derek is wonderful,Thomas is important,0
+Lewis is happy and Karen is nice, Jesus is not alive,Lewis is happy,Karen is nice,0
+Allan is better and Rosa is unimportant, Rosa is not unimportant,Allan is better,Rosa is unimportant,1
+Brittany is proud and Duane is gifted, Brittany is not gifted,Brittany is proud,Duane is gifted,0
+Jacob is victorious and Lloyd is better, Lloyd is not victorious,Jacob is victorious,Lloyd is better,0
+Beulah is brave and Debra is victorious, Beulah is not brave,Beulah is brave,Debra is victorious,1
+Wilma is important and Sharon is odd, Sharon is not odd,Wilma is important,Sharon is odd,1
+Nancy is odd and Bruce is uninterested, Bruce is not uninterested,Nancy is odd,Bruce is uninterested,1
+Thomas is happy and Antonio is jolly, Lois is not alive,Thomas is happy,Antonio is jolly,0
+Rose is lively and Darryl is eager, Rose is not lively,Rose is lively,Darryl is eager,1
+Kathleen is important and Glen is vast, Glen is not vast,Kathleen is important,Glen is vast,1
+Edna is nice and Janie is proud, Edna is not nice,Edna is nice,Janie is proud,1
+Matthew is aggressive and Bernard is unimportant, Matthew is not unimportant,Matthew is aggressive,Bernard is unimportant,0
+Blanche is nice and Geraldine is mushy, Geraldine is not nice,Blanche is nice,Geraldine is mushy,0
+Frederick is odd and Diana is mealy, Diana is not mealy,Frederick is odd,Diana is mealy,1
+Danny is calm and Janie is proud, Molly is gifted,Danny is calm,Janie is proud,0
+Brent is mushy and Paula is odd, Paula is not odd,Brent is mushy,Paula is odd,1
+Steve is shy and Marilyn is tender, Marilyn is not tender,Steve is shy,Marilyn is tender,1
+Milton is victorious and Frederick is careful, Milton is not careful,Milton is victorious,Frederick is careful,0
+Alicia is zealous and Melanie is dead, Melanie is not zealous,Alicia is zealous,Melanie is dead,0
+Ruth is faithful and Sue is faithful, John is not mealy,Ruth is faithful,Sue is faithful,0
+Samuel is rich and Kathy is rich, Kathy is not rich,Samuel is rich,Kathy is rich,1
+Samantha is victorious and Roberto is clever, Samantha is not clever,Samantha is victorious,Roberto is clever,0
+Norma is zealous and Keith is helpful, Norma is not helpful,Norma is zealous,Keith is helpful,0
+Wade is wonderful and Kristy is ambitious, Leah is not better,Wade is wonderful,Kristy is ambitious,0
+Victoria is silly and Francis is brave, Janet is not vast,Victoria is silly,Francis is brave,0
+Molly is shy and Wallace is clever, Wallace is not clever,Molly is shy,Wallace is clever,1
+Barry is vast and Faye is dead, Faye is not dead,Barry is vast,Faye is dead,1
+Justin is wonderful and Alison is gentle, Justin is not wonderful,Justin is wonderful,Alison is gentle,1
+Ramona is nice and Fred is lively, Micheal is better,Ramona is nice,Fred is lively,0
+Harry is polite and Bob is famous, Harry is not famous,Harry is polite,Bob is famous,0
+Marguerite is happy and Felicia is important, Felicia is not happy,Marguerite is happy,Felicia is important,0
+Constance is polite and Ana is thankful, Constance is not polite,Constance is polite,Ana is thankful,1
+Lucille is lively and Alberta is obedient, Lucille is not lively,Lucille is lively,Alberta is obedient,1
+Henry is unimportant and Lena is famous, Lena is not famous,Henry is unimportant,Lena is famous,1
+Edgar is nice and Scott is helpful, Scott is not nice,Edgar is nice,Scott is helpful,0
+Kristina is obedient and Juana is nice, Kristina is not obedient,Kristina is obedient,Juana is nice,1
+Thomas is aggressive and Nancy is aggressive, Thomas is not aggressive,Thomas is aggressive,Nancy is aggressive,1
+Reginald is brave and Marsha is eager, Dolores is not poor,Reginald is brave,Marsha is eager,0
+Nelson is rich and Erika is better, Erika is not better,Nelson is rich,Erika is better,1
+Jose is hallowed and Brent is helpful, Brent is not helpful,Jose is hallowed,Brent is helpful,1
+Willie is obedient and Ronnie is eager, Penny is gifted,Willie is obedient,Ronnie is eager,0
+Beth is wonderful and Zachary is mealy, Beth is not mealy,Beth is wonderful,Zachary is mealy,0
+Lynda is lively and Jaime is odd, Jaime is not lively,Lynda is lively,Jaime is odd,0
+Cassandra is ambitious and Byron is witty, Wesley is not mushy,Cassandra is ambitious,Byron is witty,0
+Maureen is delightful and Cody is alive, Cody is not delightful,Maureen is delightful,Cody is alive,0
+Sylvia is clever and Troy is powerful, Troy is not powerful,Sylvia is clever,Troy is powerful,1
+Brad is wonderful and Irene is kind, Brad is not wonderful,Brad is wonderful,Irene is kind,1
+Karen is kind and Jo is wrong, Karen is not wrong,Karen is kind,Jo is wrong,0
+Milton is brave and Jean is agreeable, Brandon is hallowed,Milton is brave,Jean is agreeable,0
+Madeline is brave and Terry is vast, Madeline is not vast,Madeline is brave,Terry is vast,0
+Ashley is happy and Ralph is eager, Enrique is better,Ashley is happy,Ralph is eager,0
+Gary is wonderful and David is odd, David is not wonderful,Gary is wonderful,David is odd,0
+Philip is delightful and Bruce is happy, Philip is not delightful,Philip is delightful,Bruce is happy,1
+Yvonne is wrong and Joanne is mealy, Joanne is not mealy,Yvonne is wrong,Joanne is mealy,1
+Terrance is aggressive and Delores is brave, Terrance is not aggressive,Terrance is aggressive,Delores is brave,1
+Brent is inexpensive and Sonya is odd, Sonya is not odd,Brent is inexpensive,Sonya is odd,1
+Nina is jolly and Fernando is polite, Nina is not jolly,Nina is jolly,Fernando is polite,1
+Jeanne is brave and Erica is mushy, Jeanne is not mushy,Jeanne is brave,Erica is mushy,0
+Glenn is better and Freddie is gifted, Freddie is not gifted,Glenn is better,Freddie is gifted,1
+Stanley is agreeable and Tyrone is clever, Tyrone is not agreeable,Stanley is agreeable,Tyrone is clever,0
+Mae is nice and Ruby is unimportant, Ruby is not nice,Mae is nice,Ruby is unimportant,0
+Priscilla is lively and Loretta is obedient, Priscilla is not lively,Priscilla is lively,Loretta is obedient,1
+Ronald is silly and Micheal is obedient, Ronald is not silly,Ronald is silly,Micheal is obedient,1
+Shelley is faithful and Edna is calm, Verna is dead,Shelley is faithful,Edna is calm,0
+Dianne is wonderful and Christine is important, Dianne is not important,Dianne is wonderful,Christine is important,0
+Hattie is victorious and Lula is mushy, Hattie is not mushy,Hattie is victorious,Lula is mushy,0
+Willard is calm and Sue is victorious, Willard is not calm,Willard is calm,Sue is victorious,1
+Leah is gifted and Florence is poor, Florence is not poor,Leah is gifted,Florence is poor,1
+Candice is poor and Kathy is odd, Kathy is not odd,Candice is poor,Kathy is odd,1
+Natasha is mealy and Jan is vast, Jan is not vast,Natasha is mealy,Jan is vast,1
+Clayton is victorious and Carole is polite, Clayton is not victorious,Clayton is victorious,Carole is polite,1
+Kristina is eager and Ronnie is agreeable, Marsha is famous,Kristina is eager,Ronnie is agreeable,0
+Allison is polite and Lisa is calm, Pearl is famous,Allison is polite,Lisa is calm,0
+Jamie is wrong and Barry is shy, Barry is not shy,Jamie is wrong,Barry is shy,1
+Christopher is aggressive and Jared is obedient, Roger is not wrong,Christopher is aggressive,Jared is obedient,0
+Jared is wonderful and Tonya is mushy, Tonya is not wonderful,Jared is wonderful,Tonya is mushy,0
+Freddie is wonderful and Tim is wrong, Freddie is not wrong,Freddie is wonderful,Tim is wrong,0
+Paul is jolly and Jamie is odd, Jamie is not jolly,Paul is jolly,Jamie is odd,0
+Rene is lively and Adrian is uninterested, Adrian is not lively,Rene is lively,Adrian is uninterested,0
+Harold is helpful and Elmer is easy, Elmer is not easy,Harold is helpful,Elmer is easy,1
+Naomi is zealous and Kevin is rich, Kevin is not zealous,Naomi is zealous,Kevin is rich,0
+Leon is polite and Byron is witty, Leon is not polite,Leon is polite,Byron is witty,1
+Shelly is alive and Byron is easy, Byron is not easy,Shelly is alive,Byron is easy,1
+Jenny is shy and Jimmie is wrong, Jimmie is not wrong,Jenny is shy,Jimmie is wrong,1
+Marvin is easy and Sally is mushy, Sally is not mushy,Marvin is easy,Sally is mushy,1
+Cora is kind and Sharon is thankful, Cora is not kind,Cora is kind,Sharon is thankful,1
+Sharon is jolly and Terry is careful, Terry is not jolly,Sharon is jolly,Terry is careful,0
+Fernando is gentle and Irma is famous, Fernando is not famous,Fernando is gentle,Irma is famous,0
+Russell is tender and Melanie is rich, Melanie is not rich,Russell is tender,Melanie is rich,1
+Anthony is gentle and Eleanor is vast, Eleanor is not gentle,Anthony is gentle,Eleanor is vast,0
+Theodore is lively and Elmer is uninterested, Theodore is not uninterested,Theodore is lively,Elmer is uninterested,0
+Tina is wrong and Pedro is careful, Pedro is not careful,Tina is wrong,Pedro is careful,1
+Lee is gentle and April is faithful, Wallace is careful,Lee is gentle,April is faithful,0
+Jennifer is lively and Seth is unimportant, Jennifer is not unimportant,Jennifer is lively,Seth is unimportant,0
+Kathy is zealous and Delores is nice, Vicki is not wrong,Kathy is zealous,Delores is nice,0
+Dan is delightful and Thelma is jolly, Dan is not delightful,Dan is delightful,Thelma is jolly,1
+Emma is lively and Fannie is easy, Fannie is not lively,Emma is lively,Fannie is easy,0
+Norma is happy and Manuel is eager, Norman is not mealy,Norma is happy,Manuel is eager,0
+Patsy is kind and Carrie is delightful, Mathew is tender,Patsy is kind,Carrie is delightful,0
+Vera is jolly and Wesley is calm, Brandi is famous,Vera is jolly,Wesley is calm,0
+Ada is zealous and Dianne is polite, Melvin is hallowed,Ada is zealous,Dianne is polite,0
+Louise is agreeable and Frances is rich, Frances is not agreeable,Louise is agreeable,Frances is rich,0
+Naomi is mealy and Charles is wrong, Charles is not wrong,Naomi is mealy,Charles is wrong,1
+Edward is aggressive and Zachary is obedient, Edward is not aggressive,Edward is aggressive,Zachary is obedient,1
+Jane is polite and Judith is faithful, Jane is not polite,Jane is polite,Judith is faithful,1
+Tim is odd and Lester is odd, Lester is not odd,Tim is odd,Lester is odd,1
+Veronica is powerful and Clarence is helpful, Clarence is not helpful,Veronica is powerful,Clarence is helpful,1
+June is wonderful and Kayla is ambitious, Norma is not famous,June is wonderful,Kayla is ambitious,0
+Patsy is jolly and Curtis is obedient, Edith is rich,Patsy is jolly,Curtis is obedient,0
+Jacqueline is nice and Sherri is zealous, Jacqueline is not nice,Jacqueline is nice,Sherri is zealous,1
+Jamie is obedient and Velma is jolly, Ruby is mushy,Jamie is obedient,Velma is jolly,0
+Charles is nice and Tiffany is poor, Charles is not poor,Charles is nice,Tiffany is poor,0
+Ida is easy and Sonya is uninterested, Sonya is not uninterested,Ida is easy,Sonya is uninterested,1
+Tyler is victorious and Sara is helpful, Sara is not victorious,Tyler is victorious,Sara is helpful,0
+Vera is famous and Lorraine is important, Lorraine is not important,Vera is famous,Lorraine is important,1
+Leah is lively and Renee is eager, Judith is unimportant,Leah is lively,Renee is eager,0
+Tara is jolly and Jeanne is mealy, Jeanne is not jolly,Tara is jolly,Jeanne is mealy,0
+Perry is obedient and Madeline is proud, Jeffrey is not shy,Perry is obedient,Madeline is proud,0
+Willard is brave and Tina is agreeable, Willard is not brave,Willard is brave,Tina is agreeable,1
+Arthur is zealous and Ray is easy, Arthur is not easy,Arthur is zealous,Ray is easy,0
+Allen is nice and Douglas is proud, Allen is not nice,Allen is nice,Douglas is proud,1
+Sheryl is zealous and Rhonda is alive, Sheryl is not alive,Sheryl is zealous,Rhonda is alive,0
+Anna is famous and Tiffany is famous, Tiffany is not famous,Anna is famous,Tiffany is famous,1
+Brenda is agreeable and Susie is hallowed, Susie is not agreeable,Brenda is agreeable,Susie is hallowed,0
+Cassandra is calm and Cassandra is powerful, Cassandra is not powerful,Cassandra is calm,Cassandra is powerful,0
+Jamie is ambitious and Tiffany is better, Tiffany is not ambitious,Jamie is ambitious,Tiffany is better,0
+Nicholas is helpful and Bobbie is gifted, Bobbie is not gifted,Nicholas is helpful,Bobbie is gifted,1
+Brandy is polite and Margaret is helpful, Margaret is not polite,Brandy is polite,Margaret is helpful,0
+Misty is eager and Sherri is obedient, Misty is not eager,Misty is eager,Sherri is obedient,1
+Steven is nice and Mary is ambitious, Dolores is tender,Steven is nice,Mary is ambitious,0
+Robert is aggressive and Nicole is calm, Robert is not aggressive,Robert is aggressive,Nicole is calm,1
+Oscar is agreeable and Rosa is aggressive, Oscar is not agreeable,Oscar is agreeable,Rosa is aggressive,1
+Debra is nice and Roberta is agreeable, Debra is not nice,Debra is nice,Roberta is agreeable,1
+Thomas is obedient and Alex is gifted, Alex is not obedient,Thomas is obedient,Alex is gifted,0
+Tara is victorious and Deborah is better, Deborah is not victorious,Tara is victorious,Deborah is better,0
+Nellie is hallowed and Julian is gifted, Julian is not gifted,Nellie is hallowed,Julian is gifted,1
+Keith is agreeable and Wallace is delightful, Keith is not agreeable,Keith is agreeable,Wallace is delightful,1
+Kelly is eager and Stanley is delightful, Kelly is not eager,Kelly is eager,Stanley is delightful,1
+Leona is jolly and Sharon is obedient, Leona is not jolly,Leona is jolly,Sharon is obedient,1
+Kathryn is obedient and Lindsay is proud, Kathryn is not obedient,Kathryn is obedient,Lindsay is proud,1
+Dianne is nice and Derek is thankful, Dianne is not nice,Dianne is nice,Derek is thankful,1
+Lewis is calm and Glen is mushy, Lewis is not mushy,Lewis is calm,Glen is mushy,0
+Gloria is faithful and Viola is witty, Carole is hallowed,Gloria is faithful,Viola is witty,0
+Marc is silly and Cheryl is calm, Nicholas is gifted,Marc is silly,Cheryl is calm,0
+Johnny is proud and Max is inexpensive, Johnny is not inexpensive,Johnny is proud,Max is inexpensive,0
+Jeffery is victorious and Ruben is zealous, Jeffery is not victorious,Jeffery is victorious,Ruben is zealous,1
+Hattie is odd and Elsie is famous, Elsie is not famous,Hattie is odd,Elsie is famous,1
+Myrtle is thankful and Jennie is dead, Jennie is not thankful,Myrtle is thankful,Jennie is dead,0
+Angela is silly and Arthur is rich, Arthur is not silly,Angela is silly,Arthur is rich,0
+Brandy is silly and Rosemary is ambitious, Fred is rich,Brandy is silly,Rosemary is ambitious,0
+Patrick is happy and Paul is thankful, Ralph is not shy,Patrick is happy,Paul is thankful,0
+Phyllis is ambitious and Tim is nice, Sandra is mushy,Phyllis is ambitious,Tim is nice,0
+Hugh is victorious and Sally is lively, Hugh is not victorious,Hugh is victorious,Sally is lively,1
+Eileen is nice and Lee is obedient, Eileen is not nice,Eileen is nice,Lee is obedient,1
+Jeanette is inexpensive and Vicki is gifted, Vicki is not gifted,Jeanette is inexpensive,Vicki is gifted,1
+Alicia is nice and Debbie is nice, Alicia is not nice,Alicia is nice,Debbie is nice,1
+Harvey is polite and Connie is jolly, Harvey is not polite,Harvey is polite,Connie is jolly,1
+Ronnie is kind and Ralph is inexpensive, Ronnie is not inexpensive,Ronnie is kind,Ralph is inexpensive,0
+Rafael is wonderful and Harvey is helpful, Rafael is not helpful,Rafael is wonderful,Harvey is helpful,0
+Brad is nice and James is proud, Brad is not nice,Brad is nice,James is proud,1
+Toni is lively and Charlotte is thankful, Toni is not lively,Toni is lively,Charlotte is thankful,1
+Natasha is polite and Pamela is victorious, Natasha is not polite,Natasha is polite,Pamela is victorious,1
+Eunice is silly and Pearl is hallowed, Eunice is not hallowed,Eunice is silly,Pearl is hallowed,0
+Lorraine is proud and Jared is delightful, Connie is helpful,Lorraine is proud,Jared is delightful,0
+Joan is happy and Mark is aggressive, Joan is not happy,Joan is happy,Mark is aggressive,1
+Melinda is kind and Lisa is faithful, Angel is not famous,Melinda is kind,Lisa is faithful,0
+Philip is brave and Marc is thankful, Philip is not brave,Philip is brave,Marc is thankful,1
+Erika is kind and Corey is victorious, Erika is not kind,Erika is kind,Corey is victorious,1
+Edith is agreeable and Daniel is faithful, Frances is not poor,Edith is agreeable,Daniel is faithful,0
+Gwendolyn is uninterested and Rosa is clever, Rosa is not clever,Gwendolyn is uninterested,Rosa is clever,1
+Terrence is witty and Michele is gentle, Terrence is not witty,Terrence is witty,Michele is gentle,1
+Guy is happy and Flora is unimportant, Guy is not unimportant,Guy is happy,Flora is unimportant,0
+Greg is aggressive and Ramon is helpful, Greg is not helpful,Greg is aggressive,Ramon is helpful,0
+Joanne is happy and Kathy is witty, Joanne is not happy,Joanne is happy,Kathy is witty,1
+Alicia is faithful and Juanita is proud, Naomi is not dead,Alicia is faithful,Juanita is proud,0
+Walter is nice and Raul is agreeable, Walter is not nice,Walter is nice,Raul is agreeable,1
+Sabrina is gentle and Beatrice is silly, Sabrina is not gentle,Sabrina is gentle,Beatrice is silly,1
+Michele is helpful and Peter is shy, Peter is not shy,Michele is helpful,Peter is shy,1
+Joan is unimportant and Johnny is inexpensive, Johnny is not inexpensive,Joan is unimportant,Johnny is inexpensive,1
+Darrell is famous and Zachary is odd, Zachary is not odd,Darrell is famous,Zachary is odd,1
+Emily is agreeable and Darlene is kind, Tyler is important,Emily is agreeable,Darlene is kind,0
+Shelley is calm and Toni is gentle, Shelley is not calm,Shelley is calm,Toni is gentle,1
+Louis is gentle and Bernard is eager, Louis is not gentle,Louis is gentle,Bernard is eager,1
+Alexander is delightful and Sandra is unimportant, Sandra is not delightful,Alexander is delightful,Sandra is unimportant,0
+Ruth is jolly and Tyrone is aggressive, Sandra is better,Ruth is jolly,Tyrone is aggressive,0
+Irma is obedient and Donna is ambitious, Irma is not obedient,Irma is obedient,Donna is ambitious,1
+Beverly is polite and Florence is dead, Beverly is not dead,Beverly is polite,Florence is dead,0
+Ethel is witty and Carole is witty, Ethel is not witty,Ethel is witty,Carole is witty,1
+Walter is happy and Jimmy is agreeable, Willie is shy,Walter is happy,Jimmy is agreeable,0
+Anthony is dead and Walter is shy, Walter is not shy,Anthony is dead,Walter is shy,1
+Ricky is calm and Doris is dead, Doris is not calm,Ricky is calm,Doris is dead,0
+Clifford is wonderful and Kelly is thankful, Juan is not wrong,Clifford is wonderful,Kelly is thankful,0
+Opal is proud and Jerry is famous, Jerry is not proud,Opal is proud,Jerry is famous,0
+Douglas is zealous and Yvette is calm, Eileen is not clever,Douglas is zealous,Yvette is calm,0
+Roberta is aggressive and Candice is better, Candice is not aggressive,Roberta is aggressive,Candice is better,0
+Joanna is brave and Dana is delightful, Joanna is not brave,Joanna is brave,Dana is delightful,1
+Hazel is brave and Cody is lively, Hazel is not brave,Hazel is brave,Cody is lively,1
+Tara is easy and June is helpful, June is not helpful,Tara is easy,June is helpful,1
+Louis is wonderful and Amelia is thankful, Louis is not wonderful,Louis is wonderful,Amelia is thankful,1
+Timothy is wrong and Velma is shy, Velma is not shy,Timothy is wrong,Velma is shy,1
+Jill is wonderful and Vanessa is kind, Monica is not alive,Jill is wonderful,Vanessa is kind,0
+Joanne is rich and Bryan is vast, Bryan is not vast,Joanne is rich,Bryan is vast,1
+Kayla is ambitious and Victor is faithful, Kayla is not ambitious,Kayla is ambitious,Victor is faithful,1
+Vanessa is poor and Leo is gifted, Leo is not gifted,Vanessa is poor,Leo is gifted,1
+Loretta is hallowed and Casey is poor, Casey is not poor,Loretta is hallowed,Casey is poor,1
+Bessie is proud and Alberto is helpful, Bessie is not helpful,Bessie is proud,Alberto is helpful,0
+Eunice is dead and Judith is alive, Judith is not alive,Eunice is dead,Judith is alive,1
+Craig is kind and Raymond is wrong, Raymond is not kind,Craig is kind,Raymond is wrong,0
+Martin is victorious and Anthony is mealy, Anthony is not victorious,Martin is victorious,Anthony is mealy,0
+Margaret is helpful and Jared is careful, Jared is not careful,Margaret is helpful,Jared is careful,1
+Gregory is polite and Barry is obedient, Gregory is not polite,Gregory is polite,Barry is obedient,1
+Darryl is zealous and Erica is alive, Darryl is not alive,Darryl is zealous,Erica is alive,0
+Rene is ambitious and Katie is easy, Katie is not ambitious,Rene is ambitious,Katie is easy,0
+Norman is delightful and Alison is brave, Norman is not delightful,Norman is delightful,Alison is brave,1
+Benjamin is kind and Virginia is alive, Virginia is not kind,Benjamin is kind,Virginia is alive,0
+Candice is gentle and Norman is faithful, Emma is unimportant,Candice is gentle,Norman is faithful,0
+Jim is calm and Isabel is uninterested, Isabel is not calm,Jim is calm,Isabel is uninterested,0
+Mabel is rich and Jamie is unimportant, Jamie is not unimportant,Mabel is rich,Jamie is unimportant,1
+Wanda is eager and Jose is agreeable, Candice is not unimportant,Wanda is eager,Jose is agreeable,0
+Kurt is nice and Vivian is thankful, Kurt is not nice,Kurt is nice,Vivian is thankful,1
+Janet is polite and Lillie is better, Lillie is not polite,Janet is polite,Lillie is better,0
+Russell is gentle and Lawrence is gifted, Russell is not gifted,Russell is gentle,Lawrence is gifted,0
+Hilda is faithful and Robert is brave, Hilda is not faithful,Hilda is faithful,Robert is brave,1
+Grace is silly and Harry is polite, Valerie is not careful,Grace is silly,Harry is polite,0
+Ted is proud and Christian is agreeable, Raul is dead,Ted is proud,Christian is agreeable,0
+Max is mealy and Bob is gifted, Bob is not gifted,Max is mealy,Bob is gifted,1
+Pearl is helpful and Penny is easy, Penny is not easy,Pearl is helpful,Penny is easy,1
+Theodore is uninterested and Mitchell is better, Mitchell is not better,Theodore is uninterested,Mitchell is better,1
+Roger is shy and Bradley is hallowed, Bradley is not hallowed,Roger is shy,Bradley is hallowed,1
+Margie is eager and Danny is lively, Margie is not eager,Margie is eager,Danny is lively,1
+Aaron is delightful and Josephine is jolly, Aaron is not delightful,Aaron is delightful,Josephine is jolly,1
+Francis is gifted and Kathryn is hallowed, Kathryn is not hallowed,Francis is gifted,Kathryn is hallowed,1
+Deanna is wrong and Vickie is alive, Vickie is not alive,Deanna is wrong,Vickie is alive,1
+Sonia is lively and Karl is silly, Billy is not better,Sonia is lively,Karl is silly,0
+Wayne is gifted and Kelly is dead, Kelly is not dead,Wayne is gifted,Kelly is dead,1
+Cody is eager and Derrick is inexpensive, Derrick is not eager,Cody is eager,Derrick is inexpensive,0
+Casey is happy and David is lively, Casey is not happy,Casey is happy,David is lively,1
+Dolores is polite and Jessica is kind, Jeremy is not famous,Dolores is polite,Jessica is kind,0
+Darrell is powerful and Kristin is careful, Kristin is not careful,Darrell is powerful,Kristin is careful,1
+Sylvia is gentle and Judy is dead, Judy is not gentle,Sylvia is gentle,Judy is dead,0
+Colleen is thankful and Don is alive, Colleen is not alive,Colleen is thankful,Don is alive,0
+Dale is easy and Jennifer is alive, Jennifer is not alive,Dale is easy,Jennifer is alive,1
+Stephen is witty and Alfredo is polite, Raul is unimportant,Stephen is witty,Alfredo is polite,0
+Lucille is wonderful and Perry is proud, Lucille is not wonderful,Lucille is wonderful,Perry is proud,1
+Bonnie is agreeable and Candace is agreeable, Roberta is not helpful,Bonnie is agreeable,Candace is agreeable,0
+Frances is silly and Phillip is odd, Frances is not odd,Frances is silly,Phillip is odd,0
+Erika is mushy and Flora is poor, Flora is not poor,Erika is mushy,Flora is poor,1
+Shirley is alive and Marshall is gifted, Marshall is not gifted,Shirley is alive,Marshall is gifted,1
+Cynthia is lively and Antonio is aggressive, Alexander is tender,Cynthia is lively,Antonio is aggressive,0
+Stephen is polite and Julio is clever, Stephen is not clever,Stephen is polite,Julio is clever,0
+Becky is faithful and Mamie is thankful, Becky is not faithful,Becky is faithful,Mamie is thankful,1
+Travis is wonderful and Juanita is aggressive, Travis is not wonderful,Travis is wonderful,Juanita is aggressive,1
+Melvin is gifted and Mario is easy, Mario is not easy,Melvin is gifted,Mario is easy,1
+Salvador is eager and Lydia is eager, Salvador is not eager,Salvador is eager,Lydia is eager,1
+Margarita is calm and Tammy is agreeable, Margarita is not calm,Margarita is calm,Tammy is agreeable,1
+Lori is hallowed and Micheal is helpful, Micheal is not helpful,Lori is hallowed,Micheal is helpful,1
+Tonya is inexpensive and Donna is uninterested, Donna is not uninterested,Tonya is inexpensive,Donna is uninterested,1
+Lee is wrong and Dora is rich, Dora is not rich,Lee is wrong,Dora is rich,1
+Kyle is victorious and Travis is ambitious, Kyle is not victorious,Kyle is victorious,Travis is ambitious,1
+Ronnie is better and Iris is inexpensive, Iris is not inexpensive,Ronnie is better,Iris is inexpensive,1
+Elizabeth is agreeable and Diana is helpful, Diana is not agreeable,Elizabeth is agreeable,Diana is helpful,0
+Beulah is nice and Violet is victorious, Sarah is uninterested,Beulah is nice,Violet is victorious,0
+Lula is poor and Randy is rich, Randy is not rich,Lula is poor,Randy is rich,1
+Kyle is agreeable and Fred is careful, Kyle is not careful,Kyle is agreeable,Fred is careful,0
+Ethel is agreeable and Leah is gifted, Ethel is not gifted,Ethel is agreeable,Leah is gifted,0
+Rhonda is dead and Mathew is famous, Mathew is not famous,Rhonda is dead,Mathew is famous,1
+Rosemary is kind and Sergio is mushy, Sergio is not kind,Rosemary is kind,Sergio is mushy,0
+Eric is proud and Max is lively, Amy is not mushy,Eric is proud,Max is lively,0
+Dianne is gentle and Stacy is important, Dianne is not important,Dianne is gentle,Stacy is important,0
+Mae is happy and Shelly is lively, Mae is not happy,Mae is happy,Shelly is lively,1
+Shelly is thankful and Randall is happy, Shelly is not thankful,Shelly is thankful,Randall is happy,1
+Brad is lively and Lee is vast, Lee is not lively,Brad is lively,Lee is vast,0
+Jeremy is victorious and Megan is hallowed, Megan is not victorious,Jeremy is victorious,Megan is hallowed,0
+Tracy is mealy and Jose is powerful, Jose is not powerful,Tracy is mealy,Jose is powerful,1
+Cheryl is brave and Marie is agreeable, Cheryl is not brave,Cheryl is brave,Marie is agreeable,1
+Bobbie is kind and Patrick is witty, Cynthia is not shy,Bobbie is kind,Patrick is witty,0
+Eleanor is important and Jessica is rich, Jessica is not rich,Eleanor is important,Jessica is rich,1
+Jim is wonderful and Tanya is vast, Jim is not vast,Jim is wonderful,Tanya is vast,0
+Dean is silly and Gina is jolly, Dale is not rich,Dean is silly,Gina is jolly,0
+Jacqueline is eager and Dale is silly, Jacqueline is not eager,Jacqueline is eager,Dale is silly,1
+Andrea is witty and Margie is wonderful, Irma is not gifted,Andrea is witty,Margie is wonderful,0
+Marie is witty and Melanie is vast, Marie is not vast,Marie is witty,Melanie is vast,0
+Samantha is careful and Vincent is famous, Vincent is not famous,Samantha is careful,Vincent is famous,1
+Jan is eager and Jesus is easy, Jan is not easy,Jan is eager,Jesus is easy,0
+Franklin is victorious and Aaron is jolly, Guadalupe is clever,Franklin is victorious,Aaron is jolly,0
+Janet is brave and Joanna is proud, Janet is not brave,Janet is brave,Joanna is proud,1
+Kirk is proud and Jean is poor, Kirk is not poor,Kirk is proud,Jean is poor,0
+Rachel is odd and Viola is gifted, Viola is not gifted,Rachel is odd,Viola is gifted,1
+Eileen is obedient and Micheal is tender, Eileen is not tender,Eileen is obedient,Micheal is tender,0
+Lee is delightful and Leslie is victorious, Lee is not delightful,Lee is delightful,Leslie is victorious,1
+Edgar is faithful and Natasha is lively, Jimmy is not unimportant,Edgar is faithful,Natasha is lively,0
+Marilyn is zealous and Marsha is proud, Marilyn is not zealous,Marilyn is zealous,Marsha is proud,1
+Kevin is eager and Myrtle is mushy, Myrtle is not eager,Kevin is eager,Myrtle is mushy,0
+Mike is aggressive and Lucy is clever, Mike is not clever,Mike is aggressive,Lucy is clever,0
+Melvin is polite and Isabel is powerful, Isabel is not polite,Melvin is polite,Isabel is powerful,0
+Seth is happy and Wendy is obedient, Seth is not happy,Seth is happy,Wendy is obedient,1
+Rita is jolly and Cody is hallowed, Cody is not jolly,Rita is jolly,Cody is hallowed,0
+Philip is silly and Alan is mushy, Philip is not mushy,Philip is silly,Alan is mushy,0
+Don is happy and Isabel is hallowed, Isabel is not happy,Don is happy,Isabel is hallowed,0
+Arnold is powerful and Lisa is clever, Lisa is not clever,Arnold is powerful,Lisa is clever,1
+Courtney is gentle and Anita is helpful, Anita is not gentle,Courtney is gentle,Anita is helpful,0
+Bryan is delightful and Andre is jolly, Bryan is not delightful,Bryan is delightful,Andre is jolly,1
+Linda is uninterested and Jimmy is unimportant, Jimmy is not unimportant,Linda is uninterested,Jimmy is unimportant,1
+Carmen is victorious and Bob is victorious, Caroline is not gifted,Carmen is victorious,Bob is victorious,0
+Alfredo is nice and Curtis is delightful, Ronnie is not vast,Alfredo is nice,Curtis is delightful,0
+Derek is gentle and Beth is brave, Christine is not rich,Derek is gentle,Beth is brave,0
+Fred is nice and Christine is gentle, Vivian is not mushy,Fred is nice,Christine is gentle,0
+Kristina is mealy and Ivan is wrong, Ivan is not wrong,Kristina is mealy,Ivan is wrong,1
+Erica is gentle and Andy is inexpensive, Erica is not inexpensive,Erica is gentle,Andy is inexpensive,0
+Monica is mealy and Wesley is easy, Wesley is not easy,Monica is mealy,Wesley is easy,1
+Darrell is wrong and Rhonda is mealy, Rhonda is not mealy,Darrell is wrong,Rhonda is mealy,1
+Zachary is lively and Clara is eager, Clara is not gifted,Zachary is lively,Clara is eager,0
+Johnnie is delightful and Audrey is polite, Julia is unimportant,Johnnie is delightful,Audrey is polite,0
+Eileen is witty and Norman is ambitious, Eileen is not witty,Eileen is witty,Norman is ambitious,1
+Dianne is witty and Christina is poor, Christina is not witty,Dianne is witty,Christina is poor,0
+Wayne is jolly and Lula is important, Lula is not jolly,Wayne is jolly,Lula is important,0
+Maurice is important and Jim is important, Jim is not important,Maurice is important,Jim is important,1
+Cora is gentle and Ralph is wrong, Ralph is not gentle,Cora is gentle,Ralph is wrong,0
+Antonio is eager and Belinda is proud, Frank is odd,Antonio is eager,Belinda is proud,0
+April is dead and Rosie is shy, Rosie is not shy,April is dead,Rosie is shy,1
+Susie is eager and Louis is powerful, Louis is not eager,Susie is eager,Louis is powerful,0
+Katie is better and Marvin is mealy, Marvin is not mealy,Katie is better,Marvin is mealy,1
+Molly is eager and Dave is wrong, Molly is not wrong,Molly is eager,Dave is wrong,0
+Josephine is lively and Natalie is victorious, Josephine is not lively,Josephine is lively,Natalie is victorious,1
+Oscar is aggressive and Joan is tender, Joan is not aggressive,Oscar is aggressive,Joan is tender,0
+Sergio is brave and Johnnie is gifted, Johnnie is not brave,Sergio is brave,Johnnie is gifted,0
+Adrian is alive and Fannie is important, Fannie is not important,Adrian is alive,Fannie is important,1
+Ted is agreeable and Keith is lively, Ted is not agreeable,Ted is agreeable,Keith is lively,1
+Anthony is calm and Nelson is gentle, Kristi is poor,Anthony is calm,Nelson is gentle,0
+Yvonne is gentle and Greg is happy, Jo is not wrong,Yvonne is gentle,Greg is happy,0
+Janice is nice and Jeremy is thankful, Stephen is not better,Janice is nice,Jeremy is thankful,0
+Emily is jolly and Sandra is witty, Julian is not helpful,Emily is jolly,Sandra is witty,0
+Ricardo is tender and Maxine is helpful, Maxine is not helpful,Ricardo is tender,Maxine is helpful,1
+Laura is calm and Arthur is agreeable, Laura is not calm,Laura is calm,Arthur is agreeable,1
+Katie is eager and Ramon is ambitious, Katie is not eager,Katie is eager,Ramon is ambitious,1
+Marshall is agreeable and Raymond is eager, Marshall is not agreeable,Marshall is agreeable,Raymond is eager,1
+Phillip is proud and Craig is thankful, Violet is not better,Phillip is proud,Craig is thankful,0
+Naomi is eager and Tyrone is inexpensive, Tyrone is not eager,Naomi is eager,Tyrone is inexpensive,0
+Rachel is lively and Julio is faithful, Willard is dead,Rachel is lively,Julio is faithful,0
+Pearl is inexpensive and Nathan is mealy, Nathan is not mealy,Pearl is inexpensive,Nathan is mealy,1
+Rose is silly and Loretta is delightful, Rose is not silly,Rose is silly,Loretta is delightful,1
+Stephen is delightful and Kristen is rich, Stephen is not rich,Stephen is delightful,Kristen is rich,0
+Erika is brave and Nancy is silly, Erika is not brave,Erika is brave,Nancy is silly,1
+Benjamin is faithful and Gertrude is gentle, Benjamin is not faithful,Benjamin is faithful,Gertrude is gentle,1
+Jean is nice and Constance is gentle, Emma is dead,Jean is nice,Constance is gentle,0
+Tracy is polite and Kimberly is helpful, Kimberly is not polite,Tracy is polite,Kimberly is helpful,0
+Clyde is important and Ryan is unimportant, Ryan is not unimportant,Clyde is important,Ryan is unimportant,1
+Paul is odd and Catherine is tender, Catherine is not tender,Paul is odd,Catherine is tender,1
+Anita is better and Clyde is unimportant, Clyde is not unimportant,Anita is better,Clyde is unimportant,1
+Allen is agreeable and Eugene is witty, Mike is not uninterested,Allen is agreeable,Eugene is witty,0
+Craig is victorious and Caroline is gentle, Craig is not victorious,Craig is victorious,Caroline is gentle,1
+Nina is eager and Carmen is jolly, Nina is not eager,Nina is eager,Carmen is jolly,1
+Julie is faithful and Edgar is calm, Maria is odd,Julie is faithful,Edgar is calm,0
+Valerie is brave and Sheryl is nice, Valerie is not brave,Valerie is brave,Sheryl is nice,1
+Duane is powerful and Dorothy is inexpensive, Dorothy is not inexpensive,Duane is powerful,Dorothy is inexpensive,1
+Derrick is wonderful and Velma is hallowed, Velma is not wonderful,Derrick is wonderful,Velma is hallowed,0
+Ellen is dead and Vickie is helpful, Vickie is not helpful,Ellen is dead,Vickie is helpful,1
+Jorge is jolly and Priscilla is delightful, Wanda is not dead,Jorge is jolly,Priscilla is delightful,0
+Emily is agreeable and Donald is famous, Donald is not agreeable,Emily is agreeable,Donald is famous,0
+Irene is ambitious and Terrence is zealous, Irene is not ambitious,Irene is ambitious,Terrence is zealous,1
+Gordon is thankful and Alison is mealy, Gordon is not mealy,Gordon is thankful,Alison is mealy,0
+Fernando is delightful and Antonio is gentle, Nora is not mealy,Fernando is delightful,Antonio is gentle,0
+Pauline is thankful and Stacey is shy, Pauline is not shy,Pauline is thankful,Stacey is shy,0
+Grace is jolly and Earl is agreeable, Grace is not jolly,Grace is jolly,Earl is agreeable,1
+Eileen is proud and Virginia is thankful, Katie is not wrong,Eileen is proud,Virginia is thankful,0
+Ian is delightful and Larry is witty, Kim is not mushy,Ian is delightful,Larry is witty,0
+Jimmy is famous and Maurice is alive, Maurice is not alive,Jimmy is famous,Maurice is alive,1
+Tamara is careful and Steven is easy, Steven is not easy,Tamara is careful,Steven is easy,1
+Glen is careful and Priscilla is clever, Priscilla is not clever,Glen is careful,Priscilla is clever,1
+Rene is calm and Gary is happy, Rene is not calm,Rene is calm,Gary is happy,1
+Jane is calm and Antoinette is brave, Manuel is mushy,Jane is calm,Antoinette is brave,0
+Alison is unimportant and Priscilla is rich, Priscilla is not rich,Alison is unimportant,Priscilla is rich,1
+Neil is proud and Kevin is kind, Neil is not proud,Neil is proud,Kevin is kind,1
+Tracy is eager and Janie is wrong, Janie is not eager,Tracy is eager,Janie is wrong,0
+Philip is delightful and Gary is witty, Monica is not powerful,Philip is delightful,Gary is witty,0
+Shelley is kind and Amelia is odd, Shelley is not odd,Shelley is kind,Amelia is odd,0
+Patricia is wonderful and Robin is zealous, Patricia is not wonderful,Patricia is wonderful,Robin is zealous,1
+Michele is silly and Shannon is zealous, Michele is not silly,Michele is silly,Shannon is zealous,1
+Amber is faithful and Nathaniel is powerful, Nathaniel is not faithful,Amber is faithful,Nathaniel is powerful,0
+Grace is famous and Willie is uninterested, Willie is not uninterested,Grace is famous,Willie is uninterested,1
+Christina is easy and Megan is odd, Megan is not odd,Christina is easy,Megan is odd,1
+Sharon is polite and James is vast, James is not polite,Sharon is polite,James is vast,0
+Billie is lively and Jill is happy, Louis is not tender,Billie is lively,Jill is happy,0
+Lester is clever and Loretta is careful, Loretta is not careful,Lester is clever,Loretta is careful,1
+Kristin is aggressive and Natalie is vast, Natalie is not aggressive,Kristin is aggressive,Natalie is vast,0
+Kayla is silly and Duane is proud, Kayla is not silly,Kayla is silly,Duane is proud,1
+Ron is jolly and Todd is jolly, Ron is not jolly,Ron is jolly,Todd is jolly,1
+Debra is polite and Lauren is vast, Lauren is not polite,Debra is polite,Lauren is vast,0
+Bernard is powerful and Mattie is easy, Mattie is not easy,Bernard is powerful,Mattie is easy,1
+Georgia is delightful and Tony is inexpensive, Georgia is not inexpensive,Georgia is delightful,Tony is inexpensive,0
+David is obedient and Randy is nice, Scott is easy,David is obedient,Randy is nice,0
+Stacy is silly and Martha is wrong, Stacy is not wrong,Stacy is silly,Martha is wrong,0
+Dora is polite and Max is rich, Dora is not rich,Dora is polite,Max is rich,0
+Marie is easy and Ashley is careful, Ashley is not careful,Marie is easy,Ashley is careful,1
+Kristy is silly and Jack is aggressive, Kristy is not silly,Kristy is silly,Jack is aggressive,1
+Ida is dead and Vincent is clever, Vincent is not clever,Ida is dead,Vincent is clever,1
+Nathan is happy and Alice is gentle, Nathan is not happy,Nathan is happy,Alice is gentle,1
+George is powerful and Andrea is odd, Andrea is not odd,George is powerful,Andrea is odd,1
+Mattie is zealous and Glenda is witty, Mattie is not zealous,Mattie is zealous,Glenda is witty,1
+Beth is faithful and Claudia is better, Beth is not better,Beth is faithful,Claudia is better,0
+Steven is silly and Dennis is agreeable, Steven is not silly,Steven is silly,Dennis is agreeable,1
+Marshall is helpful and Brittany is helpful, Brittany is not helpful,Marshall is helpful,Brittany is helpful,1
+Gene is brave and William is better, William is not brave,Gene is brave,William is better,0
+Wesley is gentle and Joann is wonderful, Megan is uninterested,Wesley is gentle,Joann is wonderful,0
+Shannon is important and Terrence is uninterested, Terrence is not uninterested,Shannon is important,Terrence is uninterested,1
+Marlene is zealous and Marshall is aggressive, Marlene is not zealous,Marlene is zealous,Marshall is aggressive,1
+Willie is calm and Alfred is dead, Alfred is not calm,Willie is calm,Alfred is dead,0
+Mary is jolly and Phyllis is polite, Brian is dead,Mary is jolly,Phyllis is polite,0
+Donald is wonderful and Brad is gifted, Brad is not wonderful,Donald is wonderful,Brad is gifted,0
+Cynthia is powerful and Daryl is helpful, Daryl is not helpful,Cynthia is powerful,Daryl is helpful,1
+Colleen is kind and Toni is silly, Colleen is not kind,Colleen is kind,Toni is silly,1
+Willard is silly and Hattie is happy, Willard is not silly,Willard is silly,Hattie is happy,1
+Brian is ambitious and Isaac is unimportant, Isaac is not ambitious,Brian is ambitious,Isaac is unimportant,0
+Wendy is victorious and Catherine is nice, Wendy is not victorious,Wendy is victorious,Catherine is nice,1
+Donna is shy and Hector is powerful, Hector is not powerful,Donna is shy,Hector is powerful,1
+Nicole is zealous and Maxine is aggressive, Nicole is not zealous,Nicole is zealous,Maxine is aggressive,1
+Emma is delightful and Sarah is zealous, Emma is not delightful,Emma is delightful,Sarah is zealous,1
+Casey is calm and Dustin is poor, Casey is not poor,Casey is calm,Dustin is poor,0
+Toni is delightful and Pauline is wonderful, Cora is careful,Toni is delightful,Pauline is wonderful,0
+Charlene is tender and Martha is unimportant, Martha is not unimportant,Charlene is tender,Martha is unimportant,1
+Lucille is agreeable and Rosa is polite, Mark is shy,Lucille is agreeable,Rosa is polite,0
+David is delightful and Sylvia is proud, David is not delightful,David is delightful,Sylvia is proud,1
+Herman is nice and Brandy is kind, Roberto is rich,Herman is nice,Brandy is kind,0
+Yvette is delightful and Marion is odd, Yvette is not odd,Yvette is delightful,Marion is odd,0
+Monica is famous and Dianne is odd, Dianne is not odd,Monica is famous,Dianne is odd,1
+Gordon is wonderful and Howard is gentle, Gordon is not wonderful,Gordon is wonderful,Howard is gentle,1
+Salvador is shy and Katherine is inexpensive, Katherine is not inexpensive,Salvador is shy,Katherine is inexpensive,1
+Iris is nice and Amy is delightful, Rosemary is shy,Iris is nice,Amy is delightful,0
+Marion is brave and Kathy is thankful, Aaron is not important,Marion is brave,Kathy is thankful,0
+Deborah is poor and Cora is powerful, Cora is not powerful,Deborah is poor,Cora is powerful,1
+Jacob is kind and Leslie is thankful, Jacob is not kind,Jacob is kind,Leslie is thankful,1
+Marion is agreeable and Michelle is agreeable, Rick is helpful,Marion is agreeable,Michelle is agreeable,0
+Alberta is aggressive and Dan is helpful, Dan is not aggressive,Alberta is aggressive,Dan is helpful,0
+Terrence is delightful and Loretta is shy, Terrence is not shy,Terrence is delightful,Loretta is shy,0
+Anita is witty and Warren is uninterested, Anita is not uninterested,Anita is witty,Warren is uninterested,0
+Joe is aggressive and Penny is witty, Craig is not powerful,Joe is aggressive,Penny is witty,0
+Constance is wonderful and Dan is poor, Dan is not wonderful,Constance is wonderful,Dan is poor,0
+Lester is ambitious and Robin is mushy, Lester is not mushy,Lester is ambitious,Robin is mushy,0
+Ron is alive and Natalie is poor, Natalie is not poor,Ron is alive,Natalie is poor,1
+Karen is kind and Jennifer is kind, Karen is not kind,Karen is kind,Jennifer is kind,1
+Eleanor is aggressive and Wanda is helpful, Eleanor is not helpful,Eleanor is aggressive,Wanda is helpful,0
+Carol is lively and Rosemary is witty, Oscar is clever,Carol is lively,Rosemary is witty,0
+George is brave and Alberto is important, Alberto is not brave,George is brave,Alberto is important,0
+Rachel is agreeable and Margarita is calm, Rachel is not agreeable,Rachel is agreeable,Margarita is calm,1
+Megan is ambitious and Dwight is happy, Antonio is not careful,Megan is ambitious,Dwight is happy,0
+Marvin is eager and Valerie is faithful, Iris is not odd,Marvin is eager,Valerie is faithful,0
+Earl is jolly and Sheila is silly, Earl is not jolly,Earl is jolly,Sheila is silly,1
+Deanna is rich and Elaine is powerful, Elaine is not powerful,Deanna is rich,Elaine is powerful,1
+Charlene is alive and Rosa is inexpensive, Rosa is not inexpensive,Charlene is alive,Rosa is inexpensive,1
+Jesse is faithful and Andre is famous, Jesse is not famous,Jesse is faithful,Andre is famous,0
+Arthur is thankful and Natasha is helpful, Arthur is not helpful,Arthur is thankful,Natasha is helpful,0
+Cecilia is silly and Andre is important, Andre is not silly,Cecilia is silly,Andre is important,0
+Jason is lively and Gordon is polite, Jason is not lively,Jason is lively,Gordon is polite,1
+Kristina is silly and Don is vast, Kristina is not vast,Kristina is silly,Don is vast,0
+Benjamin is vast and Marguerite is wrong, Marguerite is not wrong,Benjamin is vast,Marguerite is wrong,1
+Stanley is alive and Rafael is famous, Rafael is not famous,Stanley is alive,Rafael is famous,1
+Clinton is dead and Pauline is alive, Pauline is not alive,Clinton is dead,Pauline is alive,1
+Tara is happy and Judy is witty, Tara is not happy,Tara is happy,Judy is witty,1
+Penny is polite and Cory is better, Cory is not polite,Penny is polite,Cory is better,0
+Olivia is eager and Deanna is agreeable, Olivia is not eager,Olivia is eager,Deanna is agreeable,1
+Marian is thankful and Tracey is agreeable, Lucille is not rich,Marian is thankful,Tracey is agreeable,0
+Elizabeth is polite and Jacqueline is gentle, Elizabeth is not polite,Elizabeth is polite,Jacqueline is gentle,1
+Oscar is wrong and Wallace is easy, Wallace is not easy,Oscar is wrong,Wallace is easy,1
+Robin is zealous and Tyrone is vast, Robin is not vast,Robin is zealous,Tyrone is vast,0
+Jack is jolly and Leslie is careful, Leslie is not jolly,Jack is jolly,Leslie is careful,0

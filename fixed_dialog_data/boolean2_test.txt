@@ -1,0 +1,3000 @@
+1 joann is zealous and kelly is delightful
+2 joann is not zealous
+3 There is a contradiction here?	yes	1
+4 shannon is alive and betty is poor
+5 betty is not poor
+6 There is a contradiction here?	yes	1
+7 leslie is thankful and evelyn is faithful
+8 leslie is not thankful
+9 There is a contradiction here?	yes	1
+10 mitchell is tender and alberto is helpful
+11 alberto is not helpful
+12 There is a contradiction here?	yes	1
+13 sherri is silly and ross is jolly
+14 sherri is not silly
+15 There is a contradiction here?	yes	1
+1 dennis is delightful and janet is faithful
+2 dennis is not delightful
+3 There is a contradiction here?	yes	1
+4 dale is faithful and dwayne is thankful
+5 dale is not faithful
+6 There is a contradiction here?	yes	1
+7 antoinette is kind and agnes is delightful
+8 martha is careful
+9 There is a contradiction here?	no	1
+10 kay is easy and juan is shy
+11 juan is not shy
+12 There is a contradiction here?	yes	1
+13 lee is lively and derrick is happy
+14 lee is not lively
+15 There is a contradiction here?	yes	1
+1 maxine is alive and claude is dead
+2 claude is not dead
+3 There is a contradiction here?	yes	1
+4 herbert is odd and joel is tender
+5 joel is not tender
+6 There is a contradiction here?	yes	1
+7 brenda is nice and dennis is powerful
+8 brenda is not powerful
+9 There is a contradiction here?	no	1
+10 sally is tender and eunice is powerful
+11 eunice is not powerful
+12 There is a contradiction here?	yes	1
+13 bernard is mealy and tammy is hallowed
+14 tammy is not hallowed
+15 There is a contradiction here?	yes	1
+1 russell is brave and ann is aggressive
+2 nelson is not wrong
+3 There is a contradiction here?	no	1
+4 stacey is dead and allison is alive
+5 allison is not alive
+6 There is a contradiction here?	yes	1
+7 ana is delightful and juana is zealous
+8 jamie is powerful
+9 There is a contradiction here?	no	1
+10 allan is happy and sandra is delightful
+11 allan is not happy
+12 There is a contradiction here?	yes	1
+13 patrick is calm and lonnie is tender
+14 patrick is not tender
+15 There is a contradiction here?	no	1
+1 sylvia is lively and gerald is eager
+2 kimberly is not clever
+3 There is a contradiction here?	no	1
+4 willard is unimportant and anne is hallowed
+5 anne is not hallowed
+6 There is a contradiction here?	yes	1
+7 lillian is proud and rose is aggressive
+8 leo is careful
+9 There is a contradiction here?	no	1
+10 sally is thankful and tamara is faithful
+11 sally is not thankful
+12 There is a contradiction here?	yes	1
+13 harvey is wonderful and julio is wonderful
+14 tracy is hallowed
+15 There is a contradiction here?	no	1
+1 diane is calm and reginald is calm
+2 diane is not calm
+3 There is a contradiction here?	yes	1
+4 james is ambitious and jo is witty
+5 james is not ambitious
+6 There is a contradiction here?	yes	1
+7 erica is wonderful and scott is delightful
+8 erica is not wonderful
+9 There is a contradiction here?	yes	1
+10 monica is zealous and marcus is dead
+11 monica is not dead
+12 There is a contradiction here?	no	1
+13 clyde is silly and justin is obedient
+14 paula is not better
+15 There is a contradiction here?	no	1
+1 nathaniel is jolly and edgar is kind
+2 nathaniel is not jolly
+3 There is a contradiction here?	yes	1
+4 loretta is agreeable and terrence is famous
+5 loretta is not famous
+6 There is a contradiction here?	no	1
+7 ella is happy and sheryl is uninterested
+8 ella is not uninterested
+9 There is a contradiction here?	no	1
+10 andrew is careful and arlene is odd
+11 arlene is not odd
+12 There is a contradiction here?	yes	1
+13 keith is gentle and sally is lively
+14 norman is not easy
+15 There is a contradiction here?	no	1
+1 lula is obedient and cathy is helpful
+2 cathy is not obedient
+3 There is a contradiction here?	no	1
+4 loretta is jolly and matthew is easy
+5 loretta is not easy
+6 There is a contradiction here?	no	1
+7 caroline is delightful and brian is obedient
+8 javier is not vast
+9 There is a contradiction here?	no	1
+10 tamara is aggressive and miriam is eager
+11 tamara is not aggressive
+12 There is a contradiction here?	yes	1
+13 betty is wonderful and susie is proud
+14 betty is not wonderful
+15 There is a contradiction here?	yes	1
+1 flora is calm and harold is aggressive
+2 wayne is not uninterested
+3 There is a contradiction here?	no	1
+4 lena is obedient and constance is calm
+5 lena is not obedient
+6 There is a contradiction here?	yes	1
+7 molly is gentle and rose is aggressive
+8 norma is better
+9 There is a contradiction here?	no	1
+10 faye is lively and bessie is thankful
+11 frederick is rich
+12 There is a contradiction here?	no	1
+13 michelle is victorious and grace is delightful
+14 seth is important
+15 There is a contradiction here?	no	1
+1 gail is kind and kimberly is uninterested
+2 kimberly is not kind
+3 There is a contradiction here?	no	1
+4 bob is kind and mary is powerful
+5 mary is not kind
+6 There is a contradiction here?	no	1
+7 shirley is better and valerie is important
+8 valerie is not important
+9 There is a contradiction here?	yes	1
+10 deanna is jolly and esther is odd
+11 deanna is not odd
+12 There is a contradiction here?	no	1
+13 lena is eager and franklin is witty
+14 lena is not eager
+15 There is a contradiction here?	yes	1
+1 eddie is delightful and rick is victorious
+2 joe is not careful
+3 There is a contradiction here?	no	1
+4 deanna is poor and brittany is inexpensive
+5 brittany is not inexpensive
+6 There is a contradiction here?	yes	1
+7 arthur is witty and gabriel is nice
+8 arthur is not witty
+9 There is a contradiction here?	yes	1
+10 christy is odd and monica is clever
+11 monica is not clever
+12 There is a contradiction here?	yes	1
+13 tiffany is polite and robert is eager
+14 matthew is important
+15 There is a contradiction here?	no	1
+1 marie is unimportant and bill is helpful
+2 bill is not helpful
+3 There is a contradiction here?	yes	1
+4 leo is careful and wilma is poor
+5 wilma is not poor
+6 There is a contradiction here?	yes	1
+7 eddie is faithful and ron is nice
+8 danny is easy
+9 There is a contradiction here?	no	1
+10 ricardo is brave and eunice is silly
+11 ricardo is not brave
+12 There is a contradiction here?	yes	1
+13 wendy is uninterested and kim is dead
+14 kim is not dead
+15 There is a contradiction here?	yes	1
+1 mike is happy and joan is inexpensive
+2 mike is not inexpensive
+3 There is a contradiction here?	no	1
+4 corey is thankful and terry is wrong
+5 terry is not thankful
+6 There is a contradiction here?	no	1
+7 regina is jolly and franklin is jolly
+8 regina is not jolly
+9 There is a contradiction here?	yes	1
+10 allan is zealous and anthony is helpful
+11 anthony is not zealous
+12 There is a contradiction here?	no	1
+13 rhonda is wonderful and rachel is kind
+14 carrie is not rich
+15 There is a contradiction here?	no	1
+1 caroline is aggressive and felicia is eager
+2 katie is easy
+3 There is a contradiction here?	no	1
+4 caroline is zealous and ross is victorious
+5 darlene is not unimportant
+6 There is a contradiction here?	no	1
+7 robin is eager and wade is nice
+8 robin is not eager
+9 There is a contradiction here?	yes	1
+10 kristin is mushy and isaac is alive
+11 isaac is not alive
+12 There is a contradiction here?	yes	1
+13 bertha is wrong and kelly is wrong
+14 kelly is not wrong
+15 There is a contradiction here?	yes	1
+1 lillie is obedient and cheryl is jolly
+2 lillie is not obedient
+3 There is a contradiction here?	yes	1
+4 ruby is proud and carolyn is obedient
+5 ruby is not proud
+6 There is a contradiction here?	yes	1
+7 jo is mealy and bryan is alive
+8 bryan is not alive
+9 There is a contradiction here?	yes	1
+10 barbara is faithful and sonya is better
+11 sonya is not faithful
+12 There is a contradiction here?	no	1
+13 clifton is aggressive and debra is brave
+14 sarah is not poor
+15 There is a contradiction here?	no	1
+1 doris is wonderful and george is gifted
+2 george is not wonderful
+3 There is a contradiction here?	no	1
+4 alberta is eager and tamara is obedient
+5 alberta is not eager
+6 There is a contradiction here?	yes	1
+7 carmen is nice and leon is brave
+8 wayne is not tender
+9 There is a contradiction here?	no	1
+10 theresa is silly and iris is nice
+11 theresa is not silly
+12 There is a contradiction here?	yes	1
+13 connie is obedient and steve is brave
+14 pamela is helpful
+15 There is a contradiction here?	no	1
+1 marcus is thankful and brian is clever
+2 brian is not thankful
+3 There is a contradiction here?	no	1
+4 frank is ambitious and cheryl is faithful
+5 frank is not ambitious
+6 There is a contradiction here?	yes	1
+7 charlie is lively and jodi is brave
+8 charlie is not lively
+9 There is a contradiction here?	yes	1
+10 leslie is ambitious and dana is mealy
+11 dana is not ambitious
+12 There is a contradiction here?	no	1
+13 priscilla is gentle and jan is faithful
+14 priscilla is not gentle
+15 There is a contradiction here?	yes	1
+1 sheryl is polite and marsha is jolly
+2 philip is not rich
+3 There is a contradiction here?	no	1
+4 erika is lively and penny is wonderful
+5 sonia is not easy
+6 There is a contradiction here?	no	1
+7 andre is happy and crystal is victorious
+8 andre is not happy
+9 There is a contradiction here?	yes	1
+10 toni is obedient and verna is agreeable
+11 susie is helpful
+12 There is a contradiction here?	no	1
+13 alvin is mealy and shelly is gifted
+14 shelly is not gifted
+15 There is a contradiction here?	yes	1
+1 rodney is faithful and flora is thankful
+2 rodney is not faithful
+3 There is a contradiction here?	yes	1
+4 luz is gentle and beatrice is kind
+5 leroy is clever
+6 There is a contradiction here?	no	1
+7 joel is gentle and tony is kind
+8 carole is not vast
+9 There is a contradiction here?	no	1
+10 audrey is victorious and rebecca is important
+11 rebecca is not victorious
+12 There is a contradiction here?	no	1
+13 naomi is unimportant and kurt is famous
+14 kurt is not famous
+15 There is a contradiction here?	yes	1
+1 everett is delightful and allen is shy
+2 everett is not shy
+3 There is a contradiction here?	no	1
+4 marjorie is gifted and ruben is rich
+5 ruben is not rich
+6 There is a contradiction here?	yes	1
+7 terrence is unimportant and cindy is alive
+8 cindy is not alive
+9 There is a contradiction here?	yes	1
+10 edgar is victorious and wanda is faithful
+11 edgar is not victorious
+12 There is a contradiction here?	yes	1
+13 eileen is happy and gene is agreeable
+14 edwin is not wrong
+15 There is a contradiction here?	no	1
+1 chris is poor and erin is easy
+2 erin is not easy
+3 There is a contradiction here?	yes	1
+4 catherine is famous and reginald is clever
+5 reginald is not clever
+6 There is a contradiction here?	yes	1
+7 mario is important and irma is tender
+8 irma is not tender
+9 There is a contradiction here?	yes	1
+10 stephanie is easy and ben is better
+11 ben is not better
+12 There is a contradiction here?	yes	1
+13 denise is powerful and alma is uninterested
+14 alma is not uninterested
+15 There is a contradiction here?	yes	1
+1 marsha is gentle and lauren is nice
+2 marsha is not gentle
+3 There is a contradiction here?	yes	1
+4 karen is obedient and daryl is zealous
+5 tanya is better
+6 There is a contradiction here?	no	1
+7 curtis is jolly and blanche is gentle
+8 lauren is helpful
+9 There is a contradiction here?	no	1
+10 rachel is eager and leon is careful
+11 leon is not eager
+12 There is a contradiction here?	no	1
+13 teresa is eager and adam is zealous
+14 jordan is easy
+15 There is a contradiction here?	no	1
+1 manuel is jolly and lynn is vast
+2 lynn is not jolly
+3 There is a contradiction here?	no	1
+4 claire is careful and erica is tender
+5 erica is not tender
+6 There is a contradiction here?	yes	1
+7 jared is careful and amanda is rich
+8 amanda is not rich
+9 There is a contradiction here?	yes	1
+10 jonathan is calm and jeanette is alive
+11 jeanette is not calm
+12 There is a contradiction here?	no	1
+13 inez is inexpensive and nicole is mealy
+14 nicole is not mealy
+15 There is a contradiction here?	yes	1
+1 melinda is agreeable and regina is happy
+2 kayla is not clever
+3 There is a contradiction here?	no	1
+4 renee is brave and juan is obedient
+5 gwendolyn is not unimportant
+6 There is a contradiction here?	no	1
+7 sue is helpful and margarita is gifted
+8 margarita is not gifted
+9 There is a contradiction here?	yes	1
+10 edwin is clever and harold is easy
+11 harold is not easy
+12 There is a contradiction here?	yes	1
+13 clifton is eager and ricardo is alive
+14 ricardo is not eager
+15 There is a contradiction here?	no	1
+1 audrey is faithful and jaime is polite
+2 florence is famous
+3 There is a contradiction here?	no	1
+4 darren is aggressive and dan is aggressive
+5 helen is not alive
+6 There is a contradiction here?	no	1
+7 ann is witty and jonathan is polite
+8 travis is not tender
+9 There is a contradiction here?	no	1
+10 johnny is polite and sherri is ambitious
+11 clifford is not hallowed
+12 There is a contradiction here?	no	1
+13 aaron is tender and agnes is important
+14 agnes is not important
+15 There is a contradiction here?	yes	1
+1 brad is brave and rachel is ambitious
+2 anne is not careful
+3 There is a contradiction here?	no	1
+4 jesus is victorious and alvin is happy
+5 joanna is wrong
+6 There is a contradiction here?	no	1
+7 clifford is obedient and nelson is careful
+8 nelson is not obedient
+9 There is a contradiction here?	no	1
+10 karen is obedient and anita is important
+11 karen is not important
+12 There is a contradiction here?	no	1
+13 robin is polite and vera is gifted
+14 robin is not gifted
+15 There is a contradiction here?	no	1
+1 maggie is eager and michelle is victorious
+2 joshua is not powerful
+3 There is a contradiction here?	no	1
+4 herbert is happy and marcia is silly
+5 danny is hallowed
+6 There is a contradiction here?	no	1
+7 leroy is obedient and jeanne is wrong
+8 jeanne is not obedient
+9 There is a contradiction here?	no	1
+10 robert is faithful and janice is polite
+11 robert is not faithful
+12 There is a contradiction here?	yes	1
+13 kathy is wrong and alfred is odd
+14 alfred is not odd
+15 There is a contradiction here?	yes	1
+1 nicole is eager and dora is happy
+2 geraldine is dead
+3 There is a contradiction here?	no	1
+4 gail is eager and marcia is witty
+5 jose is important
+6 There is a contradiction here?	no	1
+7 barbara is agreeable and laurie is thankful
+8 barbara is not agreeable
+9 There is a contradiction here?	yes	1
+10 daisy is inexpensive and ana is tender
+11 ana is not tender
+12 There is a contradiction here?	yes	1
+13 eric is jolly and byron is rich
+14 byron is not jolly
+15 There is a contradiction here?	no	1
+1 yolanda is calm and ian is witty
+2 yolanda is not calm
+3 There is a contradiction here?	yes	1
+4 marshall is obedient and carmen is eager
+5 hilda is powerful
+6 There is a contradiction here?	no	1
+7 kelly is kind and joyce is mealy
+8 kelly is not mealy
+9 There is a contradiction here?	no	1
+10 gerald is brave and tony is unimportant
+11 gerald is not unimportant
+12 There is a contradiction here?	no	1
+13 ryan is zealous and ralph is powerful
+14 ralph is not zealous
+15 There is a contradiction here?	no	1
+1 kristina is inexpensive and irma is unimportant
+2 irma is not unimportant
+3 There is a contradiction here?	yes	1
+4 bruce is calm and juana is thankful
+5 ron is not important
+6 There is a contradiction here?	no	1
+7 lester is happy and megan is gifted
+8 megan is not happy
+9 There is a contradiction here?	no	1
+10 marlene is uninterested and nora is gifted
+11 nora is not gifted
+12 There is a contradiction here?	yes	1
+13 vanessa is agreeable and jon is inexpensive
+14 vanessa is not inexpensive
+15 There is a contradiction here?	no	1
+1 mario is kind and mitchell is witty
+2 mario is not kind
+3 There is a contradiction here?	yes	1
+4 jeremy is unimportant and rhonda is uninterested
+5 rhonda is not uninterested
+6 There is a contradiction here?	yes	1
+7 lynda is proud and valerie is careful
+8 valerie is not proud
+9 There is a contradiction here?	no	1
+10 claude is eager and fred is lively
+11 claude is not eager
+12 There is a contradiction here?	yes	1
+13 jimmy is easy and dale is dead
+14 dale is not dead
+15 There is a contradiction here?	yes	1
+1 kim is unimportant and ben is powerful
+2 ben is not powerful
+3 There is a contradiction here?	yes	1
+4 nora is calm and arthur is inexpensive
+5 arthur is not calm
+6 There is a contradiction here?	no	1
+7 maryann is agreeable and christian is calm
+8 ethel is not powerful
+9 There is a contradiction here?	no	1
+10 ruby is hallowed and victoria is dead
+11 victoria is not dead
+12 There is a contradiction here?	yes	1
+13 fernando is aggressive and kathryn is kind
+14 jennifer is easy
+15 There is a contradiction here?	no	1
+1 louis is polite and george is easy
+2 george is not polite
+3 There is a contradiction here?	no	1
+4 gene is odd and justin is important
+5 justin is not important
+6 There is a contradiction here?	yes	1
+7 violet is nice and julia is dead
+8 julia is not nice
+9 There is a contradiction here?	no	1
+10 charlotte is kind and shelly is unimportant
+11 charlotte is not unimportant
+12 There is a contradiction here?	no	1
+13 shelley is hallowed and lester is shy
+14 lester is not shy
+15 There is a contradiction here?	yes	1
+1 harold is proud and nina is clever
+2 harold is not clever
+3 There is a contradiction here?	no	1
+4 maryann is delightful and sandy is ambitious
+5 vickie is mushy
+6 There is a contradiction here?	no	1
+7 gwendolyn is mealy and daniel is rich
+8 daniel is not rich
+9 There is a contradiction here?	yes	1
+10 tyler is gentle and brenda is tender
+11 brenda is not gentle
+12 There is a contradiction here?	no	1
+13 ethel is faithful and vivian is faithful
+14 ethel is not faithful
+15 There is a contradiction here?	yes	1
+1 evelyn is aggressive and georgia is brave
+2 evelyn is not aggressive
+3 There is a contradiction here?	yes	1
+4 rick is aggressive and elizabeth is delightful
+5 bertha is powerful
+6 There is a contradiction here?	no	1
+7 anthony is agreeable and derek is careful
+8 anthony is not careful
+9 There is a contradiction here?	no	1
+10 ralph is alive and thelma is unimportant
+11 thelma is not unimportant
+12 There is a contradiction here?	yes	1
+13 bobby is nice and george is thankful
+14 bobby is not nice
+15 There is a contradiction here?	yes	1
+1 elmer is wonderful and kelly is eager
+2 elmer is not wonderful
+3 There is a contradiction here?	yes	1
+4 philip is happy and andrea is thankful
+5 howard is not inexpensive
+6 There is a contradiction here?	no	1
+7 ricky is eager and marjorie is wonderful
+8 bob is mealy
+9 There is a contradiction here?	no	1
+10 lola is wonderful and faye is alive
+11 faye is not wonderful
+12 There is a contradiction here?	no	1
+13 bessie is polite and don is tender
+14 bessie is not tender
+15 There is a contradiction here?	no	1
+1 edith is agreeable and sheryl is happy
+2 edith is not agreeable
+3 There is a contradiction here?	yes	1
+4 tom is jolly and karen is helpful
+5 karen is not jolly
+6 There is a contradiction here?	no	1
+7 ricky is mealy and julio is helpful
+8 julio is not helpful
+9 There is a contradiction here?	yes	1
+10 brandon is ambitious and gilbert is uninterested
+11 brandon is not uninterested
+12 There is a contradiction here?	no	1
+13 adam is better and margarita is inexpensive
+14 margarita is not inexpensive
+15 There is a contradiction here?	yes	1
+1 mary is faithful and shawn is shy
+2 mary is not shy
+3 There is a contradiction here?	no	1
+4 jay is wrong and chester is shy
+5 chester is not shy
+6 There is a contradiction here?	yes	1
+7 sabrina is calm and leonard is dead
+8 sabrina is not dead
+9 There is a contradiction here?	no	1
+10 danielle is ambitious and george is silly
+11 danielle is not ambitious
+12 There is a contradiction here?	yes	1
+13 edna is gentle and sam is wrong
+14 edna is not wrong
+15 There is a contradiction here?	no	1
+1 juanita is wonderful and ron is famous
+2 ron is not wonderful
+3 There is a contradiction here?	no	1
+4 melvin is eager and sean is polite
+5 nathaniel is careful
+6 There is a contradiction here?	no	1
+7 brandi is obedient and holly is zealous
+8 holly is rich
+9 There is a contradiction here?	no	1
+10 janet is polite and doris is eager
+11 janet is not polite
+12 There is a contradiction here?	yes	1
+13 eileen is calm and flora is kind
+14 eileen is not calm
+15 There is a contradiction here?	yes	1
+1 jeff is delightful and tim is happy
+2 jeff is not delightful
+3 There is a contradiction here?	yes	1
+4 cecilia is aggressive and lee is nice
+5 ryan is inexpensive
+6 There is a contradiction here?	no	1
+7 lillian is tender and maryann is inexpensive
+8 maryann is not inexpensive
+9 There is a contradiction here?	yes	1
+10 tamara is proud and edith is ambitious
+11 keith is not gifted
+12 There is a contradiction here?	no	1
+13 lindsay is inexpensive and anthony is vast
+14 anthony is not vast
+15 There is a contradiction here?	yes	1
+1 melinda is jolly and sean is gifted
+2 melinda is not gifted
+3 There is a contradiction here?	no	1
+4 samuel is unimportant and sylvia is poor
+5 sylvia is not poor
+6 There is a contradiction here?	yes	1
+7 melody is poor and sue is gifted
+8 sue is not gifted
+9 There is a contradiction here?	yes	1
+10 phillip is delightful and terry is wonderful
+11 phillip is not delightful
+12 There is a contradiction here?	yes	1
+13 patrick is witty and patrick is happy
+14 francisco is hallowed
+15 There is a contradiction here?	no	1
+1 lydia is obedient and corey is agreeable
+2 lydia is not obedient
+3 There is a contradiction here?	yes	1
+4 james is victorious and marlene is odd
+5 marlene is not victorious
+6 There is a contradiction here?	no	1
+7 glen is calm and floyd is wrong
+8 floyd is not calm
+9 There is a contradiction here?	no	1
+10 pedro is gentle and patrick is faithful
+11 lonnie is mushy
+12 There is a contradiction here?	no	1
+13 claire is thankful and tim is powerful
+14 tim is not thankful
+15 There is a contradiction here?	no	1
+1 edwin is happy and genevieve is kind
+2 norman is not hallowed
+3 There is a contradiction here?	no	1
+4 grace is happy and amanda is nice
+5 grace is not happy
+6 There is a contradiction here?	yes	1
+7 jordan is gifted and matthew is mushy
+8 matthew is not mushy
+9 There is a contradiction here?	yes	1
+10 stephanie is aggressive and samuel is inexpensive
+11 samuel is not aggressive
+12 There is a contradiction here?	no	1
+13 ross is faithful and steve is powerful
+14 ross is not powerful
+15 There is a contradiction here?	no	1
+1 marcia is brave and jaime is lively
+2 marcia is not brave
+3 There is a contradiction here?	yes	1
+4 victor is silly and andy is gentle
+5 victor is not silly
+6 There is a contradiction here?	yes	1
+7 ted is wonderful and katrina is nice
+8 ted is not wonderful
+9 There is a contradiction here?	yes	1
+10 edgar is eager and dan is important
+11 edgar is not important
+12 There is a contradiction here?	no	1
+13 colleen is easy and roger is powerful
+14 roger is not powerful
+15 There is a contradiction here?	yes	1
+1 martin is silly and kevin is brave
+2 tammy is rich
+3 There is a contradiction here?	no	1
+4 joyce is gifted and rita is careful
+5 rita is not careful
+6 There is a contradiction here?	yes	1
+7 lola is tender and sarah is alive
+8 sarah is not alive
+9 There is a contradiction here?	yes	1
+10 jessie is ambitious and rosie is jolly
+11 greg is not helpful
+12 There is a contradiction here?	no	1
+13 alice is alive and hector is wrong
+14 hector is not wrong
+15 There is a contradiction here?	yes	1
+1 michael is alive and marsha is alive
+2 marsha is not alive
+3 There is a contradiction here?	yes	1
+4 amy is calm and tamara is zealous
+5 ricardo is not gifted
+6 There is a contradiction here?	no	1
+7 terry is gifted and freddie is gifted
+8 freddie is not gifted
+9 There is a contradiction here?	yes	1
+10 marsha is obedient and lindsay is lively
+11 timothy is odd
+12 There is a contradiction here?	no	1
+13 derek is silly and joy is uninterested
+14 joy is not silly
+15 There is a contradiction here?	no	1
+1 darlene is calm and chad is faithful
+2 albert is not alive
+3 There is a contradiction here?	no	1
+4 joseph is brave and erik is famous
+5 joseph is not famous
+6 There is a contradiction here?	no	1
+7 felicia is silly and dustin is zealous
+8 rick is vast
+9 There is a contradiction here?	no	1
+10 tiffany is thankful and laurie is calm
+11 tiffany is not thankful
+12 There is a contradiction here?	yes	1
+13 rachel is gentle and bessie is alive
+14 rachel is not alive
+15 There is a contradiction here?	no	1
+1 florence is careful and florence is famous
+2 florence is not famous
+3 There is a contradiction here?	yes	1
+4 nina is gentle and florence is dead
+5 nina is not dead
+6 There is a contradiction here?	no	1
+7 blanche is unimportant and lisa is better
+8 lisa is not better
+9 There is a contradiction here?	yes	1
+10 tyrone is obedient and nora is mealy
+11 nora is not obedient
+12 There is a contradiction here?	no	1
+13 milton is poor and cody is careful
+14 cody is not careful
+15 There is a contradiction here?	yes	1
+1 jaime is lively and jeff is unimportant
+2 jeff is not lively
+3 There is a contradiction here?	no	1
+4 jan is jolly and bob is delightful
+5 shirley is not powerful
+6 There is a contradiction here?	no	1
+7 joy is calm and justin is hallowed
+8 justin is not calm
+9 There is a contradiction here?	no	1
+10 michelle is witty and ashley is poor
+11 michelle is not poor
+12 There is a contradiction here?	no	1
+13 christine is obedient and eunice is happy
+14 christine is not obedient
+15 There is a contradiction here?	yes	1
+1 bernard is obedient and lauren is eager
+2 rachel is shy
+3 There is a contradiction here?	no	1
+4 jodi is happy and christine is alive
+5 jodi is not alive
+6 There is a contradiction here?	no	1
+7 kyle is ambitious and cecilia is proud
+8 kyle is not ambitious
+9 There is a contradiction here?	yes	1
+10 rhonda is faithful and mary is polite
+11 rhonda is not faithful
+12 There is a contradiction here?	yes	1
+13 wilma is silly and melody is gifted
+14 melody is not silly
+15 There is a contradiction here?	no	1
+1 sue is vast and ernest is careful
+2 ernest is not careful
+3 There is a contradiction here?	yes	1
+4 theresa is tender and katherine is easy
+5 katherine is not easy
+6 There is a contradiction here?	yes	1
+7 melissa is ambitious and ted is aggressive
+8 darlene is not wrong
+9 There is a contradiction here?	no	1
+10 gordon is aggressive and roger is dead
+11 roger is not aggressive
+12 There is a contradiction here?	no	1
+13 delores is poor and vincent is wrong
+14 vincent is not wrong
+15 There is a contradiction here?	yes	1
+1 felix is obedient and theodore is wonderful
+2 antoinette is careful
+3 There is a contradiction here?	no	1
+4 billie is obedient and yvonne is clever
+5 yvonne is not obedient
+6 There is a contradiction here?	no	1
+7 jessie is wonderful and ronald is calm
+8 jessie is not wonderful
+9 There is a contradiction here?	yes	1
+10 roberto is eager and linda is agreeable
+11 willie is clever
+12 There is a contradiction here?	no	1
+13 marshall is ambitious and johnnie is ambitious
+14 lena is gifted
+15 There is a contradiction here?	no	1
+1 brett is zealous and nina is delightful
+2 darren is mushy
+3 There is a contradiction here?	no	1
+4 gladys is aggressive and hattie is clever
+5 hattie is not aggressive
+6 There is a contradiction here?	no	1
+7 gordon is powerful and margie is wrong
+8 margie is not wrong
+9 There is a contradiction here?	yes	1
+10 shelley is polite and frank is vast
+11 shelley is not vast
+12 There is a contradiction here?	no	1
+13 lindsay is lively and wesley is easy
+14 lindsay is not easy
+15 There is a contradiction here?	no	1
+1 sara is nice and dora is wonderful
+2 sara is not nice
+3 There is a contradiction here?	yes	1
+4 henry is obedient and wesley is tender
+5 henry is not tender
+6 There is a contradiction here?	no	1
+7 alison is delightful and susan is gentle
+8 rhonda is not hallowed
+9 There is a contradiction here?	no	1
+10 margaret is brave and madeline is wonderful
+11 gail is better
+12 There is a contradiction here?	no	1
+13 myrtle is kind and cody is careful
+14 cody is not kind
+15 There is a contradiction here?	no	1
+1 willard is witty and pauline is poor
+2 willard is not poor
+3 There is a contradiction here?	no	1
+4 johnny is witty and clifford is agreeable
+5 johnny is not witty
+6 There is a contradiction here?	yes	1
+7 gladys is shy and rosemary is mushy
+8 rosemary is not mushy
+9 There is a contradiction here?	yes	1
+10 sandra is faithful and ashley is rich
+11 ashley is not faithful
+12 There is a contradiction here?	no	1
+13 sonya is victorious and clinton is gentle
+14 sonya is not victorious
+15 There is a contradiction here?	yes	1
+1 samantha is silly and rachel is silly
+2 elizabeth is poor
+3 There is a contradiction here?	no	1
+4 allen is zealous and terri is nice
+5 allen is not zealous
+6 There is a contradiction here?	yes	1
+7 jimmie is ambitious and albert is careful
+8 jimmie is not careful
+9 There is a contradiction here?	no	1
+10 paul is brave and jimmy is ambitious
+11 paul is not brave
+12 There is a contradiction here?	yes	1
+13 rosa is jolly and leon is thankful
+14 rosa is not jolly
+15 There is a contradiction here?	yes	1
+1 holly is silly and danielle is polite
+2 holly is not silly
+3 There is a contradiction here?	yes	1
+4 franklin is proud and misty is eager
+5 edith is mealy
+6 There is a contradiction here?	no	1
+7 arlene is shy and alma is tender
+8 alma is not tender
+9 There is a contradiction here?	yes	1
+10 clara is agreeable and amber is agreeable
+11 clara is not agreeable
+12 There is a contradiction here?	yes	1
+13 howard is happy and randall is aggressive
+14 howard is not happy
+15 There is a contradiction here?	yes	1
+1 anita is victorious and louis is witty
+2 troy is not careful
+3 There is a contradiction here?	no	1
+4 arthur is lively and douglas is jolly
+5 joe is not unimportant
+6 There is a contradiction here?	no	1
+7 mary is kind and morris is kind
+8 mary is not kind
+9 There is a contradiction here?	yes	1
+10 juanita is helpful and jeanette is uninterested
+11 jeanette is not uninterested
+12 There is a contradiction here?	yes	1
+13 guadalupe is ambitious and natalie is jolly
+14 janet is shy
+15 There is a contradiction here?	no	1
+1 bessie is dead and pamela is dead
+2 pamela is not dead
+3 There is a contradiction here?	yes	1
+4 milton is thankful and ida is aggressive
+5 milton is not thankful
+6 There is a contradiction here?	yes	1
+7 jessie is lively and rosa is shy
+8 rosa is not lively
+9 There is a contradiction here?	no	1
+10 sylvia is agreeable and martin is hallowed
+11 martin is not agreeable
+12 There is a contradiction here?	no	1
+13 brenda is gentle and stanley is inexpensive
+14 brenda is not inexpensive
+15 There is a contradiction here?	no	1
+1 rafael is uninterested and jeff is mealy
+2 jeff is not mealy
+3 There is a contradiction here?	yes	1
+4 ada is wonderful and nelson is famous
+5 ada is not famous
+6 There is a contradiction here?	no	1
+7 hazel is happy and evelyn is tender
+8 evelyn is not happy
+9 There is a contradiction here?	no	1
+10 veronica is proud and tom is obedient
+11 leah is not gifted
+12 There is a contradiction here?	no	1
+13 casey is victorious and billie is polite
+14 casey is not victorious
+15 There is a contradiction here?	yes	1
+1 rhonda is witty and cecilia is eager
+2 rhonda is not witty
+3 There is a contradiction here?	yes	1
+4 eva is faithful and caroline is tender
+5 caroline is not faithful
+6 There is a contradiction here?	no	1
+7 marcus is obedient and lloyd is wonderful
+8 marcus is not obedient
+9 There is a contradiction here?	yes	1
+10 josephine is aggressive and nathaniel is polite
+11 josephine is not aggressive
+12 There is a contradiction here?	yes	1
+13 vernon is delightful and carlos is polite
+14 jon is not odd
+15 There is a contradiction here?	no	1
+1 nathan is ambitious and kirk is jolly
+2 nathan is not ambitious
+3 There is a contradiction here?	yes	1
+4 cheryl is happy and alberto is careful
+5 cheryl is not careful
+6 There is a contradiction here?	no	1
+7 brandon is eager and anna is calm
+8 brandon is not eager
+9 There is a contradiction here?	yes	1
+10 marjorie is obedient and darrell is proud
+11 sue is not easy
+12 There is a contradiction here?	no	1
+13 molly is tender and george is poor
+14 george is not poor
+15 There is a contradiction here?	yes	1
+1 megan is calm and jacqueline is zealous
+2 megan is not calm
+3 There is a contradiction here?	yes	1
+4 adam is mealy and randy is clever
+5 randy is not clever
+6 There is a contradiction here?	yes	1
+7 jorge is ambitious and wendy is aggressive
+8 gail is not famous
+9 There is a contradiction here?	no	1
+10 faye is aggressive and anthony is lively
+11 faye is not aggressive
+12 There is a contradiction here?	yes	1
+13 miriam is kind and pauline is poor
+14 miriam is not poor
+15 There is a contradiction here?	no	1
+1 jodi is agreeable and dwight is important
+2 dwight is not agreeable
+3 There is a contradiction here?	no	1
+4 vicki is hallowed and juanita is famous
+5 juanita is not famous
+6 There is a contradiction here?	yes	1
+7 bobbie is thankful and olga is ambitious
+8 bobbie is not thankful
+9 There is a contradiction here?	yes	1
+10 kathy is delightful and virgil is hallowed
+11 virgil is not delightful
+12 There is a contradiction here?	no	1
+13 deborah is dead and bobbie is odd
+14 bobbie is not odd
+15 There is a contradiction here?	yes	1
+1 gary is eager and paula is lively
+2 melinda is not hallowed
+3 There is a contradiction here?	no	1
+4 amber is thankful and herman is wonderful
+5 jamie is tender
+6 There is a contradiction here?	no	1
+7 terrance is calm and victor is powerful
+8 victor is not calm
+9 There is a contradiction here?	no	1
+10 miriam is victorious and julie is tender
+11 miriam is not tender
+12 There is a contradiction here?	no	1
+13 jon is gentle and bobbie is delightful
+14 jon is not gentle
+15 There is a contradiction here?	yes	1
+1 floyd is brave and jamie is poor
+2 floyd is not poor
+3 There is a contradiction here?	no	1
+4 dennis is unimportant and randy is shy
+5 randy is not shy
+6 There is a contradiction here?	yes	1
+7 wayne is agreeable and kirk is inexpensive
+8 kirk is not agreeable
+9 There is a contradiction here?	no	1
+10 dorothy is victorious and flora is better
+11 flora is not victorious
+12 There is a contradiction here?	no	1
+13 travis is kind and lee is brave
+14 oscar is famous
+15 There is a contradiction here?	no	1
+1 rachel is silly and joel is aggressive
+2 kyle is powerful
+3 There is a contradiction here?	no	1
+4 karl is polite and clara is tender
+5 clara is not polite
+6 There is a contradiction here?	no	1
+7 judy is rich and lester is mealy
+8 lester is not mealy
+9 There is a contradiction here?	yes	1
+10 kathy is wonderful and jerome is jolly
+11 jorge is inexpensive
+12 There is a contradiction here?	no	1
+13 jacob is agreeable and blanche is agreeable
+14 ramon is wrong
+15 There is a contradiction here?	no	1
+1 marie is gentle and randall is proud
+2 marie is not gentle
+3 There is a contradiction here?	yes	1
+4 allan is aggressive and ann is nice
+5 allan is not aggressive
+6 There is a contradiction here?	yes	1
+7 eunice is lively and kristen is calm
+8 cecilia is not odd
+9 There is a contradiction here?	no	1
+10 byron is polite and jessica is thankful
+11 tracey is not powerful
+12 There is a contradiction here?	no	1
+13 pamela is poor and victoria is clever
+14 victoria is not clever
+15 There is a contradiction here?	yes	1
+1 patsy is obedient and sheila is aggressive
+2 patsy is not obedient
+3 There is a contradiction here?	yes	1
+4 audrey is jolly and victor is hallowed
+5 victor is not jolly
+6 There is a contradiction here?	no	1
+7 leonard is proud and bonnie is ambitious
+8 paula is not rich
+9 There is a contradiction here?	no	1
+10 floyd is zealous and daniel is aggressive
+11 ida is vast
+12 There is a contradiction here?	no	1
+13 lawrence is witty and cora is gifted
+14 lawrence is not gifted
+15 There is a contradiction here?	no	1
+1 lonnie is mushy and jay is hallowed
+2 jay is not hallowed
+3 There is a contradiction here?	yes	1
+4 zachary is shy and dwayne is alive
+5 dwayne is not alive
+6 There is a contradiction here?	yes	1
+7 danny is gifted and ruth is rich
+8 ruth is not rich
+9 There is a contradiction here?	yes	1
+10 christine is thankful and rosemary is happy
+11 jerome is not poor
+12 There is a contradiction here?	no	1
+13 wayne is faithful and erica is powerful
+14 wayne is not powerful
+15 There is a contradiction here?	no	1
+1 guadalupe is witty and olivia is vast
+2 olivia is not witty
+3 There is a contradiction here?	no	1
+4 barbara is lively and terry is jolly
+5 barbara is not lively
+6 There is a contradiction here?	yes	1
+7 randall is agreeable and claire is unimportant
+8 randall is not unimportant
+9 There is a contradiction here?	no	1
+10 patricia is ambitious and kristen is thankful
+11 nina is rich
+12 There is a contradiction here?	no	1
+13 ella is victorious and curtis is calm
+14 gladys is not dead
+15 There is a contradiction here?	no	1
+1 johnny is clever and herbert is clever
+2 herbert is not clever
+3 There is a contradiction here?	yes	1
+4 sonia is calm and marc is alive
+5 sonia is not alive
+6 There is a contradiction here?	no	1
+7 antonio is brave and derrick is agreeable
+8 antonio is not brave
+9 There is a contradiction here?	yes	1
+10 ethel is silly and sidney is important
+11 sidney is not silly
+12 There is a contradiction here?	no	1
+13 kenneth is careful and ruby is better
+14 ruby is not better
+15 There is a contradiction here?	yes	1
+1 theodore is gentle and claudia is unimportant
+2 claudia is not gentle
+3 There is a contradiction here?	no	1
+4 samantha is kind and craig is wrong
+5 craig is not kind
+6 There is a contradiction here?	no	1
+7 deanna is ambitious and jaime is helpful
+8 deanna is not helpful
+9 There is a contradiction here?	no	1
+10 victor is helpful and wanda is shy
+11 wanda is not shy
+12 There is a contradiction here?	yes	1
+13 cindy is aggressive and eduardo is kind
+14 jeffrey is powerful
+15 There is a contradiction here?	no	1
+1 luz is nice and dianne is alive
+2 luz is not alive
+3 There is a contradiction here?	no	1
+4 jim is jolly and erin is vast
+5 jim is not vast
+6 There is a contradiction here?	no	1
+7 anita is brave and craig is wonderful
+8 james is shy
+9 There is a contradiction here?	no	1
+10 daniel is better and fernando is vast
+11 fernando is not vast
+12 There is a contradiction here?	yes	1
+13 julio is polite and david is hallowed
+14 david is not polite
+15 There is a contradiction here?	no	1
+1 sam is agreeable and jeanne is mealy
+2 sam is not mealy
+3 There is a contradiction here?	no	1
+4 lindsey is famous and glenda is better
+5 glenda is not better
+6 There is a contradiction here?	yes	1
+7 lynn is inexpensive and alberta is alive
+8 alberta is not alive
+9 There is a contradiction here?	yes	1
+10 anna is aggressive and kent is tender
+11 anna is not tender
+12 There is a contradiction here?	no	1
+13 janet is witty and joanna is ambitious
+14 janet is not witty
+15 There is a contradiction here?	yes	1
+1 seth is silly and lula is better
+2 seth is not better
+3 There is a contradiction here?	no	1
+4 marilyn is thankful and betty is better
+5 betty is not thankful
+6 There is a contradiction here?	no	1
+7 diane is agreeable and esther is easy
+8 diane is not easy
+9 There is a contradiction here?	no	1
+10 terri is proud and gertrude is careful
+11 gertrude is not proud
+12 There is a contradiction here?	no	1
+13 rodney is jolly and jamie is eager
+14 dolores is not rich
+15 There is a contradiction here?	no	1
+1 clifford is better and duane is mealy
+2 duane is not mealy
+3 There is a contradiction here?	yes	1
+4 janice is victorious and rosie is rich
+5 janice is not rich
+6 There is a contradiction here?	no	1
+7 billy is polite and maryann is easy
+8 maryann is not polite
+9 There is a contradiction here?	no	1
+10 angela is important and melanie is gifted
+11 melanie is not gifted
+12 There is a contradiction here?	yes	1
+13 violet is victorious and belinda is brave
+14 valerie is not clever
+15 There is a contradiction here?	no	1
+1 amber is delightful and constance is nice
+2 amber is not delightful
+3 There is a contradiction here?	yes	1
+4 maurice is jolly and fernando is wonderful
+5 maurice is not jolly
+6 There is a contradiction here?	yes	1
+7 antoinette is eager and jill is polite
+8 doris is not wrong
+9 There is a contradiction here?	no	1
+10 violet is calm and sonia is poor
+11 sonia is not calm
+12 There is a contradiction here?	no	1
+13 dan is silly and marcus is alive
+14 marcus is not silly
+15 There is a contradiction here?	no	1
+1 hazel is aggressive and fred is helpful
+2 fred is not aggressive
+3 There is a contradiction here?	no	1
+4 billie is brave and annette is clever
+5 billie is not clever
+6 There is a contradiction here?	no	1
+7 leona is agreeable and vincent is wrong
+8 leona is not wrong
+9 There is a contradiction here?	no	1
+10 benjamin is calm and andrew is nice
+11 benjamin is not calm
+12 There is a contradiction here?	yes	1
+13 sheryl is silly and rosie is delightful
+14 sheryl is not silly
+15 There is a contradiction here?	yes	1
+1 bobbie is witty and mathew is zealous
+2 ricardo is not easy
+3 There is a contradiction here?	no	1
+4 alma is gentle and greg is calm
+5 alma is not gentle
+6 There is a contradiction here?	yes	1
+7 linda is eager and viola is tender
+8 viola is not eager
+9 There is a contradiction here?	no	1
+10 shawn is uninterested and sherry is vast
+11 sherry is not vast
+12 There is a contradiction here?	yes	1
+13 sara is eager and dustin is lively
+14 kent is better
+15 There is a contradiction here?	no	1
+1 janet is obedient and verna is alive
+2 verna is not obedient
+3 There is a contradiction here?	no	1
+4 jodi is shy and leslie is uninterested
+5 leslie is not uninterested
+6 There is a contradiction here?	yes	1
+7 paul is zealous and phillip is thankful
+8 ray is not mushy
+9 There is a contradiction here?	no	1
+10 erik is important and ralph is mealy
+11 ralph is not mealy
+12 There is a contradiction here?	yes	1
+13 julian is poor and nelson is dead
+14 nelson is not dead
+15 There is a contradiction here?	yes	1
+1 lawrence is victorious and jimmie is victorious
+2 thelma is not mushy
+3 There is a contradiction here?	no	1
+4 emma is thankful and katherine is unimportant
+5 katherine is not thankful
+6 There is a contradiction here?	no	1
+7 zachary is faithful and blanche is silly
+8 lynda is not inexpensive
+9 There is a contradiction here?	no	1
+10 tonya is gentle and milton is witty
+11 katie is odd
+12 There is a contradiction here?	no	1
+13 pedro is silly and penny is brave
+14 irma is not helpful
+15 There is a contradiction here?	no	1
+1 timothy is delightful and eddie is ambitious
+2 corey is mealy
+3 There is a contradiction here?	no	1
+4 ross is rich and theodore is careful
+5 theodore is not careful
+6 There is a contradiction here?	yes	1
+7 marvin is zealous and katherine is alive
+8 marvin is not alive
+9 There is a contradiction here?	no	1
+10 charlene is gentle and samantha is clever
+11 charlene is not clever
+12 There is a contradiction here?	no	1
+13 carol is wonderful and felix is jolly
+14 calvin is not easy
+15 There is a contradiction here?	no	1
+1 pearl is polite and deanna is ambitious
+2 carla is not helpful
+3 There is a contradiction here?	no	1
+4 alan is kind and flora is faithful
+5 kristina is poor
+6 There is a contradiction here?	no	1
+7 dwayne is nice and valerie is clever
+8 valerie is not nice
+9 There is a contradiction here?	no	1
+10 misty is lively and kristen is thankful
+11 warren is not tender
+12 There is a contradiction here?	no	1
+13 adam is famous and glen is hallowed
+14 glen is not hallowed
+15 There is a contradiction here?	yes	1
+1 sergio is nice and teresa is eager
+2 william is not tender
+3 There is a contradiction here?	no	1
+4 tommy is aggressive and robin is faithful
+5 george is odd
+6 There is a contradiction here?	no	1
+7 marc is nice and rodney is kind
+8 marc is not nice
+9 There is a contradiction here?	yes	1
+10 joanne is ambitious and nellie is obedient
+11 joanne is not ambitious
+12 There is a contradiction here?	yes	1
+13 richard is nice and shirley is ambitious
+14 richard is not nice
+15 There is a contradiction here?	yes	1
+1 janie is calm and javier is hallowed
+2 javier is not calm
+3 There is a contradiction here?	no	1
+4 jordan is ambitious and guadalupe is brave
+5 harry is rich
+6 There is a contradiction here?	no	1
+7 natasha is jolly and katrina is easy
+8 katrina is not jolly
+9 There is a contradiction here?	no	1
+10 marc is obedient and nora is mealy
+11 marc is not mealy
+12 There is a contradiction here?	no	1
+13 molly is mushy and janet is famous
+14 janet is not famous
+15 There is a contradiction here?	yes	1
+1 tracey is witty and tracy is gifted
+2 tracey is not gifted
+3 There is a contradiction here?	no	1
+4 ivan is gentle and philip is eager
+5 ivan is not gentle
+6 There is a contradiction here?	yes	1
+7 felix is important and rosie is uninterested
+8 rosie is not uninterested
+9 There is a contradiction here?	yes	1
+10 sara is mealy and gary is famous
+11 gary is not famous
+12 There is a contradiction here?	yes	1
+13 maurice is hallowed and annie is better
+14 annie is not better
+15 There is a contradiction here?	yes	1
+1 bertha is nice and bradley is lively
+2 bertha is not nice
+3 There is a contradiction here?	yes	1
+4 aaron is important and virginia is unimportant
+5 virginia is not unimportant
+6 There is a contradiction here?	yes	1
+7 geraldine is brave and eduardo is lively
+8 geraldine is not brave
+9 There is a contradiction here?	yes	1
+10 daryl is aggressive and courtney is silly
+11 daryl is not aggressive
+12 There is a contradiction here?	yes	1
+13 dwayne is rich and paula is hallowed
+14 paula is not hallowed
+15 There is a contradiction here?	yes	1
+1 dustin is jolly and todd is calm
+2 lola is not famous
+3 There is a contradiction here?	no	1
+4 erika is eager and heidi is alive
+5 erika is not alive
+6 There is a contradiction here?	no	1
+7 leslie is important and ricky is tender
+8 ricky is not tender
+9 There is a contradiction here?	yes	1
+10 janet is rich and megan is clever
+11 megan is not clever
+12 There is a contradiction here?	yes	1
+13 brad is helpful and hugh is alive
+14 hugh is not alive
+15 There is a contradiction here?	yes	1
+1 velma is powerful and sonia is important
+2 sonia is not important
+3 There is a contradiction here?	yes	1
+4 natalie is dead and kirk is vast
+5 kirk is not vast
+6 There is a contradiction here?	yes	1
+7 hector is calm and ida is obedient
+8 hector is not calm
+9 There is a contradiction here?	yes	1
+10 nora is uninterested and eric is powerful
+11 eric is not powerful
+12 There is a contradiction here?	yes	1
+13 marie is dead and eric is rich
+14 eric is not rich
+15 There is a contradiction here?	yes	1
+1 albert is zealous and kent is rich
+2 albert is not rich
+3 There is a contradiction here?	no	1
+4 peggy is gifted and elsie is dead
+5 elsie is not dead
+6 There is a contradiction here?	yes	1
+7 eric is eager and gail is important
+8 gail is not eager
+9 There is a contradiction here?	no	1
+10 charlotte is happy and tom is faithful
+11 rosie is not vast
+12 There is a contradiction here?	no	1
+13 annie is witty and bob is aggressive
+14 allan is powerful
+15 There is a contradiction here?	no	1
+1 delores is zealous and julia is obedient
+2 delores is not zealous
+3 There is a contradiction here?	yes	1
+4 andrew is jolly and andre is witty
+5 perry is not unimportant
+6 There is a contradiction here?	no	1
+7 becky is wonderful and yvette is brave
+8 kristi is not dead
+9 There is a contradiction here?	no	1
+10 daryl is happy and angel is lively
+11 daryl is not happy
+12 There is a contradiction here?	yes	1
+13 jill is calm and rebecca is tender
+14 rebecca is not calm
+15 There is a contradiction here?	no	1
+1 eleanor is victorious and mae is kind
+2 eleanor is not victorious
+3 There is a contradiction here?	yes	1
+4 richard is aggressive and faye is kind
+5 roy is uninterested
+6 There is a contradiction here?	no	1
+7 ivan is happy and max is faithful
+8 florence is important
+9 There is a contradiction here?	no	1
+10 chad is jolly and jacob is proud
+11 chad is not jolly
+12 There is a contradiction here?	yes	1
+13 joshua is victorious and cody is obedient
+14 joshua is not victorious
+15 There is a contradiction here?	yes	1
+1 tracy is clever and willard is shy
+2 willard is not shy
+3 There is a contradiction here?	yes	1
+4 harry is eager and teresa is kind
+5 harry is not eager
+6 There is a contradiction here?	yes	1
+7 virginia is happy and janet is kind
+8 virginia is not happy
+9 There is a contradiction here?	yes	1
+10 leslie is nice and shelley is brave
+11 april is not poor
+12 There is a contradiction here?	no	1
+13 jeffery is eager and rhonda is brave
+14 rosie is rich
+15 There is a contradiction here?	no	1
+1 christina is tender and phillip is important
+2 phillip is not important
+3 There is a contradiction here?	yes	1
+4 emma is uninterested and alice is gifted
+5 alice is not gifted
+6 There is a contradiction here?	yes	1
+7 june is easy and edgar is hallowed
+8 edgar is not hallowed
+9 There is a contradiction here?	yes	1
+10 terrance is ambitious and perry is victorious
+11 terrance is not ambitious
+12 There is a contradiction here?	yes	1
+13 alfredo is polite and vernon is gifted
+14 alfredo is not gifted
+15 There is a contradiction here?	no	1
+1 tara is uninterested and deborah is better
+2 deborah is not better
+3 There is a contradiction here?	yes	1
+4 kathryn is polite and pamela is silly
+5 kathryn is not polite
+6 There is a contradiction here?	yes	1
+7 theodore is victorious and larry is better
+8 theodore is not better
+9 There is a contradiction here?	no	1
+10 alice is easy and vickie is clever
+11 vickie is not clever
+12 There is a contradiction here?	yes	1
+13 susie is proud and ivan is witty
+14 elsie is important
+15 There is a contradiction here?	no	1
+1 justin is lively and randall is jolly
+2 leslie is not careful
+3 There is a contradiction here?	no	1
+4 lorraine is eager and willie is odd
+5 willie is not eager
+6 There is a contradiction here?	no	1
+7 jesus is polite and carla is lively
+8 eva is not rich
+9 There is a contradiction here?	no	1
+10 kevin is rich and kent is powerful
+11 kent is not powerful
+12 There is a contradiction here?	yes	1
+13 jeremy is ambitious and kyle is brave
+14 jeremy is not ambitious
+15 There is a contradiction here?	yes	1
+1 hilda is proud and jeanne is gentle
+2 alison is not rich
+3 There is a contradiction here?	no	1
+4 marian is jolly and russell is jolly
+5 marian is not jolly
+6 There is a contradiction here?	yes	1
+7 enrique is proud and joe is careful
+8 enrique is not careful
+9 There is a contradiction here?	no	1
+10 albert is important and annie is alive
+11 annie is not alive
+12 There is a contradiction here?	yes	1
+13 kristin is happy and harold is calm
+14 becky is famous
+15 There is a contradiction here?	no	1
+1 kristy is kind and reginald is uninterested
+2 reginald is not kind
+3 There is a contradiction here?	no	1
+4 leonard is obedient and michael is helpful
+5 leonard is not helpful
+6 There is a contradiction here?	no	1
+7 darryl is poor and brandon is uninterested
+8 brandon is not uninterested
+9 There is a contradiction here?	yes	1
+10 geraldine is zealous and jeanette is victorious
+11 geraldine is not zealous
+12 There is a contradiction here?	yes	1
+13 lee is important and rosie is better
+14 rosie is not better
+15 There is a contradiction here?	yes	1
+1 angela is obedient and betty is jolly
+2 marion is not unimportant
+3 There is a contradiction here?	no	1
+4 sarah is aggressive and mamie is proud
+5 todd is not odd
+6 There is a contradiction here?	no	1
+7 tara is careful and ron is careful
+8 ron is not careful
+9 There is a contradiction here?	yes	1
+10 edith is gifted and annie is mealy
+11 annie is not mealy
+12 There is a contradiction here?	yes	1
+13 erica is calm and dorothy is poor
+14 dorothy is not calm
+15 There is a contradiction here?	no	1
+1 willie is silly and lula is vast
+2 lula is not silly
+3 There is a contradiction here?	no	1
+4 mattie is ambitious and donna is ambitious
+5 erin is clever
+6 There is a contradiction here?	no	1
+7 gerald is gentle and gordon is thankful
+8 ian is dead
+9 There is a contradiction here?	no	1
+10 fernando is faithful and pauline is aggressive
+11 marie is mealy
+12 There is a contradiction here?	no	1
+13 dolores is brave and carole is witty
+14 christina is uninterested
+15 There is a contradiction here?	no	1
+1 colleen is hallowed and harriet is mushy
+2 harriet is not mushy
+3 There is a contradiction here?	yes	1
+4 ruben is wonderful and frederick is faithful
+5 ruben is not wonderful
+6 There is a contradiction here?	yes	1
+7 scott is gentle and dorothy is polite
+8 johnnie is not odd
+9 There is a contradiction here?	no	1
+10 jacqueline is ambitious and elizabeth is proud
+11 jacqueline is not ambitious
+12 There is a contradiction here?	yes	1
+13 allison is eager and lucy is obedient
+14 minnie is wrong
+15 There is a contradiction here?	no	1
+1 courtney is ambitious and brenda is zealous
+2 courtney is not ambitious
+3 There is a contradiction here?	yes	1
+4 miriam is calm and dianne is thankful
+5 robert is clever
+6 There is a contradiction here?	no	1
+7 patricia is odd and kevin is poor
+8 kevin is not poor
+9 There is a contradiction here?	yes	1
+10 kristen is proud and harriet is better
+11 harriet is not proud
+12 There is a contradiction here?	no	1
+13 katherine is easy and sean is mushy
+14 sean is not mushy
+15 There is a contradiction here?	yes	1
+1 craig is mushy and herbert is poor
+2 herbert is not poor
+3 There is a contradiction here?	yes	1
+4 ruben is odd and rosa is odd
+5 rosa is not odd
+6 There is a contradiction here?	yes	1
+7 tina is thankful and elmer is calm
+8 jane is not rich
+9 There is a contradiction here?	no	1
+10 derek is tender and william is careful
+11 william is not careful
+12 There is a contradiction here?	yes	1
+13 kristine is calm and emma is proud
+14 kristine is not calm
+15 There is a contradiction here?	yes	1
+1 erica is inexpensive and jordan is unimportant
+2 jordan is not unimportant
+3 There is a contradiction here?	yes	1
+4 molly is wonderful and gordon is kind
+5 molly is not wonderful
+6 There is a contradiction here?	yes	1
+7 jo is proud and heidi is aggressive
+8 greg is rich
+9 There is a contradiction here?	no	1
+10 brian is gentle and verna is proud
+11 lillie is mushy
+12 There is a contradiction here?	no	1
+13 patsy is nice and ann is zealous
+14 patsy is not nice
+15 There is a contradiction here?	yes	1
+1 crystal is eager and suzanne is witty
+2 crystal is not eager
+3 There is a contradiction here?	yes	1
+4 jim is eager and sherry is tender
+5 sherry is not eager
+6 There is a contradiction here?	no	1
+7 brian is victorious and doris is nice
+8 ernest is powerful
+9 There is a contradiction here?	no	1
+10 hazel is agreeable and casey is gifted
+11 hazel is not gifted
+12 There is a contradiction here?	no	1
+13 sharon is agreeable and melanie is famous
+14 sharon is not famous
+15 There is a contradiction here?	no	1
+1 gertrude is brave and rose is easy
+2 rose is not brave
+3 There is a contradiction here?	no	1
+4 leroy is delightful and amanda is silly
+5 leroy is not delightful
+6 There is a contradiction here?	yes	1
+7 melody is faithful and cathy is eager
+8 delores is not uninterested
+9 There is a contradiction here?	no	1
+10 stacey is wonderful and claudia is obedient
+11 stacey is not wonderful
+12 There is a contradiction here?	yes	1
+13 derek is wonderful and thomas is important
+14 derek is not important
+15 There is a contradiction here?	no	1
+1 lewis is happy and karen is nice
+2 jesus is not alive
+3 There is a contradiction here?	no	1
+4 allan is better and rosa is unimportant
+5 rosa is not unimportant
+6 There is a contradiction here?	yes	1
+7 brittany is proud and duane is gifted
+8 brittany is not gifted
+9 There is a contradiction here?	no	1
+10 jacob is victorious and lloyd is better
+11 lloyd is not victorious
+12 There is a contradiction here?	no	1
+13 beulah is brave and debra is victorious
+14 beulah is not brave
+15 There is a contradiction here?	yes	1
+1 wilma is important and sharon is odd
+2 sharon is not odd
+3 There is a contradiction here?	yes	1
+4 nancy is odd and bruce is uninterested
+5 bruce is not uninterested
+6 There is a contradiction here?	yes	1
+7 thomas is happy and antonio is jolly
+8 lois is not alive
+9 There is a contradiction here?	no	1
+10 rose is lively and darryl is eager
+11 rose is not lively
+12 There is a contradiction here?	yes	1
+13 kathleen is important and glen is vast
+14 glen is not vast
+15 There is a contradiction here?	yes	1
+1 edna is nice and janie is proud
+2 edna is not nice
+3 There is a contradiction here?	yes	1
+4 matthew is aggressive and bernard is unimportant
+5 matthew is not unimportant
+6 There is a contradiction here?	no	1
+7 blanche is nice and geraldine is mushy
+8 geraldine is not nice
+9 There is a contradiction here?	no	1
+10 frederick is odd and diana is mealy
+11 diana is not mealy
+12 There is a contradiction here?	yes	1
+13 danny is calm and janie is proud
+14 molly is gifted
+15 There is a contradiction here?	no	1
+1 brent is mushy and paula is odd
+2 paula is not odd
+3 There is a contradiction here?	yes	1
+4 steve is shy and marilyn is tender
+5 marilyn is not tender
+6 There is a contradiction here?	yes	1
+7 milton is victorious and frederick is careful
+8 milton is not careful
+9 There is a contradiction here?	no	1
+10 alicia is zealous and melanie is dead
+11 melanie is not zealous
+12 There is a contradiction here?	no	1
+13 ruth is faithful and sue is faithful
+14 john is not mealy
+15 There is a contradiction here?	no	1
+1 samuel is rich and kathy is rich
+2 kathy is not rich
+3 There is a contradiction here?	yes	1
+4 samantha is victorious and roberto is clever
+5 samantha is not clever
+6 There is a contradiction here?	no	1
+7 norma is zealous and keith is helpful
+8 norma is not helpful
+9 There is a contradiction here?	no	1
+10 wade is wonderful and kristy is ambitious
+11 leah is not better
+12 There is a contradiction here?	no	1
+13 victoria is silly and francis is brave
+14 janet is not vast
+15 There is a contradiction here?	no	1
+1 molly is shy and wallace is clever
+2 wallace is not clever
+3 There is a contradiction here?	yes	1
+4 barry is vast and faye is dead
+5 faye is not dead
+6 There is a contradiction here?	yes	1
+7 justin is wonderful and alison is gentle
+8 justin is not wonderful
+9 There is a contradiction here?	yes	1
+10 ramona is nice and fred is lively
+11 micheal is better
+12 There is a contradiction here?	no	1
+13 harry is polite and bob is famous
+14 harry is not famous
+15 There is a contradiction here?	no	1
+1 marguerite is happy and felicia is important
+2 felicia is not happy
+3 There is a contradiction here?	no	1
+4 constance is polite and ana is thankful
+5 constance is not polite
+6 There is a contradiction here?	yes	1
+7 lucille is lively and alberta is obedient
+8 lucille is not lively
+9 There is a contradiction here?	yes	1
+10 henry is unimportant and lena is famous
+11 lena is not famous
+12 There is a contradiction here?	yes	1
+13 edgar is nice and scott is helpful
+14 scott is not nice
+15 There is a contradiction here?	no	1
+1 kristina is obedient and juana is nice
+2 kristina is not obedient
+3 There is a contradiction here?	yes	1
+4 thomas is aggressive and nancy is aggressive
+5 thomas is not aggressive
+6 There is a contradiction here?	yes	1
+7 reginald is brave and marsha is eager
+8 dolores is not poor
+9 There is a contradiction here?	no	1
+10 nelson is rich and erika is better
+11 erika is not better
+12 There is a contradiction here?	yes	1
+13 jose is hallowed and brent is helpful
+14 brent is not helpful
+15 There is a contradiction here?	yes	1
+1 willie is obedient and ronnie is eager
+2 penny is gifted
+3 There is a contradiction here?	no	1
+4 beth is wonderful and zachary is mealy
+5 beth is not mealy
+6 There is a contradiction here?	no	1
+7 lynda is lively and jaime is odd
+8 jaime is not lively
+9 There is a contradiction here?	no	1
+10 cassandra is ambitious and byron is witty
+11 wesley is not mushy
+12 There is a contradiction here?	no	1
+13 maureen is delightful and cody is alive
+14 cody is not delightful
+15 There is a contradiction here?	no	1
+1 sylvia is clever and troy is powerful
+2 troy is not powerful
+3 There is a contradiction here?	yes	1
+4 brad is wonderful and irene is kind
+5 brad is not wonderful
+6 There is a contradiction here?	yes	1
+7 karen is kind and jo is wrong
+8 karen is not wrong
+9 There is a contradiction here?	no	1
+10 milton is brave and jean is agreeable
+11 brandon is hallowed
+12 There is a contradiction here?	no	1
+13 madeline is brave and terry is vast
+14 madeline is not vast
+15 There is a contradiction here?	no	1
+1 ashley is happy and ralph is eager
+2 enrique is better
+3 There is a contradiction here?	no	1
+4 gary is wonderful and david is odd
+5 david is not wonderful
+6 There is a contradiction here?	no	1
+7 philip is delightful and bruce is happy
+8 philip is not delightful
+9 There is a contradiction here?	yes	1
+10 yvonne is wrong and joanne is mealy
+11 joanne is not mealy
+12 There is a contradiction here?	yes	1
+13 terrance is aggressive and delores is brave
+14 terrance is not aggressive
+15 There is a contradiction here?	yes	1
+1 brent is inexpensive and sonya is odd
+2 sonya is not odd
+3 There is a contradiction here?	yes	1
+4 nina is jolly and fernando is polite
+5 nina is not jolly
+6 There is a contradiction here?	yes	1
+7 jeanne is brave and erica is mushy
+8 jeanne is not mushy
+9 There is a contradiction here?	no	1
+10 glenn is better and freddie is gifted
+11 freddie is not gifted
+12 There is a contradiction here?	yes	1
+13 stanley is agreeable and tyrone is clever
+14 tyrone is not agreeable
+15 There is a contradiction here?	no	1
+1 mae is nice and ruby is unimportant
+2 ruby is not nice
+3 There is a contradiction here?	no	1
+4 priscilla is lively and loretta is obedient
+5 priscilla is not lively
+6 There is a contradiction here?	yes	1
+7 ronald is silly and micheal is obedient
+8 ronald is not silly
+9 There is a contradiction here?	yes	1
+10 shelley is faithful and edna is calm
+11 verna is dead
+12 There is a contradiction here?	no	1
+13 dianne is wonderful and christine is important
+14 dianne is not important
+15 There is a contradiction here?	no	1
+1 hattie is victorious and lula is mushy
+2 hattie is not mushy
+3 There is a contradiction here?	no	1
+4 willard is calm and sue is victorious
+5 willard is not calm
+6 There is a contradiction here?	yes	1
+7 leah is gifted and florence is poor
+8 florence is not poor
+9 There is a contradiction here?	yes	1
+10 candice is poor and kathy is odd
+11 kathy is not odd
+12 There is a contradiction here?	yes	1
+13 natasha is mealy and jan is vast
+14 jan is not vast
+15 There is a contradiction here?	yes	1
+1 clayton is victorious and carole is polite
+2 clayton is not victorious
+3 There is a contradiction here?	yes	1
+4 kristina is eager and ronnie is agreeable
+5 marsha is famous
+6 There is a contradiction here?	no	1
+7 allison is polite and lisa is calm
+8 pearl is famous
+9 There is a contradiction here?	no	1
+10 jamie is wrong and barry is shy
+11 barry is not shy
+12 There is a contradiction here?	yes	1
+13 christopher is aggressive and jared is obedient
+14 roger is not wrong
+15 There is a contradiction here?	no	1
+1 jared is wonderful and tonya is mushy
+2 tonya is not wonderful
+3 There is a contradiction here?	no	1
+4 freddie is wonderful and tim is wrong
+5 freddie is not wrong
+6 There is a contradiction here?	no	1
+7 paul is jolly and jamie is odd
+8 jamie is not jolly
+9 There is a contradiction here?	no	1
+10 rene is lively and adrian is uninterested
+11 adrian is not lively
+12 There is a contradiction here?	no	1
+13 harold is helpful and elmer is easy
+14 elmer is not easy
+15 There is a contradiction here?	yes	1
+1 naomi is zealous and kevin is rich
+2 kevin is not zealous
+3 There is a contradiction here?	no	1
+4 leon is polite and byron is witty
+5 leon is not polite
+6 There is a contradiction here?	yes	1
+7 shelly is alive and byron is easy
+8 byron is not easy
+9 There is a contradiction here?	yes	1
+10 jenny is shy and jimmie is wrong
+11 jimmie is not wrong
+12 There is a contradiction here?	yes	1
+13 marvin is easy and sally is mushy
+14 sally is not mushy
+15 There is a contradiction here?	yes	1
+1 cora is kind and sharon is thankful
+2 cora is not kind
+3 There is a contradiction here?	yes	1
+4 sharon is jolly and terry is careful
+5 terry is not jolly
+6 There is a contradiction here?	no	1
+7 fernando is gentle and irma is famous
+8 fernando is not famous
+9 There is a contradiction here?	no	1
+10 russell is tender and melanie is rich
+11 melanie is not rich
+12 There is a contradiction here?	yes	1
+13 anthony is gentle and eleanor is vast
+14 eleanor is not gentle
+15 There is a contradiction here?	no	1
+1 theodore is lively and elmer is uninterested
+2 theodore is not uninterested
+3 There is a contradiction here?	no	1
+4 tina is wrong and pedro is careful
+5 pedro is not careful
+6 There is a contradiction here?	yes	1
+7 lee is gentle and april is faithful
+8 wallace is careful
+9 There is a contradiction here?	no	1
+10 jennifer is lively and seth is unimportant
+11 jennifer is not unimportant
+12 There is a contradiction here?	no	1
+13 kathy is zealous and delores is nice
+14 vicki is not wrong
+15 There is a contradiction here?	no	1
+1 dan is delightful and thelma is jolly
+2 dan is not delightful
+3 There is a contradiction here?	yes	1
+4 emma is lively and fannie is easy
+5 fannie is not lively
+6 There is a contradiction here?	no	1
+7 norma is happy and manuel is eager
+8 norman is not mealy
+9 There is a contradiction here?	no	1
+10 patsy is kind and carrie is delightful
+11 mathew is tender
+12 There is a contradiction here?	no	1
+13 vera is jolly and wesley is calm
+14 brandi is famous
+15 There is a contradiction here?	no	1
+1 ada is zealous and dianne is polite
+2 melvin is hallowed
+3 There is a contradiction here?	no	1
+4 louise is agreeable and frances is rich
+5 frances is not agreeable
+6 There is a contradiction here?	no	1
+7 naomi is mealy and charles is wrong
+8 charles is not wrong
+9 There is a contradiction here?	yes	1
+10 edward is aggressive and zachary is obedient
+11 edward is not aggressive
+12 There is a contradiction here?	yes	1
+13 jane is polite and judith is faithful
+14 jane is not polite
+15 There is a contradiction here?	yes	1
+1 tim is odd and lester is odd
+2 lester is not odd
+3 There is a contradiction here?	yes	1
+4 veronica is powerful and clarence is helpful
+5 clarence is not helpful
+6 There is a contradiction here?	yes	1
+7 june is wonderful and kayla is ambitious
+8 norma is not famous
+9 There is a contradiction here?	no	1
+10 patsy is jolly and curtis is obedient
+11 edith is rich
+12 There is a contradiction here?	no	1
+13 jacqueline is nice and sherri is zealous
+14 jacqueline is not nice
+15 There is a contradiction here?	yes	1
+1 jamie is obedient and velma is jolly
+2 ruby is mushy
+3 There is a contradiction here?	no	1
+4 charles is nice and tiffany is poor
+5 charles is not poor
+6 There is a contradiction here?	no	1
+7 ida is easy and sonya is uninterested
+8 sonya is not uninterested
+9 There is a contradiction here?	yes	1
+10 tyler is victorious and sara is helpful
+11 sara is not victorious
+12 There is a contradiction here?	no	1
+13 vera is famous and lorraine is important
+14 lorraine is not important
+15 There is a contradiction here?	yes	1
+1 leah is lively and renee is eager
+2 judith is unimportant
+3 There is a contradiction here?	no	1
+4 tara is jolly and jeanne is mealy
+5 jeanne is not jolly
+6 There is a contradiction here?	no	1
+7 perry is obedient and madeline is proud
+8 jeffrey is not shy
+9 There is a contradiction here?	no	1
+10 willard is brave and tina is agreeable
+11 willard is not brave
+12 There is a contradiction here?	yes	1
+13 arthur is zealous and ray is easy
+14 arthur is not easy
+15 There is a contradiction here?	no	1
+1 allen is nice and douglas is proud
+2 allen is not nice
+3 There is a contradiction here?	yes	1
+4 sheryl is zealous and rhonda is alive
+5 sheryl is not alive
+6 There is a contradiction here?	no	1
+7 anna is famous and tiffany is famous
+8 tiffany is not famous
+9 There is a contradiction here?	yes	1
+10 brenda is agreeable and susie is hallowed
+11 susie is not agreeable
+12 There is a contradiction here?	no	1
+13 cassandra is calm and cassandra is powerful
+14 cassandra is not powerful
+15 There is a contradiction here?	no	1
+1 jamie is ambitious and tiffany is better
+2 tiffany is not ambitious
+3 There is a contradiction here?	no	1
+4 nicholas is helpful and bobbie is gifted
+5 bobbie is not gifted
+6 There is a contradiction here?	yes	1
+7 brandy is polite and margaret is helpful
+8 margaret is not polite
+9 There is a contradiction here?	no	1
+10 misty is eager and sherri is obedient
+11 misty is not eager
+12 There is a contradiction here?	yes	1
+13 steven is nice and mary is ambitious
+14 dolores is tender
+15 There is a contradiction here?	no	1
+1 robert is aggressive and nicole is calm
+2 robert is not aggressive
+3 There is a contradiction here?	yes	1
+4 oscar is agreeable and rosa is aggressive
+5 oscar is not agreeable
+6 There is a contradiction here?	yes	1
+7 debra is nice and roberta is agreeable
+8 debra is not nice
+9 There is a contradiction here?	yes	1
+10 thomas is obedient and alex is gifted
+11 alex is not obedient
+12 There is a contradiction here?	no	1
+13 tara is victorious and deborah is better
+14 deborah is not victorious
+15 There is a contradiction here?	no	1
+1 nellie is hallowed and julian is gifted
+2 julian is not gifted
+3 There is a contradiction here?	yes	1
+4 keith is agreeable and wallace is delightful
+5 keith is not agreeable
+6 There is a contradiction here?	yes	1
+7 kelly is eager and stanley is delightful
+8 kelly is not eager
+9 There is a contradiction here?	yes	1
+10 leona is jolly and sharon is obedient
+11 leona is not jolly
+12 There is a contradiction here?	yes	1
+13 kathryn is obedient and lindsay is proud
+14 kathryn is not obedient
+15 There is a contradiction here?	yes	1
+1 dianne is nice and derek is thankful
+2 dianne is not nice
+3 There is a contradiction here?	yes	1
+4 lewis is calm and glen is mushy
+5 lewis is not mushy
+6 There is a contradiction here?	no	1
+7 gloria is faithful and viola is witty
+8 carole is hallowed
+9 There is a contradiction here?	no	1
+10 marc is silly and cheryl is calm
+11 nicholas is gifted
+12 There is a contradiction here?	no	1
+13 johnny is proud and max is inexpensive
+14 johnny is not inexpensive
+15 There is a contradiction here?	no	1
+1 jeffery is victorious and ruben is zealous
+2 jeffery is not victorious
+3 There is a contradiction here?	yes	1
+4 hattie is odd and elsie is famous
+5 elsie is not famous
+6 There is a contradiction here?	yes	1
+7 myrtle is thankful and jennie is dead
+8 jennie is not thankful
+9 There is a contradiction here?	no	1
+10 angela is silly and arthur is rich
+11 arthur is not silly
+12 There is a contradiction here?	no	1
+13 brandy is silly and rosemary is ambitious
+14 fred is rich
+15 There is a contradiction here?	no	1
+1 patrick is happy and paul is thankful
+2 ralph is not shy
+3 There is a contradiction here?	no	1
+4 phyllis is ambitious and tim is nice
+5 sandra is mushy
+6 There is a contradiction here?	no	1
+7 hugh is victorious and sally is lively
+8 hugh is not victorious
+9 There is a contradiction here?	yes	1
+10 eileen is nice and lee is obedient
+11 eileen is not nice
+12 There is a contradiction here?	yes	1
+13 jeanette is inexpensive and vicki is gifted
+14 vicki is not gifted
+15 There is a contradiction here?	yes	1
+1 alicia is nice and debbie is nice
+2 alicia is not nice
+3 There is a contradiction here?	yes	1
+4 harvey is polite and connie is jolly
+5 harvey is not polite
+6 There is a contradiction here?	yes	1
+7 ronnie is kind and ralph is inexpensive
+8 ronnie is not inexpensive
+9 There is a contradiction here?	no	1
+10 rafael is wonderful and harvey is helpful
+11 rafael is not helpful
+12 There is a contradiction here?	no	1
+13 brad is nice and james is proud
+14 brad is not nice
+15 There is a contradiction here?	yes	1
+1 toni is lively and charlotte is thankful
+2 toni is not lively
+3 There is a contradiction here?	yes	1
+4 natasha is polite and pamela is victorious
+5 natasha is not polite
+6 There is a contradiction here?	yes	1
+7 eunice is silly and pearl is hallowed
+8 eunice is not hallowed
+9 There is a contradiction here?	no	1
+10 lorraine is proud and jared is delightful
+11 connie is helpful
+12 There is a contradiction here?	no	1
+13 joan is happy and mark is aggressive
+14 joan is not happy
+15 There is a contradiction here?	yes	1
+1 melinda is kind and lisa is faithful
+2 angel is not famous
+3 There is a contradiction here?	no	1
+4 philip is brave and marc is thankful
+5 philip is not brave
+6 There is a contradiction here?	yes	1
+7 erika is kind and corey is victorious
+8 erika is not kind
+9 There is a contradiction here?	yes	1
+10 edith is agreeable and daniel is faithful
+11 frances is not poor
+12 There is a contradiction here?	no	1
+13 gwendolyn is uninterested and rosa is clever
+14 rosa is not clever
+15 There is a contradiction here?	yes	1
+1 terrence is witty and michele is gentle
+2 terrence is not witty
+3 There is a contradiction here?	yes	1
+4 guy is happy and flora is unimportant
+5 guy is not unimportant
+6 There is a contradiction here?	no	1
+7 greg is aggressive and ramon is helpful
+8 greg is not helpful
+9 There is a contradiction here?	no	1
+10 joanne is happy and kathy is witty
+11 joanne is not happy
+12 There is a contradiction here?	yes	1
+13 alicia is faithful and juanita is proud
+14 naomi is not dead
+15 There is a contradiction here?	no	1
+1 walter is nice and raul is agreeable
+2 walter is not nice
+3 There is a contradiction here?	yes	1
+4 sabrina is gentle and beatrice is silly
+5 sabrina is not gentle
+6 There is a contradiction here?	yes	1
+7 michele is helpful and peter is shy
+8 peter is not shy
+9 There is a contradiction here?	yes	1
+10 joan is unimportant and johnny is inexpensive
+11 johnny is not inexpensive
+12 There is a contradiction here?	yes	1
+13 darrell is famous and zachary is odd
+14 zachary is not odd
+15 There is a contradiction here?	yes	1
+1 emily is agreeable and darlene is kind
+2 tyler is important
+3 There is a contradiction here?	no	1
+4 shelley is calm and toni is gentle
+5 shelley is not calm
+6 There is a contradiction here?	yes	1
+7 louis is gentle and bernard is eager
+8 louis is not gentle
+9 There is a contradiction here?	yes	1
+10 alexander is delightful and sandra is unimportant
+11 sandra is not delightful
+12 There is a contradiction here?	no	1
+13 ruth is jolly and tyrone is aggressive
+14 sandra is better
+15 There is a contradiction here?	no	1
+1 irma is obedient and donna is ambitious
+2 irma is not obedient
+3 There is a contradiction here?	yes	1
+4 beverly is polite and florence is dead
+5 beverly is not dead
+6 There is a contradiction here?	no	1
+7 ethel is witty and carole is witty
+8 ethel is not witty
+9 There is a contradiction here?	yes	1
+10 walter is happy and jimmy is agreeable
+11 willie is shy
+12 There is a contradiction here?	no	1
+13 anthony is dead and walter is shy
+14 walter is not shy
+15 There is a contradiction here?	yes	1
+1 ricky is calm and doris is dead
+2 doris is not calm
+3 There is a contradiction here?	no	1
+4 clifford is wonderful and kelly is thankful
+5 juan is not wrong
+6 There is a contradiction here?	no	1
+7 opal is proud and jerry is famous
+8 jerry is not proud
+9 There is a contradiction here?	no	1
+10 douglas is zealous and yvette is calm
+11 eileen is not clever
+12 There is a contradiction here?	no	1
+13 roberta is aggressive and candice is better
+14 candice is not aggressive
+15 There is a contradiction here?	no	1
+1 joanna is brave and dana is delightful
+2 joanna is not brave
+3 There is a contradiction here?	yes	1
+4 hazel is brave and cody is lively
+5 hazel is not brave
+6 There is a contradiction here?	yes	1
+7 tara is easy and june is helpful
+8 june is not helpful
+9 There is a contradiction here?	yes	1
+10 louis is wonderful and amelia is thankful
+11 louis is not wonderful
+12 There is a contradiction here?	yes	1
+13 timothy is wrong and velma is shy
+14 velma is not shy
+15 There is a contradiction here?	yes	1
+1 jill is wonderful and vanessa is kind
+2 monica is not alive
+3 There is a contradiction here?	no	1
+4 joanne is rich and bryan is vast
+5 bryan is not vast
+6 There is a contradiction here?	yes	1
+7 kayla is ambitious and victor is faithful
+8 kayla is not ambitious
+9 There is a contradiction here?	yes	1
+10 vanessa is poor and leo is gifted
+11 leo is not gifted
+12 There is a contradiction here?	yes	1
+13 loretta is hallowed and casey is poor
+14 casey is not poor
+15 There is a contradiction here?	yes	1
+1 bessie is proud and alberto is helpful
+2 bessie is not helpful
+3 There is a contradiction here?	no	1
+4 eunice is dead and judith is alive
+5 judith is not alive
+6 There is a contradiction here?	yes	1
+7 craig is kind and raymond is wrong
+8 raymond is not kind
+9 There is a contradiction here?	no	1
+10 martin is victorious and anthony is mealy
+11 anthony is not victorious
+12 There is a contradiction here?	no	1
+13 margaret is helpful and jared is careful
+14 jared is not careful
+15 There is a contradiction here?	yes	1
+1 gregory is polite and barry is obedient
+2 gregory is not polite
+3 There is a contradiction here?	yes	1
+4 darryl is zealous and erica is alive
+5 darryl is not alive
+6 There is a contradiction here?	no	1
+7 rene is ambitious and katie is easy
+8 katie is not ambitious
+9 There is a contradiction here?	no	1
+10 norman is delightful and alison is brave
+11 norman is not delightful
+12 There is a contradiction here?	yes	1
+13 benjamin is kind and virginia is alive
+14 virginia is not kind
+15 There is a contradiction here?	no	1
+1 candice is gentle and norman is faithful
+2 emma is unimportant
+3 There is a contradiction here?	no	1
+4 jim is calm and isabel is uninterested
+5 isabel is not calm
+6 There is a contradiction here?	no	1
+7 mabel is rich and jamie is unimportant
+8 jamie is not unimportant
+9 There is a contradiction here?	yes	1
+10 wanda is eager and jose is agreeable
+11 candice is not unimportant
+12 There is a contradiction here?	no	1
+13 kurt is nice and vivian is thankful
+14 kurt is not nice
+15 There is a contradiction here?	yes	1
+1 janet is polite and lillie is better
+2 lillie is not polite
+3 There is a contradiction here?	no	1
+4 russell is gentle and lawrence is gifted
+5 russell is not gifted
+6 There is a contradiction here?	no	1
+7 hilda is faithful and robert is brave
+8 hilda is not faithful
+9 There is a contradiction here?	yes	1
+10 grace is silly and harry is polite
+11 valerie is not careful
+12 There is a contradiction here?	no	1
+13 ted is proud and christian is agreeable
+14 raul is dead
+15 There is a contradiction here?	no	1
+1 max is mealy and bob is gifted
+2 bob is not gifted
+3 There is a contradiction here?	yes	1
+4 pearl is helpful and penny is easy
+5 penny is not easy
+6 There is a contradiction here?	yes	1
+7 theodore is uninterested and mitchell is better
+8 mitchell is not better
+9 There is a contradiction here?	yes	1
+10 roger is shy and bradley is hallowed
+11 bradley is not hallowed
+12 There is a contradiction here?	yes	1
+13 margie is eager and danny is lively
+14 margie is not eager
+15 There is a contradiction here?	yes	1
+1 aaron is delightful and josephine is jolly
+2 aaron is not delightful
+3 There is a contradiction here?	yes	1
+4 francis is gifted and kathryn is hallowed
+5 kathryn is not hallowed
+6 There is a contradiction here?	yes	1
+7 deanna is wrong and vickie is alive
+8 vickie is not alive
+9 There is a contradiction here?	yes	1
+10 sonia is lively and karl is silly
+11 billy is not better
+12 There is a contradiction here?	no	1
+13 wayne is gifted and kelly is dead
+14 kelly is not dead
+15 There is a contradiction here?	yes	1
+1 cody is eager and derrick is inexpensive
+2 derrick is not eager
+3 There is a contradiction here?	no	1
+4 casey is happy and david is lively
+5 casey is not happy
+6 There is a contradiction here?	yes	1
+7 dolores is polite and jessica is kind
+8 jeremy is not famous
+9 There is a contradiction here?	no	1
+10 darrell is powerful and kristin is careful
+11 kristin is not careful
+12 There is a contradiction here?	yes	1
+13 sylvia is gentle and judy is dead
+14 judy is not gentle
+15 There is a contradiction here?	no	1
+1 colleen is thankful and don is alive
+2 colleen is not alive
+3 There is a contradiction here?	no	1
+4 dale is easy and jennifer is alive
+5 jennifer is not alive
+6 There is a contradiction here?	yes	1
+7 stephen is witty and alfredo is polite
+8 raul is unimportant
+9 There is a contradiction here?	no	1
+10 lucille is wonderful and perry is proud
+11 lucille is not wonderful
+12 There is a contradiction here?	yes	1
+13 bonnie is agreeable and candace is agreeable
+14 roberta is not helpful
+15 There is a contradiction here?	no	1
+1 frances is silly and phillip is odd
+2 frances is not odd
+3 There is a contradiction here?	no	1
+4 erika is mushy and flora is poor
+5 flora is not poor
+6 There is a contradiction here?	yes	1
+7 shirley is alive and marshall is gifted
+8 marshall is not gifted
+9 There is a contradiction here?	yes	1
+10 cynthia is lively and antonio is aggressive
+11 alexander is tender
+12 There is a contradiction here?	no	1
+13 stephen is polite and julio is clever
+14 stephen is not clever
+15 There is a contradiction here?	no	1
+1 becky is faithful and mamie is thankful
+2 becky is not faithful
+3 There is a contradiction here?	yes	1
+4 travis is wonderful and juanita is aggressive
+5 travis is not wonderful
+6 There is a contradiction here?	yes	1
+7 melvin is gifted and mario is easy
+8 mario is not easy
+9 There is a contradiction here?	yes	1
+10 salvador is eager and lydia is eager
+11 salvador is not eager
+12 There is a contradiction here?	yes	1
+13 margarita is calm and tammy is agreeable
+14 margarita is not calm
+15 There is a contradiction here?	yes	1
+1 lori is hallowed and micheal is helpful
+2 micheal is not helpful
+3 There is a contradiction here?	yes	1
+4 tonya is inexpensive and donna is uninterested
+5 donna is not uninterested
+6 There is a contradiction here?	yes	1
+7 lee is wrong and dora is rich
+8 dora is not rich
+9 There is a contradiction here?	yes	1
+10 kyle is victorious and travis is ambitious
+11 kyle is not victorious
+12 There is a contradiction here?	yes	1
+13 ronnie is better and iris is inexpensive
+14 iris is not inexpensive
+15 There is a contradiction here?	yes	1
+1 elizabeth is agreeable and diana is helpful
+2 diana is not agreeable
+3 There is a contradiction here?	no	1
+4 beulah is nice and violet is victorious
+5 sarah is uninterested
+6 There is a contradiction here?	no	1
+7 lula is poor and randy is rich
+8 randy is not rich
+9 There is a contradiction here?	yes	1
+10 kyle is agreeable and fred is careful
+11 kyle is not careful
+12 There is a contradiction here?	no	1
+13 ethel is agreeable and leah is gifted
+14 ethel is not gifted
+15 There is a contradiction here?	no	1
+1 rhonda is dead and mathew is famous
+2 mathew is not famous
+3 There is a contradiction here?	yes	1
+4 rosemary is kind and sergio is mushy
+5 sergio is not kind
+6 There is a contradiction here?	no	1
+7 eric is proud and max is lively
+8 amy is not mushy
+9 There is a contradiction here?	no	1
+10 dianne is gentle and stacy is important
+11 dianne is not important
+12 There is a contradiction here?	no	1
+13 mae is happy and shelly is lively
+14 mae is not happy
+15 There is a contradiction here?	yes	1
+1 shelly is thankful and randall is happy
+2 shelly is not thankful
+3 There is a contradiction here?	yes	1
+4 brad is lively and lee is vast
+5 lee is not lively
+6 There is a contradiction here?	no	1
+7 jeremy is victorious and megan is hallowed
+8 megan is not victorious
+9 There is a contradiction here?	no	1
+10 tracy is mealy and jose is powerful
+11 jose is not powerful
+12 There is a contradiction here?	yes	1
+13 cheryl is brave and marie is agreeable
+14 cheryl is not brave
+15 There is a contradiction here?	yes	1
+1 bobbie is kind and patrick is witty
+2 cynthia is not shy
+3 There is a contradiction here?	no	1
+4 eleanor is important and jessica is rich
+5 jessica is not rich
+6 There is a contradiction here?	yes	1
+7 jim is wonderful and tanya is vast
+8 jim is not vast
+9 There is a contradiction here?	no	1
+10 dean is silly and gina is jolly
+11 dale is not rich
+12 There is a contradiction here?	no	1
+13 jacqueline is eager and dale is silly
+14 jacqueline is not eager
+15 There is a contradiction here?	yes	1
+1 andrea is witty and margie is wonderful
+2 irma is not gifted
+3 There is a contradiction here?	no	1
+4 marie is witty and melanie is vast
+5 marie is not vast
+6 There is a contradiction here?	no	1
+7 samantha is careful and vincent is famous
+8 vincent is not famous
+9 There is a contradiction here?	yes	1
+10 jan is eager and jesus is easy
+11 jan is not easy
+12 There is a contradiction here?	no	1
+13 franklin is victorious and aaron is jolly
+14 guadalupe is clever
+15 There is a contradiction here?	no	1
+1 janet is brave and joanna is proud
+2 janet is not brave
+3 There is a contradiction here?	yes	1
+4 kirk is proud and jean is poor
+5 kirk is not poor
+6 There is a contradiction here?	no	1
+7 rachel is odd and viola is gifted
+8 viola is not gifted
+9 There is a contradiction here?	yes	1
+10 eileen is obedient and micheal is tender
+11 eileen is not tender
+12 There is a contradiction here?	no	1
+13 lee is delightful and leslie is victorious
+14 lee is not delightful
+15 There is a contradiction here?	yes	1
+1 edgar is faithful and natasha is lively
+2 jimmy is not unimportant
+3 There is a contradiction here?	no	1
+4 marilyn is zealous and marsha is proud
+5 marilyn is not zealous
+6 There is a contradiction here?	yes	1
+7 kevin is eager and myrtle is mushy
+8 myrtle is not eager
+9 There is a contradiction here?	no	1
+10 mike is aggressive and lucy is clever
+11 mike is not clever
+12 There is a contradiction here?	no	1
+13 melvin is polite and isabel is powerful
+14 isabel is not polite
+15 There is a contradiction here?	no	1
+1 seth is happy and wendy is obedient
+2 seth is not happy
+3 There is a contradiction here?	yes	1
+4 rita is jolly and cody is hallowed
+5 cody is not jolly
+6 There is a contradiction here?	no	1
+7 philip is silly and alan is mushy
+8 philip is not mushy
+9 There is a contradiction here?	no	1
+10 don is happy and isabel is hallowed
+11 isabel is not happy
+12 There is a contradiction here?	no	1
+13 arnold is powerful and lisa is clever
+14 lisa is not clever
+15 There is a contradiction here?	yes	1
+1 courtney is gentle and anita is helpful
+2 anita is not gentle
+3 There is a contradiction here?	no	1
+4 bryan is delightful and andre is jolly
+5 bryan is not delightful
+6 There is a contradiction here?	yes	1
+7 linda is uninterested and jimmy is unimportant
+8 jimmy is not unimportant
+9 There is a contradiction here?	yes	1
+10 carmen is victorious and bob is victorious
+11 caroline is not gifted
+12 There is a contradiction here?	no	1
+13 alfredo is nice and curtis is delightful
+14 ronnie is not vast
+15 There is a contradiction here?	no	1
+1 derek is gentle and beth is brave
+2 christine is not rich
+3 There is a contradiction here?	no	1
+4 fred is nice and christine is gentle
+5 vivian is not mushy
+6 There is a contradiction here?	no	1
+7 kristina is mealy and ivan is wrong
+8 ivan is not wrong
+9 There is a contradiction here?	yes	1
+10 erica is gentle and andy is inexpensive
+11 erica is not inexpensive
+12 There is a contradiction here?	no	1
+13 monica is mealy and wesley is easy
+14 wesley is not easy
+15 There is a contradiction here?	yes	1
+1 darrell is wrong and rhonda is mealy
+2 rhonda is not mealy
+3 There is a contradiction here?	yes	1
+4 zachary is lively and clara is eager
+5 clara is not gifted
+6 There is a contradiction here?	no	1
+7 johnnie is delightful and audrey is polite
+8 julia is unimportant
+9 There is a contradiction here?	no	1
+10 eileen is witty and norman is ambitious
+11 eileen is not witty
+12 There is a contradiction here?	yes	1
+13 dianne is witty and christina is poor
+14 christina is not witty
+15 There is a contradiction here?	no	1
+1 wayne is jolly and lula is important
+2 lula is not jolly
+3 There is a contradiction here?	no	1
+4 maurice is important and jim is important
+5 jim is not important
+6 There is a contradiction here?	yes	1
+7 cora is gentle and ralph is wrong
+8 ralph is not gentle
+9 There is a contradiction here?	no	1
+10 antonio is eager and belinda is proud
+11 frank is odd
+12 There is a contradiction here?	no	1
+13 april is dead and rosie is shy
+14 rosie is not shy
+15 There is a contradiction here?	yes	1
+1 susie is eager and louis is powerful
+2 louis is not eager
+3 There is a contradiction here?	no	1
+4 katie is better and marvin is mealy
+5 marvin is not mealy
+6 There is a contradiction here?	yes	1
+7 molly is eager and dave is wrong
+8 molly is not wrong
+9 There is a contradiction here?	no	1
+10 josephine is lively and natalie is victorious
+11 josephine is not lively
+12 There is a contradiction here?	yes	1
+13 oscar is aggressive and joan is tender
+14 joan is not aggressive
+15 There is a contradiction here?	no	1
+1 sergio is brave and johnnie is gifted
+2 johnnie is not brave
+3 There is a contradiction here?	no	1
+4 adrian is alive and fannie is important
+5 fannie is not important
+6 There is a contradiction here?	yes	1
+7 ted is agreeable and keith is lively
+8 ted is not agreeable
+9 There is a contradiction here?	yes	1
+10 anthony is calm and nelson is gentle
+11 kristi is poor
+12 There is a contradiction here?	no	1
+13 yvonne is gentle and greg is happy
+14 jo is not wrong
+15 There is a contradiction here?	no	1
+1 janice is nice and jeremy is thankful
+2 stephen is not better
+3 There is a contradiction here?	no	1
+4 emily is jolly and sandra is witty
+5 julian is not helpful
+6 There is a contradiction here?	no	1
+7 ricardo is tender and maxine is helpful
+8 maxine is not helpful
+9 There is a contradiction here?	yes	1
+10 laura is calm and arthur is agreeable
+11 laura is not calm
+12 There is a contradiction here?	yes	1
+13 katie is eager and ramon is ambitious
+14 katie is not eager
+15 There is a contradiction here?	yes	1
+1 marshall is agreeable and raymond is eager
+2 marshall is not agreeable
+3 There is a contradiction here?	yes	1
+4 phillip is proud and craig is thankful
+5 violet is not better
+6 There is a contradiction here?	no	1
+7 naomi is eager and tyrone is inexpensive
+8 tyrone is not eager
+9 There is a contradiction here?	no	1
+10 rachel is lively and julio is faithful
+11 willard is dead
+12 There is a contradiction here?	no	1
+13 pearl is inexpensive and nathan is mealy
+14 nathan is not mealy
+15 There is a contradiction here?	yes	1
+1 rose is silly and loretta is delightful
+2 rose is not silly
+3 There is a contradiction here?	yes	1
+4 stephen is delightful and kristen is rich
+5 stephen is not rich
+6 There is a contradiction here?	no	1
+7 erika is brave and nancy is silly
+8 erika is not brave
+9 There is a contradiction here?	yes	1
+10 benjamin is faithful and gertrude is gentle
+11 benjamin is not faithful
+12 There is a contradiction here?	yes	1
+13 jean is nice and constance is gentle
+14 emma is dead
+15 There is a contradiction here?	no	1
+1 tracy is polite and kimberly is helpful
+2 kimberly is not polite
+3 There is a contradiction here?	no	1
+4 clyde is important and ryan is unimportant
+5 ryan is not unimportant
+6 There is a contradiction here?	yes	1
+7 paul is odd and catherine is tender
+8 catherine is not tender
+9 There is a contradiction here?	yes	1
+10 anita is better and clyde is unimportant
+11 clyde is not unimportant
+12 There is a contradiction here?	yes	1
+13 allen is agreeable and eugene is witty
+14 mike is not uninterested
+15 There is a contradiction here?	no	1
+1 craig is victorious and caroline is gentle
+2 craig is not victorious
+3 There is a contradiction here?	yes	1
+4 nina is eager and carmen is jolly
+5 nina is not eager
+6 There is a contradiction here?	yes	1
+7 julie is faithful and edgar is calm
+8 maria is odd
+9 There is a contradiction here?	no	1
+10 valerie is brave and sheryl is nice
+11 valerie is not brave
+12 There is a contradiction here?	yes	1
+13 duane is powerful and dorothy is inexpensive
+14 dorothy is not inexpensive
+15 There is a contradiction here?	yes	1
+1 derrick is wonderful and velma is hallowed
+2 velma is not wonderful
+3 There is a contradiction here?	no	1
+4 ellen is dead and vickie is helpful
+5 vickie is not helpful
+6 There is a contradiction here?	yes	1
+7 jorge is jolly and priscilla is delightful
+8 wanda is not dead
+9 There is a contradiction here?	no	1
+10 emily is agreeable and donald is famous
+11 donald is not agreeable
+12 There is a contradiction here?	no	1
+13 irene is ambitious and terrence is zealous
+14 irene is not ambitious
+15 There is a contradiction here?	yes	1
+1 gordon is thankful and alison is mealy
+2 gordon is not mealy
+3 There is a contradiction here?	no	1
+4 fernando is delightful and antonio is gentle
+5 nora is not mealy
+6 There is a contradiction here?	no	1
+7 pauline is thankful and stacey is shy
+8 pauline is not shy
+9 There is a contradiction here?	no	1
+10 grace is jolly and earl is agreeable
+11 grace is not jolly
+12 There is a contradiction here?	yes	1
+13 eileen is proud and virginia is thankful
+14 katie is not wrong
+15 There is a contradiction here?	no	1
+1 ian is delightful and larry is witty
+2 kim is not mushy
+3 There is a contradiction here?	no	1
+4 jimmy is famous and maurice is alive
+5 maurice is not alive
+6 There is a contradiction here?	yes	1
+7 tamara is careful and steven is easy
+8 steven is not easy
+9 There is a contradiction here?	yes	1
+10 glen is careful and priscilla is clever
+11 priscilla is not clever
+12 There is a contradiction here?	yes	1
+13 rene is calm and gary is happy
+14 rene is not calm
+15 There is a contradiction here?	yes	1
+1 jane is calm and antoinette is brave
+2 manuel is mushy
+3 There is a contradiction here?	no	1
+4 alison is unimportant and priscilla is rich
+5 priscilla is not rich
+6 There is a contradiction here?	yes	1
+7 neil is proud and kevin is kind
+8 neil is not proud
+9 There is a contradiction here?	yes	1
+10 tracy is eager and janie is wrong
+11 janie is not eager
+12 There is a contradiction here?	no	1
+13 philip is delightful and gary is witty
+14 monica is not powerful
+15 There is a contradiction here?	no	1
+1 shelley is kind and amelia is odd
+2 shelley is not odd
+3 There is a contradiction here?	no	1
+4 patricia is wonderful and robin is zealous
+5 patricia is not wonderful
+6 There is a contradiction here?	yes	1
+7 michele is silly and shannon is zealous
+8 michele is not silly
+9 There is a contradiction here?	yes	1
+10 amber is faithful and nathaniel is powerful
+11 nathaniel is not faithful
+12 There is a contradiction here?	no	1
+13 grace is famous and willie is uninterested
+14 willie is not uninterested
+15 There is a contradiction here?	yes	1
+1 christina is easy and megan is odd
+2 megan is not odd
+3 There is a contradiction here?	yes	1
+4 sharon is polite and james is vast
+5 james is not polite
+6 There is a contradiction here?	no	1
+7 billie is lively and jill is happy
+8 louis is not tender
+9 There is a contradiction here?	no	1
+10 lester is clever and loretta is careful
+11 loretta is not careful
+12 There is a contradiction here?	yes	1
+13 kristin is aggressive and natalie is vast
+14 natalie is not aggressive
+15 There is a contradiction here?	no	1
+1 kayla is silly and duane is proud
+2 kayla is not silly
+3 There is a contradiction here?	yes	1
+4 ron is jolly and todd is jolly
+5 ron is not jolly
+6 There is a contradiction here?	yes	1
+7 debra is polite and lauren is vast
+8 lauren is not polite
+9 There is a contradiction here?	no	1
+10 bernard is powerful and mattie is easy
+11 mattie is not easy
+12 There is a contradiction here?	yes	1
+13 georgia is delightful and tony is inexpensive
+14 georgia is not inexpensive
+15 There is a contradiction here?	no	1
+1 david is obedient and randy is nice
+2 scott is easy
+3 There is a contradiction here?	no	1
+4 stacy is silly and martha is wrong
+5 stacy is not wrong
+6 There is a contradiction here?	no	1
+7 dora is polite and max is rich
+8 dora is not rich
+9 There is a contradiction here?	no	1
+10 marie is easy and ashley is careful
+11 ashley is not careful
+12 There is a contradiction here?	yes	1
+13 kristy is silly and jack is aggressive
+14 kristy is not silly
+15 There is a contradiction here?	yes	1
+1 ida is dead and vincent is clever
+2 vincent is not clever
+3 There is a contradiction here?	yes	1
+4 nathan is happy and alice is gentle
+5 nathan is not happy
+6 There is a contradiction here?	yes	1
+7 george is powerful and andrea is odd
+8 andrea is not odd
+9 There is a contradiction here?	yes	1
+10 mattie is zealous and glenda is witty
+11 mattie is not zealous
+12 There is a contradiction here?	yes	1
+13 beth is faithful and claudia is better
+14 beth is not better
+15 There is a contradiction here?	no	1
+1 steven is silly and dennis is agreeable
+2 steven is not silly
+3 There is a contradiction here?	yes	1
+4 marshall is helpful and brittany is helpful
+5 brittany is not helpful
+6 There is a contradiction here?	yes	1
+7 gene is brave and william is better
+8 william is not brave
+9 There is a contradiction here?	no	1
+10 wesley is gentle and joann is wonderful
+11 megan is uninterested
+12 There is a contradiction here?	no	1
+13 shannon is important and terrence is uninterested
+14 terrence is not uninterested
+15 There is a contradiction here?	yes	1
+1 marlene is zealous and marshall is aggressive
+2 marlene is not zealous
+3 There is a contradiction here?	yes	1
+4 willie is calm and alfred is dead
+5 alfred is not calm
+6 There is a contradiction here?	no	1
+7 mary is jolly and phyllis is polite
+8 brian is dead
+9 There is a contradiction here?	no	1
+10 donald is wonderful and brad is gifted
+11 brad is not wonderful
+12 There is a contradiction here?	no	1
+13 cynthia is powerful and daryl is helpful
+14 daryl is not helpful
+15 There is a contradiction here?	yes	1
+1 colleen is kind and toni is silly
+2 colleen is not kind
+3 There is a contradiction here?	yes	1
+4 willard is silly and hattie is happy
+5 willard is not silly
+6 There is a contradiction here?	yes	1
+7 brian is ambitious and isaac is unimportant
+8 isaac is not ambitious
+9 There is a contradiction here?	no	1
+10 wendy is victorious and catherine is nice
+11 wendy is not victorious
+12 There is a contradiction here?	yes	1
+13 donna is shy and hector is powerful
+14 hector is not powerful
+15 There is a contradiction here?	yes	1
+1 nicole is zealous and maxine is aggressive
+2 nicole is not zealous
+3 There is a contradiction here?	yes	1
+4 emma is delightful and sarah is zealous
+5 emma is not delightful
+6 There is a contradiction here?	yes	1
+7 casey is calm and dustin is poor
+8 casey is not poor
+9 There is a contradiction here?	no	1
+10 toni is delightful and pauline is wonderful
+11 cora is careful
+12 There is a contradiction here?	no	1
+13 charlene is tender and martha is unimportant
+14 martha is not unimportant
+15 There is a contradiction here?	yes	1
+1 lucille is agreeable and rosa is polite
+2 mark is shy
+3 There is a contradiction here?	no	1
+4 david is delightful and sylvia is proud
+5 david is not delightful
+6 There is a contradiction here?	yes	1
+7 herman is nice and brandy is kind
+8 roberto is rich
+9 There is a contradiction here?	no	1
+10 yvette is delightful and marion is odd
+11 yvette is not odd
+12 There is a contradiction here?	no	1
+13 monica is famous and dianne is odd
+14 dianne is not odd
+15 There is a contradiction here?	yes	1
+1 gordon is wonderful and howard is gentle
+2 gordon is not wonderful
+3 There is a contradiction here?	yes	1
+4 salvador is shy and katherine is inexpensive
+5 katherine is not inexpensive
+6 There is a contradiction here?	yes	1
+7 iris is nice and amy is delightful
+8 rosemary is shy
+9 There is a contradiction here?	no	1
+10 marion is brave and kathy is thankful
+11 aaron is not important
+12 There is a contradiction here?	no	1
+13 deborah is poor and cora is powerful
+14 cora is not powerful
+15 There is a contradiction here?	yes	1
+1 jacob is kind and leslie is thankful
+2 jacob is not kind
+3 There is a contradiction here?	yes	1
+4 marion is agreeable and michelle is agreeable
+5 rick is helpful
+6 There is a contradiction here?	no	1
+7 alberta is aggressive and dan is helpful
+8 dan is not aggressive
+9 There is a contradiction here?	no	1
+10 terrence is delightful and loretta is shy
+11 terrence is not shy
+12 There is a contradiction here?	no	1
+13 anita is witty and warren is uninterested
+14 anita is not uninterested
+15 There is a contradiction here?	no	1
+1 joe is aggressive and penny is witty
+2 craig is not powerful
+3 There is a contradiction here?	no	1
+4 constance is wonderful and dan is poor
+5 dan is not wonderful
+6 There is a contradiction here?	no	1
+7 lester is ambitious and robin is mushy
+8 lester is not mushy
+9 There is a contradiction here?	no	1
+10 ron is alive and natalie is poor
+11 natalie is not poor
+12 There is a contradiction here?	yes	1
+13 karen is kind and jennifer is kind
+14 karen is not kind
+15 There is a contradiction here?	yes	1
+1 eleanor is aggressive and wanda is helpful
+2 eleanor is not helpful
+3 There is a contradiction here?	no	1
+4 carol is lively and rosemary is witty
+5 oscar is clever
+6 There is a contradiction here?	no	1
+7 george is brave and alberto is important
+8 alberto is not brave
+9 There is a contradiction here?	no	1
+10 rachel is agreeable and margarita is calm
+11 rachel is not agreeable
+12 There is a contradiction here?	yes	1
+13 megan is ambitious and dwight is happy
+14 antonio is not careful
+15 There is a contradiction here?	no	1
+1 marvin is eager and valerie is faithful
+2 iris is not odd
+3 There is a contradiction here?	no	1
+4 earl is jolly and sheila is silly
+5 earl is not jolly
+6 There is a contradiction here?	yes	1
+7 deanna is rich and elaine is powerful
+8 elaine is not powerful
+9 There is a contradiction here?	yes	1
+10 charlene is alive and rosa is inexpensive
+11 rosa is not inexpensive
+12 There is a contradiction here?	yes	1
+13 jesse is faithful and andre is famous
+14 jesse is not famous
+15 There is a contradiction here?	no	1
+1 arthur is thankful and natasha is helpful
+2 arthur is not helpful
+3 There is a contradiction here?	no	1
+4 cecilia is silly and andre is important
+5 andre is not silly
+6 There is a contradiction here?	no	1
+7 jason is lively and gordon is polite
+8 jason is not lively
+9 There is a contradiction here?	yes	1
+10 kristina is silly and don is vast
+11 kristina is not vast
+12 There is a contradiction here?	no	1
+13 benjamin is vast and marguerite is wrong
+14 marguerite is not wrong
+15 There is a contradiction here?	yes	1
+1 stanley is alive and rafael is famous
+2 rafael is not famous
+3 There is a contradiction here?	yes	1
+4 clinton is dead and pauline is alive
+5 pauline is not alive
+6 There is a contradiction here?	yes	1
+7 tara is happy and judy is witty
+8 tara is not happy
+9 There is a contradiction here?	yes	1
+10 penny is polite and cory is better
+11 cory is not polite
+12 There is a contradiction here?	no	1
+13 olivia is eager and deanna is agreeable
+14 olivia is not eager
+15 There is a contradiction here?	yes	1
+1 marian is thankful and tracey is agreeable
+2 lucille is not rich
+3 There is a contradiction here?	no	1
+4 elizabeth is polite and jacqueline is gentle
+5 elizabeth is not polite
+6 There is a contradiction here?	yes	1
+7 oscar is wrong and wallace is easy
+8 wallace is not easy
+9 There is a contradiction here?	yes	1
+10 robin is zealous and tyrone is vast
+11 robin is not vast
+12 There is a contradiction here?	no	1
+13 jack is jolly and leslie is careful
+14 leslie is not jolly
+15 There is a contradiction here?	no	1

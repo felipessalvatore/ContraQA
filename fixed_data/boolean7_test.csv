@@ -1,0 +1,1001 @@
+sentence1,sentence2,label
+Raul is embarrassed or Vickie is plain, Raul is not embarrassed and Vickie is not plain,1
+Jimmie is proud or Jimmy is clumsy, Jimmie is not proud or Jimmy is not clumsy,0
+Sam is plump or Roger is gorgeous, Sam is not plump or Roger is not gorgeous,0
+Felix is faithful or Maria is flabby, neither Felix is faithful nor Maria is flabby,1
+Velma is silly or Dave is fancy, Velma is not silly or Dave is not fancy,0
+Beatrice is wonderful or Don is shapely, Don is not shapely,0
+Julio is proud or Shane is shapely, Julio is not proud and Shane is not shapely,1
+Sheila is quaint or Raul is uptight, Sheila is not quaint and Raul is not uptight,1
+Joanna is drab or Diane is thoughtless, Joanna is not drab and Diane is not thoughtless,1
+Elsie is agreeable or Claude is kind, neither Elsie is agreeable nor Claude is kind,1
+Jessie is fancy or Margaret is agreeable, neither Jessie is fancy nor Margaret is agreeable,1
+Steve is itchy or Gordon is jealous, Steve is not itchy or Gordon is not jealous,0
+Jeanne is grumpy or Morris is skinny, Jeanne is not grumpy or Morris is not skinny,0
+Sidney is eager or Lorraine is mysterious, Sidney is not eager or Lorraine is not mysterious,0
+Arnold is silly or Sylvia is jealous, neither Arnold is silly nor Sylvia is jealous,1
+Tyler is grumpy or Leroy is scruffy, neither Tyler is grumpy nor Leroy is scruffy,1
+Everett is unsightly or Paula is worried, Everett is not unsightly,0
+Eleanor is jealous or Tammy is aggressive, neither Eleanor is jealous nor Tammy is aggressive,1
+Janice is attractive or Joseph is obnoxious, Joseph is not obnoxious,0
+Kathleen is nice or Don is skinny, Kathleen is not nice or Don is not skinny,0
+Terry is kind or Margie is elegant, Terry is not kind or Margie is not elegant,0
+Miguel is grumpy or Katrina is ambitious, Miguel is not grumpy or Katrina is not ambitious,0
+Sheila is agreeable or Tamara is nervous, Sheila is not agreeable,0
+Cora is faithful or Max is zealous, Cora is not faithful or Max is not zealous,0
+Amy is jolly or Yvette is fierce, Amy is not jolly,0
+Harvey is angry or Max is gorgeous, Max is not gorgeous,0
+Mildred is chubby or Eva is fit, neither Mildred is chubby nor Eva is fit,1
+Debra is wonderful or Adrian is mysterious, Debra is not wonderful and Adrian is not mysterious,1
+Albert is nervous or Larry is calm, Albert is not nervous,0
+Kristi is agreeable or Suzanne is calm, Kristi is not agreeable and Suzanne is not calm,1
+Alberto is lively or Cheryl is clean, Alberto is not lively and Cheryl is not clean,1
+Tracey is shapely or Shawn is unkempt, Tracey is not shapely,0
+Harry is grumpy or Jessie is nervous, neither Harry is grumpy nor Jessie is nervous,1
+Dianne is unkempt or Greg is attractive, Dianne is not unkempt or Greg is not attractive,0
+Clayton is polite or Dwayne is ugly, neither Clayton is polite nor Dwayne is ugly,1
+Nina is delightful or Kathryn is repulsive, neither Nina is delightful nor Kathryn is repulsive,1
+Lillian is bald or Larry is zealous, Larry is not zealous,0
+Darrell is grumpy or Ron is silly, Darrell is not grumpy and Ron is not silly,1
+Eugene is repulsive or Tim is unsightly, Eugene is not repulsive,0
+Pauline is unsightly or Roland is long, neither Pauline is unsightly nor Roland is long,1
+Phillip is happy or Samantha is elegant, Phillip is not happy or Samantha is not elegant,0
+Marlene is quaint or Molly is thoughtless, Marlene is not quaint and Molly is not thoughtless,1
+Geneva is defeated or Bessie is embarrassed, neither Geneva is defeated nor Bessie is embarrassed,1
+Herman is short or Jessica is brave, Herman is not short,0
+Guadalupe is wonderful or Brad is gentle, Guadalupe is not wonderful and Brad is not gentle,1
+Daniel is nervous or Nora is skinny, Daniel is not nervous and Nora is not skinny,1
+Fernando is obnoxious or Madeline is unsightly, Fernando is not obnoxious and Madeline is not unsightly,1
+Crystal is magnificent or Lauren is angry, Crystal is not magnificent or Lauren is not angry,0
+Francis is gentle or Jorge is scary, Francis is not gentle,0
+Earl is glamorous or Floyd is muscular, Earl is not glamorous and Floyd is not muscular,1
+Mary is scruffy or Yvonne is elegant, neither Mary is scruffy nor Yvonne is elegant,1
+Joe is fit or Diana is grumpy, Diana is not grumpy,0
+Valerie is lazy or Justin is angry, neither Valerie is lazy nor Justin is angry,1
+Edward is agreeable or Lynda is silly, Edward is not agreeable and Lynda is not silly,1
+Ross is mysterious or Brittany is unsightly, Brittany is not unsightly,0
+Rodney is attractive or Frank is grumpy, Rodney is not attractive or Frank is not grumpy,0
+Greg is kind or Jack is witty, Greg is not kind or Jack is not witty,0
+Georgia is proud or Kirk is dazzling, Georgia is not proud or Kirk is not dazzling,0
+Michele is obedient or Marion is attractive, Michele is not obedient and Marion is not attractive,1
+Annie is angry or Maurice is magnificent, Maurice is not magnificent,0
+Tamara is fit or Louis is muscular, Tamara is not fit or Louis is not muscular,0
+Dan is witty or Erika is obnoxious, Erika is not obnoxious,0
+Erik is dazzling or Maxine is elegant, Erik is not dazzling,0
+Arnold is helpless or Esther is kind, Arnold is not helpless,0
+Hugh is fierce or Adrian is calm, Hugh is not fierce and Adrian is not calm,1
+Velma is helpless or Ana is ugly, Ana is not ugly,0
+Brenda is gorgeous or Jose is fancy, Brenda is not gorgeous or Jose is not fancy,0
+Roger is thankful or Peggy is attractive, Roger is not thankful or Peggy is not attractive,0
+Willie is polite or Lucille is ugly, Willie is not polite and Lucille is not ugly,1
+Sidney is jealous or Philip is uptight, neither Sidney is jealous nor Philip is uptight,1
+Kirk is uptight or Sharon is brave, neither Kirk is uptight nor Sharon is brave,1
+April is gentle or Cecil is nervous, April is not gentle or Cecil is not nervous,0
+Janice is unsightly or Carmen is obedient, Carmen is not obedient,0
+Jason is kind or Gertrude is handsome, Jason is not kind or Gertrude is not handsome,0
+Joel is mysterious or Douglas is aggressive, Joel is not mysterious and Douglas is not aggressive,1
+Adam is bewildered or Ross is dazzling, Adam is not bewildered and Ross is not dazzling,1
+Douglas is gentle or Bradley is lively, Douglas is not gentle,0
+Linda is polite or Edna is gorgeous, Linda is not polite,0
+Minnie is unkempt or Wesley is muscular, Minnie is not unkempt or Wesley is not muscular,0
+Christian is clean or Andrew is drab, neither Christian is clean nor Andrew is drab,1
+Gene is obedient or Vanessa is handsome, neither Gene is obedient nor Vanessa is handsome,1
+Bradley is chubby or Toni is eager, Bradley is not chubby or Toni is not eager,0
+Guy is agreeable or Wallace is plump, Guy is not agreeable or Wallace is not plump,0
+Marjorie is zealous or Melinda is victorious, Marjorie is not zealous or Melinda is not victorious,0
+Rodney is jealous or Larry is clumsy, neither Rodney is jealous nor Larry is clumsy,1
+Eugene is plump or Bobby is muscular, Eugene is not plump or Bobby is not muscular,0
+Allison is jolly or Brad is thoughtless, Allison is not jolly and Brad is not thoughtless,1
+Sean is jealous or Johnnie is fit, Sean is not jealous or Johnnie is not fit,0
+Gary is glamorous or Melvin is shapely, neither Gary is glamorous nor Melvin is shapely,1
+Dave is fancy or Madeline is kind, Dave is not fancy or Madeline is not kind,0
+Molly is ugly or Andrew is agreeable, Molly is not ugly or Andrew is not agreeable,0
+Thomas is plain or Madeline is flabby, Thomas is not plain or Madeline is not flabby,0
+Brenda is angry or Victor is pitiful, Brenda is not angry or Victor is not pitiful,0
+Jessica is delightful or Sandy is nice, Jessica is not delightful or Sandy is not nice,0
+Charlie is eager or Lisa is fierce, Charlie is not eager and Lisa is not fierce,1
+Viola is eager or Jessie is beautiful, Viola is not eager or Jessie is not beautiful,0
+Barbara is obnoxious or Alice is bewildered, neither Barbara is obnoxious nor Alice is bewildered,1
+Mabel is fancy or Amy is muscular, Mabel is not fancy or Amy is not muscular,0
+Elsie is obnoxious or Cody is defeated, neither Elsie is obnoxious nor Cody is defeated,1
+Jane is embarrassed or Matthew is delightful, neither Jane is embarrassed nor Matthew is delightful,1
+Ben is scruffy or Terrence is lively, Ben is not scruffy or Terrence is not lively,0
+Alexander is jealous or Paul is wonderful, Alexander is not jealous and Paul is not wonderful,1
+Florence is ugly or Deanna is gorgeous, Florence is not ugly and Deanna is not gorgeous,1
+Gertrude is ugly or Bobbie is nice, Bobbie is not nice,0
+Tracy is bewildered or Randall is short, Randall is not short,0
+Stacey is uptight or Bernard is magnificent, Stacey is not uptight,0
+Clifford is stocky or Bryan is jealous, Clifford is not stocky and Bryan is not jealous,1
+Jan is ambitious or Ann is magnificent, Jan is not ambitious and Ann is not magnificent,1
+Fred is aggressive or Carl is jealous, neither Fred is aggressive nor Carl is jealous,1
+James is handsome or Jason is jealous, James is not handsome and Jason is not jealous,1
+Richard is witty or Ethel is attractive, Richard is not witty,0
+Lois is short or Evelyn is proud, neither Lois is short nor Evelyn is proud,1
+Frances is stocky or Sheryl is plain, neither Frances is stocky nor Sheryl is plain,1
+Samantha is brave or Delores is ugly, Samantha is not brave,0
+Felix is stocky or Monica is kind, neither Felix is stocky nor Monica is kind,1
+Dianne is glamorous or Brad is wonderful, Dianne is not glamorous and Brad is not wonderful,1
+Dwight is scruffy or Terrence is fierce, Dwight is not scruffy and Terrence is not fierce,1
+Jerry is eager or Sheila is handsome, Jerry is not eager or Sheila is not handsome,0
+Mildred is obnoxious or Roberto is happy, neither Mildred is obnoxious nor Roberto is happy,1
+Raul is jealous or Toni is long, Toni is not long,0
+Shannon is quaint or Michele is angry, Michele is not angry,0
+Christine is uptight or Leona is faithful, Christine is not uptight or Leona is not faithful,0
+Deborah is panicky or Veronica is chubby, Deborah is not panicky or Veronica is not chubby,0
+Warren is nice or Alfred is chubby, Warren is not nice or Alfred is not chubby,0
+Sandy is dazzling or Aaron is skinny, Sandy is not dazzling or Aaron is not skinny,0
+Molly is gorgeous or Phillip is lively, Molly is not gorgeous or Phillip is not lively,0
+Lillian is ugly or Clifton is flabby, Clifton is not flabby,0
+Sergio is thankful or Vincent is lively, Sergio is not thankful,0
+Elsie is aggressive or Daniel is scruffy, Elsie is not aggressive or Daniel is not scruffy,0
+Wade is nervous or Belinda is jealous, Belinda is not jealous,0
+Sean is panicky or Veronica is muscular, Sean is not panicky or Veronica is not muscular,0
+Genevieve is gorgeous or Calvin is victorious, Genevieve is not gorgeous and Calvin is not victorious,1
+Toni is ambitious or Gina is fierce, Toni is not ambitious,0
+Colleen is jealous or Clifton is clean, neither Colleen is jealous nor Clifton is clean,1
+Clinton is drab or Jo is zealous, Clinton is not drab and Jo is not zealous,1
+Tanya is jealous or Felix is lively, neither Tanya is jealous nor Felix is lively,1
+Joe is fit or Emily is shapely, Emily is not shapely,0
+Nicole is attractive or Jeremy is angry, Nicole is not attractive and Jeremy is not angry,1
+Walter is thoughtless or Kim is lazy, Walter is not thoughtless or Kim is not lazy,0
+Tracy is muscular or Yolanda is mysterious, Tracy is not muscular,0
+James is chubby or Priscilla is jealous, James is not chubby and Priscilla is not jealous,1
+Jennifer is grumpy or Hugh is scary, Hugh is not scary,0
+Alfred is fit or Allan is jealous, Allan is not jealous,0
+Amy is elegant or Kayla is fancy, Kayla is not fancy,0
+Clifford is mysterious or Jimmy is wonderful, Clifford is not mysterious or Jimmy is not wonderful,0
+Brian is uptight or Jorge is gentle, neither Brian is uptight nor Jorge is gentle,1
+Vivian is fierce or Virgil is eager, Vivian is not fierce or Virgil is not eager,0
+Hazel is obedient or Iris is worried, Hazel is not obedient and Iris is not worried,1
+Maxine is skinny or Debra is unsightly, Maxine is not skinny,0
+Gertrude is jolly or Gladys is skinny, neither Gertrude is jolly nor Gladys is skinny,1
+Ella is silly or Tanya is glamorous, Tanya is not glamorous,0
+Dora is short or Claude is unkempt, neither Dora is short nor Claude is unkempt,1
+Peggy is helpless or Loretta is grumpy, Peggy is not helpless and Loretta is not grumpy,1
+Rose is short or Darren is pitiful, neither Rose is short nor Darren is pitiful,1
+Jonathan is victorious or Kelly is brave, Jonathan is not victorious or Kelly is not brave,0
+Emma is beautiful or Rosa is long, Emma is not beautiful,0
+Helen is mysterious or Philip is scary, Helen is not mysterious and Philip is not scary,1
+Lauren is agreeable or Irene is scary, neither Lauren is agreeable nor Irene is scary,1
+Lester is kind or Vernon is wonderful, Lester is not kind or Vernon is not wonderful,0
+Byron is proud or Grace is angry, Grace is not angry,0
+Jimmy is polite or Aaron is lively, neither Jimmy is polite nor Aaron is lively,1
+Arlene is polite or Norma is clean, Arlene is not polite or Norma is not clean,0
+Ron is witty or Milton is panicky, neither Ron is witty nor Milton is panicky,1
+Maria is chubby or Willard is panicky, Maria is not chubby or Willard is not panicky,0
+Virginia is ugly or Stella is ambitious, Stella is not ambitious,0
+Lindsey is unkempt or Dan is delightful, Lindsey is not unkempt,0
+Curtis is delightful or Donna is pitiful, Curtis is not delightful,0
+Lee is thoughtless or Shawn is plump, Lee is not thoughtless or Shawn is not plump,0
+Shelley is lively or Sergio is thoughtless, Shelley is not lively and Sergio is not thoughtless,1
+Ben is bewildered or Wesley is grumpy, Ben is not bewildered and Wesley is not grumpy,1
+Fernando is muscular or Oscar is glamorous, Oscar is not glamorous,0
+Nicholas is silly or Tara is unkempt, Nicholas is not silly and Tara is not unkempt,1
+Vivian is defeated or Alfred is helpless, Vivian is not defeated and Alfred is not helpless,1
+Fred is nervous or Eric is uptight, neither Fred is nervous nor Eric is uptight,1
+Joe is angry or Leslie is eager, Leslie is not eager,0
+Ron is uptight or Emily is faithful, neither Ron is uptight nor Emily is faithful,1
+Lester is plain or Cecil is flabby, Lester is not plain,0
+Roberto is repulsive or Tammy is delightful, Tammy is not delightful,0
+Anthony is glamorous or Mildred is plain, Anthony is not glamorous,0
+Marc is elegant or Raul is handsome, neither Marc is elegant nor Raul is handsome,1
+Brad is thoughtless or Wanda is lazy, Brad is not thoughtless and Wanda is not lazy,1
+Dave is elegant or Lewis is jolly, Dave is not elegant,0
+Sonya is nervous or Joan is agreeable, Sonya is not nervous and Joan is not agreeable,1
+Stephen is happy or Floyd is flabby, neither Stephen is happy nor Floyd is flabby,1
+Tracey is chubby or Pamela is obedient, Tracey is not chubby or Pamela is not obedient,0
+Neil is thankful or Wade is quaint, neither Neil is thankful nor Wade is quaint,1
+Rosie is lazy or Peggy is gentle, Peggy is not gentle,0
+Francis is muscular or Jennie is helpless, Francis is not muscular and Jennie is not helpless,1
+Dennis is zealous or Victor is polite, Dennis is not zealous,0
+Dana is drab or Sabrina is glamorous, Dana is not drab,0
+Daryl is obedient or Eva is nice, Daryl is not obedient and Eva is not nice,1
+Alicia is lazy or Peter is nervous, Alicia is not lazy,0
+Morris is repulsive or Willard is beautiful, neither Morris is repulsive nor Willard is beautiful,1
+Duane is obnoxious or Vickie is zealous, Duane is not obnoxious or Vickie is not zealous,0
+Wanda is unsightly or Carrie is victorious, Wanda is not unsightly or Carrie is not victorious,0
+John is thankful or Karl is bewildered, John is not thankful,0
+Joyce is long or Judith is quaint, neither Joyce is long nor Judith is quaint,1
+Tara is faithful or Nora is jealous, Tara is not faithful and Nora is not jealous,1
+Johnny is faithful or Brett is repulsive, neither Johnny is faithful nor Brett is repulsive,1
+Laura is panicky or Emma is lazy, Laura is not panicky,0
+Charles is grumpy or Herman is angry, Charles is not grumpy and Herman is not angry,1
+Belinda is short or Rene is thankful, Belinda is not short or Rene is not thankful,0
+Lisa is clumsy or Geneva is lazy, Lisa is not clumsy,0
+Jennifer is muscular or Salvador is magnificent, neither Jennifer is muscular nor Salvador is magnificent,1
+Wendy is defeated or Neil is muscular, Wendy is not defeated and Neil is not muscular,1
+Eugene is agreeable or Bernice is scruffy, Bernice is not scruffy,0
+Charlene is fancy or Greg is elegant, Charlene is not fancy and Greg is not elegant,1
+Cecil is plain or Floyd is dazzling, neither Cecil is plain nor Floyd is dazzling,1
+Randy is beautiful or Sharon is nervous, Randy is not beautiful,0
+Travis is muscular or Sandra is angry, Travis is not muscular and Sandra is not angry,1
+Geneva is repulsive or Scott is magnificent, Geneva is not repulsive,0
+Erica is plump or Nelson is stocky, Nelson is not stocky,0
+Albert is grumpy or Earl is defeated, Earl is not defeated,0
+Esther is brave or Nelson is delightful, Esther is not brave or Nelson is not delightful,0
+June is handsome or Nora is thoughtless, June is not handsome or Nora is not thoughtless,0
+Eddie is handsome or Charlie is agreeable, neither Eddie is handsome nor Charlie is agreeable,1
+Raul is faithful or Ramon is fierce, Raul is not faithful and Ramon is not fierce,1
+Delores is lively or Erica is skinny, Delores is not lively,0
+Samantha is defeated or Cheryl is skinny, Samantha is not defeated and Cheryl is not skinny,1
+Beverly is calm or Rachel is thankful, Beverly is not calm and Rachel is not thankful,1
+Arlene is zealous or Laurie is helpless, Arlene is not zealous,0
+Edwin is obnoxious or Amy is wonderful, neither Edwin is obnoxious nor Amy is wonderful,1
+Vivian is nervous or Yvonne is flabby, Vivian is not nervous,0
+Diane is jolly or Julia is zealous, Diane is not jolly,0
+Joshua is nice or Marcia is lively, Joshua is not nice,0
+Michael is ambitious or Raymond is uptight, Michael is not ambitious and Raymond is not uptight,1
+Gilbert is obnoxious or Jo is worried, Gilbert is not obnoxious or Jo is not worried,0
+Judith is flabby or Roland is muscular, Judith is not flabby,0
+Henry is jolly or Katrina is fierce, Henry is not jolly or Katrina is not fierce,0
+Frank is mysterious or April is clumsy, Frank is not mysterious,0
+Emma is jealous or Debra is beautiful, Emma is not jealous and Debra is not beautiful,1
+Marlene is fit or Alma is pitiful, Marlene is not fit or Alma is not pitiful,0
+Guy is clumsy or Warren is lazy, Guy is not clumsy and Warren is not lazy,1
+Curtis is nervous or Ramon is thankful, neither Curtis is nervous nor Ramon is thankful,1
+Diane is wonderful or Theodore is magnificent, neither Diane is wonderful nor Theodore is magnificent,1
+Lillian is nice or Annette is skinny, neither Lillian is nice nor Annette is skinny,1
+Brittany is polite or Carole is delightful, neither Brittany is polite nor Carole is delightful,1
+Ian is scruffy or Freddie is elegant, neither Ian is scruffy nor Freddie is elegant,1
+Margie is uptight or Francisco is gorgeous, Margie is not uptight and Francisco is not gorgeous,1
+Lawrence is glamorous or Roberto is panicky, Lawrence is not glamorous and Roberto is not panicky,1
+Gene is long or Bernard is scary, Bernard is not scary,0
+Faye is uptight or Candice is bald, Faye is not uptight,0
+Dean is flabby or Teresa is clumsy, Dean is not flabby or Teresa is not clumsy,0
+Franklin is obnoxious or Theresa is attractive, Franklin is not obnoxious or Theresa is not attractive,0
+Marian is gentle or Irene is happy, Marian is not gentle,0
+Debra is brave or Kyle is thankful, neither Debra is brave nor Kyle is thankful,1
+Morris is brave or Maxine is gentle, neither Morris is brave nor Maxine is gentle,1
+Rosie is jolly or Brent is bald, Rosie is not jolly,0
+Edith is delightful or Vernon is jealous, Edith is not delightful and Vernon is not jealous,1
+Jerome is delightful or Juana is lazy, Jerome is not delightful or Juana is not lazy,0
+Dustin is wonderful or Roger is worried, Dustin is not wonderful,0
+Norman is scruffy or Kurt is itchy, Norman is not scruffy or Kurt is not itchy,0
+Sheila is victorious or Cheryl is unkempt, Sheila is not victorious and Cheryl is not unkempt,1
+Maurice is helpless or Maureen is polite, Maurice is not helpless or Maureen is not polite,0
+Rebecca is scary or Tiffany is kind, Tiffany is not kind,0
+Katie is muscular or Pedro is gentle, neither Katie is muscular nor Pedro is gentle,1
+Lucy is itchy or James is clean, neither Lucy is itchy nor James is clean,1
+Fred is happy or Janie is nervous, Janie is not nervous,0
+Lola is uptight or Herbert is defeated, Lola is not uptight or Herbert is not defeated,0
+Willard is gorgeous or Danny is chubby, neither Willard is gorgeous nor Danny is chubby,1
+Nicole is calm or Kathy is obnoxious, Nicole is not calm or Kathy is not obnoxious,0
+Billy is helpless or Patricia is obedient, Billy is not helpless or Patricia is not obedient,0
+Sean is calm or Harold is nervous, Sean is not calm,0
+Jamie is magnificent or Judith is stocky, neither Jamie is magnificent nor Judith is stocky,1
+Constance is witty or Denise is gorgeous, neither Constance is witty nor Denise is gorgeous,1
+Marcus is stocky or Arthur is polite, Marcus is not stocky or Arthur is not polite,0
+Veronica is attractive or Rodney is unkempt, Veronica is not attractive and Rodney is not unkempt,1
+Alfredo is shapely or Alice is obedient, Alfredo is not shapely or Alice is not obedient,0
+Cecil is defeated or June is fit, Cecil is not defeated or June is not fit,0
+Francisco is faithful or Allan is embarrassed, Francisco is not faithful and Allan is not embarrassed,1
+Alfredo is helpless or Marie is long, neither Alfredo is helpless nor Marie is long,1
+Earl is proud or Carla is drab, Earl is not proud and Carla is not drab,1
+Jonathan is eager or Kristen is panicky, Jonathan is not eager or Kristen is not panicky,0
+Vivian is aggressive or Warren is silly, Vivian is not aggressive and Warren is not silly,1
+Blanche is plain or Elaine is grumpy, neither Blanche is plain nor Elaine is grumpy,1
+Julie is obnoxious or Alvin is unsightly, neither Julie is obnoxious nor Alvin is unsightly,1
+Dwight is drab or April is repulsive, Dwight is not drab and April is not repulsive,1
+Eugene is gentle or Edwin is thoughtless, neither Eugene is gentle nor Edwin is thoughtless,1
+Christine is obnoxious or Lorraine is lively, Christine is not obnoxious and Lorraine is not lively,1
+Cathy is victorious or Calvin is bald, neither Cathy is victorious nor Calvin is bald,1
+Howard is fierce or Faye is attractive, Howard is not fierce and Faye is not attractive,1
+Paula is thankful or Jacob is zealous, Paula is not thankful or Jacob is not zealous,0
+Peggy is elegant or Timothy is fierce, Peggy is not elegant and Timothy is not fierce,1
+Juana is helpless or Jon is repulsive, neither Juana is helpless nor Jon is repulsive,1
+Corey is eager or Stella is defeated, Corey is not eager or Stella is not defeated,0
+June is thoughtless or Frances is plump, June is not thoughtless or Frances is not plump,0
+Anthony is beautiful or Erin is shapely, Anthony is not beautiful and Erin is not shapely,1
+Lewis is proud or Perry is panicky, Perry is not panicky,0
+Nora is plain or Beth is grumpy, Nora is not plain or Beth is not grumpy,0
+Clifton is repulsive or Greg is aggressive, neither Clifton is repulsive nor Greg is aggressive,1
+Terry is obedient or Brittany is polite, Terry is not obedient and Brittany is not polite,1
+Denise is unsightly or Cynthia is angry, Cynthia is not angry,0
+Clyde is thoughtless or Aaron is nice, Clyde is not thoughtless and Aaron is not nice,1
+Lillian is unsightly or Joe is fierce, Lillian is not unsightly,0
+Jessie is mysterious or Morris is gorgeous, Jessie is not mysterious and Morris is not gorgeous,1
+Lewis is skinny or Sonya is jealous, Lewis is not skinny and Sonya is not jealous,1
+Willard is chubby or Clayton is drab, Willard is not chubby and Clayton is not drab,1
+Susie is plump or Adam is scruffy, Susie is not plump and Adam is not scruffy,1
+Herbert is skinny or Jeffrey is witty, Herbert is not skinny or Jeffrey is not witty,0
+Karl is glamorous or Marion is calm, Karl is not glamorous,0
+Ian is worried or Virginia is embarrassed, Ian is not worried or Virginia is not embarrassed,0
+Warren is handsome or Mike is clean, Warren is not handsome,0
+Sally is angry or Kevin is victorious, Sally is not angry or Kevin is not victorious,0
+Shelly is nervous or Clifton is agreeable, Shelly is not nervous and Clifton is not agreeable,1
+Willie is delightful or Jay is short, Willie is not delightful and Jay is not short,1
+Donna is proud or Earl is magnificent, Donna is not proud and Earl is not magnificent,1
+Douglas is scruffy or Daniel is thankful, neither Douglas is scruffy nor Daniel is thankful,1
+Sonya is worried or James is unsightly, Sonya is not worried and James is not unsightly,1
+Gilbert is wonderful or June is delightful, Gilbert is not wonderful or June is not delightful,0
+Byron is thankful or Ricardo is pitiful, Byron is not thankful,0
+Sharon is drab or Donna is kind, neither Sharon is drab nor Donna is kind,1
+Nancy is embarrassed or Chad is drab, neither Nancy is embarrassed nor Chad is drab,1
+Karl is lively or Kristina is ambitious, Karl is not lively or Kristina is not ambitious,0
+Pauline is fit or Willie is calm, neither Pauline is fit nor Willie is calm,1
+Dustin is fierce or James is polite, Dustin is not fierce or James is not polite,0
+Mamie is clean or Marie is obnoxious, Mamie is not clean or Marie is not obnoxious,0
+Marsha is uptight or Alma is drab, neither Marsha is uptight nor Alma is drab,1
+Agnes is lively or Renee is eager, Agnes is not lively or Renee is not eager,0
+Erika is elegant or Becky is wonderful, neither Erika is elegant nor Becky is wonderful,1
+Leah is jealous or Leslie is happy, neither Leah is jealous nor Leslie is happy,1
+Roland is calm or Donna is chubby, neither Roland is calm nor Donna is chubby,1
+Margie is handsome or Susan is defeated, Susan is not defeated,0
+Nicholas is scruffy or Micheal is jealous, neither Nicholas is scruffy nor Micheal is jealous,1
+Jonathan is helpless or Jodi is fit, Jonathan is not helpless,0
+Nathan is short or Jesse is bald, Nathan is not short and Jesse is not bald,1
+Cody is silly or Flora is uptight, neither Cody is silly nor Flora is uptight,1
+Anita is repulsive or Willie is skinny, Anita is not repulsive or Willie is not skinny,0
+Terry is polite or Robin is gorgeous, neither Terry is polite nor Robin is gorgeous,1
+Ron is nervous or Priscilla is happy, Ron is not nervous and Priscilla is not happy,1
+Reginald is repulsive or Louise is zealous, Reginald is not repulsive,0
+Leona is pitiful or Melissa is agreeable, Leona is not pitiful and Melissa is not agreeable,1
+Tom is wonderful or Troy is pitiful, Troy is not pitiful,0
+Clayton is scruffy or Jeremy is jolly, Jeremy is not jolly,0
+Melvin is long or Gail is repulsive, Melvin is not long and Gail is not repulsive,1
+Suzanne is plump or Joshua is handsome, Suzanne is not plump or Joshua is not handsome,0
+Alberto is drab or Kristin is attractive, Alberto is not drab or Kristin is not attractive,0
+Ana is delightful or Jimmie is muscular, Ana is not delightful or Jimmie is not muscular,0
+Loretta is obedient or Ann is beautiful, Loretta is not obedient or Ann is not beautiful,0
+Dale is dazzling or Olivia is long, neither Dale is dazzling nor Olivia is long,1
+Eduardo is zealous or Cynthia is handsome, Eduardo is not zealous and Cynthia is not handsome,1
+Shane is flabby or Rodney is handsome, neither Shane is flabby nor Rodney is handsome,1
+Ronald is eager or Leah is angry, neither Ronald is eager nor Leah is angry,1
+Isabel is bald or Tommy is pitiful, Tommy is not pitiful,0
+April is grumpy or Louis is delightful, neither April is grumpy nor Louis is delightful,1
+Charlotte is faithful or Nathaniel is ambitious, neither Charlotte is faithful nor Nathaniel is ambitious,1
+Scott is fit or Christy is flabby, Scott is not fit and Christy is not flabby,1
+Nathan is proud or Jessica is wonderful, Nathan is not proud or Jessica is not wonderful,0
+Blanche is fancy or Kelly is elegant, Blanche is not fancy or Kelly is not elegant,0
+Sandy is brave or Carmen is delightful, Sandy is not brave or Carmen is not delightful,0
+Katie is nervous or Nelson is clumsy, Katie is not nervous or Nelson is not clumsy,0
+Elizabeth is short or Keith is gentle, neither Elizabeth is short nor Keith is gentle,1
+Fernando is bald or Luz is bewildered, neither Fernando is bald nor Luz is bewildered,1
+Earl is obedient or Alan is thankful, Earl is not obedient and Alan is not thankful,1
+Marjorie is glamorous or Nora is fancy, Nora is not fancy,0
+Iris is chubby or Amanda is brave, Iris is not chubby and Amanda is not brave,1
+Andre is short or Javier is mysterious, Andre is not short or Javier is not mysterious,0
+Brandi is lively or Rita is bald, neither Brandi is lively nor Rita is bald,1
+Audrey is shapely or Sam is gentle, Audrey is not shapely and Sam is not gentle,1
+Christine is gentle or Michelle is clumsy, Christine is not gentle or Michelle is not clumsy,0
+Donna is happy or Gerald is gentle, neither Donna is happy nor Gerald is gentle,1
+Vernon is nervous or Christina is worried, neither Vernon is nervous nor Christina is worried,1
+Teresa is witty or Jennie is scruffy, Jennie is not scruffy,0
+Monica is fierce or Rosie is shapely, Rosie is not shapely,0
+Lloyd is obedient or Vernon is clumsy, Lloyd is not obedient,0
+Gloria is calm or Kathy is unkempt, Kathy is not unkempt,0
+Cecilia is muscular or Ronnie is panicky, Ronnie is not panicky,0
+Yvette is magnificent or Herbert is muscular, neither Yvette is magnificent nor Herbert is muscular,1
+Minnie is obedient or Gloria is bewildered, Minnie is not obedient or Gloria is not bewildered,0
+Belinda is repulsive or Naomi is brave, Belinda is not repulsive and Naomi is not brave,1
+Tyrone is angry or Jane is dazzling, Tyrone is not angry or Jane is not dazzling,0
+Christian is worried or Cassandra is gorgeous, neither Christian is worried nor Cassandra is gorgeous,1
+Ramon is quaint or Zachary is chubby, Ramon is not quaint and Zachary is not chubby,1
+Tracey is agreeable or Derrick is wonderful, Derrick is not wonderful,0
+Judith is itchy or Debra is jolly, Judith is not itchy,0
+Mabel is embarrassed or Olivia is lively, neither Mabel is embarrassed nor Olivia is lively,1
+Sarah is angry or Francisco is itchy, Sarah is not angry or Francisco is not itchy,0
+Billie is nice or Cynthia is silly, Billie is not nice or Cynthia is not silly,0
+Stacey is jealous or Becky is panicky, Stacey is not jealous,0
+Toni is stocky or Kim is thankful, Toni is not stocky or Kim is not thankful,0
+Clifford is flabby or Viola is beautiful, neither Clifford is flabby nor Viola is beautiful,1
+June is ambitious or Brittany is victorious, June is not ambitious and Brittany is not victorious,1
+Nicholas is short or Kathy is plain, Nicholas is not short or Kathy is not plain,0
+Bradley is nice or Roberta is nervous, Bradley is not nice and Roberta is not nervous,1
+Sandra is plump or Dean is fancy, Dean is not fancy,0
+Joe is worried or Neil is handsome, Joe is not worried,0
+John is glamorous or Ross is fancy, John is not glamorous,0
+Misty is gorgeous or Francisco is kind, Misty is not gorgeous and Francisco is not kind,1
+Lula is plump or Mamie is nice, Lula is not plump,0
+Darren is obnoxious or Marshall is faithful, Darren is not obnoxious,0
+Thomas is uptight or Marvin is calm, Thomas is not uptight and Marvin is not calm,1
+Anthony is chubby or Melody is kind, Anthony is not chubby or Melody is not kind,0
+Lauren is nice or Helen is handsome, neither Lauren is nice nor Helen is handsome,1
+Todd is victorious or Blanche is lively, Blanche is not lively,0
+Johnny is beautiful or Cynthia is flabby, Johnny is not beautiful or Cynthia is not flabby,0
+Byron is attractive or Darlene is zealous, neither Byron is attractive nor Darlene is zealous,1
+Robert is thankful or Sarah is lazy, Robert is not thankful or Sarah is not lazy,0
+Sandra is zealous or Lance is fit, Lance is not fit,0
+Jessie is jealous or Clifford is unsightly, Clifford is not unsightly,0
+Jorge is embarrassed or Larry is chubby, Jorge is not embarrassed and Larry is not chubby,1
+Jeremy is clean or Minnie is nice, Jeremy is not clean,0
+Jason is short or Erica is skinny, neither Jason is short nor Erica is skinny,1
+Tyler is gorgeous or James is bald, Tyler is not gorgeous,0
+Edwin is embarrassed or Julio is brave, Julio is not brave,0
+Diana is defeated or Walter is obedient, Diana is not defeated and Walter is not obedient,1
+Heidi is glamorous or Ana is calm, Heidi is not glamorous or Ana is not calm,0
+Joyce is angry or Bobby is attractive, neither Joyce is angry nor Bobby is attractive,1
+Ellen is attractive or Brittany is thankful, neither Ellen is attractive nor Brittany is thankful,1
+Esther is stocky or Ronald is wonderful, neither Esther is stocky nor Ronald is wonderful,1
+Angel is uptight or Deanna is muscular, neither Angel is uptight nor Deanna is muscular,1
+Toni is gentle or Robert is repulsive, Toni is not gentle or Robert is not repulsive,0
+Cora is chubby or Kayla is aggressive, Cora is not chubby and Kayla is not aggressive,1
+Christian is ambitious or Jessie is magnificent, neither Christian is ambitious nor Jessie is magnificent,1
+Melvin is gorgeous or Anthony is unsightly, neither Melvin is gorgeous nor Anthony is unsightly,1
+Angel is panicky or Edwin is fancy, Angel is not panicky and Edwin is not fancy,1
+Earl is mysterious or Christy is shapely, Earl is not mysterious,0
+Nathan is repulsive or Jaime is pitiful, Jaime is not pitiful,0
+Gary is ambitious or Ana is witty, Gary is not ambitious and Ana is not witty,1
+Travis is pitiful or Leonard is thoughtless, Travis is not pitiful or Leonard is not thoughtless,0
+Dawn is brave or Ellen is skinny, Dawn is not brave and Ellen is not skinny,1
+Iris is angry or Eileen is polite, Iris is not angry and Eileen is not polite,1
+Jeff is nervous or Ricardo is long, Jeff is not nervous or Ricardo is not long,0
+Vicki is clean or Herbert is polite, Vicki is not clean and Herbert is not polite,1
+Daniel is muscular or Linda is fit, Daniel is not muscular and Linda is not fit,1
+Bradley is brave or Marcia is skinny, Bradley is not brave and Marcia is not skinny,1
+Emily is glamorous or Jerry is brave, Jerry is not brave,0
+Clarence is fit or Ida is fancy, Clarence is not fit or Ida is not fancy,0
+Stephanie is worried or Esther is handsome, Stephanie is not worried and Esther is not handsome,1
+Andrea is ambitious or Heidi is uptight, Andrea is not ambitious or Heidi is not uptight,0
+Jack is panicky or Robert is muscular, Robert is not muscular,0
+Naomi is agreeable or Jenny is bald, neither Naomi is agreeable nor Jenny is bald,1
+Henry is worried or Gabriel is itchy, Henry is not worried and Gabriel is not itchy,1
+Fred is quaint or Francis is repulsive, Francis is not repulsive,0
+Stanley is scary or Marsha is obedient, Stanley is not scary,0
+Eugene is witty or Miguel is fancy, Eugene is not witty or Miguel is not fancy,0
+Dana is jolly or Marilyn is flabby, Marilyn is not flabby,0
+Roberta is uptight or Harry is gentle, Roberta is not uptight,0
+June is fierce or Rose is mysterious, June is not fierce and Rose is not mysterious,1
+Bobbie is flabby or Shirley is fancy, neither Bobbie is flabby nor Shirley is fancy,1
+Amy is obnoxious or Darren is silly, Amy is not obnoxious and Darren is not silly,1
+Lisa is bewildered or Barry is obedient, Lisa is not bewildered or Barry is not obedient,0
+Deanna is muscular or Jon is attractive, neither Deanna is muscular nor Jon is attractive,1
+Walter is jolly or Michele is unsightly, Michele is not unsightly,0
+Carole is defeated or Donald is worried, neither Carole is defeated nor Donald is worried,1
+Jesse is helpless or Jill is nervous, Jesse is not helpless and Jill is not nervous,1
+Alvin is dazzling or Evelyn is pitiful, Alvin is not dazzling and Evelyn is not pitiful,1
+Heather is helpless or Nicole is uptight, Heather is not helpless and Nicole is not uptight,1
+William is gorgeous or Judy is witty, neither William is gorgeous nor Judy is witty,1
+Clarence is clean or Marilyn is happy, neither Clarence is clean nor Marilyn is happy,1
+Janie is fierce or Melvin is glamorous, Janie is not fierce and Melvin is not glamorous,1
+Jeffery is stocky or Susan is muscular, Susan is not muscular,0
+Eric is faithful or Manuel is gorgeous, Eric is not faithful or Manuel is not gorgeous,0
+Hilda is kind or Ricky is shapely, Hilda is not kind or Ricky is not shapely,0
+Shawn is ambitious or Gail is zealous, Gail is not zealous,0
+Flora is bewildered or Leslie is thoughtless, Flora is not bewildered and Leslie is not thoughtless,1
+Lynn is panicky or Marcia is delightful, Marcia is not delightful,0
+Cassandra is panicky or Frederick is defeated, Frederick is not defeated,0
+Paul is skinny or Genevieve is nervous, Genevieve is not nervous,0
+Michael is defeated or Wesley is nervous, Michael is not defeated or Wesley is not nervous,0
+Audrey is polite or Stephen is defeated, Audrey is not polite and Stephen is not defeated,1
+Carole is drab or Marguerite is ugly, Carole is not drab or Marguerite is not ugly,0
+Renee is brave or Bill is lazy, neither Renee is brave nor Bill is lazy,1
+Miriam is polite or Dwayne is worried, neither Miriam is polite nor Dwayne is worried,1
+Dale is eager or Jill is proud, neither Dale is eager nor Jill is proud,1
+Sandra is ugly or Rachel is helpless, Sandra is not ugly or Rachel is not helpless,0
+Randy is fit or Patrick is delightful, Randy is not fit or Patrick is not delightful,0
+Danny is proud or Lynda is unsightly, Danny is not proud and Lynda is not unsightly,1
+Carla is handsome or Erik is delightful, Carla is not handsome,0
+Amber is victorious or Alfred is handsome, Amber is not victorious and Alfred is not handsome,1
+Keith is calm or Karl is clean, Keith is not calm and Karl is not clean,1
+Esther is delightful or Floyd is plump, Floyd is not plump,0
+Charlene is zealous or Carl is plump, Charlene is not zealous or Carl is not plump,0
+Jessie is silly or Zachary is brave, Jessie is not silly or Zachary is not brave,0
+Ray is shapely or Tracy is gentle, neither Ray is shapely nor Tracy is gentle,1
+Joel is shapely or Megan is kind, Joel is not shapely and Megan is not kind,1
+Natalie is witty or Seth is worried, Natalie is not witty and Seth is not worried,1
+Justin is clumsy or Belinda is ugly, Justin is not clumsy and Belinda is not ugly,1
+Sherri is shapely or Aaron is itchy, Sherri is not shapely and Aaron is not itchy,1
+Alex is gorgeous or Debbie is flabby, Alex is not gorgeous or Debbie is not flabby,0
+Norman is agreeable or Matthew is beautiful, Norman is not agreeable or Matthew is not beautiful,0
+Julia is shapely or Lisa is obnoxious, neither Julia is shapely nor Lisa is obnoxious,1
+Ricky is lively or Guy is proud, Ricky is not lively or Guy is not proud,0
+Brenda is uptight or Vanessa is helpless, neither Brenda is uptight nor Vanessa is helpless,1
+Chad is jolly or Shirley is dazzling, Chad is not jolly and Shirley is not dazzling,1
+Glenda is helpless or Carlos is short, Carlos is not short,0
+Fannie is obnoxious or Ethel is worried, Fannie is not obnoxious or Ethel is not worried,0
+Rodney is attractive or Sidney is victorious, Rodney is not attractive or Sidney is not victorious,0
+Lorraine is defeated or Armando is chubby, Lorraine is not defeated or Armando is not chubby,0
+Gloria is obedient or Molly is witty, Gloria is not obedient or Molly is not witty,0
+Mabel is elegant or Shawn is thankful, neither Mabel is elegant nor Shawn is thankful,1
+Corey is glamorous or Shelley is ugly, Corey is not glamorous,0
+Nicholas is pitiful or Beverly is unsightly, neither Nicholas is pitiful nor Beverly is unsightly,1
+Lisa is jealous or Leslie is long, neither Lisa is jealous nor Leslie is long,1
+Julio is happy or Angela is attractive, Julio is not happy or Angela is not attractive,0
+Lance is glamorous or Floyd is defeated, Lance is not glamorous or Floyd is not defeated,0
+Enrique is bald or Kimberly is shapely, neither Enrique is bald nor Kimberly is shapely,1
+Violet is plump or Jeff is lively, Violet is not plump or Jeff is not lively,0
+Marie is panicky or Tamara is shapely, neither Marie is panicky nor Tamara is shapely,1
+Lydia is itchy or Betty is worried, neither Lydia is itchy nor Betty is worried,1
+Terry is bald or Jean is beautiful, Terry is not bald or Jean is not beautiful,0
+Pauline is happy or Lucille is flabby, neither Pauline is happy nor Lucille is flabby,1
+Todd is clean or Brandon is unkempt, Todd is not clean and Brandon is not unkempt,1
+Shawn is grumpy or Samuel is nervous, neither Shawn is grumpy nor Samuel is nervous,1
+Edwin is calm or Darryl is plump, Edwin is not calm or Darryl is not plump,0
+Bob is itchy or Jesse is attractive, Bob is not itchy or Jesse is not attractive,0
+Kayla is plain or Amelia is worried, Kayla is not plain and Amelia is not worried,1
+Anna is repulsive or Marie is fierce, Marie is not fierce,0
+Jaime is plain or Dana is calm, Jaime is not plain or Dana is not calm,0
+Susan is unsightly or Johnnie is unkempt, Susan is not unsightly or Johnnie is not unkempt,0
+Laura is embarrassed or James is lazy, Laura is not embarrassed and James is not lazy,1
+Stephanie is uptight or Jessie is elegant, neither Stephanie is uptight nor Jessie is elegant,1
+Irma is drab or Brent is jealous, Irma is not drab or Brent is not jealous,0
+Vivian is ugly or Ivan is beautiful, neither Vivian is ugly nor Ivan is beautiful,1
+Tony is scruffy or Jacqueline is angry, neither Tony is scruffy nor Jacqueline is angry,1
+Ella is flabby or Patricia is plump, Ella is not flabby,0
+Scott is faithful or Mario is obnoxious, neither Scott is faithful nor Mario is obnoxious,1
+Chad is mysterious or Keith is thankful, Chad is not mysterious and Keith is not thankful,1
+Zachary is glamorous or Gene is fierce, neither Zachary is glamorous nor Gene is fierce,1
+Yvette is jolly or Lucille is polite, Yvette is not jolly,0
+Matthew is delightful or Kelly is clumsy, Matthew is not delightful or Kelly is not clumsy,0
+Candace is delightful or Amber is wonderful, Candace is not delightful and Amber is not wonderful,1
+Veronica is repulsive or Travis is delightful, Veronica is not repulsive or Travis is not delightful,0
+Donna is thankful or Guadalupe is polite, Donna is not thankful and Guadalupe is not polite,1
+Donald is unkempt or Larry is dazzling, Donald is not unkempt and Larry is not dazzling,1
+George is chubby or Theresa is unkempt, neither George is chubby nor Theresa is unkempt,1
+Cathy is skinny or Clyde is victorious, Cathy is not skinny,0
+Minnie is repulsive or Darryl is lively, Minnie is not repulsive or Darryl is not lively,0
+Sidney is repulsive or Julian is ugly, Sidney is not repulsive and Julian is not ugly,1
+Melody is drab or Tara is bewildered, Melody is not drab and Tara is not bewildered,1
+Beulah is attractive or Brandon is clean, neither Beulah is attractive nor Brandon is clean,1
+Sonia is dazzling or Pedro is helpless, Sonia is not dazzling or Pedro is not helpless,0
+Lauren is mysterious or Ashley is agreeable, Lauren is not mysterious or Ashley is not agreeable,0
+Bryan is kind or Anthony is jolly, Bryan is not kind and Anthony is not jolly,1
+Kathryn is uptight or Angela is aggressive, Kathryn is not uptight,0
+Melinda is clumsy or Jordan is fit, neither Melinda is clumsy nor Jordan is fit,1
+Larry is muscular or Jeanette is flabby, Larry is not muscular or Jeanette is not flabby,0
+Hattie is thoughtless or Rebecca is scruffy, Rebecca is not scruffy,0
+Kathleen is lively or Juan is nice, Kathleen is not lively and Juan is not nice,1
+Howard is kind or Diana is gorgeous, Howard is not kind or Diana is not gorgeous,0
+Jeanette is obnoxious or Stanley is lively, Jeanette is not obnoxious or Stanley is not lively,0
+Anthony is polite or Randall is witty, Anthony is not polite and Randall is not witty,1
+Bernard is fit or Sergio is bald, neither Bernard is fit nor Sergio is bald,1
+Wayne is scruffy or Stacey is agreeable, neither Wayne is scruffy nor Stacey is agreeable,1
+Luz is gentle or Vernon is long, neither Luz is gentle nor Vernon is long,1
+Javier is long or Patricia is ugly, Javier is not long and Patricia is not ugly,1
+Albert is witty or Alice is polite, Albert is not witty or Alice is not polite,0
+Teresa is clumsy or Victor is lively, neither Teresa is clumsy nor Victor is lively,1
+Elmer is chubby or Joyce is embarrassed, Elmer is not chubby or Joyce is not embarrassed,0
+Sherri is polite or Danielle is bald, Sherri is not polite and Danielle is not bald,1
+Scott is lazy or Tracy is drab, Tracy is not drab,0
+Cecilia is dazzling or Monique is clean, Cecilia is not dazzling,0
+Daniel is aggressive or Michelle is chubby, Daniel is not aggressive,0
+Tonya is unkempt or Glenda is long, Glenda is not long,0
+Leslie is aggressive or Tyler is mysterious, Leslie is not aggressive and Tyler is not mysterious,1
+Velma is elegant or Mabel is mysterious, Velma is not elegant or Mabel is not mysterious,0
+Terrance is gentle or Edna is victorious, Terrance is not gentle or Edna is not victorious,0
+Katie is helpless or Raymond is obnoxious, Katie is not helpless and Raymond is not obnoxious,1
+Jean is wonderful or Lola is quaint, Jean is not wonderful and Lola is not quaint,1
+Harvey is eager or Renee is angry, neither Harvey is eager nor Renee is angry,1
+Billy is lively or Jodi is scary, neither Billy is lively nor Jodi is scary,1
+Christopher is delightful or Roger is silly, Christopher is not delightful or Roger is not silly,0
+Eva is drab or Johnnie is victorious, neither Eva is drab nor Johnnie is victorious,1
+Madeline is elegant or William is obedient, Madeline is not elegant and William is not obedient,1
+Eleanor is faithful or Kay is unsightly, Kay is not unsightly,0
+Colleen is short or Lewis is gorgeous, Colleen is not short,0
+Alfred is uptight or Debbie is quaint, Alfred is not uptight and Debbie is not quaint,1
+Tyler is defeated or Deanna is fierce, neither Tyler is defeated nor Deanna is fierce,1
+Dorothy is gentle or William is bald, Dorothy is not gentle and William is not bald,1
+Sam is brave or Wilma is uptight, Sam is not brave or Wilma is not uptight,0
+Darlene is ambitious or Diana is itchy, Darlene is not ambitious and Diana is not itchy,1
+Marsha is repulsive or Elmer is aggressive, neither Marsha is repulsive nor Elmer is aggressive,1
+Danielle is repulsive or Tammy is zealous, Danielle is not repulsive or Tammy is not zealous,0
+Derek is panicky or Mattie is witty, Derek is not panicky or Mattie is not witty,0
+Dana is glamorous or Natasha is brave, Dana is not glamorous and Natasha is not brave,1
+Angela is happy or Kristy is magnificent, neither Angela is happy nor Kristy is magnificent,1
+Salvador is unkempt or Jon is kind, Salvador is not unkempt and Jon is not kind,1
+Christy is angry or Adrian is dazzling, Christy is not angry and Adrian is not dazzling,1
+Misty is dazzling or Tyler is ambitious, Misty is not dazzling and Tyler is not ambitious,1
+Kim is handsome or Nancy is calm, Nancy is not calm,0
+Delores is clean or Lynn is helpless, Delores is not clean and Lynn is not helpless,1
+Janice is muscular or Linda is quaint, Linda is not quaint,0
+Cathy is gentle or Louise is handsome, neither Cathy is gentle nor Louise is handsome,1
+Hector is pitiful or Eugene is thankful, Hector is not pitiful,0
+Greg is defeated or Jenny is lazy, neither Greg is defeated nor Jenny is lazy,1
+Denise is attractive or Wesley is unsightly, Denise is not attractive or Wesley is not unsightly,0
+Judith is wonderful or Charlotte is obedient, Judith is not wonderful,0
+Nicole is defeated or Reginald is ambitious, Nicole is not defeated or Reginald is not ambitious,0
+Freddie is glamorous or Sharon is eager, neither Freddie is glamorous nor Sharon is eager,1
+Blanche is beautiful or Tamara is scruffy, Blanche is not beautiful or Tamara is not scruffy,0
+Jeremy is aggressive or Bruce is silly, Jeremy is not aggressive and Bruce is not silly,1
+Georgia is ugly or Marcia is aggressive, Georgia is not ugly or Marcia is not aggressive,0
+Peggy is mysterious or Betty is scary, Peggy is not mysterious or Betty is not scary,0
+Brandi is witty or Kristin is pitiful, Brandi is not witty or Kristin is not pitiful,0
+Ruth is wonderful or Patricia is unkempt, Ruth is not wonderful or Patricia is not unkempt,0
+Annie is unsightly or Mattie is muscular, Annie is not unsightly and Mattie is not muscular,1
+Mario is skinny or Gladys is panicky, neither Mario is skinny nor Gladys is panicky,1
+Clarence is happy or Chad is lively, Clarence is not happy,0
+Nathaniel is nice or Sergio is clean, neither Nathaniel is nice nor Sergio is clean,1
+Howard is long or Marion is dazzling, neither Howard is long nor Marion is dazzling,1
+Neil is ugly or Eddie is flabby, neither Neil is ugly nor Eddie is flabby,1
+Carol is attractive or Micheal is ugly, neither Carol is attractive nor Micheal is ugly,1
+Joshua is brave or Billie is victorious, Joshua is not brave and Billie is not victorious,1
+Vincent is embarrassed or Virginia is nice, Vincent is not embarrassed and Virginia is not nice,1
+Brittany is magnificent or Wesley is elegant, Wesley is not elegant,0
+Arlene is elegant or Sabrina is kind, Arlene is not elegant or Sabrina is not kind,0
+Jessie is nervous or Natasha is long, Natasha is not long,0
+Debra is worried or Lance is thoughtless, neither Debra is worried nor Lance is thoughtless,1
+Beatrice is unkempt or Kurt is proud, Beatrice is not unkempt,0
+Delores is dazzling or Andrew is agreeable, Delores is not dazzling,0
+Peggy is attractive or Lloyd is bald, Peggy is not attractive,0
+Russell is jealous or Jonathan is chubby, neither Russell is jealous nor Jonathan is chubby,1
+Jerry is defeated or Louis is short, neither Jerry is defeated nor Louis is short,1
+Troy is short or Edgar is grumpy, Troy is not short and Edgar is not grumpy,1
+Kristin is lively or Beulah is defeated, neither Kristin is lively nor Beulah is defeated,1
+Tiffany is grumpy or Juan is unkempt, Juan is not unkempt,0
+Colleen is lazy or Marie is clumsy, Colleen is not lazy or Marie is not clumsy,0
+Howard is shapely or Luis is helpless, Howard is not shapely and Luis is not helpless,1
+Cody is elegant or Sharon is stocky, Cody is not elegant,0
+Janet is kind or Shannon is thankful, Janet is not kind and Shannon is not thankful,1
+Felix is mysterious or Cathy is angry, Felix is not mysterious or Cathy is not angry,0
+Barry is witty or Lucille is ambitious, Barry is not witty or Lucille is not ambitious,0
+Danielle is happy or Naomi is plump, Danielle is not happy or Naomi is not plump,0
+Russell is grumpy or Kayla is gentle, Russell is not grumpy,0
+Rosa is chubby or Misty is plump, Rosa is not chubby and Misty is not plump,1
+Gene is stocky or Dustin is obnoxious, neither Gene is stocky nor Dustin is obnoxious,1
+Sheryl is fierce or Michele is gentle, Sheryl is not fierce and Michele is not gentle,1
+Nelson is clumsy or Rafael is clean, Nelson is not clumsy or Rafael is not clean,0
+Brenda is ambitious or Rosie is nice, Rosie is not nice,0
+Floyd is uptight or Armando is shapely, Floyd is not uptight and Armando is not shapely,1
+Luis is brave or Amber is grumpy, neither Luis is brave nor Amber is grumpy,1
+Natalie is fit or Jamie is fancy, Natalie is not fit and Jamie is not fancy,1
+Claudia is thoughtless or Carol is quaint, Claudia is not thoughtless or Carol is not quaint,0
+Lula is panicky or Todd is silly, Lula is not panicky,0
+Lance is lively or Joan is long, Lance is not lively and Joan is not long,1
+Alice is glamorous or Jon is clumsy, Alice is not glamorous or Jon is not clumsy,0
+Nathan is handsome or Todd is scary, Nathan is not handsome and Todd is not scary,1
+Josephine is aggressive or Vickie is bald, Vickie is not bald,0
+Guadalupe is nervous or Norma is mysterious, Guadalupe is not nervous or Norma is not mysterious,0
+Kurt is eager or Melinda is clean, Kurt is not eager and Melinda is not clean,1
+Claude is faithful or Freddie is gorgeous, neither Claude is faithful nor Freddie is gorgeous,1
+Jamie is victorious or Lucille is polite, Jamie is not victorious and Lucille is not polite,1
+Julian is plump or Marilyn is clumsy, Julian is not plump or Marilyn is not clumsy,0
+Rosie is aggressive or Olga is agreeable, Rosie is not aggressive or Olga is not agreeable,0
+Jordan is quaint or Toni is drab, Jordan is not quaint and Toni is not drab,1
+Thomas is itchy or Leslie is muscular, Thomas is not itchy and Leslie is not muscular,1
+Alfredo is skinny or Earl is happy, neither Alfredo is skinny nor Earl is happy,1
+Bruce is silly or Agnes is zealous, Agnes is not zealous,0
+Ivan is lively or Megan is polite, neither Ivan is lively nor Megan is polite,1
+Derrick is ambitious or Esther is stocky, Derrick is not ambitious,0
+Howard is embarrassed or Wendy is delightful, neither Howard is embarrassed nor Wendy is delightful,1
+Tyrone is dazzling or Jamie is clean, Tyrone is not dazzling or Jamie is not clean,0
+Maryann is thoughtless or Tiffany is lazy, Maryann is not thoughtless and Tiffany is not lazy,1
+Lynn is magnificent or Melody is aggressive, Lynn is not magnificent or Melody is not aggressive,0
+Ada is dazzling or Claudia is gentle, neither Ada is dazzling nor Claudia is gentle,1
+Bryan is gorgeous or Leona is kind, neither Bryan is gorgeous nor Leona is kind,1
+Holly is wonderful or Kathryn is panicky, Holly is not wonderful,0
+Nicole is stocky or Glenn is panicky, Nicole is not stocky and Glenn is not panicky,1
+Eileen is ambitious or Kristen is zealous, neither Eileen is ambitious nor Kristen is zealous,1
+Stephen is short or Eileen is scruffy, neither Stephen is short nor Eileen is scruffy,1
+Dawn is plump or Clifford is polite, Dawn is not plump or Clifford is not polite,0
+Courtney is proud or Frank is clumsy, Courtney is not proud or Frank is not clumsy,0
+Lori is drab or Beverly is shapely, neither Lori is drab nor Beverly is shapely,1
+Karen is victorious or Dwight is long, Karen is not victorious or Dwight is not long,0
+Carole is eager or Nicholas is silly, neither Carole is eager nor Nicholas is silly,1
+Leslie is proud or Heather is stocky, Leslie is not proud or Heather is not stocky,0
+Bernice is plump or Earl is quaint, Bernice is not plump or Earl is not quaint,0
+Anne is unkempt or Tracey is calm, Anne is not unkempt and Tracey is not calm,1
+Rick is dazzling or Charlene is muscular, Rick is not dazzling and Charlene is not muscular,1
+Duane is plain or Madeline is attractive, neither Duane is plain nor Madeline is attractive,1
+Lynn is nervous or Debra is helpless, neither Lynn is nervous nor Debra is helpless,1
+Joe is drab or Mattie is magnificent, Joe is not drab or Mattie is not magnificent,0
+Jessie is proud or Bill is worried, neither Jessie is proud nor Bill is worried,1
+Gregory is stocky or Eunice is magnificent, neither Gregory is stocky nor Eunice is magnificent,1
+Craig is quaint or Heidi is stocky, neither Craig is quaint nor Heidi is stocky,1
+Harvey is eager or Gerald is faithful, Harvey is not eager or Gerald is not faithful,0
+Candace is agreeable or Bertha is mysterious, neither Candace is agreeable nor Bertha is mysterious,1
+Janet is defeated or Carol is long, Janet is not defeated,0
+Rosa is nice or Jenny is handsome, Rosa is not nice and Jenny is not handsome,1
+Tony is victorious or Jackie is shapely, Tony is not victorious or Jackie is not shapely,0
+Velma is kind or Iris is scruffy, Velma is not kind and Iris is not scruffy,1
+Lee is unsightly or Hattie is delightful, neither Lee is unsightly nor Hattie is delightful,1
+Cassandra is thankful or Alexander is worried, Cassandra is not thankful and Alexander is not worried,1
+Kirk is unsightly or Stacy is calm, Kirk is not unsightly or Stacy is not calm,0
+Alfredo is thankful or Joyce is ugly, Alfredo is not thankful or Joyce is not ugly,0
+Joseph is embarrassed or Madeline is thankful, Joseph is not embarrassed and Madeline is not thankful,1
+Brittany is muscular or Fannie is beautiful, Brittany is not muscular or Fannie is not beautiful,0
+Rose is gentle or Anthony is quaint, Anthony is not quaint,0
+Billy is nervous or Ethel is plain, Billy is not nervous or Ethel is not plain,0
+Richard is gentle or Elmer is drab, Elmer is not drab,0
+Jaime is uptight or Enrique is obnoxious, Jaime is not uptight,0
+Edith is glamorous or Susie is happy, Edith is not glamorous or Susie is not happy,0
+Dora is drab or Norma is repulsive, Dora is not drab and Norma is not repulsive,1
+Daniel is lively or Olivia is unkempt, Daniel is not lively or Olivia is not unkempt,0
+Erin is kind or Terrance is bald, Erin is not kind or Terrance is not bald,0
+Charlene is proud or Lance is obedient, Charlene is not proud,0
+Donald is eager or Monique is thankful, Donald is not eager,0
+Brandon is plump or Roland is dazzling, Brandon is not plump and Roland is not dazzling,1
+Eileen is angry or Adrian is shapely, Eileen is not angry and Adrian is not shapely,1
+Tracy is worried or Kelly is mysterious, Tracy is not worried and Kelly is not mysterious,1
+Claudia is bewildered or Crystal is jolly, Claudia is not bewildered,0
+Kelly is drab or Tiffany is unkempt, neither Kelly is drab nor Tiffany is unkempt,1
+Kyle is helpless or Sonya is polite, Kyle is not helpless or Sonya is not polite,0
+Tracy is scary or Neil is muscular, neither Tracy is scary nor Neil is muscular,1
+Isabel is drab or Tommy is gentle, Isabel is not drab and Tommy is not gentle,1
+Tom is unsightly or Manuel is itchy, Tom is not unsightly or Manuel is not itchy,0
+Veronica is lazy or Stanley is fit, neither Veronica is lazy nor Stanley is fit,1
+Raymond is quaint or Willard is short, Raymond is not quaint and Willard is not short,1
+Edith is grumpy or Courtney is worried, Edith is not grumpy or Courtney is not worried,0
+Inez is happy or Barry is polite, Inez is not happy,0
+Maryann is shapely or Debbie is agreeable, Maryann is not shapely or Debbie is not agreeable,0
+Sherry is witty or Isaac is polite, Sherry is not witty,0
+Anthony is drab or Kent is gorgeous, Kent is not gorgeous,0
+Carrie is obedient or Christina is delightful, Christina is not delightful,0
+Yolanda is shapely or Bessie is thankful, Yolanda is not shapely,0
+Gloria is unkempt or Lewis is eager, neither Gloria is unkempt nor Lewis is eager,1
+Brittany is nervous or Johnny is zealous, Brittany is not nervous and Johnny is not zealous,1
+Bertha is defeated or Miguel is kind, Miguel is not kind,0
+Ada is lively or Sandra is uptight, Ada is not lively or Sandra is not uptight,0
+Janet is worried or Peggy is fancy, neither Janet is worried nor Peggy is fancy,1
+Maryann is eager or Jeff is fit, Maryann is not eager and Jeff is not fit,1
+Ruth is zealous or Blanche is scary, Ruth is not zealous and Blanche is not scary,1
+Tracy is faithful or Heidi is agreeable, Tracy is not faithful or Heidi is not agreeable,0
+Loretta is elegant or Jerry is skinny, neither Loretta is elegant nor Jerry is skinny,1
+Janie is witty or Penny is kind, Penny is not kind,0
+Kent is dazzling or Sandy is fit, Kent is not dazzling and Sandy is not fit,1
+Terry is scruffy or Hilda is chubby, Terry is not scruffy and Hilda is not chubby,1
+Jeremy is unkempt or Bill is polite, Jeremy is not unkempt or Bill is not polite,0
+Lula is short or Guadalupe is ugly, neither Lula is short nor Guadalupe is ugly,1
+Kim is angry or Blanche is repulsive, Kim is not angry or Blanche is not repulsive,0
+Donna is worried or Stacy is defeated, Stacy is not defeated,0
+Randy is zealous or Bernard is pitiful, neither Randy is zealous nor Bernard is pitiful,1
+Cecil is nice or Warren is skinny, Cecil is not nice or Warren is not skinny,0
+Rosemary is obedient or Mark is ambitious, neither Rosemary is obedient nor Mark is ambitious,1
+Roberta is pitiful or Allan is helpless, Roberta is not pitiful,0
+Marlene is nice or Nellie is beautiful, Marlene is not nice and Nellie is not beautiful,1
+Gail is fancy or Jaime is unkempt, neither Gail is fancy nor Jaime is unkempt,1
+Danielle is gentle or Gwendolyn is scruffy, Gwendolyn is not scruffy,0
+Antonio is victorious or Curtis is agreeable, neither Antonio is victorious nor Curtis is agreeable,1
+Molly is stocky or Julie is chubby, neither Molly is stocky nor Julie is chubby,1
+Vickie is agreeable or Ethel is panicky, Vickie is not agreeable,0
+Lois is glamorous or Constance is jolly, Lois is not glamorous or Constance is not jolly,0
+Patricia is calm or Max is clumsy, Max is not clumsy,0
+Curtis is eager or Rosa is nervous, Rosa is not nervous,0
+Elaine is unsightly or Bradley is obnoxious, neither Elaine is unsightly nor Bradley is obnoxious,1
+Russell is stocky or Janet is eager, Russell is not stocky or Janet is not eager,0
+Douglas is fit or Ian is gentle, Douglas is not fit,0
+Priscilla is obnoxious or Glen is thoughtless, Glen is not thoughtless,0
+Lena is proud or Rafael is thankful, Lena is not proud and Rafael is not thankful,1
+Brad is victorious or Carl is jolly, neither Brad is victorious nor Carl is jolly,1
+Roland is zealous or Donna is drab, Roland is not zealous and Donna is not drab,1
+Sheryl is jealous or Julian is victorious, Sheryl is not jealous and Julian is not victorious,1
+Melinda is happy or Susie is obnoxious, neither Melinda is happy nor Susie is obnoxious,1
+Maurice is magnificent or Gene is nice, Gene is not nice,0
+Gina is pitiful or Alma is scary, Gina is not pitiful,0
+Edgar is mysterious or Andre is gentle, Edgar is not mysterious,0
+Isabel is obedient or Karl is uptight, Isabel is not obedient and Karl is not uptight,1
+Richard is elegant or Ben is faithful, Richard is not elegant or Ben is not faithful,0
+Jason is witty or Cynthia is attractive, neither Jason is witty nor Cynthia is attractive,1
+Javier is plump or Andy is happy, neither Javier is plump nor Andy is happy,1
+Edwin is unsightly or Clarence is gentle, neither Edwin is unsightly nor Clarence is gentle,1
+Cory is worried or Ted is kind, neither Cory is worried nor Ted is kind,1
+Brad is handsome or Natasha is flabby, Natasha is not flabby,0
+Gerald is victorious or Miguel is embarrassed, Gerald is not victorious,0
+Hattie is shapely or Margarita is gorgeous, Hattie is not shapely or Margarita is not gorgeous,0
+Grace is calm or Kimberly is clumsy, neither Grace is calm nor Kimberly is clumsy,1
+Cassandra is drab or Amelia is zealous, Cassandra is not drab and Amelia is not zealous,1
+Carmen is witty or Gordon is kind, Carmen is not witty or Gordon is not kind,0
+Franklin is repulsive or Russell is handsome, neither Franklin is repulsive nor Russell is handsome,1
+Inez is clean or Casey is faithful, neither Inez is clean nor Casey is faithful,1
+Jeffrey is scruffy or Marlene is itchy, Jeffrey is not scruffy and Marlene is not itchy,1
+Kathleen is plain or Corey is unsightly, Kathleen is not plain or Corey is not unsightly,0
+Charles is angry or Lula is mysterious, Charles is not angry or Lula is not mysterious,0
+Megan is scruffy or Tammy is elegant, Megan is not scruffy,0
+Darryl is kind or Marshall is angry, Darryl is not kind and Marshall is not angry,1
+Michele is stocky or Iris is fierce, Iris is not fierce,0
+Casey is unsightly or Jason is victorious, neither Casey is unsightly nor Jason is victorious,1
+Patricia is defeated or Suzanne is fit, Patricia is not defeated and Suzanne is not fit,1
+Lori is obnoxious or Katherine is thoughtless, neither Lori is obnoxious nor Katherine is thoughtless,1
+Jeffrey is uptight or Inez is zealous, Jeffrey is not uptight or Inez is not zealous,0
+Cecil is witty or Jennifer is dazzling, Cecil is not witty or Jennifer is not dazzling,0
+Victoria is bewildered or Alvin is drab, Victoria is not bewildered or Alvin is not drab,0
+Marcus is jealous or Howard is fancy, Marcus is not jealous or Howard is not fancy,0
+Mabel is silly or Kirk is fancy, Mabel is not silly or Kirk is not fancy,0
+Edgar is thankful or Brandi is brave, Edgar is not thankful and Brandi is not brave,1
+Marguerite is thoughtless or Francisco is beautiful, neither Marguerite is thoughtless nor Francisco is beautiful,1
+Andrew is delightful or Kathryn is unkempt, neither Andrew is delightful nor Kathryn is unkempt,1
+Sharon is lively or Susie is bald, Sharon is not lively and Susie is not bald,1
+Inez is chubby or Mathew is clean, Inez is not chubby and Mathew is not clean,1
+Joan is magnificent or Terri is aggressive, neither Joan is magnificent nor Terri is aggressive,1
+Opal is chubby or Sonia is flabby, Opal is not chubby or Sonia is not flabby,0
+Jamie is dazzling or Jacqueline is glamorous, neither Jamie is dazzling nor Jacqueline is glamorous,1
+Leroy is obedient or Martin is short, neither Leroy is obedient nor Martin is short,1
+Don is nice or Melissa is lively, Don is not nice or Melissa is not lively,0
+Clarence is lazy or Debbie is mysterious, Debbie is not mysterious,0
+Kevin is kind or Jeffrey is gentle, Jeffrey is not gentle,0
+Stella is long or Ray is scary, Stella is not long and Ray is not scary,1
+Sonya is long or Pedro is plain, Sonya is not long,0
+Michael is zealous or Adam is gorgeous, neither Michael is zealous nor Adam is gorgeous,1
+Tom is lazy or Ellen is obnoxious, Tom is not lazy and Ellen is not obnoxious,1
+Lena is magnificent or Dolores is victorious, Lena is not magnificent and Dolores is not victorious,1
+Lena is bewildered or Bradley is happy, neither Lena is bewildered nor Bradley is happy,1
+Leo is plain or Roger is unkempt, Leo is not plain,0
+Tom is chubby or Holly is muscular, neither Tom is chubby nor Holly is muscular,1
+Minnie is plump or Lucy is defeated, Minnie is not plump or Lucy is not defeated,0
+Shirley is clean or Denise is worried, Denise is not worried,0
+Ruben is calm or Lucy is gentle, Ruben is not calm or Lucy is not gentle,0
+Vicki is polite or Nina is ambitious, neither Vicki is polite nor Nina is ambitious,1
+Ethel is wonderful or Bernard is helpless, Ethel is not wonderful or Bernard is not helpless,0
+Henry is calm or Derek is fancy, Henry is not calm,0
+Penny is uptight or Edward is grumpy, Edward is not grumpy,0
+Antoinette is uptight or Rosie is stocky, neither Antoinette is uptight nor Rosie is stocky,1
+Kay is skinny or Melinda is jealous, Melinda is not jealous,0
+Audrey is gorgeous or Cecilia is jolly, Cecilia is not jolly,0
+Jenny is grumpy or Tanya is shapely, Jenny is not grumpy and Tanya is not shapely,1
+Jill is shapely or Adam is proud, Jill is not shapely and Adam is not proud,1
+Loretta is brave or Felicia is faithful, neither Loretta is brave nor Felicia is faithful,1
+Neil is agreeable or Timothy is unkempt, Neil is not agreeable or Timothy is not unkempt,0
+Kristi is victorious or Doris is obedient, neither Kristi is victorious nor Doris is obedient,1
+Danny is fit or Brandy is chubby, Danny is not fit and Brandy is not chubby,1
+Edith is itchy or Margarita is brave, Edith is not itchy and Margarita is not brave,1
+Kristine is clean or Vera is thankful, Kristine is not clean and Vera is not thankful,1
+Casey is obedient or Lloyd is jolly, neither Casey is obedient nor Lloyd is jolly,1
+Candace is lively or Lynn is embarrassed, neither Candace is lively nor Lynn is embarrassed,1
+Jodi is shapely or Mae is aggressive, neither Jodi is shapely nor Mae is aggressive,1
+Michele is fancy or Ann is gorgeous, Michele is not fancy or Ann is not gorgeous,0
+Nancy is fancy or Richard is obedient, Richard is not obedient,0
+Jordan is pitiful or Willard is itchy, Jordan is not pitiful and Willard is not itchy,1
+Justin is silly or Billie is clumsy, Justin is not silly and Billie is not clumsy,1
+Isaac is helpless or Antonio is proud, Isaac is not helpless or Antonio is not proud,0
+Nelson is dazzling or Teresa is repulsive, neither Nelson is dazzling nor Teresa is repulsive,1
+Debbie is calm or Barbara is polite, Debbie is not calm or Barbara is not polite,0
+Maxine is polite or Danny is embarrassed, neither Maxine is polite nor Danny is embarrassed,1
+Arthur is polite or Danny is bewildered, neither Arthur is polite nor Danny is bewildered,1
+Angie is ugly or Frances is clumsy, Angie is not ugly or Frances is not clumsy,0
+Arthur is bald or Barry is repulsive, neither Arthur is bald nor Barry is repulsive,1
+Harry is defeated or Lola is jolly, neither Harry is defeated nor Lola is jolly,1
+Ron is happy or Milton is uptight, Ron is not happy or Milton is not uptight,0
+Joe is beautiful or Marsha is wonderful, Marsha is not wonderful,0
+Leo is angry or Andre is mysterious, Leo is not angry and Andre is not mysterious,1
+Gwendolyn is delightful or Lee is nice, Gwendolyn is not delightful or Lee is not nice,0
+Wesley is drab or Rene is silly, Wesley is not drab or Rene is not silly,0
+Kristin is fit or Elsie is kind, Kristin is not fit and Elsie is not kind,1
+Anna is faithful or Molly is stocky, Anna is not faithful or Molly is not stocky,0
+Shelly is embarrassed or Keith is happy, Shelly is not embarrassed and Keith is not happy,1
+Crystal is happy or Yvonne is ambitious, Crystal is not happy or Yvonne is not ambitious,0
+Earl is jealous or Harry is fierce, Earl is not jealous and Harry is not fierce,1
+Everett is magnificent or Elaine is fit, Elaine is not fit,0
+Marjorie is calm or Glenda is angry, Marjorie is not calm,0
+Vincent is victorious or Catherine is clean, Vincent is not victorious and Catherine is not clean,1
+Lonnie is gorgeous or Kelly is scruffy, Lonnie is not gorgeous and Kelly is not scruffy,1
+Vera is agreeable or Gloria is worried, Vera is not agreeable and Gloria is not worried,1
+Debra is skinny or Shawn is shapely, Debra is not skinny and Shawn is not shapely,1
+Pearl is clean or Amber is eager, Pearl is not clean,0
+Julio is thankful or Christy is uptight, Julio is not thankful and Christy is not uptight,1
+Ricky is clumsy or Earl is happy, neither Ricky is clumsy nor Earl is happy,1
+Elmer is jealous or Regina is victorious, Elmer is not jealous and Regina is not victorious,1
+Debra is ambitious or Irma is aggressive, Debra is not ambitious and Irma is not aggressive,1
+Hector is handsome or Lindsey is muscular, Hector is not handsome and Lindsey is not muscular,1
+Ida is ugly or Francisco is scary, neither Ida is ugly nor Francisco is scary,1
+Darrell is quaint or Charles is attractive, Darrell is not quaint and Charles is not attractive,1
+Agnes is calm or Jerome is handsome, neither Agnes is calm nor Jerome is handsome,1
+Heidi is skinny or Joel is obedient, Heidi is not skinny and Joel is not obedient,1
+Angie is fit or Richard is chubby, Angie is not fit or Richard is not chubby,0
+Lucille is shapely or Sabrina is unsightly, Lucille is not shapely and Sabrina is not unsightly,1
+Jamie is angry or Edith is uptight, Jamie is not angry,0
+Benjamin is proud or Morris is polite, neither Benjamin is proud nor Morris is polite,1
+Bessie is aggressive or Chris is gorgeous, Bessie is not aggressive or Chris is not gorgeous,0
+Harvey is happy or Walter is proud, neither Harvey is happy nor Walter is proud,1
+Tammy is calm or Ada is chubby, Tammy is not calm,0
+Wendy is gorgeous or Vickie is worried, Wendy is not gorgeous or Vickie is not worried,0
+Frank is plump or Audrey is kind, Audrey is not kind,0
+Franklin is happy or Gail is grumpy, Franklin is not happy and Gail is not grumpy,1
+Kristy is thankful or Luis is clumsy, Luis is not clumsy,0
+Shawn is polite or Jordan is long, neither Shawn is polite nor Jordan is long,1
+Danny is happy or Mitchell is silly, Danny is not happy or Mitchell is not silly,0
+Bryan is pitiful or Claire is plump, neither Bryan is pitiful nor Claire is plump,1
+Edna is muscular or Reginald is silly, Edna is not muscular or Reginald is not silly,0
+Kristin is obedient or Francis is thoughtless, Kristin is not obedient or Francis is not thoughtless,0
+Diana is fancy or Eunice is uptight, Eunice is not uptight,0
+Herbert is glamorous or Beatrice is fancy, neither Herbert is glamorous nor Beatrice is fancy,1
+Molly is nice or Genevieve is aggressive, neither Molly is nice nor Genevieve is aggressive,1
+Courtney is skinny or Clara is polite, neither Courtney is skinny nor Clara is polite,1
+Kay is angry or Anthony is repulsive, Kay is not angry or Anthony is not repulsive,0
+Vivian is clean or Alberta is flabby, Vivian is not clean and Alberta is not flabby,1
+Vicki is gorgeous or Christina is delightful, Vicki is not gorgeous and Christina is not delightful,1
+Penny is nice or Patsy is lively, Penny is not nice or Patsy is not lively,0
+Ida is jealous or Alberto is elegant, Ida is not jealous or Alberto is not elegant,0
+Karl is attractive or Madeline is uptight, Karl is not attractive,0
+Doris is brave or Lucille is bald, neither Doris is brave nor Lucille is bald,1
+Edward is scruffy or Albert is scary, neither Edward is scruffy nor Albert is scary,1
+Ronnie is aggressive or Warren is clumsy, Ronnie is not aggressive and Warren is not clumsy,1
+Lori is nice or Warren is thankful, Lori is not nice or Warren is not thankful,0
+Judith is nice or Anthony is chubby, Judith is not nice and Anthony is not chubby,1
+Antoinette is calm or Blanche is drab, Antoinette is not calm,0
+Christian is faithful or Dennis is repulsive, Christian is not faithful,0
+Rick is pitiful or Cathy is angry, neither Rick is pitiful nor Cathy is angry,1
+Bob is muscular or Yvette is clean, Bob is not muscular,0
+Marcia is silly or Melanie is thoughtless, Melanie is not thoughtless,0
+Gene is attractive or Lydia is panicky, Gene is not attractive and Lydia is not panicky,1
+Terry is uptight or Guadalupe is scruffy, Terry is not uptight or Guadalupe is not scruffy,0
+Kirk is bewildered or Vicki is kind, neither Kirk is bewildered nor Vicki is kind,1
+Terrance is handsome or Kathleen is witty, Kathleen is not witty,0
+Esther is jolly or Bryan is ugly, Esther is not jolly and Bryan is not ugly,1
+Sean is panicky or Ronnie is pitiful, Ronnie is not pitiful,0
+Stephen is itchy or Judith is embarrassed, Stephen is not itchy or Judith is not embarrassed,0
+Wilma is eager or Pauline is embarrassed, Wilma is not eager and Pauline is not embarrassed,1
+Janice is jolly or Kristi is panicky, neither Janice is jolly nor Kristi is panicky,1
+Barry is witty or Gary is gentle, Barry is not witty and Gary is not gentle,1
+Darlene is skinny or Kim is shapely, neither Darlene is skinny nor Kim is shapely,1
+Darrell is bewildered or Howard is nervous, neither Darrell is bewildered nor Howard is nervous,1
+Claudia is panicky or Madeline is lazy, neither Claudia is panicky nor Madeline is lazy,1
+Cassandra is handsome or Rafael is attractive, neither Cassandra is handsome nor Rafael is attractive,1
+Maryann is wonderful or Rosie is attractive, neither Maryann is wonderful nor Rosie is attractive,1
+Pauline is drab or Jenny is glamorous, Jenny is not glamorous,0
+Gordon is beautiful or Carla is attractive, Gordon is not beautiful or Carla is not attractive,0
+Martin is dazzling or Morris is scruffy, Martin is not dazzling,0
+Jennifer is gorgeous or Chris is elegant, neither Jennifer is gorgeous nor Chris is elegant,1
+Kristina is scary or Margaret is plain, neither Kristina is scary nor Margaret is plain,1
+Luis is mysterious or Sheila is obedient, Luis is not mysterious,0
+Carrie is jealous or Cindy is nice, Carrie is not jealous or Cindy is not nice,0
+Lynda is calm or Florence is drab, Lynda is not calm,0
+William is panicky or Gloria is repulsive, William is not panicky,0
+Jane is victorious or Luz is jealous, neither Jane is victorious nor Luz is jealous,1
+Ross is skinny or Brandi is beautiful, Brandi is not beautiful,0
+Alicia is clean or Bob is happy, neither Alicia is clean nor Bob is happy,1
+Duane is repulsive or Earl is flabby, Duane is not repulsive or Earl is not flabby,0
+Mario is polite or Eric is ambitious, Mario is not polite or Eric is not ambitious,0
+Ramona is elegant or Eva is victorious, Ramona is not elegant and Eva is not victorious,1
+Angie is bald or Shane is gentle, Angie is not bald,0
+Dean is jealous or Clayton is ugly, Dean is not jealous or Clayton is not ugly,0
+Clarence is fancy or Micheal is uptight, Clarence is not fancy and Micheal is not uptight,1
+Craig is obedient or Marion is stocky, Craig is not obedient,0
+Randy is faithful or Shelly is dazzling, neither Randy is faithful nor Shelly is dazzling,1
+Bobby is delightful or Kathryn is glamorous, Bobby is not delightful and Kathryn is not glamorous,1
+Norman is shapely or Nancy is brave, neither Norman is shapely nor Nancy is brave,1
+Yvette is obnoxious or Lola is muscular, neither Yvette is obnoxious nor Lola is muscular,1
+Constance is attractive or Nina is aggressive, neither Constance is attractive nor Nina is aggressive,1
+Robin is fit or Bonnie is agreeable, Robin is not fit,0
+Milton is aggressive or Elaine is proud, neither Milton is aggressive nor Elaine is proud,1
+Jeffery is victorious or Cynthia is panicky, Jeffery is not victorious and Cynthia is not panicky,1
+Jenny is silly or Elaine is brave, Jenny is not silly and Elaine is not brave,1
+Ted is plain or Jeanne is lively, Ted is not plain,0
+Stacey is scruffy or Darlene is quaint, Stacey is not scruffy and Darlene is not quaint,1
+Isaac is happy or Arnold is uptight, Isaac is not happy and Arnold is not uptight,1
+Michele is repulsive or Misty is lively, Michele is not repulsive and Misty is not lively,1
+Shirley is plain or Mike is polite, neither Shirley is plain nor Mike is polite,1
+Tyrone is lazy or Minnie is gorgeous, neither Tyrone is lazy nor Minnie is gorgeous,1
+Janie is magnificent or Derrick is worried, neither Janie is magnificent nor Derrick is worried,1
+Ann is agreeable or Shawn is plain, Ann is not agreeable or Shawn is not plain,0
+Billie is ugly or Tracy is muscular, neither Billie is ugly nor Tracy is muscular,1
+Roger is happy or Alison is clean, Roger is not happy or Alison is not clean,0
+Karl is gorgeous or Rick is fit, Karl is not gorgeous and Rick is not fit,1
+Cynthia is magnificent or Crystal is gorgeous, neither Cynthia is magnificent nor Crystal is gorgeous,1
+Lillian is aggressive or Kelly is unsightly, neither Lillian is aggressive nor Kelly is unsightly,1
+Leslie is beautiful or Derrick is drab, neither Leslie is beautiful nor Derrick is drab,1
+Darren is mysterious or Kevin is polite, Kevin is not polite,0
+Priscilla is helpless or Pedro is agreeable, Pedro is not agreeable,0
+Eduardo is drab or Howard is jolly, Eduardo is not drab and Howard is not jolly,1
+Tina is unkempt or Holly is pitiful, Tina is not unkempt and Holly is not pitiful,1
+Johnnie is delightful or Jill is itchy, Johnnie is not delightful or Jill is not itchy,0
+Kent is repulsive or Carolyn is fancy, Kent is not repulsive and Carolyn is not fancy,1
+Anthony is repulsive or Veronica is ugly, Anthony is not repulsive,0
+Marion is itchy or Alice is drab, Alice is not drab,0
+Sergio is unsightly or Jesse is grumpy, Sergio is not unsightly and Jesse is not grumpy,1
+Kyle is scary or Kristy is embarrassed, Kristy is not embarrassed,0
+Kevin is wonderful or Albert is gorgeous, Kevin is not wonderful and Albert is not gorgeous,1
+Audrey is skinny or Dora is repulsive, neither Audrey is skinny nor Dora is repulsive,1
+Kristy is helpless or Claudia is aggressive, Kristy is not helpless or Claudia is not aggressive,0
+Billie is clumsy or Stacy is bald, Billie is not clumsy or Stacy is not bald,0
+Debra is victorious or Brandy is ambitious, Debra is not victorious or Brandy is not ambitious,0
+Beverly is proud or Bonnie is glamorous, Beverly is not proud,0
+Sharon is beautiful or Luz is clean, Luz is not clean,0
+Curtis is shapely or Kimberly is helpless, Curtis is not shapely or Kimberly is not helpless,0
+Connie is thankful or Terry is angry, Connie is not thankful and Terry is not angry,1
+Lester is panicky or Lee is nervous, Lee is not nervous,0
+Earl is clean or Kelly is fancy, neither Earl is clean nor Kelly is fancy,1
+Heidi is gentle or Darlene is plain, Heidi is not gentle and Darlene is not plain,1
+Marsha is uptight or Jason is panicky, neither Marsha is uptight nor Jason is panicky,1
+Maggie is quaint or Annie is defeated, Maggie is not quaint,0
+Sheila is worried or Jennifer is happy, Sheila is not worried and Jennifer is not happy,1
+Mabel is itchy or Manuel is helpless, Manuel is not helpless,0
+Sharon is bald or Greg is beautiful, Sharon is not bald or Greg is not beautiful,0
+Anita is happy or Lola is magnificent, Anita is not happy or Lola is not magnificent,0
+Rosemary is worried or Sean is elegant, neither Rosemary is worried nor Sean is elegant,1
+Geraldine is muscular or Irma is wonderful, Geraldine is not muscular or Irma is not wonderful,0
+Sherry is panicky or Claire is scruffy, Sherry is not panicky and Claire is not scruffy,1
+Ruth is mysterious or Lydia is flabby, Ruth is not mysterious,0
+Kristina is flabby or Gwendolyn is beautiful, Kristina is not flabby or Gwendolyn is not beautiful,0
+Agnes is zealous or Paul is unsightly, Paul is not unsightly,0
+Michele is polite or Sam is wonderful, Michele is not polite or Sam is not wonderful,0
+Bobbie is victorious or Jonathan is proud, neither Bobbie is victorious nor Jonathan is proud,1
+Frederick is nice or Kim is magnificent, Frederick is not nice and Kim is not magnificent,1
+Tara is chubby or Jared is witty, Jared is not witty,0
+Juanita is kind or Louis is glamorous, Juanita is not kind and Louis is not glamorous,1
+Nellie is silly or Carol is attractive, Nellie is not silly and Carol is not attractive,1
+Ruth is skinny or Madeline is bewildered, neither Ruth is skinny nor Madeline is bewildered,1
+Bobby is delightful or Karl is stocky, Bobby is not delightful or Karl is not stocky,0
+Mildred is fierce or Sara is grumpy, neither Mildred is fierce nor Sara is grumpy,1
+Daisy is zealous or Patsy is scary, neither Daisy is zealous nor Patsy is scary,1
+Eduardo is zealous or Clyde is grumpy, neither Eduardo is zealous nor Clyde is grumpy,1
+Susie is itchy or Angela is calm, Angela is not calm,0

@@ -1,0 +1,1001 @@
+sentence1,sentence2,label
+karen has visited bucharest and karen has visited oradea,karen didn t visit oradea,1
+fannie has traveled to slobozia and fannie has traveled to dej,colleen didn t travel to slobozia,0
+calvin has visited tulcea and calvin has visited timisoara,leo didn t visit timisoara,0
+melvin has traveled to blaj and melvin has traveled to vaslui,melvin didn t travel to blaj,1
+philip went to arad and dana went to arad,dana didn t go to arad,1
+wesley has traveled to vaslui and walter has traveled to vaslui,walter didn t travel to vaslui,1
+blanche has visited dej and tanya has visited dej,kathryn didn t visit dej,0
+nathaniel has traveled to vaslui and nathaniel has traveled to arad,nathaniel didn t travel to reghin,0
+raymond went to hunedoara and scott went to hunedoara,raymond didn t go to hunedoara,1
+glenda has traveled to bucharest and roland has traveled to bucharest,margie didn t travel to bucharest,0
+roy has traveled to timisoara and roy has traveled to deva,roy didn t travel to deva,1
+gary has visited mangalia and donna has visited mangalia,terri didn t visit mangalia,0
+frances has visited baia mare and marshall has visited baia mare,jodi didn t visit baia mare,0
+nathaniel went to oradea and dale went to oradea,dale didn t go to oradea,1
+jo has traveled to baia mare and jo has traveled to hunedoara,jo didn t travel to baia mare,1
+marsha has visited reghin and marsha has visited hunedoara,marsha didn t visit reghin,1
+sherri has traveled to reghin and constance has traveled to reghin,constance didn t travel to reghin,1
+antoinette went to slobozia and antoinette went to craiova,antoinette didn t go to slobozia,1
+jorge went to baia mare and rose went to baia mare,casey didn t go to baia mare,0
+marion has traveled to slatina and marion has traveled to lugoj,terry didn t travel to slatina,0
+mario went to slatina and mario went to arad,mario didn t go to tulcea,0
+olivia has traveled to timisoara and jodi has traveled to timisoara,suzanne didn t travel to timisoara,0
+constance has visited timisoara and constance has visited blaj,constance didn t visit timisoara,1
+zachary went to mangalia and joann went to mangalia,zachary didn t go to mangalia,1
+maxine went to turda and jessie went to turda,jessie didn t go to cluj napoca,0
+glenda has traveled to arad and glenda has traveled to reghin,glenda didn t travel to reghin,1
+natasha has visited timisoara and madeline has visited timisoara,madeline didn t visit timisoara,1
+penny has visited slobozia and penny has visited bucharest,bonnie didn t visit slobozia,0
+molly went to lugoj and leon went to lugoj,leon didn t go to lugoj,1
+terrence went to giurgiu and robert went to giurgiu,veronica didn t go to giurgiu,0
+wendy went to oradea and iris went to oradea,wendy didn t go to vaslui,0
+maggie went to bucharest and maggie went to slatina,maggie didn t go to slatina,1
+rose has visited tulcea and rose has visited hunedoara,rose didn t visit hunedoara,1
+courtney has visited hunedoara and alice has visited hunedoara,bill didn t visit hunedoara,0
+alex has traveled to dej and gertrude has traveled to dej,alex didn t travel to dej,1
+jared has visited slobozia and misty has visited slobozia,misty didn t visit reghin,0
+daryl has traveled to bucharest and daryl has traveled to slatina,eduardo didn t travel to bucharest,0
+don went to tulcea and lee went to tulcea,don didn t go to tulcea,0
+cory has visited turda and cory has visited timisoara,cory didn t visit tulcea,0
+brett has visited blaj and everett has visited blaj,brett didn t visit vaslui,0
+glen has visited bucharest and bessie has visited bucharest,bessie didn t visit bucharest,1
+ronnie has visited blaj and ronnie has visited vaslui,ronnie didn t visit blaj,1
+alberto has visited lugoj and alberto has visited bucharest,alberto didn t visit bucharest,1
+harold has visited vaslui and andre has visited vaslui,andre didn t visit vaslui,1
+brad has visited bucharest and brad has visited mangalia,lauren didn t visit bucharest,0
+milton went to tulcea and milton went to turda,milton didn t go to tulcea,1
+allison has visited giurgiu and allison has visited mangalia,allison didn t visit giurgiu,1
+bobbie has traveled to reghin and bobbie has traveled to bucharest,bobbie didn t travel to reghin,1
+candice has visited oradea and cora has visited oradea,cora didn t visit blaj,0
+earl has traveled to lugoj and earl has traveled to slatina,earl didn t travel to slatina,1
+rafael went to blaj and wayne went to blaj,rafael didn t go to blaj,1
+cecil went to cluj napoca and cecil went to slobozia,leslie didn t go to cluj napoca,0
+virginia has visited bucharest and courtney has visited bucharest,virginia didn t visit blaj,0
+phyllis has visited lugoj and phyllis has visited turda,phyllis didn t visit arad,0
+danielle has visited mangalia and danielle has visited arad,danielle didn t visit arad,1
+rodney has traveled to slatina and rodney has traveled to giurgiu,rodney didn t travel to bucharest,0
+verna has traveled to bucharest and verna has traveled to dej,verna didn t travel to hunedoara,0
+vera went to slatina and candice went to slatina,vera didn t go to slatina,1
+marc went to cluj napoca and naomi went to cluj napoca,marc didn t go to giurgiu,0
+mae has visited dej and mae has visited deva,mae didn t visit deva,1
+cathy has traveled to blaj and cathy has traveled to oradea,amanda didn t travel to blaj,0
+dawn has visited giurgiu and dawn has visited baia mare,teresa didn t visit giurgiu,0
+donna has traveled to vaslui and donna has traveled to mangalia,donna didn t travel to vaslui,1
+beverly went to reghin and beverly went to craiova,beverly didn t go to craiova,1
+carl has visited timisoara and angie has visited timisoara,carl didn t visit timisoara,1
+alice went to slatina and alice went to reghin,alice didn t go to slatina,1
+olivia has visited slatina and amy has visited slatina,olivia didn t visit slatina,1
+blanche has visited slobozia and blanche has visited slatina,blanche didn t visit slatina,1
+nathaniel went to craiova and nathaniel went to cluj napoca,nathaniel didn t go to craiova,1
+iris has visited lugoj and iris has visited slatina,iris didn t visit lugoj,1
+victoria has visited slatina and victoria has visited bucharest,joseph didn t visit bucharest,0
+wesley went to timisoara and wesley went to giurgiu,wesley didn t go to timisoara,1
+hector has visited reghin and leonard has visited reghin,hector didn t visit reghin,1
+amy has visited lugoj and amy has visited oradea,anne didn t visit lugoj,0
+julia went to oradea and jerome went to oradea,carol didn t go to oradea,0
+carole went to mangalia and jessica went to mangalia,carole didn t go to slatina,0
+morris has visited mangalia and morris has visited baia mare,morris didn t visit baia mare,1
+terry has visited slatina and christy has visited slatina,terry didn t visit slatina,1
+sue has traveled to slatina and sue has traveled to mangalia,sue didn t travel to slatina,1
+marcus has visited tulcea and richard has visited tulcea,richard didn t visit cluj napoca,0
+ashley went to deva and ruby went to deva,darlene didn t go to deva,0
+brittany went to lugoj and jessie went to lugoj,jessie didn t go to reghin,0
+rhonda went to timisoara and kevin went to timisoara,rhonda didn t go to deva,0
+carolyn went to arad and jeremy went to arad,jeremy didn t go to arad,1
+kelly went to turda and kelly went to timisoara,kelly didn t go to turda,1
+kristina has traveled to blaj and mae has traveled to blaj,george didn t travel to blaj,0
+mattie went to arad and mattie went to timisoara,mattie didn t go to timisoara,1
+melvin has traveled to oradea and samantha has traveled to oradea,bonnie didn t travel to oradea,0
+pamela has visited arad and isaac has visited arad,isaac didn t visit arad,1
+brandy has visited cluj napoca and brandy has visited deva,brandy didn t visit deva,1
+belinda went to mangalia and belinda went to tulcea,belinda didn t go to tulcea,1
+brandi has traveled to lugoj and brandi has traveled to turda,brandi didn t travel to giurgiu,0
+allison has visited blaj and allison has visited hunedoara,allison didn t visit blaj,1
+ray went to timisoara and ray went to giurgiu,ray didn t go to giurgiu,1
+doris went to timisoara and doris went to bucharest,candace didn t go to bucharest,0
+lloyd has visited arad and hugh has visited arad,lauren didn t visit arad,0
+manuel went to dej and eugene went to dej,eugene didn t go to dej,1
+robert has traveled to mangalia and robert has traveled to reghin,robert didn t travel to mangalia,1
+albert has visited tulcea and albert has visited tulcea,misty didn t visit tulcea,0
+lynda has visited mangalia and nathaniel has visited mangalia,kay didn t visit mangalia,0
+ernest has visited vaslui and ernest has visited mangalia,ernest didn t visit mangalia,1
+lindsey went to slobozia and lindsey went to hunedoara,sarah didn t go to slobozia,0
+gina went to vaslui and gina went to reghin,gina didn t go to vaslui,1
+bill went to timisoara and teresa went to timisoara,teresa didn t go to timisoara,1
+jessie has visited dej and jessie has visited vaslui,jessie didn t visit vaslui,1
+brandi went to reghin and brandi went to lugoj,brandi didn t go to lugoj,1
+mamie has visited mangalia and mamie has visited arad,mamie didn t visit mangalia,1
+becky went to reghin and norma went to reghin,becky didn t go to reghin,1
+eduardo has traveled to turda and eduardo has traveled to dej,eduardo didn t travel to dej,1
+jeremy went to tulcea and jeremy went to baia mare,andy didn t go to baia mare,0
+elsie has traveled to craiova and elsie has traveled to lugoj,dolores didn t travel to lugoj,0
+randall has visited lugoj and randall has visited cluj napoca,randall didn t visit lugoj,1
+alan has visited slobozia and wanda has visited slobozia,wanda didn t visit slobozia,1
+paula has traveled to craiova and paula has traveled to oradea,paula didn t travel to craiova,1
+morris has visited lugoj and morris has visited slobozia,morris didn t visit lugoj,1
+priscilla has traveled to mangalia and priscilla has traveled to oradea,priscilla didn t travel to turda,0
+marc went to baia mare and marc went to hunedoara,amber didn t go to baia mare,0
+jack has visited hunedoara and jack has visited lugoj,jack didn t visit lugoj,1
+alex went to cluj napoca and stephanie went to cluj napoca,stephanie didn t go to cluj napoca,1
+ross has traveled to tulcea and ross has traveled to dej,ross didn t travel to dej,1
+jared has traveled to arad and sharon has traveled to arad,ethel didn t travel to arad,0
+melvin has visited cluj napoca and leah has visited cluj napoca,melvin didn t visit cluj napoca,1
+maureen has traveled to blaj and salvador has traveled to blaj,salvador didn t travel to blaj,1
+kathryn has traveled to arad and kathryn has traveled to dej,kathryn didn t travel to arad,1
+annie went to reghin and dana went to reghin,willard didn t go to reghin,0
+leah went to lugoj and leah went to cluj napoca,leah didn t go to lugoj,1
+claude has visited baia mare and claude has visited arad,claude didn t visit baia mare,1
+jeff went to arad and kristi went to arad,jeff didn t go to arad,1
+ted went to hunedoara and ted went to timisoara,ted didn t go to bucharest,0
+gertrude went to cluj napoca and gertrude went to deva,gertrude didn t go to cluj napoca,1
+candice has traveled to oradea and reginald has traveled to oradea,hector didn t travel to oradea,0
+franklin went to vaslui and kent went to vaslui,mark didn t go to vaslui,0
+colleen has visited timisoara and kristi has visited timisoara,kristi didn t visit cluj napoca,0
+ron has traveled to slobozia and darrell has traveled to slobozia,colleen didn t travel to slobozia,0
+ray has visited tulcea and edwin has visited tulcea,theodore didn t visit tulcea,0
+hattie went to cluj napoca and renee went to cluj napoca,tyrone didn t go to cluj napoca,0
+brandon has visited reghin and brandon has visited arad,brandon didn t visit vaslui,0
+june has visited lugoj and june has visited craiova,vernon didn t visit craiova,0
+mary has visited oradea and mary has visited dej,mary didn t visit blaj,0
+alfredo has traveled to dej and alfredo has traveled to cluj napoca,nina didn t travel to dej,0
+gordon went to reghin and gordon went to hunedoara,gordon didn t go to reghin,1
+genevieve has traveled to vaslui and genevieve has traveled to dej,genevieve didn t travel to dej,1
+juan went to giurgiu and juan went to bucharest,juan didn t go to slobozia,0
+jaime went to cluj napoca and jaime went to blaj,jaime didn t go to craiova,0
+greg went to bucharest and greg went to arad,greg didn t go to giurgiu,0
+ramona has visited blaj and ramona has visited oradea,ramona didn t visit lugoj,0
+everett went to deva and sally went to deva,sally didn t go to bucharest,0
+carole has traveled to giurgiu and carole has traveled to craiova,kelly didn t travel to giurgiu,0
+jerome went to turda and jerome went to deva,jerome didn t go to mangalia,0
+margie has traveled to slatina and erika has traveled to slatina,margie didn t travel to baia mare,0
+jason has traveled to vaslui and duane has traveled to vaslui,jason didn t travel to vaslui,1
+julia has traveled to slatina and julia has traveled to cluj napoca,julia didn t travel to turda,0
+isabel has visited reghin and ramon has visited reghin,jane didn t visit reghin,0
+pamela has traveled to giurgiu and pamela has traveled to hunedoara,claudia didn t travel to hunedoara,0
+jesse has traveled to timisoara and jesse has traveled to giurgiu,don didn t travel to timisoara,0
+jason has visited craiova and jason has visited mangalia,carole didn t visit mangalia,0
+billie has visited craiova and billie has visited arad,dean didn t visit arad,0
+sonia went to cluj napoca and jessica went to cluj napoca,clifford didn t go to cluj napoca,0
+nathan has traveled to slobozia and erik has traveled to slobozia,erik didn t travel to slobozia,0
+reginald has traveled to slatina and luis has traveled to slatina,albert didn t travel to slatina,0
+angel has visited timisoara and viola has visited timisoara,viola didn t visit dej,0
+sharon has visited baia mare and david has visited baia mare,david didn t visit baia mare,1
+pearl has visited deva and pearl has visited turda,pearl didn t visit turda,1
+cody went to vaslui and cody went to giurgiu,elmer didn t go to vaslui,0
+megan has traveled to dej and howard has traveled to dej,sherri didn t travel to dej,0
+andre has visited blaj and cecilia has visited blaj,maurice didn t visit blaj,0
+cecilia has traveled to deva and jill has traveled to deva,cecilia didn t travel to deva,1
+sean has visited timisoara and felicia has visited timisoara,sean didn t visit timisoara,1
+rhonda went to slobozia and eddie went to slobozia,eddie didn t go to slobozia,1
+loretta went to lugoj and loretta went to slatina,loretta didn t go to slatina,1
+amber went to lugoj and lena went to lugoj,toni didn t go to lugoj,0
+guadalupe went to vaslui and guadalupe went to reghin,guadalupe didn t go to hunedoara,0
+natasha went to timisoara and natasha went to arad,natasha didn t go to cluj napoca,0
+edward has visited slatina and edward has visited blaj,edward didn t visit timisoara,0
+cathy has visited lugoj and rafael has visited lugoj,ben didn t visit lugoj,0
+mae has visited giurgiu and gilbert has visited giurgiu,vicki didn t visit giurgiu,0
+scott went to bucharest and scott went to arad,alex didn t go to bucharest,0
+tiffany has traveled to arad and armando has traveled to arad,armando didn t travel to arad,1
+randy went to turda and matthew went to turda,matthew didn t go to turda,1
+stacey has visited cluj napoca and stacey has visited blaj,stacey didn t visit lugoj,0
+sylvia went to baia mare and molly went to baia mare,jodi didn t go to baia mare,0
+patrick has visited slatina and patrick has visited timisoara,patrick didn t visit timisoara,1
+bernard has visited arad and bernard has visited craiova,bernard didn t visit arad,1
+donna went to slobozia and donna went to deva,donna didn t go to slobozia,1
+wanda went to lugoj and wanda went to dej,alma didn t go to lugoj,0
+mark has visited arad and suzanne has visited arad,suzanne didn t visit turda,0
+shelly has traveled to bucharest and shelly has traveled to arad,shelly didn t travel to bucharest,1
+raymond has visited hunedoara and bertha has visited hunedoara,lindsay didn t visit hunedoara,0
+janet has traveled to giurgiu and janet has traveled to oradea,zachary didn t travel to giurgiu,0
+brian went to timisoara and kurt went to timisoara,kurt didn t go to deva,0
+willie has visited lugoj and fred has visited lugoj,jerry didn t visit lugoj,0
+gregory has traveled to oradea and viola has traveled to oradea,gregory didn t travel to tulcea,0
+opal has traveled to blaj and hazel has traveled to blaj,beulah didn t travel to blaj,0
+maurice has visited turda and maurice has visited hunedoara,maurice didn t visit lugoj,0
+antonio has traveled to giurgiu and antonio has traveled to timisoara,christy didn t travel to timisoara,0
+clifton went to reghin and clifton went to hunedoara,clifton didn t go to giurgiu,0
+thomas went to oradea and roger went to oradea,roger didn t go to bucharest,0
+randy went to blaj and opal went to blaj,joy didn t go to blaj,0
+kay has traveled to giurgiu and kay has traveled to craiova,kay didn t travel to giurgiu,1
+juanita has traveled to cluj napoca and juanita has traveled to giurgiu,bradley didn t travel to cluj napoca,0
+amy has traveled to tulcea and amy has traveled to oradea,amy didn t travel to oradea,1
+wilma has traveled to reghin and wilma has traveled to slobozia,wilma didn t travel to lugoj,0
+larry has traveled to arad and larry has traveled to slobozia,daryl didn t travel to slobozia,0
+jeanette has visited mangalia and jeanette has visited dej,chad didn t visit mangalia,0
+erika has traveled to mangalia and erika has traveled to slobozia,joseph didn t travel to mangalia,0
+eunice went to turda and lance went to turda,lance didn t go to turda,1
+myrtle went to cluj napoca and henry went to cluj napoca,henry didn t go to cluj napoca,1
+tamara went to cluj napoca and albert went to cluj napoca,tamara didn t go to slatina,0
+sally has visited lugoj and lewis has visited lugoj,melissa didn t visit lugoj,0
+katie has traveled to oradea and katie has traveled to deva,katie didn t travel to deva,1
+raul has traveled to timisoara and raul has traveled to tulcea,raul didn t travel to mangalia,0
+jan has traveled to oradea and jeffrey has traveled to oradea,jeffrey didn t travel to oradea,1
+lance has traveled to deva and lance has traveled to cluj napoca,salvador didn t travel to cluj napoca,0
+patricia has visited slobozia and patricia has visited deva,christina didn t visit slobozia,0
+danielle has traveled to cluj napoca and leslie has traveled to cluj napoca,misty didn t travel to cluj napoca,0
+rosa has visited craiova and rosa has visited deva,ralph didn t visit deva,0
+bradley went to bucharest and jerry went to bucharest,jerry didn t go to baia mare,0
+kristin has visited baia mare and keith has visited baia mare,marian didn t visit baia mare,0
+yvette has traveled to slobozia and edna has traveled to slobozia,edna didn t travel to slobozia,1
+jeanette went to mangalia and jeanette went to timisoara,jeanette didn t go to mangalia,1
+joanne has visited timisoara and hugh has visited timisoara,hugh didn t visit mangalia,0
+ruben has visited lugoj and ruben has visited deva,ruben didn t visit deva,1
+kimberly went to hunedoara and kimberly went to reghin,kimberly didn t go to hunedoara,1
+arlene has traveled to timisoara and lula has traveled to timisoara,janie didn t travel to timisoara,0
+angel has visited craiova and angel has visited bucharest,angel didn t visit craiova,1
+norma has traveled to timisoara and norma has traveled to oradea,norma didn t travel to timisoara,1
+erica went to cluj napoca and kurt went to cluj napoca,kurt didn t go to mangalia,0
+albert went to giurgiu and ramona went to giurgiu,timothy didn t go to giurgiu,0
+mary went to bucharest and gladys went to bucharest,gladys didn t go to bucharest,1
+kent went to giurgiu and kent went to blaj,kent didn t go to giurgiu,1
+micheal has traveled to dej and micheal has traveled to slatina,micheal didn t travel to dej,1
+julio has visited slatina and julio has visited dej,jason didn t visit dej,0
+james has visited blaj and james has visited oradea,heidi didn t visit oradea,0
+edwin went to timisoara and edwin went to lugoj,roberto didn t go to timisoara,0
+anita has traveled to dej and anita has traveled to slobozia,anita didn t travel to dej,1
+walter went to deva and walter went to tulcea,walter didn t go to deva,1
+becky has visited tulcea and jesse has visited tulcea,jesse didn t visit tulcea,1
+francisco has visited cluj napoca and frank has visited cluj napoca,susie didn t visit cluj napoca,0
+tim has traveled to baia mare and tim has traveled to giurgiu,tim didn t travel to vaslui,0
+jessie went to tulcea and kenneth went to tulcea,kenneth didn t go to tulcea,1
+sean has traveled to slatina and dean has traveled to slatina,dean didn t travel to slatina,1
+alvin has visited cluj napoca and alvin has visited oradea,sue didn t visit oradea,0
+elizabeth went to deva and marion went to deva,marion didn t go to tulcea,0
+mattie has traveled to arad and mattie has traveled to lugoj,mattie didn t travel to arad,1
+bob has traveled to mangalia and kevin has traveled to mangalia,kevin didn t travel to dej,0
+lois has visited arad and lois has visited reghin,lois didn t visit arad,1
+rosemary has visited baia mare and rosemary has visited vaslui,rosemary didn t visit vaslui,1
+andrea went to timisoara and claudia went to timisoara,kristine didn t go to timisoara,0
+fred went to vaslui and gladys went to vaslui,fred didn t go to vaslui,1
+kristen has traveled to hunedoara and kristen has traveled to bucharest,kristen didn t travel to hunedoara,1
+janet has visited hunedoara and francisco has visited hunedoara,francisco didn t visit timisoara,0
+martha has traveled to turda and martha has traveled to cluj napoca,seth didn t travel to cluj napoca,0
+theresa has traveled to tulcea and lucy has traveled to tulcea,lucy didn t travel to tulcea,1
+kevin has traveled to hunedoara and william has traveled to hunedoara,william didn t travel to hunedoara,1
+raymond went to dej and rhonda went to dej,nellie didn t go to dej,0
+iris went to timisoara and iris went to blaj,iris didn t go to craiova,0
+vernon has traveled to baia mare and darryl has traveled to baia mare,darryl didn t travel to giurgiu,0
+darlene went to vaslui and anna went to vaslui,anna didn t go to slatina,0
+peggy has visited arad and peggy has visited lugoj,blanche didn t visit lugoj,0
+brandy has traveled to slobozia and iris has traveled to slobozia,brandy didn t travel to slobozia,1
+ruben went to vaslui and ruben went to vaslui,tina didn t go to vaslui,0
+kenneth went to bucharest and carmen went to bucharest,carmen didn t go to bucharest,1
+marc went to lugoj and marc went to dej,marc didn t go to lugoj,1
+tina has traveled to arad and tina has traveled to cluj napoca,tina didn t travel to arad,1
+andre has visited oradea and andre has visited slobozia,andre didn t visit slobozia,1
+vanessa has traveled to cluj napoca and ian has traveled to cluj napoca,ian didn t travel to cluj napoca,1
+laurie went to bucharest and joel went to bucharest,joel didn t go to bucharest,1
+derrick has traveled to bucharest and derrick has traveled to dej,derrick didn t travel to bucharest,1
+glen has visited bucharest and lillie has visited bucharest,glen didn t visit oradea,0
+april has traveled to oradea and patsy has traveled to oradea,patsy didn t travel to oradea,1
+sarah has traveled to oradea and sarah has traveled to tulcea,larry didn t travel to tulcea,0
+lee has visited dej and lee has visited bucharest,lee didn t visit craiova,0
+kim has visited blaj and kim has visited vaslui,kim didn t visit turda,0
+jose has traveled to turda and jose has traveled to slobozia,jose didn t travel to bucharest,0
+janie has traveled to arad and gina has traveled to arad,gina didn t travel to dej,0
+justin has visited arad and justin has visited hunedoara,lisa didn t visit arad,0
+martin has visited slobozia and velma has visited slobozia,velma didn t visit hunedoara,0
+samantha has visited giurgiu and samantha has visited deva,samantha didn t visit craiova,0
+rosie has visited deva and rosie has visited mangalia,rosie didn t visit mangalia,1
+vickie went to slatina and vickie went to vaslui,vickie didn t go to vaslui,1
+donna went to deva and donna went to vaslui,donna didn t go to slatina,0
+jason went to slatina and jason went to hunedoara,ann didn t go to slatina,0
+samuel has traveled to giurgiu and samuel has traveled to timisoara,samuel didn t travel to timisoara,1
+agnes has visited reghin and rose has visited reghin,rose didn t visit dej,0
+gina went to bucharest and gina went to giurgiu,gina didn t go to tulcea,0
+gordon went to mangalia and franklin went to mangalia,gordon didn t go to mangalia,1
+karen went to oradea and tamara went to oradea,tamara didn t go to dej,0
+natasha has visited turda and howard has visited turda,natasha didn t visit turda,1
+belinda went to baia mare and jerome went to baia mare,ken didn t go to baia mare,0
+duane has visited deva and duane has visited craiova,duane didn t visit craiova,1
+harriet has visited cluj napoca and alison has visited cluj napoca,alison didn t visit cluj napoca,1
+deanna has visited giurgiu and deanna has visited slobozia,deanna didn t visit slobozia,1
+jared has traveled to reghin and jared has traveled to blaj,jared didn t travel to blaj,1
+tyrone went to arad and pearl went to arad,pearl didn t go to arad,1
+susan has visited reghin and susan has visited blaj,kayla didn t visit reghin,0
+joann has visited turda and gregory has visited turda,gregory didn t visit turda,1
+melinda has traveled to slatina and melinda has traveled to dej,rita didn t travel to dej,0
+leslie has traveled to bucharest and gilbert has traveled to bucharest,gilbert didn t travel to timisoara,0
+jessica has visited lugoj and jessica has visited oradea,calvin didn t visit oradea,0
+irene went to bucharest and norman went to bucharest,norman didn t go to bucharest,1
+sally has traveled to blaj and sally has traveled to bucharest,steven didn t travel to blaj,0
+neil has visited lugoj and neil has visited baia mare,neil didn t visit lugoj,1
+cory has traveled to giurgiu and cory has traveled to hunedoara,cory didn t travel to giurgiu,1
+beth went to timisoara and jessie went to timisoara,sam didn t go to timisoara,0
+john went to bucharest and dean went to bucharest,ada didn t go to bucharest,0
+lisa went to bucharest and howard went to bucharest,howard didn t go to bucharest,1
+francisco has visited deva and faye has visited deva,faye didn t visit bucharest,0
+sandra has visited bucharest and jacob has visited bucharest,sandra didn t visit bucharest,1
+jean has traveled to giurgiu and oscar has traveled to giurgiu,carl didn t travel to giurgiu,0
+chris has traveled to arad and chris has traveled to mangalia,erika didn t travel to mangalia,0
+fannie has traveled to dej and ethel has traveled to dej,ethel didn t travel to dej,1
+timothy went to dej and michelle went to dej,michelle didn t go to dej,1
+jorge has traveled to mangalia and harry has traveled to mangalia,jorge didn t travel to mangalia,1
+james went to lugoj and james went to cluj napoca,barry didn t go to lugoj,0
+madeline has visited arad and april has visited arad,madeline didn t visit slatina,0
+arlene went to cluj napoca and arlene went to slobozia,arlene didn t go to cluj napoca,1
+jose has visited blaj and janie has visited blaj,amber didn t visit blaj,0
+jessie went to timisoara and jessie went to giurgiu,jaime didn t go to timisoara,0
+kay went to blaj and kay went to mangalia,kay didn t go to mangalia,1
+lynda went to blaj and lynda went to oradea,lynda didn t go to oradea,1
+ken went to bucharest and jan went to bucharest,ken didn t go to bucharest,1
+michael went to slatina and michael went to tulcea,michael didn t go to slatina,1
+anna went to dej and anna went to turda,hector didn t go to dej,0
+lee has traveled to lugoj and lee has traveled to tulcea,lee didn t travel to deva,0
+keith went to slobozia and keith went to mangalia,keith didn t go to hunedoara,0
+gordon has visited timisoara and kim has visited timisoara,gordon didn t visit timisoara,1
+madeline has traveled to slobozia and madeline has traveled to vaslui,madeline didn t travel to bucharest,0
+jennie has visited deva and jennie has visited giurgiu,jennie didn t visit giurgiu,1
+jose went to bucharest and jose went to mangalia,jose didn t go to vaslui,0
+amanda has traveled to slobozia and brent has traveled to slobozia,amanda didn t travel to reghin,0
+sabrina has traveled to lugoj and keith has traveled to lugoj,sabrina didn t travel to lugoj,1
+judy has visited tulcea and judy has visited hunedoara,allen didn t visit hunedoara,0
+bradley went to slobozia and lonnie went to slobozia,lonnie didn t go to slobozia,1
+nathaniel has traveled to deva and nathaniel has traveled to hunedoara,nathaniel didn t travel to hunedoara,1
+armando went to deva and luis went to deva,luis didn t go to deva,1
+christopher went to blaj and kyle went to blaj,christopher didn t go to turda,0
+kathy has traveled to tulcea and kathy has traveled to giurgiu,kathy didn t travel to tulcea,1
+andre went to vaslui and monica went to vaslui,monica didn t go to vaslui,1
+victor went to deva and clayton went to deva,clayton didn t go to vaslui,0
+roberta has traveled to oradea and leroy has traveled to oradea,crystal didn t travel to oradea,0
+mike went to deva and ralph went to deva,ralph didn t go to hunedoara,0
+ken went to dej and ken went to dej,bobby didn t go to dej,0
+alice has visited bucharest and frank has visited bucharest,frank didn t visit vaslui,0
+emily went to reghin and emily went to bucharest,emily didn t go to slobozia,0
+velma went to craiova and stacey went to craiova,velma didn t go to craiova,1
+melinda went to cluj napoca and melinda went to slobozia,melinda didn t go to lugoj,0
+juanita has traveled to vaslui and sonia has traveled to vaslui,shelly didn t travel to vaslui,0
+william has traveled to blaj and molly has traveled to blaj,molly didn t travel to blaj,1
+cindy went to baia mare and joy went to baia mare,joy didn t go to baia mare,1
+carolyn has traveled to craiova and aaron has traveled to craiova,aaron didn t travel to giurgiu,0
+emma has traveled to mangalia and kenneth has traveled to mangalia,emma didn t travel to mangalia,1
+don has traveled to oradea and andrea has traveled to oradea,andrea didn t travel to oradea,1
+marion went to deva and hattie went to deva,ana didn t go to deva,0
+jeanne has traveled to vaslui and jeanne has traveled to hunedoara,jeanne didn t travel to hunedoara,1
+claudia went to timisoara and edward went to timisoara,claudia didn t go to timisoara,1
+timothy went to mangalia and timothy went to timisoara,timothy didn t go to mangalia,1
+steve has visited hunedoara and steve has visited cluj napoca,steve didn t visit cluj napoca,1
+colleen went to oradea and colleen went to mangalia,kristen didn t go to oradea,0
+dennis has traveled to craiova and dennis has traveled to bucharest,dennis didn t travel to bucharest,1
+rita went to arad and rita went to baia mare,angel didn t go to baia mare,0
+lillie has visited slatina and lillie has visited vaslui,lillie didn t visit vaslui,1
+minnie has traveled to turda and jackie has traveled to turda,jackie didn t travel to turda,1
+leroy has visited vaslui and leroy has visited hunedoara,leroy didn t visit hunedoara,1
+mamie has visited blaj and mamie has visited bucharest,mamie didn t visit blaj,1
+duane went to oradea and duane went to lugoj,helen didn t go to lugoj,0
+edward went to timisoara and edward went to baia mare,edward didn t go to blaj,0
+thelma went to giurgiu and jay went to giurgiu,thelma didn t go to giurgiu,1
+fannie has traveled to baia mare and fannie has traveled to lugoj,fannie didn t travel to lugoj,1
+billy has traveled to baia mare and darrell has traveled to baia mare,billy didn t travel to baia mare,1
+alison has visited timisoara and cory has visited timisoara,cory didn t visit deva,0
+leah has visited slobozia and leah has visited timisoara,leah didn t visit slobozia,1
+rebecca has visited reghin and bob has visited reghin,randall didn t visit reghin,0
+ruth went to bucharest and dave went to bucharest,ruth didn t go to arad,0
+andre has traveled to lugoj and jo has traveled to lugoj,jo didn t travel to lugoj,1
+mitchell has visited bucharest and mitchell has visited dej,mitchell didn t visit slobozia,0
+veronica has visited lugoj and iris has visited lugoj,jessie didn t visit lugoj,0
+stephen went to oradea and stephen went to baia mare,stephen didn t go to giurgiu,0
+clifford has traveled to bucharest and clifford has traveled to blaj,sylvia didn t travel to blaj,0
+marlene has traveled to lugoj and luz has traveled to lugoj,marlene didn t travel to lugoj,1
+lonnie has visited baia mare and ben has visited baia mare,dolores didn t visit baia mare,0
+josephine has visited mangalia and allen has visited mangalia,allen didn t visit lugoj,0
+alberto has traveled to tulcea and alberto has traveled to oradea,alberto didn t travel to tulcea,1
+luz has visited slatina and luz has visited hunedoara,francisco didn t visit hunedoara,0
+vivian has visited arad and brittany has visited arad,brittany didn t visit arad,1
+mark has traveled to tulcea and leo has traveled to tulcea,mark didn t travel to tulcea,1
+roland has traveled to cluj napoca and anne has traveled to cluj napoca,anne didn t travel to blaj,0
+marlene has visited hunedoara and marlene has visited blaj,marlene didn t visit cluj napoca,0
+deborah has visited cluj napoca and mathew has visited cluj napoca,carmen didn t visit cluj napoca,0
+dora has traveled to baia mare and betty has traveled to baia mare,jackie didn t travel to baia mare,0
+barry went to slobozia and barry went to baia mare,patsy didn t go to baia mare,0
+todd has traveled to dej and todd has traveled to cluj napoca,jason didn t travel to cluj napoca,0
+bob went to baia mare and gary went to baia mare,gary didn t go to baia mare,1
+eileen has visited blaj and eileen has visited oradea,eileen didn t visit tulcea,0
+terry has visited hunedoara and theresa has visited hunedoara,theresa didn t visit hunedoara,1
+steve went to giurgiu and steve went to hunedoara,steve didn t go to giurgiu,1
+jacqueline has traveled to blaj and toni has traveled to blaj,melissa didn t travel to blaj,0
+eddie went to craiova and annie went to craiova,eddie didn t go to craiova,1
+sherry went to lugoj and sherry went to blaj,sherry didn t go to blaj,1
+byron went to reghin and byron went to tulcea,byron didn t go to reghin,1
+carol went to blaj and joy went to blaj,carol didn t go to deva,0
+beulah went to cluj napoca and timothy went to cluj napoca,beulah didn t go to cluj napoca,1
+alison went to timisoara and alison went to hunedoara,judith didn t go to hunedoara,0
+derrick has visited oradea and charles has visited oradea,ramona didn t visit oradea,0
+victor went to blaj and victor went to hunedoara,victor didn t go to blaj,1
+nancy has visited mangalia and nancy has visited bucharest,nancy didn t visit bucharest,1
+toni has traveled to arad and carl has traveled to arad,toni didn t travel to arad,1
+janie has traveled to turda and duane has traveled to turda,janie didn t travel to blaj,0
+cecilia has visited slobozia and penny has visited slobozia,penny didn t visit slobozia,1
+jerome has visited arad and dana has visited arad,marguerite didn t visit arad,0
+aaron has traveled to giurgiu and aaron has traveled to tulcea,aaron didn t travel to tulcea,1
+micheal went to slobozia and terrance went to slobozia,edward didn t go to slobozia,0
+joshua has visited baia mare and joshua has visited deva,joshua didn t visit deva,1
+michelle has traveled to slobozia and ricky has traveled to slobozia,michelle didn t travel to slobozia,1
+justin has visited deva and justin has visited craiova,delores didn t visit craiova,0
+elizabeth has visited dej and elizabeth has visited timisoara,elizabeth didn t visit arad,0
+nathaniel has traveled to blaj and nellie has traveled to blaj,nellie didn t travel to slobozia,0
+constance went to blaj and constance went to giurgiu,jessica didn t go to giurgiu,0
+becky has traveled to blaj and andre has traveled to blaj,becky didn t travel to bucharest,0
+jeffery has visited blaj and yvonne has visited blaj,hugh didn t visit blaj,0
+marion went to tulcea and everett went to tulcea,marion didn t go to vaslui,0
+gene has traveled to hunedoara and helen has traveled to hunedoara,helen didn t travel to hunedoara,0
+jack has visited oradea and jessie has visited oradea,jessie didn t visit oradea,1
+dave has visited baia mare and mathew has visited baia mare,theodore didn t visit baia mare,0
+lois has traveled to cluj napoca and darlene has traveled to cluj napoca,pedro didn t travel to cluj napoca,0
+brenda has traveled to deva and brenda has traveled to vaslui,ida didn t travel to vaslui,0
+darlene has visited slobozia and darlene has visited timisoara,belinda didn t visit timisoara,0
+rose went to baia mare and vickie went to baia mare,vickie didn t go to giurgiu,0
+arlene has visited baia mare and arlene has visited timisoara,scott didn t visit baia mare,0
+tonya has visited slobozia and tonya has visited mangalia,tonya didn t visit giurgiu,0
+kim has traveled to mangalia and kim has traveled to slobozia,kim didn t travel to slatina,0
+bernard went to hunedoara and dustin went to hunedoara,bernard didn t go to hunedoara,1
+benjamin has visited mangalia and april has visited mangalia,april didn t visit mangalia,1
+kim has visited giurgiu and kim has visited hunedoara,lee didn t visit hunedoara,0
+donald went to bucharest and miriam went to bucharest,miriam didn t go to vaslui,0
+brad has traveled to slatina and maureen has traveled to slatina,brad didn t travel to slatina,1
+rodney went to slobozia and rodney went to slatina,rodney didn t go to deva,0
+leona went to tulcea and leona went to slobozia,leona didn t go to baia mare,0
+kim went to slatina and kim went to slobozia,kim didn t go to tulcea,0
+carole has visited bucharest and carole has visited lugoj,carole didn t visit lugoj,1
+cody has traveled to mangalia and samantha has traveled to mangalia,cody didn t travel to mangalia,1
+roberta went to arad and carla went to arad,roberta didn t go to arad,1
+debra has visited cluj napoca and leona has visited cluj napoca,leona didn t visit cluj napoca,1
+gary went to lugoj and melissa went to lugoj,gary didn t go to lugoj,1
+lorraine has visited slobozia and ana has visited slobozia,ana didn t visit hunedoara,0
+claire has visited deva and claire has visited oradea,claire didn t visit oradea,1
+frances has visited hunedoara and kirk has visited hunedoara,theresa didn t visit hunedoara,0
+wade went to dej and wade went to mangalia,wade didn t go to mangalia,1
+tara went to giurgiu and leonard went to giurgiu,leonard didn t go to giurgiu,1
+ivan has visited mangalia and ivan has visited dej,ivan didn t visit hunedoara,0
+antonio went to slatina and antonio went to dej,antonio didn t go to bucharest,0
+melanie has traveled to timisoara and tommy has traveled to timisoara,melanie didn t travel to timisoara,1
+sonia has visited cluj napoca and sonia has visited slatina,geneva didn t visit slatina,0
+doris has visited tulcea and doris has visited bucharest,doris didn t visit tulcea,1
+harry went to bucharest and harry went to vaslui,harry didn t go to dej,0
+maria went to dej and maria went to hunedoara,maria didn t go to dej,1
+leslie has traveled to lugoj and marcia has traveled to lugoj,marcia didn t travel to oradea,0
+warren has visited craiova and maurice has visited craiova,maurice didn t visit craiova,1
+yvonne has traveled to giurgiu and yvonne has traveled to oradea,yvonne didn t travel to arad,0
+brandy went to hunedoara and brandy went to timisoara,michele didn t go to timisoara,0
+brad has visited reghin and mitchell has visited reghin,jessie didn t visit reghin,0
+dwayne has traveled to arad and dwayne has traveled to tulcea,dwayne didn t travel to arad,1
+mitchell has traveled to lugoj and mitchell has traveled to oradea,mitchell didn t travel to dej,0
+dianne went to timisoara and jason went to timisoara,maxine didn t go to timisoara,0
+elizabeth went to hunedoara and benjamin went to hunedoara,benjamin didn t go to vaslui,0
+sandra has visited giurgiu and sandra has visited tulcea,vivian didn t visit tulcea,0
+melvin has visited slobozia and melvin has visited slatina,melvin didn t visit slobozia,1
+lori has traveled to timisoara and seth has traveled to timisoara,lori didn t travel to dej,0
+ron has visited vaslui and judy has visited vaslui,judy didn t visit vaslui,1
+daisy has visited craiova and jacob has visited craiova,christina didn t visit craiova,0
+nancy has traveled to oradea and aaron has traveled to oradea,nancy didn t travel to oradea,1
+maureen has traveled to tulcea and opal has traveled to tulcea,opal didn t travel to tulcea,1
+victor went to cluj napoca and victor went to craiova,victor didn t go to craiova,1
+wade went to giurgiu and wade went to mangalia,wade didn t go to mangalia,1
+max has traveled to slobozia and max has traveled to bucharest,max didn t travel to mangalia,0
+angela went to reghin and kelly went to reghin,angela didn t go to reghin,1
+marion has visited mangalia and marion has visited vaslui,marion didn t visit dej,0
+jessie has traveled to oradea and carole has traveled to oradea,jessie didn t travel to oradea,1
+jean has visited turda and jean has visited blaj,kurt didn t visit turda,0
+ida has traveled to slatina and ida has traveled to dej,ida didn t travel to dej,1
+beatrice went to turda and jaime went to turda,paula didn t go to turda,0
+craig has traveled to blaj and craig has traveled to arad,craig didn t travel to hunedoara,0
+rosie has visited mangalia and rosie has visited slobozia,phillip didn t visit mangalia,0
+theresa has visited timisoara and valerie has visited timisoara,theresa didn t visit timisoara,1
+deanna has visited bucharest and deanna has visited giurgiu,deanna didn t visit giurgiu,1
+albert has visited vaslui and albert has visited slatina,albert didn t visit oradea,0
+deborah went to craiova and deborah went to vaslui,deborah didn t go to vaslui,1
+erin went to turda and erin went to craiova,erin didn t go to bucharest,0
+lisa has visited slatina and lester has visited slatina,lester didn t visit turda,0
+glenda has traveled to timisoara and mark has traveled to timisoara,kent didn t travel to timisoara,0
+lois has traveled to blaj and alison has traveled to blaj,lois didn t travel to blaj,1
+clifford has traveled to cluj napoca and clifford has traveled to blaj,clifford didn t travel to deva,0
+carl went to craiova and carl went to bucharest,carl didn t go to bucharest,1
+cory has visited reghin and cory has visited slatina,cory didn t visit mangalia,0
+maureen has traveled to cluj napoca and florence has traveled to cluj napoca,florence didn t travel to hunedoara,0
+lucy went to cluj napoca and edgar went to cluj napoca,lucy didn t go to cluj napoca,1
+juanita has visited blaj and lee has visited blaj,juanita didn t visit blaj,1
+kristen has visited oradea and alex has visited oradea,josephine didn t visit oradea,0
+ann has visited slatina and douglas has visited slatina,ann didn t visit slatina,1
+ida has visited timisoara and vivian has visited timisoara,ida didn t visit timisoara,1
+earl has visited blaj and samuel has visited blaj,earl didn t visit vaslui,0
+ana went to craiova and julia went to craiova,julia didn t go to craiova,1
+kathy went to craiova and monique went to craiova,melvin didn t go to craiova,0
+olga went to slatina and lillian went to slatina,lillian didn t go to slatina,1
+eunice has traveled to baia mare and clarence has traveled to baia mare,clarence didn t travel to baia mare,1
+lawrence has traveled to deva and lawrence has traveled to dej,lawrence didn t travel to dej,1
+opal has traveled to cluj napoca and opal has traveled to baia mare,opal didn t travel to baia mare,1
+gregory has traveled to timisoara and virginia has traveled to timisoara,jeff didn t travel to timisoara,0
+tanya went to bucharest and tanya went to lugoj,tanya didn t go to turda,0
+dwayne has visited slobozia and dwayne has visited slatina,lillian didn t visit slatina,0
+travis went to deva and travis went to craiova,travis didn t go to deva,1
+vivian has traveled to vaslui and vivian has traveled to giurgiu,vivian didn t travel to vaslui,1
+melanie went to deva and andre went to deva,andre didn t go to slatina,0
+derrick has visited tulcea and pauline has visited tulcea,derrick didn t visit tulcea,1
+marcia went to baia mare and marcia went to timisoara,marcia didn t go to baia mare,1
+darrell has visited bucharest and darrell has visited lugoj,lynda didn t visit bucharest,0
+jaime has traveled to turda and reginald has traveled to turda,reginald didn t travel to baia mare,0
+george has traveled to vaslui and vanessa has traveled to vaslui,charlie didn t travel to vaslui,0
+nora has traveled to mangalia and edna has traveled to mangalia,nora didn t travel to deva,0
+heidi has visited bucharest and heidi has visited deva,heidi didn t visit bucharest,1
+ann has visited timisoara and ann has visited baia mare,ann didn t visit baia mare,1
+steve went to lugoj and steve went to slobozia,sherry didn t go to slobozia,0
+margie has traveled to oradea and margie has traveled to giurgiu,john didn t travel to oradea,0
+johnnie has visited turda and johnnie has visited timisoara,johnnie didn t visit reghin,0
+herman went to giurgiu and herman went to oradea,herman didn t go to oradea,1
+naomi went to bucharest and jamie went to bucharest,jamie didn t go to bucharest,1
+michelle has traveled to turda and michelle has traveled to tulcea,michelle didn t travel to vaslui,0
+karen has traveled to vaslui and karen has traveled to timisoara,charlene didn t travel to vaslui,0
+jeanette went to turda and jeanette went to dej,jeanette didn t go to dej,1
+terry went to bucharest and terry went to oradea,bill didn t go to oradea,0
+andy went to deva and andy went to arad,roberta didn t go to deva,0
+jack went to slobozia and roberto went to slobozia,molly didn t go to slobozia,0
+harold went to bucharest and isaac went to bucharest,harold didn t go to bucharest,1
+carla went to slatina and carla went to lugoj,carla didn t go to slatina,1
+donna has visited dej and sonya has visited dej,donna didn t visit craiova,0
+brian has visited cluj napoca and lindsay has visited cluj napoca,brian didn t visit cluj napoca,1
+jo has traveled to oradea and jo has traveled to bucharest,jo didn t travel to oradea,1
+rachel has visited giurgiu and rachel has visited bucharest,rachel didn t visit bucharest,1
+kent has visited giurgiu and kent has visited lugoj,kent didn t visit blaj,0
+marc has traveled to giurgiu and donna has traveled to giurgiu,donna didn t travel to giurgiu,1
+travis has visited slobozia and travis has visited dej,travis didn t visit giurgiu,0
+anne has visited lugoj and mark has visited lugoj,mark didn t visit lugoj,1
+helen has traveled to oradea and pearl has traveled to oradea,helen didn t travel to slatina,0
+jodi has visited lugoj and denise has visited lugoj,jodi didn t visit lugoj,1
+darryl went to mangalia and darryl went to cluj napoca,darryl didn t go to mangalia,1
+sylvia went to slatina and laurie went to slatina,michelle didn t go to slatina,0
+sidney went to reghin and sidney went to arad,calvin didn t go to reghin,0
+ryan has visited mangalia and ryan has visited arad,ryan didn t visit arad,1
+julian has visited tulcea and edward has visited tulcea,travis didn t visit tulcea,0
+marion has visited bucharest and marion has visited hunedoara,marion didn t visit dej,0
+kirk has visited oradea and eleanor has visited oradea,gladys didn t visit oradea,0
+vivian has visited hunedoara and vivian has visited oradea,vivian didn t visit oradea,1
+sheila has traveled to slobozia and judy has traveled to slobozia,judy didn t travel to oradea,0
+arthur has visited reghin and roger has visited reghin,maryann didn t visit reghin,0
+crystal has visited slatina and crystal has visited dej,jerome didn t visit dej,0
+marsha has visited deva and eleanor has visited deva,marsha didn t visit hunedoara,0
+carla has traveled to cluj napoca and carla has traveled to blaj,holly didn t travel to blaj,0
+javier has traveled to dej and tammy has traveled to dej,javier didn t travel to dej,1
+lillie went to mangalia and wanda went to mangalia,lillie didn t go to mangalia,1
+leah has visited oradea and cassandra has visited oradea,leah didn t visit oradea,1
+eddie has visited cluj napoca and carla has visited cluj napoca,eddie didn t visit turda,0
+eduardo has visited lugoj and jessica has visited lugoj,phyllis didn t visit lugoj,0
+seth has traveled to giurgiu and enrique has traveled to giurgiu,guadalupe didn t travel to giurgiu,0
+monique has traveled to timisoara and monique has traveled to vaslui,monique didn t travel to timisoara,1
+lena went to bucharest and lena went to craiova,catherine didn t go to craiova,0
+ella has traveled to baia mare and ella has traveled to mangalia,ella didn t travel to baia mare,1
+victoria has visited deva and jordan has visited deva,gertrude didn t visit deva,0
+alberto has traveled to slobozia and angel has traveled to slobozia,angel didn t travel to slobozia,1
+nathaniel has traveled to deva and nathaniel has traveled to timisoara,nathaniel didn t travel to deva,1
+brittany went to hunedoara and brittany went to lugoj,brittany didn t go to lugoj,1
+jennie has visited giurgiu and dora has visited giurgiu,dora didn t visit giurgiu,1
+danielle has traveled to mangalia and dawn has traveled to mangalia,danielle didn t travel to vaslui,0
+patrick has traveled to dej and patrick has traveled to giurgiu,danielle didn t travel to giurgiu,0
+bobbie went to slatina and bobbie went to timisoara,bobbie didn t go to slatina,1
+juan went to giurgiu and leonard went to giurgiu,juan didn t go to giurgiu,1
+sara has visited bucharest and sara has visited slobozia,milton didn t visit bucharest,0
+janet has visited baia mare and janet has visited timisoara,janet didn t visit timisoara,1
+jim has visited reghin and rodney has visited reghin,jim didn t visit arad,0
+jessie has visited blaj and jessie has visited reghin,jeremy didn t visit reghin,0
+byron went to bucharest and terri went to bucharest,terri didn t go to reghin,0
+dustin has traveled to oradea and natasha has traveled to oradea,dustin didn t travel to lugoj,0
+monica went to timisoara and monica went to cluj napoca,vernon didn t go to cluj napoca,0
+jeffrey has visited reghin and laurie has visited reghin,joe didn t visit reghin,0
+brandi went to turda and bobby went to turda,marsha didn t go to turda,0
+jared went to giurgiu and jared went to hunedoara,howard didn t go to giurgiu,0
+melanie has traveled to deva and melanie has traveled to dej,melanie didn t travel to dej,1
+jamie has traveled to mangalia and francis has traveled to mangalia,jamie didn t travel to baia mare,0
+ivan went to baia mare and rosie went to baia mare,ivan didn t go to baia mare,1
+lisa has traveled to deva and adrian has traveled to deva,adrian didn t travel to dej,0
+byron has traveled to deva and darrell has traveled to deva,darrell didn t travel to blaj,0
+derek has traveled to reghin and derek has traveled to mangalia,derek didn t travel to reghin,1
+vincent has traveled to bucharest and vincent has traveled to arad,vincent didn t travel to hunedoara,0
+georgia has traveled to mangalia and cecilia has traveled to mangalia,georgia didn t travel to mangalia,1
+adrian has traveled to baia mare and adrian has traveled to arad,cecilia didn t travel to baia mare,0
+pamela went to slatina and nina went to slatina,pamela didn t go to slatina,1
+yvonne has traveled to vaslui and yvonne has traveled to reghin,yvonne didn t travel to blaj,0
+sonya has traveled to giurgiu and tara has traveled to giurgiu,sonya didn t travel to timisoara,0
+allan went to bucharest and johnnie went to bucharest,johnnie didn t go to bucharest,1
+christopher has visited reghin and claude has visited reghin,christopher didn t visit reghin,1
+blanche went to giurgiu and iris went to giurgiu,blanche didn t go to giurgiu,1
+marie went to turda and kent went to turda,kent didn t go to turda,1
+pauline has visited reghin and kelly has visited reghin,pauline didn t visit reghin,1
+veronica went to bucharest and jared went to bucharest,geneva didn t go to bucharest,0
+jose has visited slobozia and jose has visited bucharest,jose didn t visit bucharest,1
+adam has traveled to dej and adam has traveled to mangalia,adam didn t travel to mangalia,1
+andy has traveled to reghin and andy has traveled to giurgiu,andy didn t travel to reghin,1
+ashley has traveled to baia mare and marcus has traveled to baia mare,ashley didn t travel to baia mare,1
+cody has visited bucharest and don has visited bucharest,don didn t visit tulcea,0
+marjorie has traveled to dej and verna has traveled to dej,verna didn t travel to dej,1
+edith has visited timisoara and edith has visited reghin,edith didn t visit timisoara,1
+lloyd has visited reghin and willie has visited reghin,lloyd didn t visit reghin,1
+tom went to cluj napoca and tom went to bucharest,tom didn t go to bucharest,1
+russell has visited bucharest and russell has visited dej,russell didn t visit bucharest,1
+frederick has visited turda and michelle has visited turda,vernon didn t visit turda,0
+elsie has visited slatina and kim has visited slatina,gail didn t visit slatina,0
+franklin went to vaslui and franklin went to tulcea,franklin didn t go to vaslui,1
+johnnie has traveled to baia mare and hilda has traveled to baia mare,hilda didn t travel to slobozia,0
+claude has visited timisoara and dorothy has visited timisoara,dorothy didn t visit tulcea,0
+irma has visited blaj and diane has visited blaj,irma didn t visit blaj,1
+jimmie has traveled to dej and jimmie has traveled to deva,jimmie didn t travel to arad,0
+eunice has visited dej and anne has visited dej,anne didn t visit dej,1
+jose went to turda and jose went to baia mare,betty didn t go to turda,0
+sue has visited tulcea and sonia has visited tulcea,sue didn t visit tulcea,1
+russell has visited slatina and russell has visited bucharest,thelma didn t visit bucharest,0
+fred went to craiova and margarita went to craiova,maryann didn t go to craiova,0
+martha has traveled to dej and bradley has traveled to dej,martha didn t travel to dej,1
+rita has visited timisoara and rita has visited bucharest,rita didn t visit bucharest,1
+cecil has traveled to slatina and cecil has traveled to turda,cecil didn t travel to turda,1
+lloyd went to deva and kayla went to deva,lloyd didn t go to bucharest,0
+kristen went to cluj napoca and lucille went to cluj napoca,lawrence didn t go to cluj napoca,0
+pauline went to turda and jesse went to turda,pauline didn t go to lugoj,0
+jack has traveled to baia mare and hector has traveled to baia mare,jane didn t travel to baia mare,0
+georgia has visited deva and georgia has visited baia mare,georgia didn t visit timisoara,0
+tiffany went to oradea and pamela went to oradea,tiffany didn t go to oradea,1
+nina has traveled to deva and greg has traveled to deva,nina didn t travel to turda,0
+martha has traveled to lugoj and martha has traveled to turda,martha didn t travel to turda,1
+bernard went to lugoj and bernard went to bucharest,bobbie didn t go to lugoj,0
+samuel has traveled to giurgiu and samuel has traveled to turda,katrina didn t travel to giurgiu,0
+audrey has traveled to turda and audrey has traveled to tulcea,audrey didn t travel to tulcea,1
+armando went to craiova and hattie went to craiova,armando didn t go to bucharest,0
+eileen has visited cluj napoca and marion has visited cluj napoca,eileen didn t visit cluj napoca,1
+brent has visited slobozia and marvin has visited slobozia,marvin didn t visit deva,0
+brett has traveled to cluj napoca and brett has traveled to slobozia,brett didn t travel to cluj napoca,1
+peter went to baia mare and peter went to craiova,wesley didn t go to craiova,0
+cecilia went to cluj napoca and dave went to cluj napoca,cecilia didn t go to bucharest,0
+patrick has visited lugoj and teresa has visited lugoj,terry didn t visit lugoj,0
+lydia has traveled to craiova and lydia has traveled to deva,lydia didn t travel to bucharest,0
+glenda went to blaj and misty went to blaj,misty didn t go to blaj,1
+lorraine has traveled to cluj napoca and beatrice has traveled to cluj napoca,beatrice didn t travel to cluj napoca,1
+cecilia has traveled to craiova and erika has traveled to craiova,roger didn t travel to craiova,0
+jacob went to bucharest and rita went to bucharest,rita didn t go to bucharest,1
+fernando has traveled to oradea and fernando has traveled to tulcea,fernando didn t travel to oradea,1
+daniel has visited slatina and kristina has visited slatina,kristina didn t visit timisoara,0
+anna has traveled to arad and marjorie has traveled to arad,anna didn t travel to deva,0
+gladys went to hunedoara and joshua went to hunedoara,joshua didn t go to hunedoara,1
+theresa went to dej and theresa went to hunedoara,theresa didn t go to blaj,0
+madeline has traveled to slobozia and paul has traveled to slobozia,madeline didn t travel to slobozia,1
+amanda went to tulcea and amanda went to deva,amanda didn t go to deva,1
+cynthia has visited craiova and andy has visited craiova,andy didn t visit tulcea,0
+bessie has visited giurgiu and bessie has visited vaslui,ross didn t visit giurgiu,0
+patsy went to lugoj and patsy went to bucharest,patsy didn t go to bucharest,1
+lee went to timisoara and lee went to slatina,lee didn t go to timisoara,1
+nellie has visited giurgiu and lucy has visited giurgiu,nellie didn t visit giurgiu,1
+glenn went to slobozia and lance went to slobozia,lance didn t go to slobozia,1
+audrey went to lugoj and marshall went to lugoj,audrey didn t go to lugoj,1
+jamie went to tulcea and jamie went to reghin,jamie didn t go to tulcea,1
+salvador went to tulcea and salvador went to slatina,billy didn t go to slatina,0
+steven went to reghin and steven went to bucharest,steven didn t go to reghin,1
+pauline has visited bucharest and diane has visited bucharest,diane didn t visit craiova,0
+clayton has traveled to timisoara and cora has traveled to timisoara,clayton didn t travel to timisoara,1
+annie has visited deva and annie has visited blaj,annie didn t visit blaj,1
+florence has visited tulcea and tanya has visited tulcea,florence didn t visit hunedoara,0
+tamara has traveled to bucharest and tamara has traveled to lugoj,tamara didn t travel to lugoj,1
+zachary went to baia mare and harold went to baia mare,zachary didn t go to baia mare,1
+danny has visited timisoara and danny has visited giurgiu,danny didn t visit giurgiu,1
+brandy went to vaslui and brandy went to hunedoara,brandy didn t go to giurgiu,0
+caroline has visited vaslui and shawn has visited vaslui,shawn didn t visit vaslui,1
+laurie has traveled to hunedoara and alfredo has traveled to hunedoara,alfredo didn t travel to hunedoara,1
+harold went to deva and lillian went to deva,lillian didn t go to deva,1
+vicki has visited deva and vicki has visited timisoara,vicki didn t visit vaslui,0
+leo has traveled to reghin and leo has traveled to slobozia,brandi didn t travel to reghin,0
+anita went to bucharest and anita went to tulcea,anita didn t go to bucharest,1
+allison has visited vaslui and allison has visited timisoara,allison didn t visit vaslui,1
+derrick has visited mangalia and derrick has visited giurgiu,derrick didn t visit slobozia,0
+heidi has traveled to reghin and heidi has traveled to cluj napoca,heidi didn t travel to reghin,1
+kristine has visited reghin and lynda has visited reghin,clayton didn t visit reghin,0
+eddie has traveled to vaslui and brent has traveled to vaslui,lee didn t travel to vaslui,0
+willie went to timisoara and willie went to arad,lawrence didn t go to timisoara,0
+dwayne went to vaslui and dwayne went to bucharest,lydia didn t go to bucharest,0
+emily went to blaj and emily went to turda,emily didn t go to mangalia,0
+lonnie went to bucharest and lonnie went to arad,terry didn t go to bucharest,0
+alma has traveled to dej and alma has traveled to bucharest,alma didn t travel to blaj,0
+milton has traveled to baia mare and fannie has traveled to baia mare,mark didn t travel to baia mare,0
+kenneth went to reghin and sonya went to reghin,sonya didn t go to reghin,1
+monica has visited vaslui and jamie has visited vaslui,darren didn t visit vaslui,0
+fred has traveled to oradea and fred has traveled to bucharest,fred didn t travel to slatina,0
+angela has traveled to timisoara and angela has traveled to slatina,angela didn t travel to bucharest,0
+lee has traveled to blaj and claudia has traveled to blaj,lee didn t travel to craiova,0
+raul went to giurgiu and raul went to tulcea,raul didn t go to reghin,0
+melody has visited reghin and melody has visited arad,melody didn t visit reghin,1
+bessie went to bucharest and christine went to bucharest,bessie didn t go to bucharest,1
+tonya went to oradea and tonya went to cluj napoca,tonya didn t go to cluj napoca,1
+katie has visited slatina and katie has visited reghin,eric didn t visit slatina,0
+sally went to bucharest and sally went to mangalia,roy didn t go to bucharest,0
+jack has visited dej and jack has visited blaj,jack didn t visit blaj,1
+jessie went to craiova and jessie went to deva,jessie didn t go to deva,1
+leonard has traveled to timisoara and brandon has traveled to timisoara,leonard didn t travel to cluj napoca,0
+megan went to hunedoara and andrea went to hunedoara,megan didn t go to blaj,0
+brenda has traveled to cluj napoca and brenda has traveled to craiova,brenda didn t travel to craiova,1
+connie has visited craiova and connie has visited bucharest,connie didn t visit slobozia,0
+amelia went to timisoara and amelia went to turda,amelia didn t go to turda,1
+belinda went to turda and belinda went to baia mare,judy didn t go to baia mare,0
+pearl has visited tulcea and pearl has visited bucharest,pearl didn t visit tulcea,1
+julian has visited reghin and julian has visited vaslui,julian didn t visit reghin,1
+darlene has traveled to bucharest and todd has traveled to bucharest,darlene didn t travel to bucharest,1
+willie has visited hunedoara and ellen has visited hunedoara,joann didn t visit hunedoara,0
+joan went to dej and miriam went to dej,joan didn t go to dej,1
+elizabeth has traveled to blaj and troy has traveled to blaj,randall didn t travel to blaj,0
+bonnie has traveled to tulcea and erik has traveled to tulcea,erik didn t travel to tulcea,1
+phyllis has visited giurgiu and tanya has visited giurgiu,marlene didn t visit giurgiu,0
+margie has traveled to bucharest and jeffery has traveled to bucharest,jeffery didn t travel to bucharest,1
+emily went to turda and emily went to blaj,emily didn t go to turda,1
+cecilia has visited deva and annie has visited deva,misty didn t visit deva,0
+donald has traveled to lugoj and neil has traveled to lugoj,neil didn t travel to lugoj,1
+lois has visited bucharest and lois has visited dej,lois didn t visit dej,1
+jan has traveled to slobozia and ramon has traveled to slobozia,jan didn t travel to baia mare,0
+eunice went to lugoj and eunice went to arad,eunice didn t go to slobozia,0
+yvette has traveled to arad and bruce has traveled to arad,bruce didn t travel to craiova,0
+shane went to tulcea and shane went to giurgiu,shane didn t go to giurgiu,1
+julian has traveled to mangalia and julian has traveled to lugoj,julian didn t travel to lugoj,1
+thomas has traveled to bucharest and thomas has traveled to vaslui,thomas didn t travel to vaslui,1
+wade went to turda and wade went to vaslui,wade didn t go to tulcea,0
+jon went to giurgiu and jon went to mangalia,jon didn t go to giurgiu,1
+javier has visited craiova and donald has visited craiova,donald didn t visit blaj,0
+joshua has traveled to bucharest and vickie has traveled to bucharest,vickie didn t travel to bucharest,1
+clifton went to mangalia and alma went to mangalia,iris didn t go to mangalia,0
+charlie went to lugoj and charlie went to bucharest,charlie didn t go to dej,0
+glenn has traveled to timisoara and glenn has traveled to slobozia,michael didn t travel to slobozia,0
+milton went to timisoara and alberta went to timisoara,milton didn t go to timisoara,1
+jenny has traveled to lugoj and thomas has traveled to lugoj,barry didn t travel to lugoj,0
+antoinette went to slobozia and patrick went to slobozia,ruth didn t go to slobozia,0
+tracey has visited baia mare and tracey has visited vaslui,tracey didn t visit craiova,0
+sean has traveled to vaslui and sean has traveled to cluj napoca,sean didn t travel to giurgiu,0
+terrance has visited baia mare and terrance has visited reghin,terrance didn t visit timisoara,0
+inez has traveled to mangalia and inez has traveled to deva,inez didn t travel to cluj napoca,0
+nicholas has visited blaj and jackie has visited blaj,blanche didn t visit blaj,0
+nancy has traveled to vaslui and nancy has traveled to turda,nancy didn t travel to turda,1
+candice has traveled to slobozia and clifton has traveled to slobozia,clifton didn t travel to cluj napoca,0
+kristina has traveled to deva and bobbie has traveled to deva,jay didn t travel to deva,0
+norman has traveled to deva and norman has traveled to turda,norman didn t travel to deva,1
+bill has traveled to timisoara and bill has traveled to reghin,bill didn t travel to reghin,1
+reginald went to bucharest and reginald went to dej,reginald didn t go to dej,1
+jodi has traveled to vaslui and miriam has traveled to vaslui,michelle didn t travel to vaslui,0
+luis has visited vaslui and luis has visited slatina,luis didn t visit slatina,1
+marion has traveled to turda and marion has traveled to mangalia,marion didn t travel to turda,1
+jacob went to oradea and alicia went to oradea,alicia didn t go to dej,0
+dennis went to reghin and dennis went to vaslui,dennis didn t go to vaslui,1
+stephen has traveled to blaj and stephen has traveled to bucharest,gregory didn t travel to bucharest,0
+jan went to hunedoara and jan went to oradea,angie didn t go to hunedoara,0
+sandy went to bucharest and sandy went to craiova,sandy didn t go to craiova,1
+clarence has traveled to timisoara and clarence has traveled to craiova,clarence didn t travel to timisoara,1
+nelson has traveled to craiova and perry has traveled to craiova,juana didn t travel to craiova,0
+vincent has traveled to oradea and vincent has traveled to bucharest,vincent didn t travel to oradea,1
+greg has traveled to reghin and greg has traveled to cluj napoca,greg didn t travel to cluj napoca,1
+faye has visited reghin and faye has visited hunedoara,faye didn t visit vaslui,0
+carrie went to dej and lee went to dej,lee didn t go to dej,1
+lynda went to vaslui and jesse went to vaslui,molly didn t go to vaslui,0
+rose has traveled to craiova and christopher has traveled to craiova,christopher didn t travel to bucharest,0
+antonio went to turda and antonio went to slobozia,antonio didn t go to turda,1
+alma has visited lugoj and jackie has visited lugoj,alma didn t visit giurgiu,0
+jeanette has visited deva and fernando has visited deva,fernando didn t visit deva,1
+darryl has visited slatina and arthur has visited slatina,darryl didn t visit slatina,1
+derrick has traveled to timisoara and derrick has traveled to turda,derrick didn t travel to bucharest,0
+leslie went to slatina and oscar went to slatina,leslie didn t go to slatina,1
+jo has visited bucharest and jo has visited deva,jo didn t visit lugoj,0
+thomas has visited mangalia and thomas has visited deva,thomas didn t visit mangalia,1
+danny has traveled to arad and jodi has traveled to arad,tiffany didn t travel to arad,0
+josephine has traveled to blaj and josephine has traveled to turda,steve didn t travel to turda,0
+brandy went to reghin and mario went to reghin,brandy didn t go to reghin,1
+rosemary has visited giurgiu and maurice has visited giurgiu,cynthia didn t visit giurgiu,0
+melinda has traveled to slobozia and melinda has traveled to bucharest,melinda didn t travel to slobozia,1
+ramon has visited tulcea and jeffrey has visited tulcea,jeffrey didn t visit slobozia,0
+william has visited blaj and pauline has visited blaj,hattie didn t visit blaj,0
+shawn has visited reghin and shawn has visited giurgiu,shawn didn t visit reghin,1
+bill has traveled to timisoara and bill has traveled to giurgiu,bill didn t travel to dej,0
+todd has visited craiova and todd has visited slatina,todd didn t visit blaj,0
+tammy has visited giurgiu and stacy has visited giurgiu,stacy didn t visit bucharest,0
+misty has visited oradea and misty has visited bucharest,misty didn t visit bucharest,1
+andre has traveled to bucharest and andre has traveled to hunedoara,andre didn t travel to bucharest,1
+calvin went to deva and calvin went to slobozia,calvin didn t go to slobozia,1
+lee has traveled to mangalia and chester has traveled to mangalia,lee didn t travel to mangalia,1
+guadalupe went to turda and bradley went to turda,guadalupe didn t go to turda,1
+marjorie has visited mangalia and marjorie has visited bucharest,jamie didn t visit mangalia,0
+oscar went to vaslui and pedro went to vaslui,oscar didn t go to timisoara,0
+jeffrey went to dej and madeline went to dej,jeffrey didn t go to dej,1
+tracey has traveled to craiova and tracey has traveled to blaj,dale didn t travel to craiova,0
+marilyn went to lugoj and marilyn went to giurgiu,marilyn didn t go to dej,0
+corey went to mangalia and corey went to dej,corey didn t go to dej,1
+roy has traveled to timisoara and jean has traveled to timisoara,jean didn t travel to timisoara,1
+cody went to slatina and gregory went to slatina,cody didn t go to slatina,1
+caroline went to hunedoara and caroline went to slatina,caroline didn t go to hunedoara,1
+janet has visited turda and bill has visited turda,janet didn t visit turda,0
+elaine went to vaslui and elaine went to arad,elaine didn t go to arad,1
+don has traveled to reghin and don has traveled to craiova,don didn t travel to craiova,1
+carmen has traveled to arad and connie has traveled to arad,connie didn t travel to timisoara,0
+ernest has visited dej and ernest has visited arad,ernest didn t visit arad,1
+claire went to arad and claire went to timisoara,claire didn t go to timisoara,1
+darren went to baia mare and darren went to cluj napoca,darren didn t go to cluj napoca,1
+angel has visited giurgiu and angel has visited lugoj,angel didn t visit bucharest,0
+bob has visited mangalia and bob has visited bucharest,bob didn t visit reghin,0
+shawn has traveled to giurgiu and joseph has traveled to giurgiu,shawn didn t travel to giurgiu,1
+glenda has visited slobozia and jimmie has visited slobozia,jimmie didn t visit slobozia,1
+kimberly has visited craiova and kimberly has visited bucharest,kimberly didn t visit slatina,0
+richard has visited timisoara and richard has visited tulcea,richard didn t visit timisoara,1
+patrick went to timisoara and geneva went to timisoara,patrick didn t go to reghin,0
+beulah has visited bucharest and kristy has visited bucharest,beulah didn t visit bucharest,1
+leo has traveled to vaslui and rene has traveled to vaslui,leo didn t travel to vaslui,1
+flora went to oradea and heather went to oradea,heather didn t go to reghin,0
+andrew has traveled to hunedoara and andrew has traveled to blaj,andrew didn t travel to tulcea,0
+edward has visited bucharest and jaime has visited bucharest,angela didn t visit bucharest,0
+laurie has traveled to reghin and robert has traveled to reghin,robert didn t travel to reghin,1
+theresa went to craiova and theresa went to cluj napoca,greg didn t go to craiova,0
+lloyd has visited arad and lloyd has visited reghin,lloyd didn t visit bucharest,0
+marvin went to bucharest and marvin went to dej,marvin didn t go to craiova,0
+marvin has traveled to baia mare and earl has traveled to baia mare,earl didn t travel to baia mare,1
+molly went to blaj and molly went to hunedoara,molly didn t go to bucharest,0
+alberta has traveled to bucharest and harold has traveled to bucharest,harold didn t travel to bucharest,1
+corey went to vaslui and corey went to blaj,corey didn t go to dej,0
+rita has traveled to deva and rita has traveled to timisoara,rita didn t travel to craiova,0
+chris went to hunedoara and chris went to deva,chris didn t go to hunedoara,1
+doris went to bucharest and ted went to bucharest,ted didn t go to bucharest,0
+benjamin has traveled to slobozia and randall has traveled to slobozia,benjamin didn t travel to slobozia,1
+cheryl has visited hunedoara and nathaniel has visited hunedoara,nathaniel didn t visit hunedoara,1
+roland has visited cluj napoca and ian has visited cluj napoca,ian didn t visit cluj napoca,1
+bonnie went to turda and bonnie went to bucharest,bonnie didn t go to slobozia,0
+elizabeth went to cluj napoca and carolyn went to cluj napoca,elizabeth didn t go to cluj napoca,1
+curtis has traveled to hunedoara and curtis has traveled to lugoj,curtis didn t travel to bucharest,0
+agnes has visited bucharest and agnes has visited tulcea,joanna didn t visit tulcea,0
+emma went to mangalia and emma went to arad,emma didn t go to mangalia,1
+maggie has traveled to blaj and carrie has traveled to blaj,john didn t travel to blaj,0
+floyd has traveled to bucharest and floyd has traveled to oradea,becky didn t travel to oradea,0
+caroline went to cluj napoca and caroline went to turda,caroline didn t go to turda,1
+terry has traveled to timisoara and terry has traveled to giurgiu,terry didn t travel to baia mare,0
+arlene went to lugoj and arlene went to deva,albert didn t go to deva,0
+diane has visited baia mare and brittany has visited baia mare,brittany didn t visit baia mare,1
+aaron has traveled to vaslui and elsie has traveled to vaslui,seth didn t travel to vaslui,0
+gladys has traveled to hunedoara and gladys has traveled to dej,gladys didn t travel to dej,1
+jenny has visited tulcea and crystal has visited tulcea,angie didn t visit tulcea,0
+nancy has traveled to blaj and nathan has traveled to blaj,nancy didn t travel to blaj,1
+deanna has traveled to bucharest and deanna has traveled to tulcea,deanna didn t travel to arad,0
+charlotte has traveled to hunedoara and charlotte has traveled to baia mare,charlotte didn t travel to arad,0
+terri has traveled to turda and terri has traveled to blaj,terri didn t travel to baia mare,0
+harold has traveled to deva and shelley has traveled to deva,harold didn t travel to deva,1
+john went to hunedoara and john went to bucharest,john didn t go to hunedoara,1
+priscilla has visited blaj and audrey has visited blaj,priscilla didn t visit blaj,1
+maggie went to craiova and monique went to craiova,randy didn t go to craiova,0
+adrian has visited vaslui and elsie has visited vaslui,gertrude didn t visit vaslui,0
+stephanie has traveled to baia mare and monica has traveled to baia mare,monica didn t travel to baia mare,1
+kim has traveled to cluj napoca and clarence has traveled to cluj napoca,clarence didn t travel to cluj napoca,1
+dolores has traveled to tulcea and peter has traveled to tulcea,peter didn t travel to tulcea,1
+willie has traveled to arad and max has traveled to arad,max didn t travel to arad,1
+olivia has traveled to oradea and olivia has traveled to bucharest,jill didn t travel to bucharest,0
+alfredo has traveled to deva and alfredo has traveled to bucharest,esther didn t travel to deva,0
+kevin went to arad and kevin went to dej,kevin didn t go to dej,1
+betty has visited slatina and cora has visited slatina,betty didn t visit slatina,1
+gerald went to turda and sylvia went to turda,gerald didn t go to turda,1
+angie has traveled to blaj and grace has traveled to blaj,stella didn t travel to blaj,0
+joshua has visited reghin and joshua has visited bucharest,theodore didn t visit reghin,0
+chad went to vaslui and javier went to vaslui,chad didn t go to baia mare,0
+deborah went to vaslui and deborah went to slobozia,deborah didn t go to slobozia,1
+willard went to blaj and willard went to reghin,willard didn t go to reghin,1
+calvin has traveled to turda and calvin has traveled to mangalia,calvin didn t travel to arad,0
+lori went to turda and stephanie went to turda,lori didn t go to turda,1
+megan has traveled to deva and megan has traveled to vaslui,megan didn t travel to deva,1
+peggy has traveled to cluj napoca and peggy has traveled to deva,peggy didn t travel to cluj napoca,1
+marion has visited hunedoara and erika has visited hunedoara,erika didn t visit hunedoara,1
+sarah has traveled to bucharest and sarah has traveled to reghin,sarah didn t travel to reghin,1
+brandon has visited deva and brandon has visited vaslui,brandon didn t visit vaslui,1
+albert has visited bucharest and albert has visited oradea,albert didn t visit mangalia,0
+stephanie has traveled to giurgiu and kenneth has traveled to giurgiu,stephanie didn t travel to giurgiu,1
+rita has traveled to cluj napoca and rita has traveled to deva,rita didn t travel to deva,1
+terrence has traveled to cluj napoca and priscilla has traveled to cluj napoca,terrence didn t travel to cluj napoca,1
+ida has visited tulcea and ida has visited bucharest,jorge didn t visit tulcea,0
+eunice went to arad and greg went to arad,eunice didn t go to arad,1
+ricardo went to vaslui and ted went to vaslui,ted didn t go to vaslui,1
+willie has traveled to turda and willie has traveled to slobozia,willie didn t travel to turda,1
+sherri went to mangalia and peggy went to mangalia,peggy didn t go to mangalia,1
+cora has visited mangalia and cora has visited cluj napoca,cora didn t visit cluj napoca,1
+edna has visited tulcea and monique has visited tulcea,shirley didn t visit tulcea,0
+erika has traveled to mangalia and erika has traveled to reghin,erika didn t travel to mangalia,1
+leroy went to bucharest and ellen went to bucharest,ellen didn t go to bucharest,1
+beulah has traveled to reghin and beulah has traveled to dej,beulah didn t travel to giurgiu,0
+derek went to bucharest and derek went to mangalia,derek didn t go to mangalia,1
+shane went to blaj and ashley went to blaj,allan didn t go to blaj,0
+stephen has traveled to baia mare and stephen has traveled to bucharest,stephen didn t travel to baia mare,1
+edith has traveled to baia mare and edith has traveled to bucharest,edith didn t travel to baia mare,1
+brandi has traveled to blaj and brandi has traveled to giurgiu,brandi didn t travel to blaj,1
+allison has visited reghin and allison has visited vaslui,allison didn t visit vaslui,1
+kyle has traveled to slatina and anthony has traveled to slatina,kyle didn t travel to oradea,0
+dorothy has traveled to oradea and nelson has traveled to oradea,dorothy didn t travel to oradea,1
+florence has traveled to cluj napoca and jonathan has traveled to cluj napoca,jonathan didn t travel to cluj napoca,0
+june has traveled to bucharest and kathryn has traveled to bucharest,tracey didn t travel to bucharest,0
+carolyn has traveled to slobozia and carolyn has traveled to giurgiu,carolyn didn t travel to craiova,0
+alicia has visited arad and matthew has visited arad,matthew didn t visit slobozia,0
+joshua has traveled to blaj and carl has traveled to blaj,carl didn t travel to baia mare,0
+lucille has visited timisoara and lucille has visited reghin,lucille didn t visit timisoara,1
+rosemary has traveled to cluj napoca and holly has traveled to cluj napoca,rosemary didn t travel to cluj napoca,1
+jeremy went to bucharest and jeremy went to craiova,iris didn t go to bucharest,0
+craig went to timisoara and dean went to timisoara,dean didn t go to timisoara,1
+heather has visited bucharest and jorge has visited bucharest,martha didn t visit bucharest,0
+heidi went to bucharest and judith went to bucharest,judith didn t go to slatina,0
+harry went to arad and ruben went to arad,ruben didn t go to arad,1
+sandra went to blaj and sandra went to oradea,ramon didn t go to blaj,0
+carole went to mangalia and carole went to tulcea,carole didn t go to hunedoara,0
+leslie went to hunedoara and leslie went to timisoara,leslie didn t go to timisoara,1
+herman has visited giurgiu and herman has visited timisoara,herman didn t visit baia mare,0
+bernard has visited timisoara and bernard has visited tulcea,bernard didn t visit mangalia,0
+beverly has visited deva and beverly has visited oradea,beverly didn t visit deva,1
+arthur went to baia mare and kathy went to baia mare,kathy didn t go to blaj,0
+melinda has traveled to giurgiu and eddie has traveled to giurgiu,eddie didn t travel to giurgiu,1
+danielle has traveled to arad and shane has traveled to arad,shane didn t travel to baia mare,0
+marian has visited turda and margaret has visited turda,manuel didn t visit turda,0
+timothy went to craiova and michael went to craiova,timothy didn t go to craiova,1
+michele has visited dej and fannie has visited dej,lois didn t visit dej,0
+eunice went to timisoara and eunice went to baia mare,eunice didn t go to blaj,0
+floyd went to tulcea and floyd went to hunedoara,floyd didn t go to timisoara,0
+opal has visited timisoara and audrey has visited timisoara,audrey didn t visit timisoara,1
+amelia went to oradea and amelia went to deva,amelia didn t go to deva,1
+tammy went to lugoj and marcus went to lugoj,enrique didn t go to lugoj,0
+barbara has visited slatina and ricardo has visited slatina,ricardo didn t visit slatina,1
+javier went to bucharest and javier went to turda,javier didn t go to turda,1
+hilda has traveled to dej and janie has traveled to dej,hilda didn t travel to dej,1
+amanda has visited lugoj and bobbie has visited lugoj,bobbie didn t visit reghin,0
+herman went to arad and becky went to arad,danny didn t go to arad,0
+maurice went to mangalia and lewis went to mangalia,kristen didn t go to mangalia,0
+louis has traveled to slatina and marjorie has traveled to slatina,veronica didn t travel to slatina,0
+wayne went to slobozia and wayne went to baia mare,wayne didn t go to baia mare,1
+antoinette has visited blaj and antoinette has visited bucharest,mathew didn t visit blaj,0
+sonia has traveled to slobozia and brandon has traveled to slobozia,frederick didn t travel to slobozia,0
+alexander went to bucharest and thelma went to bucharest,alexander didn t go to bucharest,1
+bertha went to mangalia and eduardo went to mangalia,eduardo didn t go to mangalia,1
+tracey has visited vaslui and tracey has visited craiova,tracey didn t visit oradea,0
+keith has visited bucharest and patricia has visited bucharest,keith didn t visit blaj,0
+myrtle has visited timisoara and myrtle has visited craiova,beatrice didn t visit timisoara,0
+dora went to craiova and dora went to mangalia,dora didn t go to mangalia,1
+dave has visited dej and dave has visited bucharest,dave didn t visit tulcea,0
+harry has traveled to bucharest and harry has traveled to giurgiu,harry didn t travel to turda,0
+kyle went to cluj napoca and kyle went to giurgiu,kyle didn t go to giurgiu,1
+francis went to cluj napoca and francis went to reghin,francis didn t go to slobozia,0
+penny went to tulcea and penny went to cluj napoca,penny didn t go to cluj napoca,1
+tanya has traveled to vaslui and tanya has traveled to baia mare,dwight didn t travel to vaslui,0
+kent went to bucharest and wilma went to bucharest,randall didn t go to bucharest,0
+holly went to lugoj and eleanor went to lugoj,holly didn t go to lugoj,1
+byron went to bucharest and byron went to lugoj,alison didn t go to lugoj,0
+jeff went to deva and darren went to deva,darren didn t go to deva,1
+gregory has traveled to dej and francisco has traveled to dej,gregory didn t travel to dej,1
+mamie has visited vaslui and mamie has visited bucharest,mamie didn t visit vaslui,1
+cynthia has traveled to timisoara and cynthia has traveled to dej,hugh didn t travel to timisoara,0
+jan has traveled to reghin and jan has traveled to turda,jan didn t travel to lugoj,0
+samantha went to turda and clinton went to turda,samantha didn t go to turda,1
+theodore went to slobozia and arnold went to slobozia,minnie didn t go to slobozia,0
+rose went to giurgiu and rose went to oradea,rose didn t go to lugoj,0
+deborah has traveled to timisoara and deborah has traveled to cluj napoca,deborah didn t travel to cluj napoca,1
+danny has traveled to hunedoara and kent has traveled to hunedoara,mary didn t travel to hunedoara,0
+michael has traveled to cluj napoca and alex has traveled to cluj napoca,michael didn t travel to cluj napoca,1
+chad has traveled to mangalia and yolanda has traveled to mangalia,chad didn t travel to mangalia,1
+felicia has visited timisoara and felicia has visited baia mare,natalie didn t visit baia mare,0
+constance has traveled to bucharest and pamela has traveled to bucharest,constance didn t travel to giurgiu,0
+janet has visited mangalia and tom has visited mangalia,janet didn t visit mangalia,1
+joshua went to dej and joshua went to hunedoara,ana didn t go to dej,0
+sheryl went to bucharest and sheryl went to mangalia,sheryl didn t go to oradea,0
+jeff has visited timisoara and jeff has visited deva,charlie didn t visit deva,0
+melinda has visited hunedoara and ethel has visited hunedoara,melinda didn t visit hunedoara,1
+jenny has visited lugoj and jenny has visited tulcea,jenny didn t visit deva,0
+eric has visited tulcea and eric has visited reghin,eric didn t visit reghin,1
+audrey has traveled to dej and audrey has traveled to lugoj,audrey didn t travel to cluj napoca,0
+rebecca went to baia mare and rebecca went to dej,rebecca didn t go to dej,1
+kristi has visited giurgiu and alan has visited giurgiu,kristi didn t visit blaj,0
+frances has traveled to tulcea and jack has traveled to tulcea,ray didn t travel to tulcea,0
+cheryl has visited slatina and roger has visited slatina,roger didn t visit oradea,0
+willie has visited deva and colleen has visited deva,colleen didn t visit deva,1
+sherri has visited bucharest and sherri has visited oradea,sherri didn t visit oradea,1
+stacey has visited craiova and stacey has visited mangalia,marilyn didn t visit mangalia,0
+lee has visited slatina and lee has visited slatina,dustin didn t visit slatina,0
+carlos has visited giurgiu and carlos has visited hunedoara,carlos didn t visit hunedoara,1
+pauline has visited mangalia and pauline has visited vaslui,pauline didn t visit vaslui,1
+melanie has traveled to baia mare and melanie has traveled to mangalia,melanie didn t travel to arad,0
+eunice went to oradea and eunice went to slobozia,eunice didn t go to bucharest,0
+harry has traveled to deva and rita has traveled to deva,rita didn t travel to deva,1
+herman has visited hunedoara and nathaniel has visited hunedoara,herman didn t visit hunedoara,1
+marvin has traveled to vaslui and jessie has traveled to vaslui,jessie didn t travel to vaslui,1
+patrick has visited slatina and patrick has visited deva,patrick didn t visit lugoj,0
+june went to baia mare and margaret went to baia mare,paul didn t go to baia mare,0
+dianne went to timisoara and dianne went to hunedoara,dianne didn t go to timisoara,1
+jay has traveled to slobozia and cora has traveled to slobozia,inez didn t travel to slobozia,0
+franklin has visited turda and franklin has visited bucharest,franklin didn t visit mangalia,0
+theodore went to blaj and theodore went to slatina,theodore didn t go to blaj,1
+rose went to bucharest and rose went to oradea,rose didn t go to slobozia,0
+lonnie went to baia mare and douglas went to baia mare,lonnie didn t go to baia mare,1
+vincent went to deva and belinda went to deva,belinda didn t go to deva,1
+stephanie has traveled to cluj napoca and stephanie has traveled to mangalia,lewis didn t travel to mangalia,0
