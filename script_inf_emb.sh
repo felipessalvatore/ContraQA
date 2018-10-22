@@ -42,3 +42,8 @@ mv tmp_pkl glove6b_200_tmp_pkl
 python3 -u search_classification_inf.py -m gru -em glove6b_300 -f
 mv results glove6b_300_results
 mv tmp_pkl glove6b_300_tmp_pkl
+mkdir all_Results
+mkdir all_Tmp_pkl 
+mv *_results all_Results/
+mv *_tmp_pkl all_Tmp_pkl/
+
